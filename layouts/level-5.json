@@ -18,15 +18,278 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.546875,
+    "zoomFactor": 0.355343455881699,
     "windowMask": false
   },
   "objectsGroups": [],
   "variables": [],
-  "instances": [],
-  "objects": [],
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1023,
+      "layer": "",
+      "locked": true,
+      "name": "DesertBackground2",
+      "persistentUuid": "8d1f48d9-720e-4bdc-8c51-8acfb1e64925",
+      "width": 30000,
+      "x": -407,
+      "y": -184,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 70,
+      "layer": "",
+      "locked": true,
+      "name": "Sand",
+      "persistentUuid": "7a80b0e1-e382-4c64-a740-011cfe33fbc9",
+      "width": 30000,
+      "x": -406,
+      "y": 608,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 48,
+      "layer": "",
+      "locked": true,
+      "name": "DesertTilePlatformCenter",
+      "persistentUuid": "9dd37216-f8e6-4e9d-84f2-2dda42713311",
+      "width": 30000,
+      "x": -411,
+      "y": 670,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 62,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "94f78822-9b43-4f1a-bf1b-fd3ca6c0016b",
+      "width": 62,
+      "x": 1315,
+      "y": 541,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "objects": [
+    {
+      "assetStoreId": "734722d52956862823635227a2e24a48e10462962add6cb060d1b7004ca5a58e",
+      "height": 128,
+      "name": "DesertBackground2",
+      "texture": "tiled_Desert Background 2.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 128,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "e517e880684ebbd934245452a9a8f1d7aab6c19351bfd94a04bfd4206623643e",
+      "height": 128,
+      "name": "DesertTilePlatformCenter",
+      "texture": "tiled_Desert Tile Platform Center.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 128,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "canBeGrabbed": true,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ]
+    },
+    {
+      "assetStoreId": "1f42aa6d7dc87c057f73036c19862bb631a15b747028241febf52aa771974fd3",
+      "height": 128,
+      "name": "Sand",
+      "texture": "tiled_Sand.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 128,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "canBeGrabbed": true,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "5b7313c367921e740ea26b81c449e604add5a355d013221ac64030289cf13e2e",
+      "name": "DeadTree",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Dead tree.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 343,
+                        "y": 0
+                      },
+                      {
+                        "x": 343,
+                        "y": 493
+                      },
+                      {
+                        "x": 0,
+                        "y": 493
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "efabf41bc08a9d017ee538c01c42d2c8de2543748c31ea791c2baa0dd566a7e6",
+      "name": "WoodCrate",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "canBeGrabbed": true,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Wood crate.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 100,
+                        "y": 0
+                      },
+                      {
+                        "x": 100,
+                        "y": 100
+                      },
+                      {
+                        "x": 0,
+                        "y": 100
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "objectsFolderStructure": {
-    "folderName": "__ROOT"
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "DesertBackground2"
+      },
+      {
+        "objectName": "DesertTilePlatformCenter"
+      },
+      {
+        "objectName": "Sand"
+      },
+      {
+        "objectName": "DeadTree"
+      },
+      {
+        "objectName": "WoodCrate"
+      }
+    ]
   },
   "events": [],
   "layers": [
