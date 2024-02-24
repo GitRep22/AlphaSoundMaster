@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.28172599320796754,
+    "zoomFactor": 0.23089183385225817,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -3071,58 +3071,6 @@
       ]
     },
     {
-      "assetStoreId": "",
-      "bold": false,
-      "italic": false,
-      "name": "Score",
-      "smoothed": true,
-      "type": "TextObject::Text",
-      "underlined": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "Anchor",
-          "type": "AnchorBehavior::AnchorBehavior",
-          "bottomEdgeAnchor": 0,
-          "leftEdgeAnchor": 1,
-          "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 0,
-          "topEdgeAnchor": 1,
-          "useLegacyBottomAndRightAnchors": false
-        }
-      ],
-      "string": "0",
-      "font": "",
-      "textAlignment": "left",
-      "characterSize": 100,
-      "color": {
-        "b": 28,
-        "g": 231,
-        "r": 248
-      },
-      "content": {
-        "bold": false,
-        "isOutlineEnabled": false,
-        "isShadowEnabled": false,
-        "italic": false,
-        "outlineColor": "255;255;255",
-        "outlineThickness": 2,
-        "shadowAngle": 90,
-        "shadowBlurRadius": 2,
-        "shadowColor": "0;0;0",
-        "shadowDistance": 4,
-        "shadowOpacity": 127,
-        "smoothed": true,
-        "underlined": false,
-        "text": "0",
-        "font": "",
-        "textAlignment": "left",
-        "characterSize": 100,
-        "color": "248;231;28"
-      }
-    },
-    {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "NewSprite",
@@ -4955,9 +4903,6 @@
         "objectName": "an_1"
       },
       {
-        "objectName": "Score"
-      },
-      {
         "objectName": "NewSprite"
       },
       {
@@ -5264,48 +5209,6 @@
             "Opacity",
             "=",
             "0"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": [
-        {
-          "type": {
-            "value": "PreloadMusic"
-          },
-          "parameters": [
-            "",
-            "A1.mp3"
-          ]
-        },
-        {
-          "type": {
-            "value": "PreloadMusic"
-          },
-          "parameters": [
-            "",
-            "T1.mp3"
-          ]
-        },
-        {
-          "type": {
-            "value": "PreloadMusic"
-          },
-          "parameters": [
-            "",
-            "AT.mp3"
-          ]
-        },
-        {
-          "type": {
-            "value": "PreloadMusic"
-          },
-          "parameters": [
-            "",
-            "AT2.mp3"
           ]
         }
       ]
@@ -6223,40 +6126,6 @@
           ]
         }
       ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "TopDownMovementBehavior::MaxSpeed"
-          },
-          "parameters": [
-            "turtle",
-            "",
-            "=",
-            "60"
-          ]
-        }
-      ],
-      "actions": []
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "TopDownMovementBehavior::Acceleration"
-          },
-          "parameters": [
-            "turtle",
-            "",
-            "=",
-            "60"
-          ]
-        }
-      ],
-      "actions": []
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
