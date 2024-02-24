@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.3673257545058972,
+    "zoomFactor": 0.28172599320796754,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -37,6 +37,7 @@
       "depth": 1,
       "height": 1468,
       "layer": "",
+      "locked": true,
       "name": "BackgroundColoredGrass",
       "persistentUuid": "fe8aee56-d86d-49bd-98b3-84fe0fa0a92f",
       "width": 25052,
@@ -53,6 +54,7 @@
       "depth": 1,
       "height": 61,
       "layer": "",
+      "locked": true,
       "name": "Grass",
       "persistentUuid": "5680084b-c0a1-4496-bc1d-b4e211f1bd72",
       "width": 24817,
@@ -104,8 +106,8 @@
       "name": "turtle",
       "persistentUuid": "9a41d76a-6cb9-4673-8b38-fd88b0b65070",
       "width": 230,
-      "x": 500,
-      "y": 26,
+      "x": 326,
+      "y": 36,
       "zOrder": 46,
       "numberProperties": [],
       "stringProperties": [],
@@ -149,6 +151,7 @@
       "depth": 1,
       "height": 128,
       "layer": "",
+      "locked": true,
       "name": "Grass2",
       "persistentUuid": "8fc1c295-5bc9-48b9-b993-b4b7ff39b9a2",
       "width": 24841,
@@ -3131,288 +3134,6 @@
       "animations": []
     },
     {
-      "assetStoreId": "82b8caa7b55342f43b24f169b4374e9224e1a78c05a87f8689663e7c4a6bad69",
-      "name": "MedievalButtonBrown_left",
-      "type": "PanelSpriteButton::PanelSpriteButton",
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "Anchor",
-          "type": "AnchorBehavior::AnchorBehavior",
-          "bottomEdgeAnchor": 2,
-          "leftEdgeAnchor": 1,
-          "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 0,
-          "topEdgeAnchor": 0,
-          "useLegacyBottomAndRightAnchors": false
-        }
-      ],
-      "content": {
-        "LeftPadding": 0,
-        "RightPadding": 0,
-        "PressedLabelOffsetY": 4,
-        "BottomPadding": 10,
-        "TopPadding": 0,
-        "HoveredFadeOutDuration": 0.2
-      },
-      "childrenContent": {
-        "Hovered": {
-          "bottomMargin": 11,
-          "height": 64,
-          "leftMargin": 7,
-          "rightMargin": 7,
-          "texture": "Medieval Button Brown_Hovered.png",
-          "tiled": true,
-          "topMargin": 7,
-          "width": 192
-        },
-        "Idle": {
-          "bottomMargin": 11,
-          "height": 64,
-          "leftMargin": 7,
-          "rightMargin": 7,
-          "texture": "Medieval Button Brown_Idle.png",
-          "tiled": true,
-          "topMargin": 7,
-          "width": 192
-        },
-        "Label": {
-          "bold": false,
-          "italic": false,
-          "smoothed": true,
-          "underlined": false,
-          "string": "<",
-          "font": "3d58de3ba4305c72907c2b4367cf859232313400b5c22da139d35b13d2273d40_CaveatBrush-Regular.ttf",
-          "textAlignment": "center",
-          "characterSize": 40,
-          "color": {
-            "b": 159,
-            "g": 190,
-            "r": 219
-          },
-          "content": {
-            "bold": false,
-            "isOutlineEnabled": false,
-            "isShadowEnabled": false,
-            "italic": false,
-            "outlineColor": "255;255;255",
-            "outlineThickness": 2,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
-            "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
-            "smoothed": true,
-            "underlined": false,
-            "text": "<",
-            "font": "3d58de3ba4305c72907c2b4367cf859232313400b5c22da139d35b13d2273d40_CaveatBrush-Regular.ttf",
-            "textAlignment": "center",
-            "characterSize": 40,
-            "color": "219;190;159"
-          }
-        },
-        "Pressed": {
-          "bottomMargin": 7,
-          "height": 64,
-          "leftMargin": 7,
-          "rightMargin": 7,
-          "texture": "Medieval Button Brown_Pressed.png",
-          "tiled": true,
-          "topMargin": 11,
-          "width": 192
-        }
-      }
-    },
-    {
-      "assetStoreId": "82b8caa7b55342f43b24f169b4374e9224e1a78c05a87f8689663e7c4a6bad69",
-      "name": "MedievalButtonBrown_right",
-      "type": "PanelSpriteButton::PanelSpriteButton",
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "Anchor",
-          "type": "AnchorBehavior::AnchorBehavior",
-          "bottomEdgeAnchor": 2,
-          "leftEdgeAnchor": 1,
-          "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 0,
-          "topEdgeAnchor": 0,
-          "useLegacyBottomAndRightAnchors": false
-        }
-      ],
-      "content": {
-        "LeftPadding": 0,
-        "RightPadding": 0,
-        "PressedLabelOffsetY": 4,
-        "BottomPadding": 10,
-        "TopPadding": 0,
-        "HoveredFadeOutDuration": 0.2
-      },
-      "childrenContent": {
-        "Hovered": {
-          "bottomMargin": 11,
-          "height": 64,
-          "leftMargin": 7,
-          "rightMargin": 7,
-          "texture": "Medieval Button Brown_Hovered.png",
-          "tiled": true,
-          "topMargin": 7,
-          "width": 192
-        },
-        "Idle": {
-          "bottomMargin": 11,
-          "height": 64,
-          "leftMargin": 7,
-          "rightMargin": 7,
-          "texture": "Medieval Button Brown_Idle.png",
-          "tiled": true,
-          "topMargin": 7,
-          "width": 192
-        },
-        "Label": {
-          "bold": false,
-          "italic": false,
-          "smoothed": true,
-          "underlined": false,
-          "string": ">",
-          "font": "3d58de3ba4305c72907c2b4367cf859232313400b5c22da139d35b13d2273d40_CaveatBrush-Regular.ttf",
-          "textAlignment": "center",
-          "characterSize": 40,
-          "color": {
-            "b": 159,
-            "g": 190,
-            "r": 219
-          },
-          "content": {
-            "bold": false,
-            "isOutlineEnabled": false,
-            "isShadowEnabled": false,
-            "italic": false,
-            "outlineColor": "255;255;255",
-            "outlineThickness": 2,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
-            "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
-            "smoothed": true,
-            "underlined": false,
-            "text": ">",
-            "font": "3d58de3ba4305c72907c2b4367cf859232313400b5c22da139d35b13d2273d40_CaveatBrush-Regular.ttf",
-            "textAlignment": "center",
-            "characterSize": 40,
-            "color": "219;190;159"
-          }
-        },
-        "Pressed": {
-          "bottomMargin": 7,
-          "height": 64,
-          "leftMargin": 7,
-          "rightMargin": 7,
-          "texture": "Medieval Button Brown_Pressed.png",
-          "tiled": true,
-          "topMargin": 11,
-          "width": 192
-        }
-      }
-    },
-    {
-      "assetStoreId": "82b8caa7b55342f43b24f169b4374e9224e1a78c05a87f8689663e7c4a6bad69",
-      "name": "MedievalButtonBrown_jump",
-      "type": "PanelSpriteButton::PanelSpriteButton",
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "Anchor",
-          "type": "AnchorBehavior::AnchorBehavior",
-          "bottomEdgeAnchor": 2,
-          "leftEdgeAnchor": 0,
-          "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 2,
-          "topEdgeAnchor": 0,
-          "useLegacyBottomAndRightAnchors": false
-        }
-      ],
-      "content": {
-        "LeftPadding": 0,
-        "RightPadding": 0,
-        "PressedLabelOffsetY": 4,
-        "BottomPadding": 10,
-        "TopPadding": 0,
-        "HoveredFadeOutDuration": 0.2
-      },
-      "childrenContent": {
-        "Hovered": {
-          "bottomMargin": 11,
-          "height": 64,
-          "leftMargin": 7,
-          "rightMargin": 7,
-          "texture": "Medieval Button Brown_Hovered.png",
-          "tiled": true,
-          "topMargin": 7,
-          "width": 192
-        },
-        "Idle": {
-          "bottomMargin": 11,
-          "height": 64,
-          "leftMargin": 7,
-          "rightMargin": 7,
-          "texture": "Medieval Button Brown_Idle.png",
-          "tiled": true,
-          "topMargin": 7,
-          "width": 192
-        },
-        "Label": {
-          "bold": false,
-          "italic": false,
-          "smoothed": true,
-          "underlined": false,
-          "string": "JUMP",
-          "font": "3d58de3ba4305c72907c2b4367cf859232313400b5c22da139d35b13d2273d40_CaveatBrush-Regular.ttf",
-          "textAlignment": "center",
-          "characterSize": 40,
-          "color": {
-            "b": 159,
-            "g": 190,
-            "r": 219
-          },
-          "content": {
-            "bold": false,
-            "isOutlineEnabled": false,
-            "isShadowEnabled": false,
-            "italic": false,
-            "outlineColor": "255;255;255",
-            "outlineThickness": 2,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
-            "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
-            "smoothed": true,
-            "underlined": false,
-            "text": "JUMP",
-            "font": "3d58de3ba4305c72907c2b4367cf859232313400b5c22da139d35b13d2273d40_CaveatBrush-Regular.ttf",
-            "textAlignment": "center",
-            "characterSize": 40,
-            "color": "219;190;159"
-          }
-        },
-        "Pressed": {
-          "bottomMargin": 7,
-          "height": 64,
-          "leftMargin": 7,
-          "rightMargin": 7,
-          "texture": "Medieval Button Brown_Pressed.png",
-          "tiled": true,
-          "topMargin": 11,
-          "width": 192
-        }
-      }
-    },
-    {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "door1",
@@ -5238,15 +4959,6 @@
       },
       {
         "objectName": "NewSprite"
-      },
-      {
-        "objectName": "MedievalButtonBrown_left"
-      },
-      {
-        "objectName": "MedievalButtonBrown_right"
-      },
-      {
-        "objectName": "MedievalButtonBrown_jump"
       },
       {
         "objectName": "door1"
@@ -8195,7 +7907,7 @@
           "parameters": [
             "turtle",
             "=",
-            "16250",
+            "20000",
             "=",
             "400"
           ]
