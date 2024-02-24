@@ -8,13 +8,6 @@
   "stopSoundsOnStartup": true,
   "title": "",
   "v": 209,
-<<<<<<< Updated upstream
-  "uiSettings": {},
-  "objectsGroups": [],
-  "variables": [],
-  "instances": [],
-  "objects": [],
-=======
   "uiSettings": {
     "grid": false,
     "gridType": "rectangular",
@@ -25,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.5653158055126322,
+    "zoomFactor": 0.5468750000000014,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -10674,9 +10667,43 @@
       ]
     }
   ],
->>>>>>> Stashed changes
   "objectsFolderStructure": {
-    "folderName": "__ROOT"
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "DesertBackground"
+      },
+      {
+        "objectName": "l4_blck"
+      },
+      {
+        "objectName": "SummerTilePlatformCenter"
+      },
+      {
+        "objectName": "DirtTiledSprite"
+      },
+      {
+        "objectName": "Box2"
+      },
+      {
+        "objectName": "L4_LTR"
+      },
+      {
+        "objectName": "L4_LTR2"
+      },
+      {
+        "objectName": "L4_LTR3"
+      },
+      {
+        "objectName": "l4_wrd"
+      },
+      {
+        "objectName": "l4_wrd2"
+      },
+      {
+        "objectName": "l4_wrd3"
+      }
+    ]
   },
   "events": [],
   "layers": [
