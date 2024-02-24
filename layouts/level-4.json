@@ -72,6 +72,21 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "CoinGold",
+      "persistentUuid": "8c2e8162-ecf1-4fbd-ba98-e5b5a4e3b168",
+      "width": 0,
+      "x": 292,
+      "y": 506,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
