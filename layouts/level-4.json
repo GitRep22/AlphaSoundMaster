@@ -4442,10 +4442,10 @@
       "effects": [],
       "behaviors": [
         {
-          "canBeGrabbed": true,
           "name": "Platform",
-          "platformType": "NormalPlatform",
           "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
           "yGrabOffset": 0
         }
       ],
@@ -11086,10 +11086,10 @@
       "effects": [],
       "behaviors": [
         {
-          "canBeGrabbed": true,
           "name": "Platform",
-          "platformType": "NormalPlatform",
           "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
           "yGrabOffset": 0
         }
       ],
@@ -71527,6 +71527,54 @@
       "behaviors": [],
       "animations": [
         {
+          "name": "w-w",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "w-w6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 34,
+                        "y": 60
+                      },
+                      {
+                        "x": 95,
+                        "y": 60
+                      },
+                      {
+                        "x": 95,
+                        "y": 121
+                      },
+                      {
+                        "x": 34,
+                        "y": 121
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "x-x",
           "useMultipleDirections": false,
           "directions": [
@@ -73879,54 +73927,6 @@
           ]
         },
         {
-          "name": "w-w",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "w-w6.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 34,
-                        "y": 60
-                      },
-                      {
-                        "x": 95,
-                        "y": 60
-                      },
-                      {
-                        "x": 95,
-                        "y": 121
-                      },
-                      {
-                        "x": 34,
-                        "y": 121
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "y-y",
           "useMultipleDirections": false,
           "directions": [
@@ -74034,6 +74034,54 @@
       "effects": [],
       "behaviors": [],
       "animations": [
+        {
+          "name": "i-i",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "i-i6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 34,
+                        "y": 60
+                      },
+                      {
+                        "x": 95,
+                        "y": 60
+                      },
+                      {
+                        "x": 95,
+                        "y": 121
+                      },
+                      {
+                        "x": 34,
+                        "y": 121
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
         {
           "name": "x-x",
           "useMultipleDirections": false,
@@ -74477,54 +74525,6 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "h-h6.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 34,
-                        "y": 60
-                      },
-                      {
-                        "x": 95,
-                        "y": 60
-                      },
-                      {
-                        "x": 95,
-                        "y": 121
-                      },
-                      {
-                        "x": 34,
-                        "y": 121
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "i-i",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "i-i6.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -76543,6 +76543,54 @@
       "behaviors": [],
       "animations": [
         {
+          "name": "g-g",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "g-g6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 34,
+                        "y": 60
+                      },
+                      {
+                        "x": 95,
+                        "y": 60
+                      },
+                      {
+                        "x": 95,
+                        "y": 121
+                      },
+                      {
+                        "x": 34,
+                        "y": 121
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "x-x",
           "useMultipleDirections": false,
           "directions": [
@@ -76889,54 +76937,6 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "f-f6.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 34,
-                        "y": 60
-                      },
-                      {
-                        "x": 95,
-                        "y": 60
-                      },
-                      {
-                        "x": 95,
-                        "y": 121
-                      },
-                      {
-                        "x": 34,
-                        "y": 121
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "g-g",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "g-g6.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
