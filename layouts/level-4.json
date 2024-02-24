@@ -18,15 +18,118 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.546875,
+    "zoomFactor": 1.0973679695629526,
     "windowMask": false
   },
   "objectsGroups": [],
   "variables": [],
-  "instances": [],
-  "objects": [],
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 47,
+      "layer": "",
+      "locked": true,
+      "name": "SummerTilePlatformCenter",
+      "persistentUuid": "6ae5c8d7-88f4-485b-8d38-40009a6276d5",
+      "width": 30000,
+      "x": -562,
+      "y": 604,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 965,
+      "layer": "",
+      "name": "BackgroundBlueDesert",
+      "persistentUuid": "b2f277be-653f-4a00-b165-aa970c3bd160",
+      "width": 30000,
+      "x": -569,
+      "y": -144,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 128,
+      "layer": "",
+      "name": "DirtTiledSprite",
+      "persistentUuid": "697f6897-1666-4af6-9eab-cb21bd0ae000",
+      "width": 30000,
+      "x": -569,
+      "y": 625,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "objects": [
+    {
+      "assetStoreId": "23fea652203aa89d1be0d0e13d16fc6f73a7ff4709805827cf6c1284eb1b995c",
+      "height": 500,
+      "name": "SummerTilePlatformCenter",
+      "texture": "tiled_Summer Tile Platform Center.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 500,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ]
+    },
+    {
+      "assetStoreId": "e8820434b4a0a035d575c78d8d8c533053b9de8154e115721cf003366d0c1653",
+      "height": 128,
+      "name": "BackgroundBlueDesert",
+      "texture": "tiled_Background Blue Desert.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 128,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "e985b0cbac69d86d7d1f396e6104e54643df86c84de10be350c080f736bbf49a",
+      "height": 128,
+      "name": "DirtTiledSprite",
+      "texture": "tiled_Dirt Tiled Sprite.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 128,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    }
+  ],
   "objectsFolderStructure": {
-    "folderName": "__ROOT"
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "SummerTilePlatformCenter"
+      },
+      {
+        "objectName": "BackgroundBlueDesert"
+      },
+      {
+        "objectName": "DirtTiledSprite"
+      }
+    ]
   },
   "events": [],
   "layers": [
