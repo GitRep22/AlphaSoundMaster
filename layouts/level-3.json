@@ -674,7 +674,19 @@
       "width": 128,
       "variables": [],
       "effects": [],
+<<<<<<< Updated upstream
       "behaviors": []
+=======
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ]
+>>>>>>> Stashed changes
     },
     {
       "adaptCollisionMaskAutomatically": true,
@@ -684,7 +696,19 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
+<<<<<<< Updated upstream
       "behaviors": [],
+=======
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ],
+>>>>>>> Stashed changes
       "animations": [
         {
           "name": "Idle",
