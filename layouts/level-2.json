@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.3553434558817021,
+    "zoomFactor": 0.14039857806034187,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -491,8 +491,8 @@
       "name": "turtle",
       "persistentUuid": "edeb43f5-99dd-47f2-9570-83fd7d2dd7cc",
       "width": 230,
-      "x": 407,
-      "y": 205,
+      "x": 356,
+      "y": 380,
       "zOrder": 46,
       "numberProperties": [],
       "stringProperties": [],
@@ -1604,6 +1604,22 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 84,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "8aeb5927-9c5c-45d9-8ef0-a4e0f2c67b82",
+      "width": 82,
+      "x": 2513,
+      "y": 324,
+      "zOrder": 131,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -1658,6 +1674,10 @@
           "canBeGrabbed": true,
           "platformType": "NormalPlatform",
           "yGrabOffset": 0
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
         }
       ]
     },
@@ -1915,7 +1935,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "bat-l2 - Copy",
+          "name": "bat-1",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -1963,11 +1983,12 @@
           ]
         },
         {
-          "name": "bat-l",
+          "name": "bat-2",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -3180,11 +3201,12 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "let-b1.png",
+                  "image": "let-b",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5104,7 +5126,12 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
       "animations": [
         {
           "name": "a-a",
@@ -5640,11 +5667,12 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "let-a1.png",
+                  "image": "let-a2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -9108,6 +9136,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -10123,7 +10152,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "cat-l2 - Copy",
+          "name": "cat-1",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -10267,11 +10296,12 @@
           ]
         },
         {
-          "name": "cat-l",
+          "name": "cat-2",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -10807,7 +10837,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "fat-l2 - Copy",
+          "name": "fat-1",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -11047,16 +11077,17 @@
           ]
         },
         {
-          "name": "fat-l",
+          "name": "fat-2",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "fat-l2.png",
+                  "image": "fat-2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -11671,7 +11702,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "hat-l2 - Copy",
+          "name": "hat-1",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -12007,11 +12038,12 @@
           ]
         },
         {
-          "name": "hat-l",
+          "name": "hat-2",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -13704,6 +13736,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -15444,6 +15477,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -19879,7 +19913,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "bat-l2 - Copy",
+          "name": "bat-1",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -19927,7 +19961,7 @@
           ]
         },
         {
-          "name": "bat-l",
+          "name": "bat-2",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -20563,7 +20597,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "pat-l2 - Copy",
+          "name": "pat-1",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -21091,16 +21125,17 @@
           ]
         },
         {
-          "name": "pat-l",
+          "name": "pat-2",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "pat-l2.png",
+                  "image": "pat-2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -22465,11 +22500,12 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "let-h1.png",
+                  "image": "let-h",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -24056,7 +24092,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "mat-l",
+          "name": "mat-1",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -24536,11 +24572,12 @@
           ]
         },
         {
-          "name": "mat-l2 - Copy",
+          "name": "mat-2",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -29756,7 +29793,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "pat-l2 - Copy",
+          "name": "pat-1",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -30284,11 +30321,12 @@
           ]
         },
         {
-          "name": "pat-l",
+          "name": "pat-2",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -30440,7 +30478,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "hat-l2 - Copy",
+          "name": "hat-1",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -30824,7 +30862,7 @@
           ]
         },
         {
-          "name": "hat-l",
+          "name": "hat-2",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -31861,6 +31899,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -70419,6 +70458,185 @@
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+          },
+          "parameters": [
+            "level2_letter2",
+            "Tween",
+            "\"GoRight\"",
+            "2471+200",
+            "\"linear\"",
+            "1",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+          },
+          "parameters": [
+            "Sample_letter",
+            "Tween",
+            "\"GoRight\"",
+            "2513+200",
+            "\"linear\"",
+            "1",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "Tween::HasFinished"
+          },
+          "parameters": [
+            "level2_letter2",
+            "Tween",
+            "\"GoRight\""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+          },
+          "parameters": [
+            "level2_letter2",
+            "Tween",
+            "\"GoLeft\"",
+            "2471-200",
+            "\"linear\"",
+            "1",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+          },
+          "parameters": [
+            "Sample_letter",
+            "Tween",
+            "\"GoLeft\"",
+            "2513-200",
+            "\"linear\"",
+            "1",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Tween::RemoveTween"
+          },
+          "parameters": [
+            "level2_letter2",
+            "Tween",
+            "\"GoRight\""
+          ]
+        },
+        {
+          "type": {
+            "value": "Tween::RemoveTween"
+          },
+          "parameters": [
+            "Sample_letter",
+            "Tween",
+            "\"GoRight\""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "Tween::HasFinished"
+          },
+          "parameters": [
+            "level2_letter2",
+            "Tween",
+            "\"GoLeft\""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+          },
+          "parameters": [
+            "level2_letter2",
+            "Tween",
+            "\"GoRight\"",
+            "2471+200",
+            "\"linear\"",
+            "1",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+          },
+          "parameters": [
+            "Sample_letter",
+            "Tween",
+            "\"GoRight\"",
+            "2513+200",
+            "\"linear\"",
+            "1",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Tween::RemoveTween"
+          },
+          "parameters": [
+            "level2_letter2",
+            "Tween",
+            "\"GoLeft\""
+          ]
+        },
+        {
+          "type": {
+            "value": "Tween::RemoveTween"
+          },
+          "parameters": [
+            "Sample_letter",
+            "Tween",
+            "\"GoLeft\""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
       "conditions": [],
       "actions": []
     }
@@ -70542,6 +70760,10 @@
     {
       "name": "Text",
       "type": "TextContainerCapability::TextContainerBehavior"
+    },
+    {
+      "name": "Tween",
+      "type": "Tween::TweenBehavior"
     }
   ]
 }
