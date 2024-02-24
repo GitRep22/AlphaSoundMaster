@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.39251611754883503,
+    "zoomFactor": 0.06334164344484693,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -40,7 +40,7 @@
       "name": "BackgroundColoredGrass",
       "persistentUuid": "fe8aee56-d86d-49bd-98b3-84fe0fa0a92f",
       "width": 25052,
-      "x": -918,
+      "x": -915,
       "y": -208,
       "zOrder": 1,
       "numberProperties": [],
@@ -104,8 +104,8 @@
       "name": "turtle",
       "persistentUuid": "9a41d76a-6cb9-4673-8b38-fd88b0b65070",
       "width": 230,
-      "x": 341,
-      "y": -40,
+      "x": 418,
+      "y": 31,
       "zOrder": 46,
       "numberProperties": [],
       "stringProperties": [],
@@ -152,8 +152,8 @@
       "name": "Grass2",
       "persistentUuid": "8fc1c295-5bc9-48b9-b993-b4b7ff39b9a2",
       "width": 24841,
-      "x": -638,
-      "y": 685,
+      "x": -623,
+      "y": 681,
       "zOrder": 54,
       "numberProperties": [],
       "stringProperties": [],
@@ -453,7 +453,7 @@
       "persistentUuid": "e1b37bcc-e8a3-4eda-99c7-6a0c9c67312e",
       "width": 0,
       "x": 3050,
-      "y": 291,
+      "y": 348,
       "zOrder": 86,
       "numberProperties": [],
       "stringProperties": [],
@@ -467,8 +467,8 @@
       "name": "box_1t2",
       "persistentUuid": "7c6e300b-8de3-4e3b-963a-d523193af24d",
       "width": 0,
-      "x": 3115,
-      "y": 290,
+      "x": 3114,
+      "y": 347,
       "zOrder": 87,
       "numberProperties": [],
       "stringProperties": [],
@@ -485,22 +485,6 @@
       "x": 3040,
       "y": 471,
       "zOrder": 85,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 477,
-      "layer": "",
-      "name": "LongRectangleWood",
-      "persistentUuid": "454cb97e-d3b4-41be-a5fc-7d4b1340e0ec",
-      "width": 70,
-      "x": 3262,
-      "y": 151,
-      "zOrder": 90,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -561,7 +545,7 @@
       "name": "box_2n2",
       "persistentUuid": "9f7db2f6-c484-40f6-a6ac-8e72c38fdaab",
       "width": 160,
-      "x": 5633,
+      "x": 5632,
       "y": 320,
       "zOrder": 95,
       "numberProperties": [],
@@ -729,8 +713,8 @@
       "name": "box_3o2",
       "persistentUuid": "c3ce0ff3-d48b-4f27-be63-ee07b82ce3ed",
       "width": 160,
-      "x": 8284,
-      "y": 341,
+      "x": 8283,
+      "y": 339,
       "zOrder": 99,
       "numberProperties": [],
       "stringProperties": [],
@@ -888,8 +872,8 @@
       "name": "LongRectangleWood",
       "persistentUuid": "c2999848-ad55-4499-8036-e7515a6f961d",
       "width": 70,
-      "x": 3531,
-      "y": -428,
+      "x": 3649,
+      "y": -211,
       "zOrder": 90,
       "numberProperties": [],
       "stringProperties": [],
@@ -995,8 +979,8 @@
       "name": "box_4s2",
       "persistentUuid": "6f58a313-0148-4219-a6e9-84a3920d1c81",
       "width": 160,
-      "x": 11553,
-      "y": 340,
+      "x": 11554,
+      "y": 342,
       "zOrder": 107,
       "numberProperties": [],
       "stringProperties": [],
@@ -1779,8 +1763,8 @@
       "name": "at_1",
       "persistentUuid": "fef535c1-d63c-4453-9043-20e561c47fe7",
       "width": 115,
-      "x": 3360,
-      "y": 54,
+      "x": 3427,
+      "y": 211,
       "zOrder": 126,
       "numberProperties": [],
       "stringProperties": [],
@@ -1824,7 +1808,7 @@
       "depth": 0,
       "height": 75,
       "layer": "",
-      "name": "In_1",
+      "name": "If_1",
       "persistentUuid": "5ad6924f-b963-4784-ac6f-d9dcd66fe486",
       "width": 115,
       "x": 6137,
@@ -2012,15 +1996,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 2,
-      "height": 135,
+      "depth": 1,
+      "height": 61,
       "layer": "",
-      "name": "CoinGold",
-      "persistentUuid": "009ffd1d-e5b6-4570-aaed-a176cdba4462",
-      "width": 135,
-      "x": 2219,
-      "y": 263,
-      "zOrder": 103,
+      "name": "Sample_letter",
+      "persistentUuid": "ef944037-f6d2-4978-8323-76545d75d49f",
+      "width": 67,
+      "x": 3139,
+      "y": 407,
+      "zOrder": 139,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2028,15 +2012,383 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 2,
-      "height": 135,
+      "depth": 1,
+      "height": 61,
       "layer": "",
-      "name": "CoinGold",
-      "persistentUuid": "5e3da182-3290-4e99-b42f-0ddb60746c86",
-      "width": 135,
-      "x": 1960,
-      "y": 132,
-      "zOrder": 103,
+      "name": "Sample_letter",
+      "persistentUuid": "4fa48d27-d61c-44fd-a215-18aacf1d5916",
+      "width": 67,
+      "x": 3089,
+      "y": 407,
+      "zOrder": 139,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 61,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "18a26d07-380d-4dd3-b3aa-74716c897c80",
+      "width": 67,
+      "x": 3435,
+      "y": 218,
+      "zOrder": 139,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 61,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "893a1ecf-de1e-4c54-a11e-ce44f3f345c0",
+      "width": 67,
+      "x": 3476,
+      "y": 217,
+      "zOrder": 139,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 405,
+      "layer": "",
+      "name": "LongRectangleWood3",
+      "persistentUuid": "d69bc031-fe3e-4be8-a4b5-a1980a7488d7",
+      "width": 70,
+      "x": 3249,
+      "y": 220,
+      "zOrder": 140,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 56,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "328e5f4f-70bf-4ed3-9b31-3473c47adb52",
+      "width": 56,
+      "x": 3913,
+      "y": 322,
+      "zOrder": 139,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 61,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "8471ba29-8beb-4d42-a2ae-b4c02de348e8",
+      "width": 67,
+      "x": 5604,
+      "y": 398,
+      "zOrder": 139,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 61,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "47284699-2a06-45e8-991f-aa3453243919",
+      "width": 67,
+      "x": 5682,
+      "y": 399,
+      "zOrder": 139,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 61,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "accbbc45-0c90-46c0-8a80-eb42d40e0790",
+      "width": 101,
+      "x": 6146,
+      "y": 270,
+      "zOrder": 139,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 61,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "25ca5f8e-c44d-4606-89fd-f65ae1096334",
+      "width": 67,
+      "x": 8334,
+      "y": 420,
+      "zOrder": 139,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 61,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "74d51cbf-9785-4379-b6f4-9f4a673b0a91",
+      "width": 67,
+      "x": 8404,
+      "y": 420,
+      "zOrder": 139,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 59,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "9ad134ae-dafc-41b0-804e-235c1576ccc2",
+      "width": 108,
+      "x": 8618,
+      "y": 105,
+      "zOrder": 139,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 61,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "cc8d07db-0012-4280-895c-ee6de6403db2",
+      "width": 67,
+      "x": 11525,
+      "y": 425,
+      "zOrder": 139,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 61,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "a1a97276-f1ae-4280-8349-465bb9248419",
+      "width": 67,
+      "x": 11601,
+      "y": 425,
+      "zOrder": 139,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 59,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "e17ac6cb-8a40-4a24-83d0-207dc26d4d42",
+      "width": 106,
+      "x": 12410,
+      "y": 303,
+      "zOrder": 139,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 61,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "383a4b2c-2f31-48e8-9120-8033d2325a9b",
+      "width": 67,
+      "x": 14635,
+      "y": 309,
+      "zOrder": 139,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 61,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "75cdc531-aac3-4415-9f8d-24df79fd59d3",
+      "width": 67,
+      "x": 14709,
+      "y": 309,
+      "zOrder": 139,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 59,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "4c32fcfc-e455-4690-9b99-ac26727effc8",
+      "width": 116,
+      "x": 15762,
+      "y": 305,
+      "zOrder": 139,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 61,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "667b7cdc-5570-4638-9d2a-67d5a1bc0aa8",
+      "width": 67,
+      "x": 17958,
+      "y": 553,
+      "zOrder": 139,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 61,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "941e1df2-5541-414a-b858-dffe9154838a",
+      "width": 67,
+      "x": 18035,
+      "y": 554,
+      "zOrder": 139,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 68,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "64a69778-e3c3-4179-b053-4a06027932ff",
+      "width": 116,
+      "x": 18847,
+      "y": 75,
+      "zOrder": 139,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 61,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "5c8a6dcb-4ded-48e7-b722-b151de560112",
+      "width": 67,
+      "x": 20657,
+      "y": 268,
+      "zOrder": 139,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 61,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "ee6b3452-4d0d-43b6-b4cd-8bb0ed18d10a",
+      "width": 67,
+      "x": 20736,
+      "y": 268,
+      "zOrder": 139,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 61,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "c0a30743-2f59-44c6-b391-b1e6e88a2d5d",
+      "width": 112,
+      "x": 21367,
+      "y": 550,
+      "zOrder": 139,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 420,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "c03e37cd-6c4a-488b-b4df-2faeb3203e36",
+      "width": 67,
+      "x": 22451,
+      "y": 253,
+      "zOrder": 139,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2684,66 +3036,6 @@
       ]
     },
     {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "868f394e97587214bfd9ffc660d5d6459d584c44757e7d06f071dbb623ef67b5",
-      "name": "CoinGold",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": true,
-              "timeBetweenFrames": 0.025,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Coin Gold.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 15,
-                        "y": 18
-                      },
-                      {
-                        "x": 55,
-                        "y": 18
-                      },
-                      {
-                        "x": 55,
-                        "y": 58
-                      },
-                      {
-                        "x": 15,
-                        "y": 58
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "assetStoreId": "",
       "bold": false,
       "italic": false,
@@ -2794,77 +3086,6 @@
         "characterSize": 100,
         "color": "248;231;28"
       }
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "868f394e97587214bfd9ffc660d5d6459d584c44757e7d06f071dbb623ef67b5",
-      "name": "DisplayCoin",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "Anchor",
-          "type": "AnchorBehavior::AnchorBehavior",
-          "bottomEdgeAnchor": 0,
-          "leftEdgeAnchor": 1,
-          "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 0,
-          "topEdgeAnchor": 1,
-          "useLegacyBottomAndRightAnchors": false
-        }
-      ],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": true,
-              "timeBetweenFrames": 0.025,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Coin Gold.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 15,
-                        "y": 18
-                      },
-                      {
-                        "x": 55,
-                        "y": 18
-                      },
-                      {
-                        "x": 55,
-                        "y": 58
-                      },
-                      {
-                        "x": 15,
-                        "y": 58
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
     },
     {
       "adaptCollisionMaskAutomatically": true,
@@ -3231,7 +3452,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "In_1",
+      "name": "If_1",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -3239,7 +3460,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "in-1",
+          "name": "if-1",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -3248,7 +3469,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "in-l1 - Copy.png",
+                  "image": "if.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3287,7 +3508,7 @@
           ]
         },
         {
-          "name": "in-2",
+          "name": "if-2",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -3297,7 +3518,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "in-2",
+                  "image": "if2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4771,13 +4992,7 @@
         "objectName": "ArrowKey6"
       },
       {
-        "objectName": "CoinGold"
-      },
-      {
         "objectName": "an_1"
-      },
-      {
-        "objectName": "DisplayCoin"
       },
       {
         "objectName": "Score"
@@ -4798,7 +5013,7 @@
         "objectName": "door1"
       },
       {
-        "objectName": "In_1"
+        "objectName": "If_1"
       },
       {
         "objectName": "on_1"
@@ -5121,15 +5336,6 @@
           },
           "parameters": [
             "",
-            "AT1.mp3"
-          ]
-        },
-        {
-          "type": {
-            "value": "PreloadMusic"
-          },
-          "parameters": [
-            "",
             "T1.mp3"
           ]
         },
@@ -5139,61 +5345,7 @@
           },
           "parameters": [
             "",
-            "AT2.mp3"
-          ]
-        },
-        {
-          "type": {
-            "value": "PreloadMusic"
-          },
-          "parameters": [
-            "",
-            "AT2.mp3"
-          ]
-        },
-        {
-          "type": {
-            "value": "PreloadMusic"
-          },
-          "parameters": [
-            "",
-            "AT2.mp3"
-          ]
-        },
-        {
-          "type": {
-            "value": "PreloadMusic"
-          },
-          "parameters": [
-            "",
-            "AT2.mp3"
-          ]
-        },
-        {
-          "type": {
-            "value": "PreloadMusic"
-          },
-          "parameters": [
-            "",
-            "AT2.mp3"
-          ]
-        },
-        {
-          "type": {
-            "value": "PreloadMusic"
-          },
-          "parameters": [
-            "",
-            "AT2.mp3"
-          ]
-        },
-        {
-          "type": {
-            "value": "PreloadMusic"
-          },
-          "parameters": [
-            "",
-            "AT2.mp3"
+            "AT.mp3"
           ]
         },
         {
@@ -5317,6 +5469,12 @@
             "",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
         }
       ],
       "actions": [
@@ -5330,6 +5488,18 @@
             "=",
             "\"let-i\""
           ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "I1.mp3",
+            "no",
+            "",
+            ""
+          ]
         }
       ]
     },
@@ -5347,6 +5517,12 @@
             "",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
         }
       ],
       "actions": [
@@ -5358,7 +5534,19 @@
             "box_2n",
             "Animation",
             "=",
-            "\"let-n\""
+            "\"let-f\""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "F1.mp3",
+            "no",
+            "",
+            ""
           ]
         }
       ]
@@ -5377,6 +5565,12 @@
             "",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
         }
       ],
       "actions": [
@@ -5390,6 +5584,18 @@
             "=",
             "\"let-o\""
           ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "O1.mp3",
+            "no",
+            "",
+            ""
+          ]
         }
       ]
     },
@@ -5407,6 +5613,12 @@
             "",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
         }
       ],
       "actions": [
@@ -5419,6 +5631,18 @@
             "Animation",
             "=",
             "\"let-n\""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "N2.mp3",
+            "no",
+            "",
+            ""
           ]
         }
       ]
@@ -5437,6 +5661,12 @@
             "",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
         }
       ],
       "actions": [
@@ -5450,6 +5680,18 @@
             "=",
             "\"let-a\""
           ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "A2.mp3",
+            "no",
+            "",
+            ""
+          ]
         }
       ]
     },
@@ -5467,6 +5709,12 @@
             "",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
         }
       ],
       "actions": [
@@ -5480,6 +5728,18 @@
             "=",
             "\"let-s\""
           ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "S1.mp3",
+            "no",
+            "",
+            ""
+          ]
         }
       ]
     },
@@ -5497,6 +5757,12 @@
             "",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
         }
       ],
       "actions": [
@@ -5509,6 +5775,18 @@
             "Animation",
             "=",
             "\"let-o\""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "O2.mp3",
+            "no",
+            "",
+            ""
           ]
         }
       ]
@@ -5527,6 +5805,12 @@
             "",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
         }
       ],
       "actions": [
@@ -5540,6 +5824,18 @@
             "=",
             "\"let-f\""
           ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "F2.mp3",
+            "no",
+            "",
+            ""
+          ]
         }
       ]
     },
@@ -5557,6 +5853,12 @@
             "",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
         }
       ],
       "actions": [
@@ -5570,6 +5872,18 @@
             "=",
             "\"let-i\""
           ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "I2.mp3",
+            "no",
+            "",
+            ""
+          ]
         }
       ]
     },
@@ -5587,6 +5901,12 @@
             "",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
         }
       ],
       "actions": [
@@ -5600,6 +5920,18 @@
             "=",
             "\"let-s\""
           ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "S2.mp3",
+            "no",
+            "",
+            ""
+          ]
         }
       ]
     },
@@ -5617,6 +5949,12 @@
             "",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
         }
       ],
       "actions": [
@@ -5630,6 +5968,18 @@
             "=",
             "\"let-a\""
           ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "A3.mp3",
+            "no",
+            "",
+            ""
+          ]
         }
       ]
     },
@@ -5647,6 +5997,12 @@
             "",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
         }
       ],
       "actions": [
@@ -5659,6 +6015,18 @@
             "Animation",
             "=",
             "\"let-n\""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "N3.mp3",
+            "no",
+            "",
+            ""
           ]
         }
       ]
@@ -5731,7 +6099,7 @@
               },
               "parameters": [
                 "",
-                "AT1.mp3",
+                "AT.mp3",
                 "",
                 "",
                 ""
@@ -6027,7 +6395,7 @@
             "box_2n2",
             "Animation",
             "=",
-            "\"let-n\""
+            "\"let-f\""
           ]
         },
         {
@@ -6038,6 +6406,33 @@
             "LongRectangleWood2",
             "Platform",
             "no"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "IF.mp3",
+                "",
+                "",
+                ""
+              ]
+            }
           ]
         }
       ]
@@ -6051,7 +6446,7 @@
           },
           "parameters": [
             "turtle",
-            "In_1",
+            "If_1",
             "",
             "",
             ""
@@ -6064,20 +6459,37 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "In_1",
+            "If_1",
             "Animation",
             "=",
-            "\"in-2\""
+            "\"if-2\""
           ]
-        },
+        }
+      ],
+      "events": [
         {
-          "type": {
-            "value": "ActivateBehavior"
-          },
-          "parameters": [
-            "LongRectangleWood2",
-            "Platform",
-            "no"
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "IF2.mp3",
+                "",
+                "",
+                ""
+              ]
+            }
           ]
         }
       ]
@@ -6118,7 +6530,7 @@
             "box_2n",
             "Animation",
             "=",
-            "\"n-n\""
+            "\"f-f\""
           ]
         },
         {
@@ -6140,7 +6552,7 @@
             "box_2n2",
             "Animation",
             "=",
-            "\"n-n\""
+            "\"f-f\""
           ]
         },
         {
@@ -6148,21 +6560,10 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "box_2i3",
+            "If_1",
             "Animation",
             "=",
-            "\"i-i\""
-          ]
-        },
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-          },
-          "parameters": [
-            "box_2n3",
-            "Animation",
-            "=",
-            "\"n-n\""
+            "\"if-1\""
           ]
         },
         {
@@ -6362,6 +6763,33 @@
             "no"
           ]
         }
+      ],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "ON.mp3",
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
+        }
       ]
     },
     {
@@ -6400,6 +6828,140 @@
             "LongRectangleWood2",
             "Platform",
             "no"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "ON2.mp3",
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "ArrowKey3",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "box_3o",
+            "Animation",
+            "=",
+            "\"o-o\""
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "box_3n",
+            "Animation",
+            "=",
+            "\"n-n\""
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "box_3o2",
+            "Animation",
+            "=",
+            "\"o-o\""
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "box_3n2",
+            "Animation",
+            "=",
+            "\"n-n\""
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "on_1",
+            "Animation",
+            "=",
+            "\"on-1\""
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "LongRectangleWood2",
+            "Platform",
+            "yes"
+          ]
+        },
+        {
+          "type": {
+            "value": "MettreXY"
+          },
+          "parameters": [
+            "turtle",
+            "=",
+            "7046",
+            "=",
+            "400"
+          ]
+        },
+        {
+          "type": {
+            "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+          },
+          "parameters": [
+            "turtle",
+            "PlatformerObject",
+            "=",
+            "0"
           ]
         }
       ]
@@ -6453,6 +7015,33 @@
             "no"
           ]
         }
+      ],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "AS.mp3",
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
+        }
       ]
     },
     {
@@ -6491,6 +7080,140 @@
             "LongRectangleWood2",
             "Platform",
             "no"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "AS2.mp3",
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "ArrowKey4",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "box_4a",
+            "Animation",
+            "=",
+            "\"a-a\""
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "box_4s",
+            "Animation",
+            "=",
+            "\"s-s\""
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "box_4a2",
+            "Animation",
+            "=",
+            "\"a-a\""
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "box_4s2",
+            "Animation",
+            "=",
+            "\"s-s\""
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "as_1",
+            "Animation",
+            "=",
+            "\"as-1\""
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "LongRectangleWood2",
+            "Platform",
+            "yes"
+          ]
+        },
+        {
+          "type": {
+            "value": "MettreXY"
+          },
+          "parameters": [
+            "turtle",
+            "=",
+            "9774",
+            "=",
+            "400"
+          ]
+        },
+        {
+          "type": {
+            "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+          },
+          "parameters": [
+            "turtle",
+            "PlatformerObject",
+            "=",
+            "0"
           ]
         }
       ]
@@ -6544,6 +7267,33 @@
             "no"
           ]
         }
+      ],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "AS.mp3",
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
+        }
       ]
     },
     {
@@ -6582,6 +7332,33 @@
             "LongRectangleWood2",
             "Platform",
             "no"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "AS2.mp3",
+                "",
+                "",
+                ""
+              ]
+            }
           ]
         }
       ]
@@ -6945,8 +7722,26 @@
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": []
+      "conditions": [
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Flash::ToggleVisibility"
+          },
+          "parameters": [
+            "",
+            "Sample_letter",
+            ""
+          ]
+        }
+      ]
     }
   ],
   "layers": [
