@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.7876290101673771,
+    "zoomFactor": 1.0973679695629526,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -56,6 +56,22 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 128,
+      "layer": "",
+      "name": "DirtTiledSprite",
+      "persistentUuid": "697f6897-1666-4af6-9eab-cb21bd0ae000",
+      "width": 30000,
+      "x": -569,
+      "y": 625,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -88,6 +104,17 @@
       "variables": [],
       "effects": [],
       "behaviors": []
+    },
+    {
+      "assetStoreId": "e985b0cbac69d86d7d1f396e6104e54643df86c84de10be350c080f736bbf49a",
+      "height": 128,
+      "name": "DirtTiledSprite",
+      "texture": "tiled_Dirt Tiled Sprite.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 128,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
     }
   ],
   "objectsFolderStructure": {
@@ -98,6 +125,9 @@
       },
       {
         "objectName": "BackgroundBlueDesert"
+      },
+      {
+        "objectName": "DirtTiledSprite"
       }
     ]
   },
