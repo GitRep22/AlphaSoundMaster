@@ -72,6 +72,36 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "CoinGold",
+      "persistentUuid": "88099b6e-7731-45ef-be33-f6c83df55fd2",
+      "width": 0,
+      "x": 58,
+      "y": 411,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "DisplayCoin",
+      "persistentUuid": "21619790-a889-4d9b-a5a5-b58d7d6ed802",
+      "width": 0,
+      "x": 186,
+      "y": 528,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
