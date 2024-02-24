@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.18305734955560737,
+    "zoomFactor": 0.04699609889115779,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -104,8 +104,8 @@
       "name": "turtle",
       "persistentUuid": "9a41d76a-6cb9-4673-8b38-fd88b0b65070",
       "width": 230,
-      "x": 418,
-      "y": 31,
+      "x": 19217,
+      "y": 152,
       "zOrder": 46,
       "numberProperties": [],
       "stringProperties": [],
@@ -7334,7 +7334,7 @@
               },
               "parameters": [
                 "",
-                "AS.mp3",
+                "",
                 "",
                 "",
                 ""
@@ -7401,7 +7401,7 @@
               },
               "parameters": [
                 "",
-                "AS2.mp3",
+                "",
                 "",
                 "",
                 ""
@@ -7672,6 +7672,113 @@
           },
           "parameters": [
             "turtle",
+            "ArrowKey6",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "box_6i",
+            "Animation",
+            "=",
+            "\"i-i\""
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "box_6s",
+            "Animation",
+            "=",
+            "\"s-s\""
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "box_6i2",
+            "Animation",
+            "=",
+            "\"i-i\""
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "box_6s2",
+            "Animation",
+            "=",
+            "\"s-s\""
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "is_1",
+            "Animation",
+            "=",
+            "\"is-1\""
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "LongRectangleWood2",
+            "Platform",
+            "yes"
+          ]
+        },
+        {
+          "type": {
+            "value": "MettreXY"
+          },
+          "parameters": [
+            "turtle",
+            "=",
+            "9774",
+            "=",
+            "400"
+          ]
+        },
+        {
+          "type": {
+            "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+          },
+          "parameters": [
+            "turtle",
+            "PlatformerObject",
+            "=",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
             "box_7a2",
             "",
             "",
@@ -7712,6 +7819,33 @@
             "no"
           ]
         }
+      ],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "IS.mp3",
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
+        }
       ]
     },
     {
@@ -7750,6 +7884,33 @@
             "LongRectangleWood2",
             "Platform",
             "no"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "IS2.mp3",
+                "",
+                "",
+                ""
+              ]
+            }
           ]
         }
       ]
