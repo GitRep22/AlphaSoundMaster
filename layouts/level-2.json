@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.4194339782759104,
+    "zoomFactor": 0.3553434558817021,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -34,7 +34,7 @@
       "persistentUuid": "cfd51b14-f203-449d-aada-aa3bc608c6bc",
       "width": 30711,
       "x": -868,
-      "y": -126,
+      "y": -132,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -1436,22 +1436,6 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 34,
-      "height": 85,
-      "layer": "UI Layer",
-      "name": "MedievalButtonBrown_left",
-      "persistentUuid": "aa4e200a-44f7-4db1-9b22-c0b993d87c2e",
-      "width": 90,
-      "x": 150,
-      "y": 440,
-      "zOrder": 123,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
       "depth": 32,
       "height": 85,
       "layer": "UI layer",
@@ -1561,30 +1545,14 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 1,
-      "height": 132,
-      "layer": "UI Layer",
-      "name": "DisplayCoin",
-      "persistentUuid": "7f868388-19ad-4337-8fc1-d8f1ee608db8",
-      "width": 126,
-      "x": -11,
-      "y": -6,
-      "zOrder": 105,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
       "depth": 0,
       "height": 132,
       "layer": "UI layer",
       "name": "DisplayCoin",
       "persistentUuid": "a0afdef5-8396-435f-9bd7-e537207c2f8a",
       "width": 136,
-      "x": 14,
-      "y": 5,
+      "x": -12,
+      "y": 0,
       "zOrder": 127,
       "numberProperties": [],
       "stringProperties": [],
@@ -1598,9 +1566,41 @@
       "name": "Score",
       "persistentUuid": "57ecbc16-b781-4e45-840a-6dcb3deb475f",
       "width": 0,
-      "x": 144,
-      "y": 19,
+      "x": 96,
+      "y": 16,
       "zOrder": 128,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 135,
+      "layer": "",
+      "name": "CoinGold",
+      "persistentUuid": "a9465020-27da-4772-9a27-09bc8c5bfdda",
+      "width": 135,
+      "x": 667,
+      "y": 371,
+      "zOrder": 129,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 32,
+      "height": 60,
+      "layer": "UI layer",
+      "name": "L1_back",
+      "persistentUuid": "df90c55f-028b-4273-88de-fb4ab2053118",
+      "width": 103,
+      "x": 1085,
+      "y": 12,
+      "zOrder": 130,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1653,10 +1653,10 @@
       "effects": [],
       "behaviors": [
         {
-          "canBeGrabbed": true,
           "name": "Platform",
-          "platformType": "NormalPlatform",
           "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
           "yGrabOffset": 0
         }
       ]
@@ -70271,6 +70271,148 @@
           "parameters": [
             "CoinGold",
             ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "SourisSurObjet"
+          },
+          "parameters": [
+            "MedievalButtonBrown_right",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "PlatformBehavior::SimulateRightKey"
+          },
+          "parameters": [
+            "turtle",
+            "PlatformerObject"
+          ]
+        },
+        {
+          "type": {
+            "value": "FlippableCapability::FlippableBehavior::FlipX"
+          },
+          "parameters": [
+            "turtle",
+            "Flippable",
+            "no"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "SourisSurObjet"
+          },
+          "parameters": [
+            "MedievalButtonBrown_left",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "PlatformBehavior::SimulateLeftKey"
+          },
+          "parameters": [
+            "turtle",
+            "PlatformerObject"
+          ]
+        },
+        {
+          "type": {
+            "value": "FlippableCapability::FlippableBehavior::FlipX"
+          },
+          "parameters": [
+            "turtle",
+            "Flippable",
+            "yes"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Flash::ToggleVisibility"
+          },
+          "parameters": [
+            "",
+            "Sample_letter",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "MouseButtonReleased"
+          },
+          "parameters": [
+            "",
+            "Left"
+          ]
+        }
+      ],
+      "actions": [],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "L1_back",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"MainMenu\"",
+                ""
+              ]
+            }
           ]
         }
       ]

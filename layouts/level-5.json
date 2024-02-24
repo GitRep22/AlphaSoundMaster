@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.529035740215685,
+    "zoomFactor": 0.23867758270257866,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -80819,6 +80819,10 @@
     {
       "name": "Scale",
       "type": "ScalableCapability::ScalableBehavior"
+    },
+    {
+      "name": "Text",
+      "type": "TextContainerCapability::TextContainerBehavior"
     }
   ]
 }
