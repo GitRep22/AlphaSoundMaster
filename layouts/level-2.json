@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.2550455473354372,
+    "zoomFactor": 0.19561100536769518,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -28,11 +28,12 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 1027,
+      "height": 1031,
       "layer": "",
+      "locked": true,
       "name": "ForestBackground",
       "persistentUuid": "cfd51b14-f203-449d-aada-aa3bc608c6bc",
-      "width": 30711,
+      "width": 32612,
       "x": -868,
       "y": -132,
       "zOrder": 1,
@@ -46,9 +47,10 @@
       "depth": 1,
       "height": 128,
       "layer": "",
+      "locked": true,
       "name": "Grass",
       "persistentUuid": "681d5168-8c13-4fb1-8f6d-32bb6adde4e6",
-      "width": 31660,
+      "width": 32601,
       "x": -863,
       "y": 659,
       "zOrder": 2,
@@ -60133,6 +60135,54 @@
       "behaviors": [],
       "animations": [
         {
+          "name": "r-r",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "r-r1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 34,
+                        "y": 60
+                      },
+                      {
+                        "x": 95,
+                        "y": 60
+                      },
+                      {
+                        "x": 95,
+                        "y": 121
+                      },
+                      {
+                        "x": 34,
+                        "y": 121
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "t-t",
           "useMultipleDirections": false,
           "directions": [
@@ -61530,6 +61580,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -62207,54 +62258,6 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "q-q1.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 34,
-                        "y": 60
-                      },
-                      {
-                        "x": 95,
-                        "y": 60
-                      },
-                      {
-                        "x": 95,
-                        "y": 121
-                      },
-                      {
-                        "x": 34,
-                        "y": 121
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "r-r",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "r-r1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -63325,7 +63328,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "t-t",
+          "name": "a-a",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -63334,7 +63337,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "t-t1.png",
+                  "image": "a-a1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -63373,7 +63376,7 @@
           ]
         },
         {
-          "name": "a-a",
+          "name": "t-t",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -63382,7 +63385,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "a-a1.png",
+                  "image": "t-t1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -70633,6 +70636,150 @@
             "Sample_letter",
             "Tween",
             "\"GoLeft\""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "level2_letter",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "level2_letter",
+            "Animation",
+            "=",
+            "\"let-b\""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "T1.mp3",
+            "no",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "level2_letter2",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "level2_letter2",
+            "Animation",
+            "=",
+            "\"let-a\""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "T1.mp3",
+            "no",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "level2_letter3",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "level2_letter3",
+            "Animation",
+            "=",
+            "\"let-t\""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "A1.mp3",
+            "",
+            "",
+            ""
           ]
         }
       ]
