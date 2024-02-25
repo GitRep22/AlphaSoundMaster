@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.14039857806034187,
+    "zoomFactor": 0.20902556228335464,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -39431,7 +39431,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "fat-l2 - Copy",
+          "name": "fat-1",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -39767,11 +39767,12 @@
           ]
         },
         {
-          "name": "fat-l",
+          "name": "fat-2",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -40115,7 +40116,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "hat-l2 - Copy",
+          "name": "hat-1",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -40499,7 +40500,7 @@
           ]
         },
         {
-          "name": "hat-l",
+          "name": "hat-2",
           "useMultipleDirections": false,
           "directions": [
             {
