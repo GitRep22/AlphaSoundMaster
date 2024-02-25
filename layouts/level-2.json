@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.20902556228335464,
+    "zoomFactor": 0.2550455473354372,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -43368,7 +43368,55 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "mat-l2 - Copy",
+          "name": "mat-1",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "mat-l2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 13
+                      },
+                      {
+                        "x": 292,
+                        "y": 13
+                      },
+                      {
+                        "x": 292,
+                        "y": 187
+                      },
+                      {
+                        "x": 9,
+                        "y": 187
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "mat-2",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -43810,54 +43858,6 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "hat-l2.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 9,
-                        "y": 13
-                      },
-                      {
-                        "x": 292,
-                        "y": 13
-                      },
-                      {
-                        "x": 292,
-                        "y": 187
-                      },
-                      {
-                        "x": 9,
-                        "y": 187
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "mat-l",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "mat-l2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -49752,7 +49752,55 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "bat-l",
+          "name": "bat-1",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "bat-l2 - Copy.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 13
+                      },
+                      {
+                        "x": 292,
+                        "y": 13
+                      },
+                      {
+                        "x": 292,
+                        "y": 187
+                      },
+                      {
+                        "x": 9,
+                        "y": 187
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "bat-2",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -49906,54 +49954,6 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "pat-l2 - Copy.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 9,
-                        "y": 13
-                      },
-                      {
-                        "x": 292,
-                        "y": 13
-                      },
-                      {
-                        "x": 292,
-                        "y": 187
-                      },
-                      {
-                        "x": 9,
-                        "y": 187
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "bat-l2 - Copy",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "bat-l2 - Copy.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -53004,7 +53004,55 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "bat-l",
+          "name": "bat-1",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "bat-l2 - Copy.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 13
+                      },
+                      {
+                        "x": 292,
+                        "y": 13
+                      },
+                      {
+                        "x": 292,
+                        "y": 187
+                      },
+                      {
+                        "x": 9,
+                        "y": 187
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "bat-2",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -53158,54 +53206,6 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "pat-l2 - Copy.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 9,
-                        "y": 13
-                      },
-                      {
-                        "x": 292,
-                        "y": 13
-                      },
-                      {
-                        "x": 292,
-                        "y": 187
-                      },
-                      {
-                        "x": 9,
-                        "y": 187
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "bat-l2 - Copy",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "bat-l2 - Copy.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -58704,7 +58704,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "rat-l",
+          "name": "rat-1",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -59328,11 +59328,12 @@
           ]
         },
         {
-          "name": "rat-l2 - Copy",
+          "name": "rat-2",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -59388,7 +59389,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "mat-l",
+          "name": "mat-1",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -59868,7 +59869,7 @@
           ]
         },
         {
-          "name": "mat-l2 - Copy",
+          "name": "mat-2",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -62640,7 +62641,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "mat-l",
+          "name": "mat-1",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -63120,7 +63121,7 @@
           ]
         },
         {
-          "name": "mat-l2 - Copy",
+          "name": "mat-2",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -68340,7 +68341,55 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "fat-l",
+          "name": "fat-1",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "fat-l2 - Copy.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 13
+                      },
+                      {
+                        "x": 292,
+                        "y": 13
+                      },
+                      {
+                        "x": 292,
+                        "y": 187
+                      },
+                      {
+                        "x": 9,
+                        "y": 187
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "fat-2",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -68686,54 +68735,6 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "cat-l2.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 9,
-                        "y": 13
-                      },
-                      {
-                        "x": 292,
-                        "y": 13
-                      },
-                      {
-                        "x": 292,
-                        "y": 187
-                      },
-                      {
-                        "x": 9,
-                        "y": 187
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "fat-l2 - Copy",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "fat-l2 - Copy.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
