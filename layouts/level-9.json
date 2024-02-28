@@ -8,13 +8,192 @@
   "stopSoundsOnStartup": true,
   "title": "",
   "v": 209,
-  "uiSettings": {},
+  "uiSettings": {
+    "grid": false,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridColor": 10401023,
+    "gridAlpha": 0.8,
+    "snap": false,
+    "zoomFactor": 0.5653158055126307,
+    "windowMask": false
+  },
   "objectsGroups": [],
   "variables": [],
-  "instances": [],
-  "objects": [],
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1147,
+      "layer": "",
+      "locked": true,
+      "name": "SkyBackground",
+      "persistentUuid": "1cc6a190-504c-4ed4-aab8-30244e5d6ce3",
+      "width": 50000,
+      "x": -1000,
+      "y": -255,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 387,
+      "layer": "",
+      "locked": true,
+      "name": "BackgroundMountains",
+      "persistentUuid": "46f99062-b7c1-4896-b2fb-9bd5fae1d5ab",
+      "width": 50000,
+      "x": -999,
+      "y": 179,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 259,
+      "layer": "",
+      "locked": true,
+      "name": "CloudLayer2",
+      "persistentUuid": "1d2af904-9ab2-46e3-a96b-cc1627de952b",
+      "width": 50000,
+      "x": -999,
+      "y": 163,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 113,
+      "layer": "",
+      "locked": true,
+      "name": "MountainBackground",
+      "persistentUuid": "77b53aed-f71e-46ee-8d4c-fddaa920a2fd",
+      "width": 50000,
+      "x": -1000,
+      "y": 513,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 68,
+      "layer": "",
+      "locked": true,
+      "name": "Dirt",
+      "persistentUuid": "acd606aa-a02f-4e1d-969d-24aaa6bfaef8",
+      "width": 5000,
+      "x": -1001,
+      "y": 607,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "objects": [
+    {
+      "assetStoreId": "3a50c8a940670eb3cd63065f30cd104b595ab49fd621a9b6b0b1b91996963f8d",
+      "height": 128,
+      "name": "SkyBackground",
+      "texture": "tiled_Sky Background.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 128,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "ce438ae9cd9906b0ae2a1fe9d87862f94a10534f1784865511d8c9751c6b6bb5",
+      "height": 128,
+      "name": "BackgroundMountains",
+      "texture": "tiled_Background Mountains.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 128,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "96f8c74c962276380e8f59663da5937350499c1441a6f00100f9b13d4a346e62",
+      "height": 128,
+      "name": "CloudLayer2",
+      "texture": "tiled_Cloud layer 2.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 128,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "376237c3c6c6e6cecae4466c5426c7164fc11b68278337da8b05effed2346113",
+      "height": 128,
+      "name": "MountainBackground",
+      "texture": "tiled_Mountain Background.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 128,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "d7e48a404c7f7aaabaa954f6144b923fee318e157a92aeb15ee4eab2127c87f1",
+      "height": 128,
+      "name": "Dirt",
+      "texture": "tiled_Dirt.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 128,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "canBeGrabbed": true,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ]
+    }
+  ],
   "objectsFolderStructure": {
-    "folderName": "__ROOT"
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "SkyBackground"
+      },
+      {
+        "objectName": "BackgroundMountains"
+      },
+      {
+        "objectName": "CloudLayer2"
+      },
+      {
+        "objectName": "MountainBackground"
+      },
+      {
+        "objectName": "Dirt"
+      }
+    ]
   },
   "events": [],
   "layers": [
