@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.04398004747379646,
+    "zoomFactor": 0.47893418845354074,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -3092,6 +3092,22 @@
       "x": 25927,
       "y": 361,
       "zOrder": 147,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 78,
+      "layer": "",
+      "name": "pet",
+      "persistentUuid": "0db062c9-debd-41a8-8780-77c815c6904c",
+      "width": 65,
+      "x": 188,
+      "y": 212,
+      "zOrder": 162,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -72687,6 +72703,779 @@
           "type": "Tween::TweenBehavior"
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "c6a1a26f75fbb8b69cffa251644f35fbf7df5f84440d7cd03c7402234eb6f6b1",
+      "name": "pet",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "Charging Magic Flying",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fairy_Charging Magic Flying_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 24
+                      },
+                      {
+                        "x": 8,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fairy_Charging Magic Flying_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 24
+                      },
+                      {
+                        "x": 8,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fairy_Charging Magic Flying_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 24
+                      },
+                      {
+                        "x": 8,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fairy_Charging Magic Flying_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 24
+                      },
+                      {
+                        "x": 8,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hurt",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fairy_Hurt.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 24
+                      },
+                      {
+                        "x": 8,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Flying Forward Movement",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fairy_Flying Forward Movement_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 24
+                      },
+                      {
+                        "x": 8,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fairy_Flying Forward Movement_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 24
+                      },
+                      {
+                        "x": 8,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fairy_Flying Forward Movement_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 24
+                      },
+                      {
+                        "x": 8,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fairy_Flying Forward Movement_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 24
+                      },
+                      {
+                        "x": 8,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Idle Flying",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fairy_Idle Flying_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 24
+                      },
+                      {
+                        "x": 8,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fairy_Idle Flying_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 24
+                      },
+                      {
+                        "x": 8,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fairy_Idle Flying_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 24
+                      },
+                      {
+                        "x": 8,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fairy_Idle Flying_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 24
+                      },
+                      {
+                        "x": 8,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Idle Ground",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.5,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fairy_Idle Ground_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 24
+                      },
+                      {
+                        "x": 8,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fairy_Idle Ground_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 24
+                      },
+                      {
+                        "x": 8,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Magic Attack Release",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.25,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fairy_Magic Attack Release_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 24
+                      },
+                      {
+                        "x": 8,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fairy_Magic Attack Release_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 24
+                      },
+                      {
+                        "x": 8,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fairy_Magic Attack Release_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 24
+                      },
+                      {
+                        "x": 8,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Fairy_Magic Attack Release_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 8
+                      },
+                      {
+                        "x": 24,
+                        "y": 24
+                      },
+                      {
+                        "x": 8,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -72967,6 +73756,9 @@
       },
       {
         "objectName": "Ladder"
+      },
+      {
+        "objectName": "pet"
       }
     ]
   },
@@ -73539,9 +74331,15 @@
       "conditions": [
         {
           "type": {
-            "value": "BuiltinCommonInstructions::Once"
+            "inverted": true,
+            "value": "Distance"
           },
-          "parameters": []
+          "parameters": [
+            "turtle",
+            "pet",
+            "200",
+            ""
+          ]
         }
       ],
       "actions": [
@@ -73550,10 +74348,10 @@
             "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
           },
           "parameters": [
-            "",
+            "pet",
             "Tween",
-            "",
-            "2471+200",
+            "\"follow1\"",
+            "turtle.X()+200",
             "\"linear\"",
             "1",
             ""
@@ -73561,24 +74359,16 @@
         },
         {
           "type": {
-            "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+            "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
           },
           "parameters": [
-            "",
+            "pet",
             "Tween",
-            "",
-            "2513+200",
+            "\"follow2\"",
+            "turtle.CenterY()-200",
             "\"linear\"",
             "1",
             ""
-          ]
-        },
-        {
-          "type": {
-            "value": "Wait"
-          },
-          "parameters": [
-            "1"
           ]
         }
       ]
@@ -73588,62 +74378,23 @@
       "conditions": [
         {
           "type": {
-            "value": "Tween::HasFinished"
+            "value": "KeyPressed"
           },
           "parameters": [
-            "level2_letter2",
-            "Tween",
-            "\"GoRight\""
+            "",
+            "Left"
           ]
         }
       ],
       "actions": [
         {
           "type": {
-            "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+            "value": "FlippableCapability::FlippableBehavior::FlipX"
           },
           "parameters": [
-            "level2_letter2",
-            "Tween",
-            "\"GoLeft\"",
-            "2471-200",
-            "\"linear\"",
-            "1",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
-          },
-          "parameters": [
-            "Sample_letter",
-            "Tween",
-            "\"GoLeft\"",
-            "2513-200",
-            "\"linear\"",
-            "1",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "Tween::RemoveTween"
-          },
-          "parameters": [
-            "level2_letter2",
-            "Tween",
-            "\"GoRight\""
-          ]
-        },
-        {
-          "type": {
-            "value": "Tween::RemoveTween"
-          },
-          "parameters": [
-            "Sample_letter",
-            "Tween",
-            "\"GoRight\""
+            "pet",
+            "Flippable",
+            "yes"
           ]
         }
       ]
@@ -73653,65 +74404,31 @@
       "conditions": [
         {
           "type": {
-            "value": "Tween::HasFinished"
+            "value": "KeyPressed"
           },
           "parameters": [
-            "level2_letter2",
-            "Tween",
-            "\"GoLeft\""
+            "",
+            "Right"
           ]
         }
       ],
       "actions": [
         {
           "type": {
-            "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+            "value": "FlippableCapability::FlippableBehavior::FlipX"
           },
           "parameters": [
-            "level2_letter2",
-            "Tween",
-            "\"GoRight\"",
-            "2471+200",
-            "\"linear\"",
-            "1",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
-          },
-          "parameters": [
-            "Sample_letter",
-            "Tween",
-            "\"GoRight\"",
-            "2513+200",
-            "\"linear\"",
-            "1",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "Tween::RemoveTween"
-          },
-          "parameters": [
-            "level2_letter2",
-            "Tween",
-            "\"GoLeft\""
-          ]
-        },
-        {
-          "type": {
-            "value": "Tween::RemoveTween"
-          },
-          "parameters": [
-            "Sample_letter",
-            "Tween",
-            "\"GoLeft\""
+            "pet",
+            "Flippable",
+            "no"
           ]
         }
       ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
