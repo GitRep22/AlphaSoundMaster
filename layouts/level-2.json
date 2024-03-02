@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.49508400737490094,
+    "zoomFactor": 0.04398004747379646,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -166,22 +166,6 @@
       "height": 85,
       "layer": "",
       "name": "WoodHud",
-      "persistentUuid": "2440e480-3cda-4874-b8bb-bf8774181dd8",
-      "width": 143,
-      "x": 5267,
-      "y": 573,
-      "zOrder": 3,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 85,
-      "layer": "",
-      "name": "WoodHud",
       "persistentUuid": "af52a032-abbe-4937-9304-e26662a0759d",
       "width": 143,
       "x": 5411,
@@ -232,8 +216,8 @@
       "name": "WoodHud",
       "persistentUuid": "6d956558-7928-4181-832b-cf3eb6248d5e",
       "width": 143,
-      "x": 5828,
-      "y": 328,
+      "x": 6000,
+      "y": 213,
       "zOrder": 3,
       "numberProperties": [],
       "stringProperties": [],
@@ -248,8 +232,8 @@
       "name": "level2_letter4",
       "persistentUuid": "81444d3e-d859-40f6-b92b-55cbeafcf421",
       "width": 160,
-      "x": 6317,
-      "y": 415,
+      "x": 5826,
+      "y": 237,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -264,8 +248,8 @@
       "name": "level2_letter5",
       "persistentUuid": "62cc0a9f-b81a-475e-868f-9016859ce8c6",
       "width": 160,
-      "x": 6495,
-      "y": 303,
+      "x": 6160,
+      "y": 267,
       "zOrder": 14,
       "numberProperties": [
         {
@@ -288,22 +272,6 @@
       "x": 6653,
       "y": 188,
       "zOrder": 15,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 85,
-      "layer": "",
-      "name": "WoodHud",
-      "persistentUuid": "1269f9d6-1202-453b-8816-0aa659b26426",
-      "width": 143,
-      "x": 7516,
-      "y": 574,
-      "zOrder": 3,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -365,8 +333,8 @@
       "name": "turtle",
       "persistentUuid": "edeb43f5-99dd-47f2-9570-83fd7d2dd7cc",
       "width": 230,
-      "x": 384,
-      "y": 254,
+      "x": 113,
+      "y": 204,
       "zOrder": 46,
       "numberProperties": [],
       "stringProperties": [],
@@ -407,12 +375,12 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 96,
+      "height": 157,
       "layer": "",
       "name": "WoodHud",
       "persistentUuid": "f77c1a99-6754-4929-86b0-dd78b68a5b02",
       "width": 193,
-      "x": 10194,
+      "x": 10205,
       "y": 499,
       "zOrder": 49,
       "numberProperties": [],
@@ -444,8 +412,8 @@
       "name": "level2_letter8",
       "persistentUuid": "2dd0310f-f88e-4a27-813f-3766cca64ab3",
       "width": 160,
-      "x": 10908,
-      "y": 507,
+      "x": 10885,
+      "y": 413,
       "zOrder": 51,
       "numberProperties": [],
       "stringProperties": [],
@@ -460,8 +428,8 @@
       "name": "level2_letter9",
       "persistentUuid": "29090035-7e0a-457c-bba2-64a91635b73c",
       "width": 160,
-      "x": 11343,
-      "y": 509,
+      "x": 11290,
+      "y": 338,
       "zOrder": 52,
       "numberProperties": [],
       "stringProperties": [],
@@ -471,13 +439,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 96,
+      "height": 218,
       "layer": "",
       "name": "WoodHud",
       "persistentUuid": "fcc8ccb7-f291-49c0-8f16-1716f1c968e8",
       "width": 193,
-      "x": 10661,
-      "y": 507,
+      "x": 10656,
+      "y": 441,
       "zOrder": 49,
       "numberProperties": [],
       "stringProperties": [],
@@ -487,13 +455,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 96,
+      "height": 310,
       "layer": "",
       "name": "WoodHud",
       "persistentUuid": "c2692f45-df1b-4b9f-bf2c-d1254a64798a",
       "width": 193,
-      "x": 11093,
-      "y": 506,
+      "x": 11058,
+      "y": 345,
       "zOrder": 49,
       "numberProperties": [],
       "stringProperties": [],
@@ -503,13 +471,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 96,
+      "height": 392,
       "layer": "",
       "name": "WoodHud",
       "persistentUuid": "86615d0d-a3ea-4fde-9619-b4829a8cbd85",
       "width": 193,
-      "x": 11538,
-      "y": 518,
+      "x": 11479,
+      "y": 262,
       "zOrder": 49,
       "numberProperties": [],
       "stringProperties": [],
@@ -582,7 +550,7 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 96,
+      "height": 136,
       "layer": "",
       "name": "WoodHud",
       "persistentUuid": "667f41fa-ec81-44b6-8ea5-f4f0398d7901",
@@ -603,8 +571,8 @@
       "name": "level2_letter10",
       "persistentUuid": "cff8e205-a476-4031-afd5-d38d0687c448",
       "width": 160,
-      "x": 13875,
-      "y": 175,
+      "x": 13857,
+      "y": 325,
       "zOrder": 58,
       "numberProperties": [],
       "stringProperties": [],
@@ -619,8 +587,8 @@
       "name": "level2_letter11",
       "persistentUuid": "7177fcc8-065a-4f90-be29-948fac08ceb0",
       "width": 160,
-      "x": 14152,
-      "y": 171,
+      "x": 14119,
+      "y": 324,
       "zOrder": 59,
       "numberProperties": [],
       "stringProperties": [],
@@ -635,8 +603,8 @@
       "name": "level2_letter12",
       "persistentUuid": "2e43faec-1bc9-4ca6-9b5e-08ec5537d56c",
       "width": 160,
-      "x": 14427,
-      "y": 165,
+      "x": 14358,
+      "y": 323,
       "zOrder": 60,
       "numberProperties": [],
       "stringProperties": [],
@@ -718,8 +686,8 @@
       "name": "WoodHud",
       "persistentUuid": "668984b6-333e-41f0-be28-80f2cfc0926f",
       "width": 0,
-      "x": 17269,
-      "y": 562,
+      "x": 17252,
+      "y": 557,
       "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
@@ -733,8 +701,8 @@
       "name": "WoodHud",
       "persistentUuid": "15983638-10f2-4e14-9e08-9b993f104068",
       "width": 0,
-      "x": 17359,
-      "y": 474,
+      "x": 17349,
+      "y": 491,
       "zOrder": 66,
       "numberProperties": [],
       "stringProperties": [],
@@ -742,30 +710,16 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 96,
       "layer": "",
       "name": "WoodHud",
       "persistentUuid": "8e86cde9-917b-4ba8-bdca-2cbffbc4c4c1",
-      "width": 0,
-      "x": 17449,
-      "y": 385,
+      "width": 91,
+      "x": 17435,
+      "y": 395,
       "zOrder": 67,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "WoodHud",
-      "persistentUuid": "47e390f7-b2f8-4454-a501-1e341eeed10e",
-      "width": 0,
-      "x": 17539,
-      "y": 475,
-      "zOrder": 68,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -779,8 +733,8 @@
       "name": "level2_letter13",
       "persistentUuid": "886c90dc-0bfd-428c-a0a5-e35e7e98b743",
       "width": 160,
-      "x": 17505,
-      "y": 309,
+      "x": 17497,
+      "y": 497,
       "zOrder": 69,
       "numberProperties": [],
       "stringProperties": [],
@@ -794,24 +748,9 @@
       "layer": "",
       "name": "WoodHud",
       "persistentUuid": "058ab6b1-c97f-4744-ab50-8d4e40ef5967",
-      "width": 257,
-      "x": 17628,
-      "y": 385,
-      "zOrder": 68,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "WoodHud",
-      "persistentUuid": "1c049f95-809e-4c8a-826b-1e5c9daad60b",
-      "width": 0,
-      "x": 17878,
-      "y": 474,
+      "width": 222,
+      "x": 17642,
+      "y": 395,
       "zOrder": 68,
       "numberProperties": [],
       "stringProperties": [],
@@ -825,24 +764,9 @@
       "layer": "",
       "name": "WoodHud",
       "persistentUuid": "57cfeabc-7074-43b5-bda5-37a6d0aab8d2",
-      "width": 257,
-      "x": 17966,
-      "y": 385,
-      "zOrder": 68,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "WoodHud",
-      "persistentUuid": "2306d25d-a091-4955-8ecf-3990012d5235",
-      "width": 0,
-      "x": 18216,
-      "y": 474,
+      "width": 212,
+      "x": 17990,
+      "y": 395,
       "zOrder": 68,
       "numberProperties": [],
       "stringProperties": [],
@@ -857,8 +781,8 @@
       "name": "level2_letter14",
       "persistentUuid": "71db5766-4ba3-4137-8419-acbbd8f1f662",
       "width": 160,
-      "x": 17846,
-      "y": 310,
+      "x": 17850,
+      "y": 500,
       "zOrder": 70,
       "numberProperties": [],
       "stringProperties": [],
@@ -873,8 +797,8 @@
       "name": "level2_letter15",
       "persistentUuid": "fa86f4d0-9231-4a01-a087-446c70b4b02f",
       "width": 160,
-      "x": 18187,
-      "y": 310,
+      "x": 18190,
+      "y": 504,
       "zOrder": 71,
       "numberProperties": [],
       "stringProperties": [],
@@ -888,8 +812,8 @@
       "name": "WoodHud",
       "persistentUuid": "81bef913-4f9a-42a9-b9b8-b0609093a2b7",
       "width": 0,
-      "x": 18306,
-      "y": 385,
+      "x": 18318,
+      "y": 397,
       "zOrder": 68,
       "numberProperties": [],
       "stringProperties": [],
@@ -903,8 +827,8 @@
       "name": "WoodHud",
       "persistentUuid": "1d272d12-e5cf-46f6-95e6-a4721e92345e",
       "width": 0,
-      "x": 18396,
-      "y": 473,
+      "x": 18405,
+      "y": 489,
       "zOrder": 67,
       "numberProperties": [],
       "stringProperties": [],
@@ -918,7 +842,7 @@
       "name": "WoodHud",
       "persistentUuid": "3ea5ef4c-29a0-4d4b-beb5-28c4b60355a5",
       "width": 0,
-      "x": 18483,
+      "x": 18500,
       "y": 562,
       "zOrder": 66,
       "numberProperties": [],
@@ -1010,21 +934,6 @@
       "height": 0,
       "layer": "",
       "name": "WoodHud",
-      "persistentUuid": "f507ca5a-5c04-4f3f-89b2-b3b613111076",
-      "width": 0,
-      "x": 20870,
-      "y": 417,
-      "zOrder": 77,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "WoodHud",
       "persistentUuid": "0782b711-90ab-42f0-9ba5-79f7427abe11",
       "width": 0,
       "x": 20967,
@@ -1036,29 +945,15 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "WoodHud",
-      "persistentUuid": "9ac17a19-50a9-44cb-887c-07fbd38f4d1c",
-      "width": 0,
-      "x": 21060,
-      "y": 263,
-      "zOrder": 77,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 89,
       "layer": "",
       "name": "WoodHud",
       "persistentUuid": "5b18d7f2-a989-474a-8a29-b2085f1030ce",
-      "width": 0,
-      "x": 21155,
-      "y": 189,
+      "width": 766,
+      "x": 21206,
+      "y": 223,
       "zOrder": 77,
       "numberProperties": [],
       "stringProperties": [],
@@ -1073,8 +968,8 @@
       "name": "level2_letter16",
       "persistentUuid": "33a90f82-5654-42ff-8932-b7ed4737d701",
       "width": 160,
-      "x": 21616,
-      "y": 328,
+      "x": 20813,
+      "y": 369,
       "zOrder": 78,
       "numberProperties": [],
       "stringProperties": [],
@@ -1089,8 +984,8 @@
       "name": "level2_letter17",
       "persistentUuid": "ae017006-259d-41f7-8d88-ca74e078c0e3",
       "width": 160,
-      "x": 21852,
-      "y": 328,
+      "x": 21060,
+      "y": 163,
       "zOrder": 79,
       "numberProperties": [],
       "stringProperties": [],
@@ -1105,8 +1000,8 @@
       "name": "level2_letter18",
       "persistentUuid": "fc4cac9e-a491-4e89-866f-80513811af30",
       "width": 160,
-      "x": 22114,
-      "y": 328,
+      "x": 21694,
+      "y": 51,
       "zOrder": 80,
       "numberProperties": [],
       "stringProperties": [],
@@ -1121,8 +1016,8 @@
       "name": "level2_word16",
       "persistentUuid": "a88f7cc7-4668-499e-9197-034cab72204a",
       "width": 125,
-      "x": 22786,
-      "y": 378,
+      "x": 22690,
+      "y": 85,
       "zOrder": 81,
       "numberProperties": [],
       "stringProperties": [],
@@ -1137,8 +1032,8 @@
       "name": "level2_word17",
       "persistentUuid": "0cb21aba-531f-4850-a35b-5558ed1113c2",
       "width": 125,
-      "x": 23068,
-      "y": 378,
+      "x": 22972,
+      "y": 85,
       "zOrder": 82,
       "numberProperties": [],
       "stringProperties": [],
@@ -1153,8 +1048,8 @@
       "name": "level2_word18",
       "persistentUuid": "ccfaf20a-b81f-4570-9317-551afdf52bc3",
       "width": 125,
-      "x": 23354,
-      "y": 378,
+      "x": 23258,
+      "y": 85,
       "zOrder": 83,
       "numberProperties": [],
       "stringProperties": [],
@@ -1226,30 +1121,14 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 1,
-      "height": 96,
-      "layer": "",
-      "name": "WoodHud",
-      "persistentUuid": "e9e4fcc2-7425-430c-9813-edb6244e88a6",
-      "width": 564,
-      "x": 26643,
-      "y": 564,
-      "zOrder": 88,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
       "depth": 0,
       "height": 90,
       "layer": "",
       "name": "level2_word20",
       "persistentUuid": "446d60bb-589e-41cc-a4fb-0d50b09730c6",
       "width": 125,
-      "x": 27901,
-      "y": 295,
+      "x": 27909,
+      "y": 363,
       "zOrder": 89,
       "numberProperties": [
         {
@@ -1269,8 +1148,8 @@
       "name": "level2_word19",
       "persistentUuid": "6c750fd1-2c68-432c-a886-9088981aff50",
       "width": 125,
-      "x": 27479,
-      "y": 295,
+      "x": 27487,
+      "y": 363,
       "zOrder": 90,
       "numberProperties": [],
       "stringProperties": [],
@@ -1285,8 +1164,8 @@
       "name": "level2_word21",
       "persistentUuid": "fa3587a7-5a3b-4aa7-89dc-9aec98c38967",
       "width": 125,
-      "x": 28290,
-      "y": 295,
+      "x": 28298,
+      "y": 363,
       "zOrder": 91,
       "numberProperties": [],
       "stringProperties": [],
@@ -1584,8 +1463,8 @@
       "name": "Sample_letter2",
       "persistentUuid": "32e309f3-e4b7-476b-9a99-802017e0f23e",
       "width": 86,
-      "x": 6355,
-      "y": 487,
+      "x": 5864,
+      "y": 309,
       "zOrder": 147,
       "numberProperties": [],
       "stringProperties": [],
@@ -1600,8 +1479,8 @@
       "name": "Sample_letter2",
       "persistentUuid": "565b3c7f-dc02-4836-9f31-e97cbcb2d2a2",
       "width": 86,
-      "x": 6532,
-      "y": 372,
+      "x": 6197,
+      "y": 336,
       "zOrder": 147,
       "numberProperties": [],
       "stringProperties": [],
@@ -1696,8 +1575,8 @@
       "name": "Sample_letter2",
       "persistentUuid": "51e347d1-83f2-456c-b36b-3788e99e476c",
       "width": 88,
-      "x": 10944,
-      "y": 575,
+      "x": 10921,
+      "y": 481,
       "zOrder": 147,
       "numberProperties": [],
       "stringProperties": [],
@@ -1712,8 +1591,8 @@
       "name": "Sample_letter2",
       "persistentUuid": "baa47b46-b958-4ec1-a902-4ed926bf10c5",
       "width": 88,
-      "x": 11380,
-      "y": 577,
+      "x": 11327,
+      "y": 406,
       "zOrder": 147,
       "numberProperties": [],
       "stringProperties": [],
@@ -1776,8 +1655,8 @@
       "name": "Sample_letter2",
       "persistentUuid": "7fb9c31d-a2b6-4f6b-9e98-e69c1a16f675",
       "width": 82,
-      "x": 13914,
-      "y": 246,
+      "x": 13896,
+      "y": 396,
       "zOrder": 147,
       "numberProperties": [],
       "stringProperties": [],
@@ -1792,8 +1671,8 @@
       "name": "Sample_letter2",
       "persistentUuid": "701d6dd7-ded1-436e-a3a0-28eb26e295dc",
       "width": 82,
-      "x": 14189,
-      "y": 244,
+      "x": 14156,
+      "y": 397,
       "zOrder": 147,
       "numberProperties": [],
       "stringProperties": [],
@@ -1808,8 +1687,8 @@
       "name": "Sample_letter2",
       "persistentUuid": "15f69750-d5bc-4708-a762-3cfe15754a4a",
       "width": 90,
-      "x": 14461,
-      "y": 238,
+      "x": 14392,
+      "y": 396,
       "zOrder": 147,
       "numberProperties": [],
       "stringProperties": [],
@@ -1872,8 +1751,8 @@
       "name": "Sample_letter2",
       "persistentUuid": "6651d176-be0b-4e11-94b8-d8a25abac7a2",
       "width": 94,
-      "x": 17537,
-      "y": 382,
+      "x": 17529,
+      "y": 570,
       "zOrder": 147,
       "numberProperties": [],
       "stringProperties": [],
@@ -1888,8 +1767,8 @@
       "name": "Sample_letter2",
       "persistentUuid": "5340d850-d875-4896-a697-ab759c7cda58",
       "width": 94,
-      "x": 17881,
-      "y": 385,
+      "x": 17885,
+      "y": 575,
       "zOrder": 147,
       "numberProperties": [],
       "stringProperties": [],
@@ -1904,8 +1783,8 @@
       "name": "Sample_letter2",
       "persistentUuid": "44225b8b-6ced-46f7-90f9-8ca25d430f84",
       "width": 94,
-      "x": 18221,
-      "y": 382,
+      "x": 18224,
+      "y": 576,
       "zOrder": 147,
       "numberProperties": [],
       "stringProperties": [],
@@ -1968,8 +1847,8 @@
       "name": "Sample_letter2",
       "persistentUuid": "b3f706b8-405b-4444-8626-1e6464ccc17f",
       "width": 82,
-      "x": 21656,
-      "y": 403,
+      "x": 20853,
+      "y": 444,
       "zOrder": 147,
       "numberProperties": [],
       "stringProperties": [],
@@ -1984,8 +1863,8 @@
       "name": "Sample_letter2",
       "persistentUuid": "8d9caac4-680d-488f-9c6a-8835671866c4",
       "width": 82,
-      "x": 21892,
-      "y": 402,
+      "x": 21100,
+      "y": 237,
       "zOrder": 147,
       "numberProperties": [],
       "stringProperties": [],
@@ -2000,8 +1879,8 @@
       "name": "Sample_letter2",
       "persistentUuid": "88d2a555-e19c-4860-8b8d-372806674223",
       "width": 82,
-      "x": 22151,
-      "y": 400,
+      "x": 21731,
+      "y": 123,
       "zOrder": 147,
       "numberProperties": [],
       "stringProperties": [],
@@ -2016,8 +1895,8 @@
       "name": "Sample_letter2",
       "persistentUuid": "2e8e16a6-8184-40ca-88df-f05c96cbc542",
       "width": 128,
-      "x": 22789,
-      "y": 380,
+      "x": 22693,
+      "y": 87,
       "zOrder": 147,
       "numberProperties": [],
       "stringProperties": [],
@@ -2032,8 +1911,8 @@
       "name": "Sample_letter2",
       "persistentUuid": "b25c95e9-b1df-44e5-8c62-3ab75b7ab454",
       "width": 128,
-      "x": 23069,
-      "y": 379,
+      "x": 22973,
+      "y": 86,
       "zOrder": 147,
       "numberProperties": [],
       "stringProperties": [],
@@ -2048,8 +1927,8 @@
       "name": "Sample_letter2",
       "persistentUuid": "0055f876-6033-49c7-ac92-2a15d7905f79",
       "width": 128,
-      "x": 23355,
-      "y": 381,
+      "x": 23259,
+      "y": 88,
       "zOrder": 147,
       "numberProperties": [],
       "stringProperties": [],
@@ -2091,13 +1970,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 82,
+      "height": 46,
       "layer": "",
       "name": "Sample_letter2",
       "persistentUuid": "5725e1e6-2176-40a6-8a4c-ad0acd9f18ed",
-      "width": 86,
-      "x": 25932,
-      "y": 360,
+      "width": 48,
+      "x": 29228,
+      "y": 330,
       "zOrder": 147,
       "numberProperties": [],
       "stringProperties": [],
@@ -2112,8 +1991,8 @@
       "name": "Sample_letter2",
       "persistentUuid": "8231458b-c6f5-40b6-96b5-a4d930c5f1b3",
       "width": 132,
-      "x": 27478,
-      "y": 301,
+      "x": 27486,
+      "y": 369,
       "zOrder": 147,
       "numberProperties": [],
       "stringProperties": [],
@@ -2128,8 +2007,8 @@
       "name": "Sample_letter2",
       "persistentUuid": "183754cd-1012-4053-b884-c4f0ff1067af",
       "width": 130,
-      "x": 27899,
-      "y": 297,
+      "x": 27907,
+      "y": 365,
       "zOrder": 147,
       "numberProperties": [],
       "stringProperties": [],
@@ -2144,8 +2023,8 @@
       "name": "Sample_letter2",
       "persistentUuid": "a716302f-8a71-43cc-a6b6-c23c5afd0b3f",
       "width": 126,
-      "x": 28292,
-      "y": 299,
+      "x": 28300,
+      "y": 367,
       "zOrder": 147,
       "numberProperties": [],
       "stringProperties": [],
@@ -2179,22 +2058,6 @@
       "x": 31016,
       "y": 129,
       "zOrder": 127,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 74,
-      "layer": "",
-      "name": "ArrowKey7",
-      "persistentUuid": "26e34d3a-febe-44d8-8888-e7aff234269e",
-      "width": 69,
-      "x": 31080,
-      "y": 416,
-      "zOrder": 141,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2240,8 +2103,8 @@
       "name": "CoinGold",
       "persistentUuid": "75a5fb62-da22-4942-9d5d-f745df104a1b",
       "width": 135,
-      "x": 6881,
-      "y": 92,
+      "x": 6537,
+      "y": 228,
       "zOrder": 129,
       "numberProperties": [],
       "stringProperties": [],
@@ -2256,8 +2119,8 @@
       "name": "CoinGold",
       "persistentUuid": "ac281a8f-d055-48c0-960c-3f49dae1449f",
       "width": 135,
-      "x": 8434,
-      "y": 372,
+      "x": 8421,
+      "y": 276,
       "zOrder": 129,
       "numberProperties": [],
       "stringProperties": [],
@@ -2272,8 +2135,8 @@
       "name": "CoinGold",
       "persistentUuid": "5551c3db-b6a4-4dec-b093-5d57a79dbd38",
       "width": 135,
-      "x": 8794,
-      "y": 372,
+      "x": 8771,
+      "y": 276,
       "zOrder": 129,
       "numberProperties": [],
       "stringProperties": [],
@@ -2288,8 +2151,8 @@
       "name": "CoinGold",
       "persistentUuid": "72c9f55a-d2fd-4bbc-867f-75d1a750821a",
       "width": 135,
-      "x": 10667,
-      "y": 239,
+      "x": 10894,
+      "y": 366,
       "zOrder": 129,
       "numberProperties": [],
       "stringProperties": [],
@@ -2304,8 +2167,8 @@
       "name": "CoinGold",
       "persistentUuid": "9e26c0fb-19fb-4f3c-80ed-86d508db0fb1",
       "width": 135,
-      "x": 11128,
-      "y": 228,
+      "x": 11299,
+      "y": 292,
       "zOrder": 129,
       "numberProperties": [],
       "stringProperties": [],
@@ -2320,8 +2183,8 @@
       "name": "CoinGold",
       "persistentUuid": "27230f15-4e39-47c8-8d31-97df4c5b3119",
       "width": 135,
-      "x": 14017,
-      "y": 349,
+      "x": 13864,
+      "y": 62,
       "zOrder": 129,
       "numberProperties": [],
       "stringProperties": [],
@@ -2336,8 +2199,8 @@
       "name": "CoinGold",
       "persistentUuid": "48fa2919-5862-4276-bb43-b878aec4c363",
       "width": 135,
-      "x": 14325,
-      "y": 342,
+      "x": 14366,
+      "y": 62,
       "zOrder": 129,
       "numberProperties": [],
       "stringProperties": [],
@@ -2352,8 +2215,8 @@
       "name": "CoinGold",
       "persistentUuid": "38d0b1bf-2976-4fef-ace6-41735ab1a3a8",
       "width": 135,
-      "x": 15618,
-      "y": 310,
+      "x": 15620,
+      "y": 277,
       "zOrder": 129,
       "numberProperties": [],
       "stringProperties": [],
@@ -2368,8 +2231,8 @@
       "name": "CoinGold",
       "persistentUuid": "d729fae7-0117-4de4-92d9-70e10675eaad",
       "width": 135,
-      "x": 15870,
-      "y": 314,
+      "x": 15866,
+      "y": 277,
       "zOrder": 129,
       "numberProperties": [],
       "stringProperties": [],
@@ -2384,8 +2247,8 @@
       "name": "CoinGold",
       "persistentUuid": "d120179b-f7a3-40db-912a-52feea9a1532",
       "width": 135,
-      "x": 17686,
-      "y": 232,
+      "x": 17513,
+      "y": 450,
       "zOrder": 129,
       "numberProperties": [],
       "stringProperties": [],
@@ -2400,8 +2263,8 @@
       "name": "CoinGold",
       "persistentUuid": "f64b3930-2633-43ec-8479-eed5bb567dd7",
       "width": 135,
-      "x": 18033,
-      "y": 232,
+      "x": 18198,
+      "y": 450,
       "zOrder": 129,
       "numberProperties": [],
       "stringProperties": [],
@@ -2448,8 +2311,8 @@
       "name": "CoinGold",
       "persistentUuid": "53c66ded-f007-4352-befa-30ee396aba5a",
       "width": 135,
-      "x": 21139,
-      "y": 15,
+      "x": 21211,
+      "y": 89,
       "zOrder": 129,
       "numberProperties": [],
       "stringProperties": [],
@@ -2480,8 +2343,8 @@
       "name": "CoinGold",
       "persistentUuid": "9ea20e39-a5c7-4356-8404-006bbcea4165",
       "width": 135,
-      "x": 22237,
-      "y": 366,
+      "x": 21712,
+      "y": -25,
       "zOrder": 129,
       "numberProperties": [],
       "stringProperties": [],
@@ -2496,8 +2359,8 @@
       "name": "CoinGold",
       "persistentUuid": "18340cba-c2b0-46b6-988f-84c3f1b7b805",
       "width": 135,
-      "x": 23608,
-      "y": 346,
+      "x": 23512,
+      "y": 53,
       "zOrder": 129,
       "numberProperties": [],
       "stringProperties": [],
@@ -2544,8 +2407,8 @@
       "name": "CoinGold",
       "persistentUuid": "65a4e5b1-c9a8-419c-878e-304ffc6a5b62",
       "width": 135,
-      "x": 27696,
-      "y": 274,
+      "x": 27704,
+      "y": 342,
       "zOrder": 129,
       "numberProperties": [],
       "stringProperties": [],
@@ -2560,8 +2423,8 @@
       "name": "CoinGold",
       "persistentUuid": "095d5b9b-007b-4db3-b9e3-5e207fc1071d",
       "width": 135,
-      "x": 28117,
-      "y": 278,
+      "x": 28125,
+      "y": 346,
       "zOrder": 129,
       "numberProperties": [],
       "stringProperties": [],
@@ -2606,58 +2469,10 @@
       "height": 546,
       "layer": "",
       "name": "LongRectangleWood2",
-      "persistentUuid": "81a3aa93-d43f-4cd4-8d73-d22409b5fe87",
-      "width": 70,
-      "x": 7557,
-      "y": 26,
-      "zOrder": 92,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 546,
-      "layer": "",
-      "name": "LongRectangleWood2",
-      "persistentUuid": "6ed5d413-f187-4c6d-b50e-7dabd63436b0",
-      "width": 70,
-      "x": 11819,
-      "y": 109,
-      "zOrder": 92,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 546,
-      "layer": "",
-      "name": "LongRectangleWood2",
       "persistentUuid": "948139e6-02d0-4e68-b313-021f52aa6a28",
       "width": 70,
       "x": 13386,
       "y": 108,
-      "zOrder": 92,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 546,
-      "layer": "",
-      "name": "LongRectangleWood2",
-      "persistentUuid": "85bd12dc-a657-4e6b-a245-fd419ba7bd0e",
-      "width": 70,
-      "x": 15013,
-      "y": 119,
       "zOrder": 92,
       "numberProperties": [],
       "stringProperties": [],
@@ -2686,42 +2501,10 @@
       "height": 546,
       "layer": "",
       "name": "LongRectangleWood2",
-      "persistentUuid": "b6d54ac9-7399-4e70-8aec-732e6754b831",
-      "width": 70,
-      "x": 18792,
-      "y": 115,
-      "zOrder": 92,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 546,
-      "layer": "",
-      "name": "LongRectangleWood2",
       "persistentUuid": "3579b3ac-ee73-406d-b113-70ad87b9c3fc",
       "width": 70,
       "x": 20299,
       "y": 115,
-      "zOrder": 92,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 546,
-      "layer": "",
-      "name": "LongRectangleWood2",
-      "persistentUuid": "f1a1bed2-09d1-4f7b-89ed-acabd786c120",
-      "width": 70,
-      "x": 22553,
-      "y": 107,
       "zOrder": 92,
       "numberProperties": [],
       "stringProperties": [],
@@ -2747,29 +2530,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 546,
-      "layer": "",
-      "name": "LongRectangleWood2",
-      "persistentUuid": "e2bfde4a-528e-45ca-9c32-5d0b8c84b7f6",
-      "width": 70,
-      "x": 26892,
-      "y": 16,
-      "zOrder": 92,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 546,
+      "height": 789,
       "layer": "",
       "name": "LongRectangleWood2",
       "persistentUuid": "c62bbccf-2148-4f6c-8c0d-1d3743100495",
-      "width": 70,
-      "x": 28748,
-      "y": 112,
+      "width": 43,
+      "x": 28534,
+      "y": -126,
       "zOrder": 92,
       "numberProperties": [],
       "stringProperties": [],
@@ -2835,6 +2602,496 @@
       "x": 2100,
       "y": 331,
       "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 61,
+      "layer": "",
+      "name": "ArrowKey",
+      "persistentUuid": "a84d690a-f40d-4d0d-9fe4-e71414858353",
+      "width": 55,
+      "x": 5296,
+      "y": 231,
+      "zOrder": 150,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "ArrowKey2",
+      "persistentUuid": "8951f797-c4a6-4354-b741-5f8375b9a8f1",
+      "width": 0,
+      "x": 9942,
+      "y": 233,
+      "zOrder": 151,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 85,
+      "layer": "",
+      "name": "WoodHud",
+      "persistentUuid": "34a532fa-d680-4dc0-8140-b4dd390de5c4",
+      "width": 143,
+      "x": 6335,
+      "y": 440,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 85,
+      "layer": "",
+      "name": "WoodHud",
+      "persistentUuid": "778f55b0-2815-4020-82da-b0a21a5ead24",
+      "width": 143,
+      "x": 6535,
+      "y": 373,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 41,
+      "layer": "",
+      "name": "Sample_letter2",
+      "persistentUuid": "04673658-a318-4017-888e-3041e6f6ec65",
+      "width": 41,
+      "x": 5306,
+      "y": 236,
+      "zOrder": 147,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 51,
+      "layer": "",
+      "name": "Sample_letter2",
+      "persistentUuid": "a497afe6-08f6-447b-bdd1-6bda908c7ad7",
+      "width": 46,
+      "x": 9950,
+      "y": 230,
+      "zOrder": 147,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 135,
+      "layer": "",
+      "name": "CoinGold",
+      "persistentUuid": "79df3e5f-9003-476f-9c4b-332a36b7bd8c",
+      "width": 135,
+      "x": 10459,
+      "y": 452,
+      "zOrder": 129,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "ArrowKey3",
+      "persistentUuid": "53963cff-488d-4188-a820-b89cada814f3",
+      "width": 0,
+      "x": 13600,
+      "y": 216,
+      "zOrder": 152,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 52,
+      "layer": "",
+      "name": "Sample_letter2",
+      "persistentUuid": "5b672970-2dda-4cf1-aa38-84cb10ba25ed",
+      "width": 49,
+      "x": 13607,
+      "y": 216,
+      "zOrder": 147,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 135,
+      "layer": "",
+      "name": "CoinGold",
+      "persistentUuid": "5062d2db-efcb-4bd8-90ff-5f08c6b26e8c",
+      "width": 135,
+      "x": 14132,
+      "y": 62,
+      "zOrder": 129,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "ArrowKey4",
+      "persistentUuid": "3fa77871-7700-4727-9111-f758ded76a25",
+      "width": 0,
+      "x": 16794,
+      "y": 331,
+      "zOrder": 153,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 41,
+      "layer": "",
+      "name": "Sample_letter2",
+      "persistentUuid": "ffc19ce6-7280-49a8-94d5-861bd9132bbc",
+      "width": 38,
+      "x": 16803,
+      "y": 338,
+      "zOrder": 147,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 135,
+      "layer": "",
+      "name": "CoinGold",
+      "persistentUuid": "3c9798d0-399a-47d0-9bdc-d9fd9bfa3d63",
+      "width": 135,
+      "x": 17861,
+      "y": 450,
+      "zOrder": 129,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "ArrowKey5",
+      "persistentUuid": "c7e6ebfb-ea18-4df5-8b7c-cfd195e22e4d",
+      "width": 0,
+      "x": 20588,
+      "y": 226,
+      "zOrder": 154,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 243,
+      "layer": "",
+      "name": "Ladder",
+      "persistentUuid": "c36725fa-d08c-4ce1-8d63-6bfb2d4fa299",
+      "width": 91,
+      "x": 22532,
+      "y": 423,
+      "zOrder": 155,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 94,
+      "layer": "",
+      "name": "WoodHud",
+      "persistentUuid": "49c76a4e-884a-4562-ae70-d702855862a2",
+      "width": 175,
+      "x": 23384,
+      "y": 421,
+      "zOrder": 156,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 82,
+      "layer": "",
+      "name": "WoodHud",
+      "persistentUuid": "31158bbc-5497-4587-957a-42f62f077e5b",
+      "width": 320,
+      "x": 23379,
+      "y": 584,
+      "zOrder": 156,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 77,
+      "layer": "",
+      "name": "WoodHud",
+      "persistentUuid": "76bbf388-a368-4018-9436-9fa5080538bc",
+      "width": 241,
+      "x": 23381,
+      "y": 512,
+      "zOrder": 156,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 38,
+      "layer": "",
+      "name": "WoodHud3",
+      "persistentUuid": "e1428294-479f-4b8a-b821-73fb249cb63d",
+      "width": 1044,
+      "x": 22515,
+      "y": 387,
+      "zOrder": 157,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "ArrowKey6",
+      "persistentUuid": "0ff12189-31de-45b1-9585-8817f3f68354",
+      "width": 0,
+      "x": 24684,
+      "y": 320,
+      "zOrder": 158,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 45,
+      "layer": "",
+      "name": "Sample_letter2",
+      "persistentUuid": "21a45e53-95bb-46cb-89b7-fe862acd1d6d",
+      "width": 44,
+      "x": 24693,
+      "y": 325,
+      "zOrder": 147,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 39,
+      "layer": "",
+      "name": "WoodHud3",
+      "persistentUuid": "4227e429-2de1-4eca-a79f-de064841d5c8",
+      "width": 1626,
+      "x": 26908,
+      "y": 199,
+      "zOrder": 157,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "layer": "",
+      "name": "WoodHud",
+      "persistentUuid": "7caa2f80-5157-49cd-9341-d6ab75747aef",
+      "width": 128,
+      "x": 26526,
+      "y": 567,
+      "zOrder": 88,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 257,
+      "layer": "",
+      "name": "WoodHud",
+      "persistentUuid": "96a3cd63-8ef8-478c-ac08-9a9eb75ecedd",
+      "width": 123,
+      "x": 26655,
+      "y": 401,
+      "zOrder": 88,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 409,
+      "layer": "",
+      "name": "WoodHud",
+      "persistentUuid": "22b08a46-5a59-4281-b097-9d9240e6077c",
+      "width": 126,
+      "x": 26779,
+      "y": 253,
+      "zOrder": 88,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 456,
+      "layer": "",
+      "name": "WoodHud",
+      "persistentUuid": "f64faa9a-c4ac-426b-8fea-0c47e8183b85",
+      "width": 120,
+      "x": 26907,
+      "y": 204,
+      "zOrder": 88,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 461,
+      "layer": "",
+      "name": "Ladder",
+      "persistentUuid": "d9ca23c8-e37e-461d-b9a9-91a82922928d",
+      "width": 90,
+      "x": 27156,
+      "y": 198,
+      "zOrder": 159,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 783,
+      "layer": "",
+      "name": "WoodHud4",
+      "persistentUuid": "3e895173-f630-4b09-9f8d-47021a1c49a9",
+      "width": 41,
+      "x": 28533,
+      "y": -120,
+      "zOrder": 160,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "ArrowKey7",
+      "persistentUuid": "4317b447-ee82-4c9f-9a1b-2c4d8040a5bd",
+      "width": 0,
+      "x": 29218,
+      "y": 328,
+      "zOrder": 161,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 84,
+      "layer": "",
+      "name": "Sample_letter2",
+      "persistentUuid": "6bad5504-8f1a-408b-8285-bc4d5574ad92",
+      "width": 94,
+      "x": 22670,
+      "y": 419,
+      "zOrder": 147,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 82,
+      "layer": "",
+      "name": "Sample_letter2",
+      "persistentUuid": "82bc4f37-9fdb-4011-a38c-5c72c429883c",
+      "width": 86,
+      "x": 25927,
+      "y": 361,
+      "zOrder": 147,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -72381,6 +72638,55 @@
           "type": "Tween::TweenBehavior"
         }
       ]
+    },
+    {
+      "assetStoreId": "8b0d151969a3e5a63292058f40c8cf899f8498300e85301762f1c144e19b5631",
+      "bottomMargin": 32,
+      "height": 96,
+      "leftMargin": 32,
+      "name": "WoodHud3",
+      "rightMargin": 32,
+      "texture": "9patch_Wood Hud_all_32.png",
+      "tiled": true,
+      "topMargin": 32,
+      "type": "PanelSpriteObject::PanelSprite",
+      "width": 96,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "platformType": "Jumpthru",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "yGrabOffset": 0
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ]
+    },
+    {
+      "assetStoreId": "8b0d151969a3e5a63292058f40c8cf899f8498300e85301762f1c144e19b5631",
+      "bottomMargin": 32,
+      "height": 96,
+      "leftMargin": 32,
+      "name": "WoodHud4",
+      "rightMargin": 32,
+      "texture": "9patch_Wood Hud_all_32.png",
+      "tiled": true,
+      "topMargin": 32,
+      "type": "PanelSpriteObject::PanelSprite",
+      "width": 96,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -72415,6 +72721,12 @@
       },
       {
         "objectName": "WoodHud2"
+      },
+      {
+        "objectName": "WoodHud3"
+      },
+      {
+        "objectName": "WoodHud4"
       },
       {
         "objectName": "OrangeBlock"
@@ -73570,16 +73882,6 @@
       "actions": [
         {
           "type": {
-            "value": "ActivateBehavior"
-          },
-          "parameters": [
-            "LongRectangleWood2",
-            "Platform",
-            "no"
-          ]
-        },
-        {
-          "type": {
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
@@ -73611,6 +73913,16 @@
             "level2_word.X() + 10",
             "level2_word.Y() -100",
             ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "LongRectangleWood2",
+            "Platform",
+            "no"
           ]
         }
       ]
@@ -73747,6 +74059,12 @@
             ">",
             "4600"
           ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
         }
       ],
       "actions": [
@@ -74088,6 +74406,49 @@
             "level2_word6.Y() -120",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "LongRectangleWood2",
+            "Platform",
+            "no"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PosX"
+          },
+          "parameters": [
+            "turtle",
+            ">",
+            "9200"
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "LongRectangleWood2",
+            "Platform",
+            "yes"
+          ]
         }
       ]
     },
@@ -74417,6 +74778,49 @@
             "level2_word9.Y() -120",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "LongRectangleWood2",
+            "Platform",
+            "no"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PosX"
+          },
+          "parameters": [
+            "turtle",
+            ">",
+            "13450"
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "LongRectangleWood2",
+            "Platform",
+            "yes"
+          ]
         }
       ]
     },
@@ -74625,6 +75029,49 @@
             "level2_word10.X()",
             "level2_word10.Y() -150",
             ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "LongRectangleWood2",
+            "Platform",
+            "no"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PosX"
+          },
+          "parameters": [
+            "turtle",
+            ">",
+            "16550"
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "LongRectangleWood2",
+            "Platform",
+            "yes"
           ]
         }
       ]
@@ -75015,6 +75462,49 @@
             "level2_word14.Y() -150",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "LongRectangleWood2",
+            "Platform",
+            "no"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PosX"
+          },
+          "parameters": [
+            "turtle",
+            ">",
+            "20320"
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "LongRectangleWood2",
+            "Platform",
+            "yes"
+          ]
         }
       ]
     },
@@ -75389,7 +75879,7 @@
             "",
             "mat_3",
             "level2_word18.X()",
-            "level2_word18.Y() -120",
+            "level2_word18.Y() -100",
             ""
           ]
         },
@@ -75403,6 +75893,49 @@
             "no",
             "",
             ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "LongRectangleWood2",
+            "Platform",
+            "no"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PosX"
+          },
+          "parameters": [
+            "turtle",
+            ">",
+            "23950"
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "LongRectangleWood2",
+            "Platform",
+            "yes"
           ]
         }
       ]
@@ -75733,6 +76266,66 @@
             "",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "LongRectangleWood2",
+            "Platform",
+            "no"
+          ]
+        },
+        {
+          "type": {
+            "value": "Cache"
+          },
+          "parameters": [
+            "WoodHud4"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PosX"
+          },
+          "parameters": [
+            "turtle",
+            ">",
+            "28560"
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "LongRectangleWood2",
+            "Platform",
+            "yes"
+          ]
+        },
+        {
+          "type": {
+            "value": "Montre"
+          },
+          "parameters": [
+            "WoodHud4",
+            ""
+          ]
         }
       ]
     },
@@ -75764,6 +76357,417 @@
           ]
         }
       ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "ArrowKey",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "MettreXY"
+          },
+          "parameters": [
+            "turtle",
+            "=",
+            "1700",
+            "=",
+            "400"
+          ]
+        },
+        {
+          "type": {
+            "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+          },
+          "parameters": [
+            "turtle",
+            "PlatformerObject",
+            "=",
+            "0"
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "LongRectangleWood2",
+            "Platform",
+            "no"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "ArrowKey2",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "MettreXY"
+          },
+          "parameters": [
+            "turtle",
+            "=",
+            "5200",
+            "=",
+            "400"
+          ]
+        },
+        {
+          "type": {
+            "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+          },
+          "parameters": [
+            "turtle",
+            "PlatformerObject",
+            "=",
+            "0"
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "LongRectangleWood2",
+            "Platform",
+            "no"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "ArrowKey3",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "MettreXY"
+          },
+          "parameters": [
+            "turtle",
+            "=",
+            "9400",
+            "=",
+            "400"
+          ]
+        },
+        {
+          "type": {
+            "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+          },
+          "parameters": [
+            "turtle",
+            "PlatformerObject",
+            "=",
+            "0"
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "LongRectangleWood2",
+            "Platform",
+            "no"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "ArrowKey4",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "MettreXY"
+          },
+          "parameters": [
+            "turtle",
+            "=",
+            "13400",
+            "=",
+            "400"
+          ]
+        },
+        {
+          "type": {
+            "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+          },
+          "parameters": [
+            "turtle",
+            "PlatformerObject",
+            "=",
+            "0"
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "LongRectangleWood2",
+            "Platform",
+            "no"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "ArrowKey5",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "MettreXY"
+          },
+          "parameters": [
+            "turtle",
+            "=",
+            "16870",
+            "=",
+            "400"
+          ]
+        },
+        {
+          "type": {
+            "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+          },
+          "parameters": [
+            "turtle",
+            "PlatformerObject",
+            "=",
+            "0"
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "LongRectangleWood2",
+            "Platform",
+            "no"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "ArrowKey6",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "MettreXY"
+          },
+          "parameters": [
+            "turtle",
+            "=",
+            "20480",
+            "=",
+            "400"
+          ]
+        },
+        {
+          "type": {
+            "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+          },
+          "parameters": [
+            "turtle",
+            "PlatformerObject",
+            "=",
+            "0"
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "LongRectangleWood2",
+            "Platform",
+            "no"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "ArrowKey7",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "MettreXY"
+          },
+          "parameters": [
+            "turtle",
+            "=",
+            "24800",
+            "=",
+            "400"
+          ]
+        },
+        {
+          "type": {
+            "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+          },
+          "parameters": [
+            "turtle",
+            "PlatformerObject",
+            "=",
+            "0"
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "LongRectangleWood2",
+            "Platform",
+            "no"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
     }
   ],
   "layers": [
