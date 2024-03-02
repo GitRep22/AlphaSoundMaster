@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.15508574551593593,
+    "zoomFactor": 0.15002679255026158,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -3084,75 +3084,6 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "door1",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "FlashColor",
-          "type": "Flash::FlashColor",
-          "HalfPeriodTime": 0.1,
-          "IsFlashing": false,
-          "FlashDuration": 0,
-          "TintColor": "\"255;255;255\""
-        }
-      ],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "8453897a00e610fec59d71df2332d63fe8355089cccebd28396a2135c42873b4_Door.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 80,
-                        "y": 67
-                      },
-                      {
-                        "x": 280,
-                        "y": 67
-                      },
-                      {
-                        "x": 280,
-                        "y": 320
-                      },
-                      {
-                        "x": 80,
-                        "y": 320
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
       "name": "If_1",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -4904,9 +4835,6 @@
       },
       {
         "objectName": "NewSprite"
-      },
-      {
-        "objectName": "door1"
       },
       {
         "objectName": "If_1"
@@ -7862,7 +7790,7 @@
           },
           "parameters": [
             "",
-            "\"MainMenu\"",
+            "\"Level 2\"",
             ""
           ]
         }
