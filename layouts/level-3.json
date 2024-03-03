@@ -84868,61 +84868,6 @@
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "inverted": true,
-            "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
-          },
-          "parameters": [
-            "turtle",
-            "PlatformerObject"
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-          },
-          "parameters": [
-            "turtle",
-            "Animation",
-            "=",
-            "\"Idle\""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
-          },
-          "parameters": [
-            "turtle",
-            "PlatformerObject"
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-          },
-          "parameters": [
-            "turtle",
-            "Animation",
-            "=",
-            "\"run\""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
       "conditions": [],
       "actions": [
         {
@@ -84977,31 +84922,6 @@
                 "1"
               ]
             }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "BuiltinCommonInstructions::Once"
-          },
-          "parameters": []
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "PlaySound"
-          },
-          "parameters": [
-            "",
-            "cartoon-jump-6462.mp3",
-            "",
-            "30",
-            "1"
           ]
         }
       ]
@@ -85075,61 +84995,6 @@
                 "\"jump\""
               ]
             }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "inverted": true,
-            "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
-          },
-          "parameters": [
-            "turtle",
-            "PlatformerObject"
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-          },
-          "parameters": [
-            "turtle",
-            "Animation",
-            "=",
-            "\"Idle\""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "PlatformBehavior::IsJumping"
-          },
-          "parameters": [
-            "turtle",
-            "PlatformerObject"
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-          },
-          "parameters": [
-            "turtle",
-            "Animation",
-            "=",
-            "\"jump\""
           ]
         }
       ]
