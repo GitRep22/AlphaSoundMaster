@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.1451328644553316,
+    "zoomFactor": 0.5117784035210209,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -129,11 +129,11 @@
       "depth": 0,
       "height": 225,
       "layer": "",
-      "name": "L4_LTR",
+      "name": "level4_letter",
       "persistentUuid": "d8db5c73-4bea-4769-b0a0-eeed6028a30e",
       "width": 160,
-      "x": 1913,
-      "y": 555,
+      "x": 1909,
+      "y": 171,
       "zOrder": 6,
       "numberProperties": [],
       "stringProperties": [],
@@ -145,11 +145,11 @@
       "depth": 0,
       "height": 225,
       "layer": "",
-      "name": "L4_LTR2",
+      "name": "level4_letter2",
       "persistentUuid": "61397dad-8eeb-445b-aad4-58a6f0ee9e16",
       "width": 160,
-      "x": 2207,
-      "y": 555,
+      "x": 2262,
+      "y": -28,
       "zOrder": 7,
       "numberProperties": [],
       "stringProperties": [],
@@ -161,11 +161,11 @@
       "depth": 0,
       "height": 225,
       "layer": "",
-      "name": "L4_LTR3",
+      "name": "level4_letter3",
       "persistentUuid": "8c6f4359-630c-4a35-8e33-a236992532c1",
       "width": 160,
-      "x": 2545,
-      "y": 555,
+      "x": 2558,
+      "y": 29,
       "zOrder": 8,
       "numberProperties": [],
       "stringProperties": [],
@@ -1599,6 +1599,234 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformLeft",
+      "persistentUuid": "90d746c9-144e-49f3-9961-6440dc9f2b97",
+      "width": 0,
+      "x": 1775,
+      "y": 452,
+      "zOrder": 163,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformRight",
+      "persistentUuid": "56e10160-b8b0-4f4f-962c-2621d74afe78",
+      "width": 0,
+      "x": 1839,
+      "y": 452,
+      "zOrder": 164,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformRight",
+      "persistentUuid": "d8078318-3f64-4234-ba2a-74bc66e8b7d8",
+      "width": 0,
+      "x": 1999,
+      "y": 353,
+      "zOrder": 164,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformLeft",
+      "persistentUuid": "59f35557-7e8d-49a2-95bb-f9a800fd2284",
+      "width": 0,
+      "x": 1935,
+      "y": 353,
+      "zOrder": 163,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformRight",
+      "persistentUuid": "5038fa5c-2107-441c-b865-507e41352b14",
+      "width": 0,
+      "x": 2171,
+      "y": 294,
+      "zOrder": 164,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformLeft",
+      "persistentUuid": "cb0140c4-05ec-4852-9d40-7f155e1644ec",
+      "width": 0,
+      "x": 2107,
+      "y": 294,
+      "zOrder": 163,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformRight",
+      "persistentUuid": "d985dd2f-9821-4fb3-a68d-9307f4dd8067",
+      "width": 0,
+      "x": 2337,
+      "y": 291,
+      "zOrder": 164,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformLeft",
+      "persistentUuid": "5cc16faa-252c-4c40-ae37-be32b79aeef8",
+      "width": 0,
+      "x": 2273,
+      "y": 291,
+      "zOrder": 163,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformRight",
+      "persistentUuid": "c6b483b8-e018-46ad-81e1-4929d1b42c6b",
+      "width": 0,
+      "x": 2502,
+      "y": 480,
+      "zOrder": 164,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformLeft",
+      "persistentUuid": "23de8919-7204-42f1-a7bd-050002c75b13",
+      "width": 0,
+      "x": 2438,
+      "y": 480,
+      "zOrder": 163,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformLeft",
+      "persistentUuid": "9aa0b59d-9a3d-4e52-a369-0c2104ab64c0",
+      "width": 0,
+      "x": 2695,
+      "y": 403,
+      "zOrder": 163,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformRight",
+      "persistentUuid": "850bfa68-a45d-4030-abad-d9e504d74436",
+      "width": 0,
+      "x": 2759,
+      "y": 403,
+      "zOrder": 164,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "9ab14bb0-660b-4c0c-b764-ea3e8ee98ce4",
+      "width": 74,
+      "x": 1952,
+      "y": 249,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "a0e4dbdc-ad91-4097-81dc-800b671d9d9f",
+      "width": 74,
+      "x": 2305,
+      "y": 47,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "6dd0306e-cdd9-4661-a135-083c5329c480",
+      "width": 74,
+      "x": 2604,
+      "y": 106,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -2426,7 +2654,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L4_LTR",
+      "name": "level4_letter",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -3015,6 +3243,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -5002,7 +5231,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L4_LTR2",
+      "name": "level4_letter2",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -5927,11 +6156,12 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "let-i6.png",
+                  "image": "let-i",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -7510,7 +7740,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L4_LTR3",
+      "name": "level4_letter3",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -8723,6 +8953,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -81239,16 +81470,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "bin",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "bin.jpg",
+                  "image": "bin",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -81268,16 +81500,16 @@
                         "y": 0
                       },
                       {
-                        "x": 1920,
+                        "x": 125,
                         "y": 0
                       },
                       {
-                        "x": 1920,
-                        "y": 1920
+                        "x": 125,
+                        "y": 125
                       },
                       {
                         "x": 0,
-                        "y": 1920
+                        "y": 125
                       }
                     ]
                   ]
@@ -81299,16 +81531,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "kid",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kid.jpg",
+                  "image": "kid",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -81328,16 +81561,16 @@
                         "y": 0
                       },
                       {
-                        "x": 820,
+                        "x": 125,
                         "y": 0
                       },
                       {
-                        "x": 820,
-                        "y": 1000
+                        "x": 125,
+                        "y": 152
                       },
                       {
                         "x": 0,
-                        "y": 1000
+                        "y": 152
                       }
                     ]
                   ]
@@ -81420,16 +81653,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "bin",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "bin.jpg",
+                  "image": "bin3",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -81449,16 +81683,16 @@
                         "y": 0
                       },
                       {
-                        "x": 1920,
+                        "x": 125,
                         "y": 0
                       },
                       {
-                        "x": 1920,
-                        "y": 1920
+                        "x": 125,
+                        "y": 125
                       },
                       {
                         "x": 0,
-                        "y": 1920
+                        "y": 125
                       }
                     ]
                   ]
@@ -81480,16 +81714,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "kid",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kid.jpg",
+                  "image": "kid4",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -81509,16 +81744,16 @@
                         "y": 0
                       },
                       {
-                        "x": 820,
+                        "x": 125,
                         "y": 0
                       },
                       {
-                        "x": 820,
-                        "y": 1000
+                        "x": 125,
+                        "y": 152
                       },
                       {
                         "x": 0,
-                        "y": 1000
+                        "y": 152
                       }
                     ]
                   ]
@@ -81540,16 +81775,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "bin",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "bin.jpg",
+                  "image": "bin4",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -81569,16 +81805,16 @@
                         "y": 0
                       },
                       {
-                        "x": 1920,
+                        "x": 125,
                         "y": 0
                       },
                       {
-                        "x": 1920,
-                        "y": 1920
+                        "x": 125,
+                        "y": 125
                       },
                       {
                         "x": 0,
-                        "y": 1920
+                        "y": 125
                       }
                     ]
                   ]
@@ -81600,16 +81836,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "kid",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kid.jpg",
+                  "image": "kid2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -81629,16 +81866,16 @@
                         "y": 0
                       },
                       {
-                        "x": 820,
+                        "x": 125,
                         "y": 0
                       },
                       {
-                        "x": 820,
-                        "y": 1000
+                        "x": 125,
+                        "y": 152
                       },
                       {
                         "x": 0,
-                        "y": 1000
+                        "y": 152
                       }
                     ]
                   ]
@@ -81660,16 +81897,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "lip",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "lip.jpg",
+                  "image": "lip",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -81689,16 +81927,16 @@
                         "y": 0
                       },
                       {
-                        "x": 428,
+                        "x": 125,
                         "y": 0
                       },
                       {
-                        "x": 428,
-                        "y": 360
+                        "x": 125,
+                        "y": 105
                       },
                       {
                         "x": 0,
-                        "y": 360
+                        "y": 105
                       }
                     ]
                   ]
@@ -81720,16 +81958,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "kid",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kid.jpg",
+                  "image": "kid5",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -81749,16 +81988,16 @@
                         "y": 0
                       },
                       {
-                        "x": 820,
+                        "x": 125,
                         "y": 0
                       },
                       {
-                        "x": 820,
-                        "y": 1000
+                        "x": 125,
+                        "y": 152
                       },
                       {
                         "x": 0,
-                        "y": 1000
+                        "y": 152
                       }
                     ]
                   ]
@@ -81841,16 +82080,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "lip",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "lip.jpg",
+                  "image": "lip2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -81870,16 +82110,16 @@
                         "y": 0
                       },
                       {
-                        "x": 428,
+                        "x": 125,
                         "y": 0
                       },
                       {
-                        "x": 428,
-                        "y": 360
+                        "x": 125,
+                        "y": 105
                       },
                       {
                         "x": 0,
-                        "y": 360
+                        "y": 105
                       }
                     ]
                   ]
@@ -81901,16 +82141,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "bin",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "bin.jpg",
+                  "image": "bin2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -81930,16 +82171,16 @@
                         "y": 0
                       },
                       {
-                        "x": 1920,
+                        "x": 125,
                         "y": 0
                       },
                       {
-                        "x": 1920,
-                        "y": 1920
+                        "x": 125,
+                        "y": 125
                       },
                       {
                         "x": 0,
-                        "y": 1920
+                        "y": 125
                       }
                     ]
                   ]
@@ -81961,16 +82202,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "kid",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kid.jpg",
+                  "image": "kid3",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -81990,16 +82232,16 @@
                         "y": 0
                       },
                       {
-                        "x": 820,
+                        "x": 125,
                         "y": 0
                       },
                       {
-                        "x": 820,
-                        "y": 1000
+                        "x": 125,
+                        "y": 152
                       },
                       {
                         "x": 0,
-                        "y": 1000
+                        "y": 152
                       }
                     ]
                   ]
@@ -82021,16 +82263,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "pig3",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "pig3.png",
+                  "image": "pig3",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -82050,16 +82293,16 @@
                         "y": 0
                       },
                       {
-                        "x": 236,
+                        "x": 125,
                         "y": 0
                       },
                       {
-                        "x": 236,
-                        "y": 213
+                        "x": 125,
+                        "y": 113
                       },
                       {
                         "x": 0,
-                        "y": 213
+                        "y": 113
                       }
                     ]
                   ]
@@ -82081,16 +82324,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "pig3",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "pig3.png",
+                  "image": "pig4",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -82110,16 +82354,16 @@
                         "y": 0
                       },
                       {
-                        "x": 236,
+                        "x": 125,
                         "y": 0
                       },
                       {
-                        "x": 236,
-                        "y": 213
+                        "x": 125,
+                        "y": 113
                       },
                       {
                         "x": 0,
-                        "y": 213
+                        "y": 113
                       }
                     ]
                   ]
@@ -82141,16 +82385,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "pin",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "pin.jpg",
+                  "image": "pin",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -82170,16 +82415,16 @@
                         "y": 0
                       },
                       {
-                        "x": 1698,
+                        "x": 125,
                         "y": 0
                       },
                       {
-                        "x": 1698,
-                        "y": 980
+                        "x": 125,
+                        "y": 72
                       },
                       {
                         "x": 0,
-                        "y": 980
+                        "y": 72
                       }
                     ]
                   ]
@@ -82201,16 +82446,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "lip",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "lip.jpg",
+                  "image": "lip3",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -82230,16 +82476,16 @@
                         "y": 0
                       },
                       {
-                        "x": 428,
+                        "x": 125,
                         "y": 0
                       },
                       {
-                        "x": 428,
-                        "y": 360
+                        "x": 125,
+                        "y": 105
                       },
                       {
                         "x": 0,
-                        "y": 360
+                        "y": 105
                       }
                     ]
                   ]
@@ -82261,16 +82507,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "six",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "six.jpg",
+                  "image": "six",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -82290,16 +82537,16 @@
                         "y": 0
                       },
                       {
-                        "x": 573,
+                        "x": 125,
                         "y": 0
                       },
                       {
-                        "x": 573,
-                        "y": 612
+                        "x": 125,
+                        "y": 134
                       },
                       {
                         "x": 0,
-                        "y": 612
+                        "y": 134
                       }
                     ]
                   ]
@@ -82321,16 +82568,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "pig3",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "pig3.png",
+                  "image": "pig5",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -82350,16 +82598,16 @@
                         "y": 0
                       },
                       {
-                        "x": 236,
+                        "x": 125,
                         "y": 0
                       },
                       {
-                        "x": 236,
-                        "y": 213
+                        "x": 125,
+                        "y": 113
                       },
                       {
                         "x": 0,
-                        "y": 213
+                        "y": 113
                       }
                     ]
                   ]
@@ -82442,16 +82690,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "pig3",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "pig3.png",
+                  "image": "pig6",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -82471,16 +82720,16 @@
                         "y": 0
                       },
                       {
-                        "x": 236,
+                        "x": 125,
                         "y": 0
                       },
                       {
-                        "x": 236,
-                        "y": 213
+                        "x": 125,
+                        "y": 113
                       },
                       {
                         "x": 0,
-                        "y": 213
+                        "y": 113
                       }
                     ]
                   ]
@@ -82502,16 +82751,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "lip",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "lip.jpg",
+                  "image": "lip4",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -82531,16 +82781,16 @@
                         "y": 0
                       },
                       {
-                        "x": 428,
+                        "x": 125,
                         "y": 0
                       },
                       {
-                        "x": 428,
-                        "y": 360
+                        "x": 125,
+                        "y": 105
                       },
                       {
                         "x": 0,
-                        "y": 360
+                        "y": 105
                       }
                     ]
                   ]
@@ -82562,16 +82812,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "wig",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "wig.jpg",
+                  "image": "wig",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -82591,16 +82842,212 @@
                         "y": 0
                       },
                       {
-                        "x": 1920,
+                        "x": 125,
                         "y": 0
                       },
                       {
-                        "x": 1920,
-                        "y": 1920
+                        "x": 125,
+                        "y": 125
                       },
                       {
                         "x": 0,
-                        "y": 1920
+                        "y": 125
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "d56582e7f26d8a8bf262ef2a27291854bf54fc04bc4f6dc86bba130f048cc8bf",
+      "name": "CrateBrownFlatDark",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Crate Brown Flat Dark.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "012e9af3e3a426ea6b1ab68bb3eeb31c7c857400a2ea76805f3efd2e54609323",
+      "name": "SummerTilePlatformLeft",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "canBeGrabbed": true,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Summer Tile Platform Left.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 47
+                      },
+                      {
+                        "x": 0,
+                        "y": 47
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "1ffbb5f2b2d23a664af21f864c2864bae3ca3520446ee70998a1ff26b976aa4f",
+      "name": "SummerTilePlatformRight",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "canBeGrabbed": true,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Summer Tile Platform Right.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 47
+                      },
+                      {
+                        "x": 0,
+                        "y": 47
                       }
                     ]
                   ]
@@ -82655,13 +83102,13 @@
         "folderName": "L4-FLD",
         "children": [
           {
-            "objectName": "L4_LTR3"
+            "objectName": "level4_letter3"
           },
           {
-            "objectName": "L4_LTR2"
+            "objectName": "level4_letter2"
           },
           {
-            "objectName": "L4_LTR"
+            "objectName": "level4_letter"
           },
           {
             "objectName": "L4_WRD3"
@@ -82906,6 +83353,20 @@
       },
       {
         "objectName": "wig_1"
+      },
+      {
+        "objectName": "CrateBrownFlatDark"
+      },
+      {
+        "folderName": "NewFolder",
+        "children": [
+          {
+            "objectName": "SummerTilePlatformRight"
+          },
+          {
+            "objectName": "SummerTilePlatformLeft"
+          }
+        ]
       }
     ]
   },
@@ -83615,7 +84076,7 @@
           },
           "parameters": [
             "turtle",
-            "level2_letter",
+            "level4_letter",
             "",
             "",
             ""
@@ -83634,7 +84095,7 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "level2_letter",
+            "level4_letter",
             "Animation",
             "=",
             "\"let-b\""
@@ -83663,7 +84124,7 @@
           },
           "parameters": [
             "turtle",
-            "level2_letter2",
+            "level4_letter2",
             "",
             "",
             ""
@@ -83682,10 +84143,10 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "level2_letter2",
+            "level4_letter2",
             "Animation",
             "=",
-            "\"let-a\""
+            "\"let-i\""
           ]
         },
         {
@@ -83694,7 +84155,7 @@
           },
           "parameters": [
             "",
-            "a.mp3",
+            "i.mp3",
             "no",
             "",
             ""
@@ -83711,7 +84172,7 @@
           },
           "parameters": [
             "turtle",
-            "level2_letter3",
+            "level4_letter3",
             "",
             "",
             ""
@@ -83730,10 +84191,10 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "level2_letter3",
+            "level4_letter3",
             "Animation",
             "=",
-            "\"let-t\""
+            "\"let-n\""
           ]
         },
         {
@@ -83742,7 +84203,7 @@
           },
           "parameters": [
             "",
-            "t.mp3",
+            "n.mp3",
             "",
             "",
             ""
@@ -86223,439 +86684,451 @@
       ]
     },
     {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Grouped events",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
         {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "turtle",
-            "door1",
-            "",
-            "",
-            ""
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "door1",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Level 3\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "ArrowKey",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "turtle",
+                "=",
+                "1700",
+                "=",
+                "400"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "ArrowKey2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "turtle",
+                "=",
+                "5200",
+                "=",
+                "400"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "ArrowKey3",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "turtle",
+                "=",
+                "9400",
+                "=",
+                "400"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "ArrowKey4",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "turtle",
+                "=",
+                "13400",
+                "=",
+                "400"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "ArrowKey5",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "turtle",
+                "=",
+                "16870",
+                "=",
+                "400"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "ArrowKey6",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "turtle",
+                "=",
+                "20480",
+                "=",
+                "400"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "ArrowKey7",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "turtle",
+                "=",
+                "24800",
+                "=",
+                "400"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Platform",
+                "no"
+              ]
+            }
           ]
         }
       ],
-      "actions": [
-        {
-          "type": {
-            "value": "Scene"
-          },
-          "parameters": [
-            "",
-            "\"Level 3\"",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "turtle",
-            "ArrowKey",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "BuiltinCommonInstructions::Once"
-          },
-          "parameters": []
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "MettreXY"
-          },
-          "parameters": [
-            "turtle",
-            "=",
-            "1700",
-            "=",
-            "400"
-          ]
-        },
-        {
-          "type": {
-            "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
-          },
-          "parameters": [
-            "turtle",
-            "PlatformerObject",
-            "=",
-            "0"
-          ]
-        },
-        {
-          "type": {
-            "value": "ActivateBehavior"
-          },
-          "parameters": [
-            "LongRectangleWood2",
-            "Platform",
-            "no"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "turtle",
-            "ArrowKey2",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "BuiltinCommonInstructions::Once"
-          },
-          "parameters": []
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "MettreXY"
-          },
-          "parameters": [
-            "turtle",
-            "=",
-            "5200",
-            "=",
-            "400"
-          ]
-        },
-        {
-          "type": {
-            "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
-          },
-          "parameters": [
-            "turtle",
-            "PlatformerObject",
-            "=",
-            "0"
-          ]
-        },
-        {
-          "type": {
-            "value": "ActivateBehavior"
-          },
-          "parameters": [
-            "LongRectangleWood2",
-            "Platform",
-            "no"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "turtle",
-            "ArrowKey3",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "BuiltinCommonInstructions::Once"
-          },
-          "parameters": []
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "MettreXY"
-          },
-          "parameters": [
-            "turtle",
-            "=",
-            "9400",
-            "=",
-            "400"
-          ]
-        },
-        {
-          "type": {
-            "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
-          },
-          "parameters": [
-            "turtle",
-            "PlatformerObject",
-            "=",
-            "0"
-          ]
-        },
-        {
-          "type": {
-            "value": "ActivateBehavior"
-          },
-          "parameters": [
-            "LongRectangleWood2",
-            "Platform",
-            "no"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "turtle",
-            "ArrowKey4",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "BuiltinCommonInstructions::Once"
-          },
-          "parameters": []
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "MettreXY"
-          },
-          "parameters": [
-            "turtle",
-            "=",
-            "13400",
-            "=",
-            "400"
-          ]
-        },
-        {
-          "type": {
-            "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
-          },
-          "parameters": [
-            "turtle",
-            "PlatformerObject",
-            "=",
-            "0"
-          ]
-        },
-        {
-          "type": {
-            "value": "ActivateBehavior"
-          },
-          "parameters": [
-            "LongRectangleWood2",
-            "Platform",
-            "no"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "turtle",
-            "ArrowKey5",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "BuiltinCommonInstructions::Once"
-          },
-          "parameters": []
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "MettreXY"
-          },
-          "parameters": [
-            "turtle",
-            "=",
-            "16870",
-            "=",
-            "400"
-          ]
-        },
-        {
-          "type": {
-            "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
-          },
-          "parameters": [
-            "turtle",
-            "PlatformerObject",
-            "=",
-            "0"
-          ]
-        },
-        {
-          "type": {
-            "value": "ActivateBehavior"
-          },
-          "parameters": [
-            "LongRectangleWood2",
-            "Platform",
-            "no"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "turtle",
-            "ArrowKey6",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "BuiltinCommonInstructions::Once"
-          },
-          "parameters": []
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "MettreXY"
-          },
-          "parameters": [
-            "turtle",
-            "=",
-            "20480",
-            "=",
-            "400"
-          ]
-        },
-        {
-          "type": {
-            "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
-          },
-          "parameters": [
-            "turtle",
-            "PlatformerObject",
-            "=",
-            "0"
-          ]
-        },
-        {
-          "type": {
-            "value": "ActivateBehavior"
-          },
-          "parameters": [
-            "LongRectangleWood2",
-            "Platform",
-            "no"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "turtle",
-            "ArrowKey7",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "BuiltinCommonInstructions::Once"
-          },
-          "parameters": []
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "MettreXY"
-          },
-          "parameters": [
-            "turtle",
-            "=",
-            "24800",
-            "=",
-            "400"
-          ]
-        },
-        {
-          "type": {
-            "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
-          },
-          "parameters": [
-            "turtle",
-            "PlatformerObject",
-            "=",
-            "0"
-          ]
-        },
-        {
-          "type": {
-            "value": "ActivateBehavior"
-          },
-          "parameters": [
-            "LongRectangleWood2",
-            "Platform",
-            "no"
-          ]
-        }
-      ]
+      "parameters": []
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
