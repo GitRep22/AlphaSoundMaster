@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.29122588669112115,
+    "zoomFactor": 0.4481978045410513,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -333,8 +333,8 @@
       "name": "turtle",
       "persistentUuid": "edeb43f5-99dd-47f2-9570-83fd7d2dd7cc",
       "width": 230,
-      "x": 113,
-      "y": 204,
+      "x": 1452,
+      "y": 251,
       "zOrder": 46,
       "numberProperties": [],
       "stringProperties": [],
@@ -2562,29 +2562,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 282,
-      "layer": "",
-      "name": "Ladder",
-      "persistentUuid": "9e12b35b-f49a-4600-9c41-c1cf70007e9e",
-      "width": 68,
-      "x": 1938,
-      "y": 373,
-      "zOrder": 148,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
       "height": 35,
       "layer": "",
       "name": "WoodHud2",
       "persistentUuid": "0079769f-8363-4817-8f1e-e95d20ded4a1",
       "width": 193,
-      "x": 1871,
-      "y": 372,
+      "x": 1892,
+      "y": 335,
       "zOrder": 149,
       "numberProperties": [],
       "stringProperties": [],
@@ -2830,22 +2814,6 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 243,
-      "layer": "",
-      "name": "Ladder",
-      "persistentUuid": "c36725fa-d08c-4ce1-8d63-6bfb2d4fa299",
-      "width": 91,
-      "x": 22532,
-      "y": 423,
-      "zOrder": 155,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
       "height": 94,
       "layer": "",
       "name": "WoodHud",
@@ -2945,9 +2913,9 @@
       "layer": "",
       "name": "WoodHud3",
       "persistentUuid": "4227e429-2de1-4eca-a79f-de064841d5c8",
-      "width": 1626,
-      "x": 26908,
-      "y": 199,
+      "width": 1095,
+      "x": 27439,
+      "y": 192,
       "zOrder": 157,
       "numberProperties": [],
       "stringProperties": [],
@@ -3013,22 +2981,6 @@
       "x": 26907,
       "y": 204,
       "zOrder": 88,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 461,
-      "layer": "",
-      "name": "Ladder",
-      "persistentUuid": "d9ca23c8-e37e-461d-b9a9-91a82922928d",
-      "width": 90,
-      "x": 27156,
-      "y": 198,
-      "zOrder": 159,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -3105,9 +3057,57 @@
       "name": "fairy",
       "persistentUuid": "0db062c9-debd-41a8-8780-77c815c6904c",
       "width": 65,
-      "x": 188,
-      "y": 212,
+      "x": 1527,
+      "y": 259,
       "zOrder": 162,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 29,
+      "layer": "",
+      "name": "WoodHud5",
+      "persistentUuid": "7f92d941-1aff-4cdf-9901-7d2998e1d167",
+      "width": 184,
+      "x": 22325,
+      "y": 391,
+      "zOrder": 163,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 39,
+      "layer": "",
+      "name": "WoodHud3",
+      "persistentUuid": "aec62dbd-c5d1-4091-ae13-5e3ce30c6530",
+      "width": 165,
+      "x": 27028,
+      "y": 192,
+      "zOrder": 157,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 39,
+      "layer": "",
+      "name": "WoodHud6",
+      "persistentUuid": "495c0a20-0cc2-48ce-a8da-42c0254197cd",
+      "width": 248,
+      "x": 27192,
+      "y": 193,
+      "zOrder": 164,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -72583,8 +72583,8 @@
       "behaviors": [
         {
           "name": "Platform",
+          "platformType": "NormalPlatform",
           "type": "PlatformBehavior::PlatformBehavior",
-          "platformType": "Jumpthru",
           "canBeGrabbed": true,
           "yGrabOffset": 0
         },
@@ -72642,6 +72642,48 @@
           "type": "Tween::TweenBehavior"
         }
       ]
+    },
+    {
+      "assetStoreId": "8b0d151969a3e5a63292058f40c8cf899f8498300e85301762f1c144e19b5631",
+      "bottomMargin": 32,
+      "height": 96,
+      "leftMargin": 32,
+      "name": "WoodHud5",
+      "rightMargin": 32,
+      "texture": "9patch_Wood Hud_all_32.png",
+      "tiled": true,
+      "topMargin": 32,
+      "type": "PanelSpriteObject::PanelSprite",
+      "width": 96,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ]
+    },
+    {
+      "assetStoreId": "8b0d151969a3e5a63292058f40c8cf899f8498300e85301762f1c144e19b5631",
+      "bottomMargin": 32,
+      "height": 96,
+      "leftMargin": 32,
+      "name": "WoodHud6",
+      "rightMargin": 32,
+      "texture": "9patch_Wood Hud_all_32.png",
+      "tiled": true,
+      "topMargin": 32,
+      "type": "PanelSpriteObject::PanelSprite",
+      "width": 96,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -72682,6 +72724,12 @@
       },
       {
         "objectName": "WoodHud4"
+      },
+      {
+        "objectName": "WoodHud5"
+      },
+      {
+        "objectName": "WoodHud6"
       },
       {
         "objectName": "OrangeBlock"
@@ -73388,6 +73436,33 @@
             "turtle",
             "Flippable",
             "yes"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "SourisSurObjet"
+          },
+          "parameters": [
+            "MedievalButtonBrown_jump",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "PlatformBehavior::SimulateJumpKey"
+          },
+          "parameters": [
+            "turtle",
+            "PlatformerObject"
           ]
         }
       ]
@@ -76640,6 +76715,369 @@
           ]
         }
       ]
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "elevate",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "WoodHud2",
+                "Tween",
+                "\"elevate\"",
+                "614",
+                "\"linear\"",
+                "1",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "WoodHud2",
+                "Tween",
+                "\"elevate\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "WoodHud2",
+                "Tween",
+                "\"elevate2\"",
+                "335",
+                "\"linear\"",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "WoodHud2",
+                "Tween",
+                "\"elevate\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "WoodHud2",
+                "Tween",
+                "\"elevate2\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "WoodHud2",
+                "Tween",
+                "\"elevate\"",
+                "614",
+                "\"linear\"",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "WoodHud2",
+                "Tween",
+                "\"elevate2\""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "elevate2",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "WoodHud5",
+                "Tween",
+                "\"elevate\"",
+                "625",
+                "\"linear\"",
+                "1",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "WoodHud5",
+                "Tween",
+                "\"elevate\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "WoodHud5",
+                "Tween",
+                "\"elevate2\"",
+                "391",
+                "\"linear\"",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "WoodHud5",
+                "Tween",
+                "\"elevate\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "WoodHud5",
+                "Tween",
+                "\"elevate2\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "WoodHud5",
+                "Tween",
+                "\"elevate\"",
+                "625",
+                "\"linear\"",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "WoodHud5",
+                "Tween",
+                "\"elevate2\""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "elevate3",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "WoodHud6",
+                "Tween",
+                "\"elevate\"",
+                "625",
+                "\"linear\"",
+                "1",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "WoodHud6",
+                "Tween",
+                "\"elevate\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "WoodHud6",
+                "Tween",
+                "\"elevate2\"",
+                "193",
+                "\"linear\"",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "WoodHud6",
+                "Tween",
+                "\"elevate\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "WoodHud6",
+                "Tween",
+                "\"elevate2\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "WoodHud6",
+                "Tween",
+                "\"elevate\"",
+                "625",
+                "\"linear\"",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "WoodHud6",
+                "Tween",
+                "\"elevate2\""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
