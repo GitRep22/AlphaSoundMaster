@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.29122588669111393,
+    "zoomFactor": 0.49508400737489405,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -239,13 +239,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 2,
-      "height": 400,
+      "height": 501,
       "layer": "",
       "name": "tree_block",
       "persistentUuid": "c49c3ee5-7ff9-4434-a461-0a66fe7385be",
       "width": 300,
-      "x": 3858,
-      "y": 215,
+      "x": 3856,
+      "y": 114,
       "zOrder": 12,
       "numberProperties": [
         {
@@ -404,22 +404,6 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 400,
-      "layer": "",
-      "name": "tree_block2",
-      "persistentUuid": "1808b377-ee79-4109-9b98-ed4ceb66548a",
-      "width": 300,
-      "x": 7429,
-      "y": 212,
-      "zOrder": 19,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
       "height": 225,
       "layer": "",
       "name": "level4_letter7",
@@ -508,22 +492,6 @@
       "x": 10172,
       "y": 155,
       "zOrder": 25,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 400,
-      "layer": "",
-      "name": "tree_block3",
-      "persistentUuid": "efb023b0-4884-487f-8741-1530e81f81de",
-      "width": 300,
-      "x": 10516,
-      "y": 212,
-      "zOrder": 26,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -628,22 +596,6 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 400,
-      "layer": "",
-      "name": "tree_block4",
-      "persistentUuid": "536ecfa3-9277-4eb4-ba67-b660115e56b6",
-      "width": 300,
-      "x": 13666,
-      "y": 206,
-      "zOrder": 33,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
       "height": 225,
       "layer": "",
       "name": "level4_letter13",
@@ -732,22 +684,6 @@
       "x": 15955,
       "y": 250,
       "zOrder": 39,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 400,
-      "layer": "",
-      "name": "tree_block5",
-      "persistentUuid": "31da9292-1ea2-4c22-b983-976d87b8b697",
-      "width": 300,
-      "x": 16272,
-      "y": 213,
-      "zOrder": 40,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -852,22 +788,6 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 400,
-      "layer": "",
-      "name": "tree_block6",
-      "persistentUuid": "fefa79ed-3eff-46db-8775-2751938076ef",
-      "width": 300,
-      "x": 19273,
-      "y": 209,
-      "zOrder": 47,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
       "height": 225,
       "layer": "",
       "name": "level4_letter19",
@@ -964,22 +884,6 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 400,
-      "layer": "",
-      "name": "tree_block7",
-      "persistentUuid": "4b29cacc-52dc-4d88-951e-d96f4b49ca2c",
-      "width": 300,
-      "x": 21991,
-      "y": 209,
-      "zOrder": 54,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
       "height": 225,
       "layer": "",
       "name": "level4_letter22",
@@ -1068,22 +972,6 @@
       "x": 24787,
       "y": 250,
       "zOrder": 60,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 400,
-      "layer": "",
-      "name": "tree_block8",
-      "persistentUuid": "1b00e26e-bd94-4585-8c1b-04fa243b760e",
-      "width": 300,
-      "x": 25099,
-      "y": 205,
-      "zOrder": 61,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1969,8 +1857,8 @@
       "name": "Sample_letter",
       "persistentUuid": "3a162ce6-4ecc-4fba-add6-26ae6af4dd2b",
       "width": 74,
-      "x": 4981,
-      "y": 351,
+      "x": 4985,
+      "y": 353,
       "zOrder": 165,
       "numberProperties": [],
       "stringProperties": [],
@@ -2053,6 +1941,153 @@
       "y": 371,
       "zOrder": 165,
       "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2,
+      "height": 535,
+      "layer": "",
+      "name": "tree_block",
+      "persistentUuid": "04d542ac-ff66-408a-8d4f-b136fec4c4c2",
+      "width": 300,
+      "x": 7439,
+      "y": 76,
+      "zOrder": 12,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 0
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2,
+      "height": 537,
+      "layer": "",
+      "name": "tree_block",
+      "persistentUuid": "02e675be-5a7d-4b40-b5fb-21765fa0a946",
+      "width": 300,
+      "x": 10548,
+      "y": 75,
+      "zOrder": 12,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 0
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2,
+      "height": 578,
+      "layer": "",
+      "name": "tree_block",
+      "persistentUuid": "cac09f43-46c5-41eb-a608-056240ca163c",
+      "width": 300,
+      "x": 13693,
+      "y": 34,
+      "zOrder": 12,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 0
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2,
+      "height": 610,
+      "layer": "",
+      "name": "tree_block",
+      "persistentUuid": "9acf550d-3440-4890-8b14-d9b41c6322d6",
+      "width": 300,
+      "x": 16291,
+      "y": 10,
+      "zOrder": 12,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 0
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2,
+      "height": 592,
+      "layer": "",
+      "name": "tree_block",
+      "persistentUuid": "62716ade-9694-477f-9424-22c0160a70ca",
+      "width": 300,
+      "x": 19308,
+      "y": 27,
+      "zOrder": 12,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 0
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2,
+      "height": 594,
+      "layer": "",
+      "name": "tree_block",
+      "persistentUuid": "adcdb1ca-6323-4602-8b99-8cd364e4e418",
+      "width": 300,
+      "x": 21969,
+      "y": 16,
+      "zOrder": 12,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 0
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2,
+      "height": 578,
+      "layer": "",
+      "name": "tree_block",
+      "persistentUuid": "fab3d0b0-e9cb-48c8-97eb-6f4bb4b34067",
+      "width": 300,
+      "x": 25135,
+      "y": 40,
+      "zOrder": 12,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 0
+        }
+      ],
       "stringProperties": [],
       "initialVariables": []
     }
@@ -12038,7 +12073,7 @@
       ]
     },
     {
-      "adaptCollisionMaskAutomatically": true,
+      "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "dd79d300ef0b79227904c455e2c8491c394a376ccff18ad46299bca515ecda4d",
       "name": "tree_block",
       "type": "Sprite",
@@ -12047,9 +12082,9 @@
       "effects": [],
       "behaviors": [
         {
+          "canBeGrabbed": false,
           "name": "Platform",
           "type": "PlatformBehavior::PlatformBehavior",
-          "canBeGrabbed": true,
           "platformType": "NormalPlatform",
           "yGrabOffset": 0
         }
@@ -12081,19 +12116,19 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
+                        "x": 43,
                         "y": 0
                       },
                       {
-                        "x": 146,
+                        "x": 85,
                         "y": 0
                       },
                       {
-                        "x": 146,
+                        "x": 87,
                         "y": 187
                       },
                       {
-                        "x": 0,
+                        "x": 42.5,
                         "y": 187
                       }
                     ]
@@ -84645,7 +84680,7 @@
           "parameters": [
             "turtle",
             ">",
-            "4600"
+            "3900"
           ]
         },
         {
@@ -84701,10 +84736,10 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "level2_letter4",
+            "level4_letter4",
             "Animation",
             "=",
-            "\"let-t\""
+            "\"let-f\""
           ]
         },
         {
@@ -84713,7 +84748,7 @@
           },
           "parameters": [
             "",
-            "t.mp3",
+            "f.mp3",
             "no",
             "",
             ""
@@ -84749,10 +84784,10 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "level2_letter5",
+            "level4_letter5",
             "Animation",
             "=",
-            "\"let-a\""
+            "\"let-i\""
           ]
         },
         {
@@ -84761,7 +84796,7 @@
           },
           "parameters": [
             "",
-            "a.mp3",
+            "i.mp3",
             "no",
             "",
             ""
@@ -84797,10 +84832,10 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "level2_letter6",
+            "level4_letter6",
             "Animation",
             "=",
-            "\"let-p\""
+            "\"let-n\""
           ]
         },
         {
@@ -84809,7 +84844,7 @@
           },
           "parameters": [
             "",
-            "p.mp3",
+            "n.mp3",
             "",
             "",
             ""
@@ -84845,7 +84880,7 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "level2_word4_",
+            "level4_word4",
             "Animation",
             "=",
             "\"cap2\""
@@ -84857,7 +84892,7 @@
           },
           "parameters": [
             "",
-            "wrong.wav",
+            "fin2.mp3",
             "no",
             "",
             ""
@@ -84869,9 +84904,9 @@
           },
           "parameters": [
             "",
-            "wrong",
-            "level2_word4_.X()",
-            "level2_word4_.Y() - 70",
+            "fin_1",
+            "level4_word4.X()",
+            "level4_word4.Y() - 120",
             ""
           ]
         }
@@ -84886,7 +84921,7 @@
           },
           "parameters": [
             "turtle",
-            "level4_word4",
+            "level4_word5",
             "",
             "",
             ""
@@ -84905,7 +84940,7 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "level2_word5",
+            "level4_word5",
             "Animation",
             "=",
             "\"bat-2\""
@@ -84930,8 +84965,8 @@
           "parameters": [
             "",
             "wrong",
-            "level2_word5.X()",
-            "level2_word5.Y() -70",
+            "level4_word5.X()",
+            "level4_word5.Y() -70",
             ""
           ]
         }
@@ -84946,7 +84981,7 @@
           },
           "parameters": [
             "turtle",
-            "level4_word4",
+            "level4_word6",
             "",
             "",
             ""
@@ -84965,7 +85000,7 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "level2_word6",
+            "level4_word6",
             "Animation",
             "=",
             "\"tap2\""
@@ -84977,7 +85012,7 @@
           },
           "parameters": [
             "",
-            "tap2.mp3",
+            "wrong.wav",
             "no",
             "",
             ""
@@ -84989,9 +85024,9 @@
           },
           "parameters": [
             "",
-            "pat_1",
-            "level2_word6.X() + 10",
-            "level2_word6.Y() -120",
+            "wrong",
+            "level4_word6.X() + 10",
+            "level4_word6.Y() -70",
             ""
           ]
         },
@@ -85000,7 +85035,7 @@
             "value": "ActivateBehavior"
           },
           "parameters": [
-            "LongRectangleWood2",
+            "tree_block2",
             "Platform",
             "no"
           ]
@@ -85017,7 +85052,7 @@
           "parameters": [
             "turtle",
             ">",
-            "9200"
+            "7529"
           ]
         },
         {
@@ -85033,7 +85068,7 @@
             "value": "ActivateBehavior"
           },
           "parameters": [
-            "LongRectangleWood2",
+            "tree_block2",
             "Platform",
             "yes"
           ]
