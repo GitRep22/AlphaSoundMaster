@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.23867758270258105,
+    "zoomFactor": 0.2817259932079599,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -409,8 +409,8 @@
       "name": "level4_letter7",
       "persistentUuid": "899b619f-52f1-4318-ad8b-4714cbb4d78b",
       "width": 160,
-      "x": 8404,
-      "y": 6,
+      "x": 8407,
+      "y": -47,
       "zOrder": 20,
       "numberProperties": [],
       "stringProperties": [],
@@ -426,7 +426,7 @@
       "persistentUuid": "2f12efac-c9fd-43ff-aeb0-9d2fdb29d2bf",
       "width": 160,
       "x": 8745,
-      "y": -20,
+      "y": -60,
       "zOrder": 21,
       "numberProperties": [],
       "stringProperties": [],
@@ -457,8 +457,8 @@
       "name": "level4_word7",
       "persistentUuid": "117c02f3-b9e0-452a-8981-7457907e682d",
       "width": 125,
-      "x": 9665,
-      "y": 155,
+      "x": 9657,
+      "y": 297,
       "zOrder": 23,
       "numberProperties": [],
       "stringProperties": [],
@@ -473,8 +473,8 @@
       "name": "level4_word8",
       "persistentUuid": "12c629d4-2c93-417e-b8ed-1167a0d325da",
       "width": 125,
-      "x": 9939,
-      "y": 155,
+      "x": 9931,
+      "y": 297,
       "zOrder": 24,
       "numberProperties": [],
       "stringProperties": [],
@@ -489,8 +489,8 @@
       "name": "level4_word9",
       "persistentUuid": "b456388d-e5f4-4f58-a529-e854d3b62979",
       "width": 125,
-      "x": 10172,
-      "y": 155,
+      "x": 10164,
+      "y": 297,
       "zOrder": 25,
       "numberProperties": [],
       "stringProperties": [],
@@ -505,8 +505,8 @@
       "name": "level4_letter10",
       "persistentUuid": "3552c7b2-3b66-4713-9ebd-872aff97f06b",
       "width": 160,
-      "x": 11551,
-      "y": 555,
+      "x": 11644,
+      "y": 295,
       "zOrder": 27,
       "numberProperties": [],
       "stringProperties": [],
@@ -521,8 +521,8 @@
       "name": "level4_letter11",
       "persistentUuid": "c66d1259-3af0-47d8-899c-1340cf8bd1e4",
       "width": 160,
-      "x": 11881,
-      "y": 555,
+      "x": 11931,
+      "y": 64,
       "zOrder": 28,
       "numberProperties": [],
       "stringProperties": [],
@@ -537,8 +537,8 @@
       "name": "level4_letter12",
       "persistentUuid": "0dd25ac3-0bcb-46b1-baad-17a511b1465f",
       "width": 160,
-      "x": 12178,
-      "y": 555,
+      "x": 12100,
+      "y": 154,
       "zOrder": 29,
       "numberProperties": [],
       "stringProperties": [],
@@ -601,8 +601,8 @@
       "name": "level4_letter13",
       "persistentUuid": "9c5f7fff-1d3e-400f-8755-c678757f135c",
       "width": 160,
-      "x": 14479,
-      "y": 555,
+      "x": 14445,
+      "y": -77,
       "zOrder": 34,
       "numberProperties": [],
       "stringProperties": [],
@@ -617,8 +617,8 @@
       "name": "level4_letter14",
       "persistentUuid": "622d6bd8-36bf-4a88-9712-2179233d323c",
       "width": 160,
-      "x": 14804,
-      "y": 555,
+      "x": 14739,
+      "y": 26,
       "zOrder": 35,
       "numberProperties": [],
       "stringProperties": [],
@@ -633,8 +633,8 @@
       "name": "level4_letter15",
       "persistentUuid": "dce77ada-559e-4a27-8835-568e491bbb29",
       "width": 160,
-      "x": 15089,
-      "y": 555,
+      "x": 15021,
+      "y": 11,
       "zOrder": 36,
       "numberProperties": [],
       "stringProperties": [],
@@ -697,8 +697,8 @@
       "name": "level4_letter16",
       "persistentUuid": "782e3cf3-9c58-4508-8e45-60e89f5af811",
       "width": 160,
-      "x": 17415,
-      "y": 555,
+      "x": 17491,
+      "y": 212,
       "zOrder": 41,
       "numberProperties": [],
       "stringProperties": [],
@@ -713,8 +713,8 @@
       "name": "level4_letter17",
       "persistentUuid": "f2058e8d-e64d-449e-819a-02d1bce68f4e",
       "width": 160,
-      "x": 17732,
-      "y": 555,
+      "x": 17705,
+      "y": 212,
       "zOrder": 42,
       "numberProperties": [],
       "stringProperties": [],
@@ -729,8 +729,8 @@
       "name": "level4_letter18",
       "persistentUuid": "760ccd87-2e08-41a0-b9e2-1892b82ab175",
       "width": 160,
-      "x": 18045,
-      "y": 555,
+      "x": 17922,
+      "y": 212,
       "zOrder": 43,
       "numberProperties": [],
       "stringProperties": [],
@@ -745,8 +745,8 @@
       "name": "level4_word16",
       "persistentUuid": "7811501d-05ec-491a-920b-f432fb6b32b4",
       "width": 125,
-      "x": 18508,
-      "y": 250,
+      "x": 18500,
+      "y": 305,
       "zOrder": 44,
       "numberProperties": [],
       "stringProperties": [],
@@ -761,8 +761,8 @@
       "name": "level4_word17",
       "persistentUuid": "a668fe39-fba6-4e59-b5bf-970fe034c956",
       "width": 125,
-      "x": 18765,
-      "y": 250,
+      "x": 18757,
+      "y": 305,
       "zOrder": 45,
       "numberProperties": [],
       "stringProperties": [],
@@ -777,8 +777,8 @@
       "name": "level4_word18",
       "persistentUuid": "bcd6cc5c-fb61-4c3f-8141-63cb6a80bc90",
       "width": 125,
-      "x": 19045,
-      "y": 250,
+      "x": 19037,
+      "y": 305,
       "zOrder": 46,
       "numberProperties": [],
       "stringProperties": [],
@@ -793,8 +793,8 @@
       "name": "level4_letter19",
       "persistentUuid": "267160b4-6216-4420-a042-a58b91b130d2",
       "width": 160,
-      "x": 20079,
-      "y": 555,
+      "x": 20216,
+      "y": 51,
       "zOrder": 48,
       "numberProperties": [],
       "stringProperties": [],
@@ -809,8 +809,8 @@
       "name": "level4_letter20",
       "persistentUuid": "ce54d48e-7d35-4970-9f70-e7ecfc6003da",
       "width": 160,
-      "x": 20402,
-      "y": 555,
+      "x": 20465,
+      "y": 51,
       "zOrder": 49,
       "numberProperties": [],
       "stringProperties": [],
@@ -825,8 +825,8 @@
       "name": "level4_letter21",
       "persistentUuid": "973fa77d-b1de-4b1b-bc6b-baee7bdb3974",
       "width": 160,
-      "x": 20698,
-      "y": 555,
+      "x": 20737,
+      "y": 51,
       "zOrder": 50,
       "numberProperties": [],
       "stringProperties": [],
@@ -889,8 +889,8 @@
       "name": "level4_letter22",
       "persistentUuid": "a1563a2c-9735-45db-86fb-e30da148fc93",
       "width": 160,
-      "x": 22996,
-      "y": 555,
+      "x": 22968,
+      "y": 357,
       "zOrder": 55,
       "numberProperties": [],
       "stringProperties": [],
@@ -905,8 +905,8 @@
       "name": "level4_letter23",
       "persistentUuid": "23519ceb-9414-4735-94dd-904f1de1b1cb",
       "width": 160,
-      "x": 23336,
-      "y": 555,
+      "x": 23261,
+      "y": 182,
       "zOrder": 56,
       "numberProperties": [],
       "stringProperties": [],
@@ -921,8 +921,8 @@
       "name": "level4_letter24",
       "persistentUuid": "110cd534-b848-4044-bb30-d8c2b5e402df",
       "width": 160,
-      "x": 23601,
-      "y": 555,
+      "x": 23530,
+      "y": 23,
       "zOrder": 57,
       "numberProperties": [],
       "stringProperties": [],
@@ -972,294 +972,6 @@
       "x": 24787,
       "y": 250,
       "zOrder": 60,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 198,
-      "layer": "",
-      "name": "bin_3",
-      "persistentUuid": "b0407221-7db7-4456-8740-a4f0bf3bd310",
-      "width": 198,
-      "x": 10140,
-      "y": -45,
-      "zOrder": 68,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 195,
-      "layer": "",
-      "name": "kid_3",
-      "persistentUuid": "ebdaa4df-a7aa-4204-b79f-44c58155c187",
-      "width": 160,
-      "x": 9930,
-      "y": -45,
-      "zOrder": 69,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 160,
-      "layer": "",
-      "name": "lip_1",
-      "persistentUuid": "d83507f8-0ee1-4830-8bc2-c468ad622aeb",
-      "width": 190,
-      "x": 9633,
-      "y": -11,
-      "zOrder": 70,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 170,
-      "layer": "",
-      "name": "kid_4",
-      "persistentUuid": "acbde2a0-a6bc-4f26-aa2e-eb9ba72157cd",
-      "width": 139,
-      "x": 13366,
-      "y": 80,
-      "zOrder": 71,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 168,
-      "layer": "",
-      "name": "fin_3",
-      "persistentUuid": "f9c119ee-b7ad-403e-a826-ee6bb22a4826",
-      "width": 165,
-      "x": 13121,
-      "y": 80,
-      "zOrder": 72,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 127,
-      "layer": "",
-      "name": "lip_2",
-      "persistentUuid": "c98b17a1-1d4f-4604-8af7-26f93f7b61a3",
-      "width": 151,
-      "x": 12859,
-      "y": 116,
-      "zOrder": 73,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 184,
-      "layer": "",
-      "name": "bin_4",
-      "persistentUuid": "bf0b3219-1610-41df-b1a7-c39ac2f31b47",
-      "width": 184,
-      "x": 15525,
-      "y": 55,
-      "zOrder": 74,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 189,
-      "layer": "",
-      "name": "kid_5",
-      "persistentUuid": "5412b9f6-13ee-4784-845b-30247d698f8f",
-      "width": 155,
-      "x": 15748,
-      "y": 64,
-      "zOrder": 75,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 153,
-      "layer": "",
-      "name": "pig_1",
-      "persistentUuid": "df4f7eca-1362-4e13-9749-39c246dd86d3",
-      "width": 170,
-      "x": 15936,
-      "y": 87,
-      "zOrder": 76,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 153,
-      "layer": "",
-      "name": "pig_2",
-      "persistentUuid": "4f957993-d33e-4585-98ce-6006f285e014",
-      "width": 169,
-      "x": 18745,
-      "y": 94,
-      "zOrder": 77,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 138,
-      "layer": "",
-      "name": "lip_3",
-      "persistentUuid": "e88fb6f8-57f7-45e1-9e9e-3bf4bafd2439",
-      "width": 164,
-      "x": 19039,
-      "y": 108,
-      "zOrder": 78,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 83,
-      "layer": "",
-      "name": "pin_1",
-      "persistentUuid": "3d1e7ed0-bcea-469a-ba48-2801053c647b",
-      "width": 144,
-      "x": 18508,
-      "y": 147,
-      "zOrder": 79,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 154,
-      "layer": "",
-      "name": "six_1",
-      "persistentUuid": "64650f0d-1cbd-4c82-b828-7486336bb1e0",
-      "width": 144,
-      "x": 21536,
-      "y": 95,
-      "zOrder": 80,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 137,
-      "layer": "",
-      "name": "pig_3",
-      "persistentUuid": "add46c7c-1b50-4266-96e6-4bb36dd6edf4",
-      "width": 152,
-      "x": 21736,
-      "y": 115,
-      "zOrder": 81,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 166,
-      "layer": "",
-      "name": "fin_4",
-      "persistentUuid": "aabcae73-45a4-467c-b5db-df47afb0c77d",
-      "width": 163,
-      "x": 21284,
-      "y": 80,
-      "zOrder": 82,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 131,
-      "layer": "",
-      "name": "pig_4",
-      "persistentUuid": "8066b825-b6c0-40d6-8d24-ca47b45cb31f",
-      "width": 145,
-      "x": 24776,
-      "y": 116,
-      "zOrder": 83,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 160,
-      "layer": "",
-      "name": "lip_4",
-      "persistentUuid": "5c1053ed-b8b9-4ab0-a420-546112f6bbf3",
-      "width": 190,
-      "x": 24443,
-      "y": 88,
-      "zOrder": 84,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 175,
-      "layer": "",
-      "name": "wig_1",
-      "persistentUuid": "507417ad-67f3-4d2d-b06c-e7956776cda5",
-      "width": 175,
-      "x": 24113,
-      "y": 69,
-      "zOrder": 85,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1369,8 +1081,8 @@
       "name": "turtle",
       "persistentUuid": "53528594-1b67-473d-91bd-7bd24ec386a2",
       "width": 230,
-      "x": 8315,
-      "y": 378,
+      "x": 22487,
+      "y": 337,
       "zOrder": 46,
       "numberProperties": [],
       "stringProperties": [],
@@ -1948,7 +1660,7 @@
       "persistentUuid": "cac09f43-46c5-41eb-a608-056240ca163c",
       "width": 300,
       "x": 13693,
-      "y": 34,
+      "y": 31,
       "zOrder": 12,
       "numberProperties": [
         {
@@ -2162,6 +1874,1048 @@
       "x": 8828,
       "y": 438,
       "zOrder": 170,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "a384b715-ac85-4453-90d3-e15148226b5f",
+      "width": 74,
+      "x": 8451,
+      "y": 31,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "73c72d94-83a8-474a-a510-b74ff7f85168",
+      "width": 74,
+      "x": 8794,
+      "y": 14,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "36620c1a-70a6-478b-a607-b5e7c37991ac",
+      "width": 74,
+      "x": 9085,
+      "y": 141,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "9bd660ac-9e82-46bc-8e17-52e428a0e5f6",
+      "width": 114,
+      "x": 9664,
+      "y": 302,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "0fa18680-5dfc-40a1-b56d-5b3cf46ee2f9",
+      "width": 114,
+      "x": 9935,
+      "y": 304,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "4fbc018b-da66-4784-9896-9d572ff575f5",
+      "width": 114,
+      "x": 10173,
+      "y": 302,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformLeft",
+      "persistentUuid": "dba9a1f6-b362-48d7-96cf-90d7c0aa486a",
+      "width": 0,
+      "x": 11515,
+      "y": 478,
+      "zOrder": 163,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformRight",
+      "persistentUuid": "e91b696d-bebd-4d26-9eaa-20a6c61d39f5",
+      "width": 0,
+      "x": 11579,
+      "y": 478,
+      "zOrder": 164,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformLeft",
+      "persistentUuid": "2cb70627-8521-49ef-89bb-bb88bc3bccd5",
+      "width": 0,
+      "x": 11812,
+      "y": 267,
+      "zOrder": 163,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformRight",
+      "persistentUuid": "275e9a30-1819-420d-9bc3-8c5b9dcacd8e",
+      "width": 0,
+      "x": 11876,
+      "y": 267,
+      "zOrder": 164,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformLeft",
+      "persistentUuid": "3c42a6fc-dd4d-4fcd-838b-e7e78ec5e72c",
+      "width": 0,
+      "x": 12115,
+      "y": 331,
+      "zOrder": 163,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformRight",
+      "persistentUuid": "4a16c3ea-ed65-410e-b63e-9af87bde1865",
+      "width": 0,
+      "x": 12179,
+      "y": 331,
+      "zOrder": 164,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "2a357aca-31d8-4b78-80ba-d58cb6ba04e7",
+      "width": 74,
+      "x": 11687,
+      "y": 372,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "19b38bd7-290d-466f-854b-a839c9e9cacc",
+      "width": 74,
+      "x": 11976,
+      "y": 139,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "f85defee-93dd-44fa-9857-7dd2b8420023",
+      "width": 74,
+      "x": 12147,
+      "y": 230,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "2ea85913-0b7d-4109-95c1-41373fbb10d6",
+      "width": 130,
+      "x": 12872,
+      "y": 256,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "aca08ce0-7297-4add-92f4-66b3ab6757b4",
+      "width": 130,
+      "x": 13142,
+      "y": 256,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "cf1e02a8-b372-478a-917d-71f903cf2ab3",
+      "width": 130,
+      "x": 13366,
+      "y": 253,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformLeft",
+      "persistentUuid": "c3bf543a-40ce-40ba-b8c8-b0360c271e8a",
+      "width": 0,
+      "x": 14759,
+      "y": 351,
+      "zOrder": 163,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformRight",
+      "persistentUuid": "38d1769c-a248-4c37-af4b-76f98a9bac3c",
+      "width": 0,
+      "x": 14823,
+      "y": 351,
+      "zOrder": 164,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformLeft",
+      "persistentUuid": "1d80a5b6-9dd0-4d18-b442-3a2270ee3299",
+      "width": 0,
+      "x": 14963,
+      "y": 252,
+      "zOrder": 163,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformRight",
+      "persistentUuid": "630e051f-5928-42bb-b578-e09c04f0aa20",
+      "width": 0,
+      "x": 15027,
+      "y": 252,
+      "zOrder": 164,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformRight2",
+      "persistentUuid": "7c4966a0-3185-43c3-97e9-843062950c91",
+      "width": 0,
+      "x": 14519,
+      "y": 244,
+      "zOrder": 167,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformLeft2",
+      "persistentUuid": "fb0a2d8d-a7c1-44ea-890e-f3dea6479e85",
+      "width": 0,
+      "x": 14456,
+      "y": 244,
+      "zOrder": 168,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "4c6bc177-e426-484a-851a-69d892e11688",
+      "width": 77,
+      "x": 14490,
+      "y": -2,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "5369083b-e549-4dc9-9adc-ff332ad6decd",
+      "width": 77,
+      "x": 14783,
+      "y": 98,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "f567c075-fdc2-44df-a508-67943ab80738",
+      "width": 77,
+      "x": 15062,
+      "y": 84,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "2d78f815-0de5-489c-8932-d2a3728d02c3",
+      "width": 121,
+      "x": 15556,
+      "y": 257,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "599abebf-235e-4bfa-bfb8-7ec398b7edd8",
+      "width": 121,
+      "x": 15767,
+      "y": 257,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "2c54d008-af96-4f72-b96e-916a77d2ce30",
+      "width": 121,
+      "x": 15958,
+      "y": 255,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "15b96c6f-ef4f-4b03-8192-7723964b3059",
+      "width": 77,
+      "x": 17538,
+      "y": 288,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "cb251882-2e10-4933-afe0-2745bb036873",
+      "width": 77,
+      "x": 17750,
+      "y": 287,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "f536e746-12de-4abd-ad00-7027c6048e3f",
+      "width": 77,
+      "x": 17966,
+      "y": 287,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 70,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "327f6245-b411-4f6f-ae4d-846ecf8e199d",
+      "width": 123,
+      "x": 18506,
+      "y": 312,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 70,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "07185661-f60e-4e79-9533-5679a0c12c75",
+      "width": 123,
+      "x": 18765,
+      "y": 311,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 70,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "878c6cf3-e89f-4375-b5fb-5ac818d7e60b",
+      "width": 123,
+      "x": 19043,
+      "y": 313,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformRight4",
+      "persistentUuid": "9223eebf-42c7-4840-8eb3-ac4e99a48020",
+      "width": 0,
+      "x": 20289,
+      "y": 450,
+      "zOrder": 171,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformLeft4",
+      "persistentUuid": "496cb899-787e-4317-8a16-2a96c6f82fd2",
+      "width": 0,
+      "x": 20229,
+      "y": 450,
+      "zOrder": 172,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformLeft",
+      "persistentUuid": "c231655e-bf70-45df-8382-757e8f170074",
+      "width": 0,
+      "x": 20052,
+      "y": 533,
+      "zOrder": 163,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformRight",
+      "persistentUuid": "2e2e5b0b-259f-433d-b5b2-d03787f493eb",
+      "width": 0,
+      "x": 20116,
+      "y": 533,
+      "zOrder": 164,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "0b6ee43c-786a-4e98-bcd5-d3503e936db2",
+      "width": 77,
+      "x": 20261,
+      "y": 128,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "b14ddd28-f1f9-40a3-9b0d-6ee05c01d426",
+      "width": 77,
+      "x": 20511,
+      "y": 125,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "dfb29006-0242-4fc0-8e79-d457502b8f8c",
+      "width": 77,
+      "x": 20781,
+      "y": 125,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 76,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "7cd2ba13-8ceb-48c0-9e6c-ebbfd38ed0cf",
+      "width": 116,
+      "x": 21316,
+      "y": 256,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 76,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "c5620e7c-9153-48b8-ae28-462f5da99fea",
+      "width": 116,
+      "x": 21554,
+      "y": 258,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 76,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "86fe95d8-309f-46f0-af2f-38dc23803469",
+      "width": 116,
+      "x": 21759,
+      "y": 258,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformLeft",
+      "persistentUuid": "4559afd8-aee4-4856-8f93-e852f73e74fd",
+      "width": 0,
+      "x": 22838,
+      "y": 542,
+      "zOrder": 163,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformRight",
+      "persistentUuid": "3ae33c9a-50f0-4380-aaee-bcbaf16ee2dc",
+      "width": 0,
+      "x": 22902,
+      "y": 542,
+      "zOrder": 164,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformLeft",
+      "persistentUuid": "9af68414-1027-4949-8da9-a21d300b7850",
+      "width": 0,
+      "x": 23140,
+      "y": 364,
+      "zOrder": 163,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformRight",
+      "persistentUuid": "6de69b4f-7427-4ca3-9e0c-941c50eced16",
+      "width": 0,
+      "x": 23204,
+      "y": 364,
+      "zOrder": 164,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformLeft",
+      "persistentUuid": "875236cb-d87b-4caa-a603-fdd7983013c9",
+      "width": 0,
+      "x": 23410,
+      "y": 208,
+      "zOrder": 163,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformRight",
+      "persistentUuid": "fd38a7f1-11f6-46c9-bac6-4f7e2c58a803",
+      "width": 0,
+      "x": 23474,
+      "y": 208,
+      "zOrder": 164,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "6aec7b43-d34c-4857-93bf-892ed3a9ac8f",
+      "width": 77,
+      "x": 23009,
+      "y": 430,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "47d73f35-7240-46b5-8ce5-96a1340fa2db",
+      "width": 77,
+      "x": 23304,
+      "y": 255,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "31d34015-5ea6-4580-937d-be1574533fd9",
+      "width": 77,
+      "x": 23576,
+      "y": 98,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 68,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "8f74ecbf-659e-48b7-8195-e8becb766370",
+      "width": 125,
+      "x": 24130,
+      "y": 258,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 68,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "a4f14658-8a30-44e4-ac7c-3bbb6c4ac378",
+      "width": 125,
+      "x": 24475,
+      "y": 261,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 68,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "2a5c52a1-a647-4822-af85-3976db7ff590",
+      "width": 125,
+      "x": 24793,
+      "y": 261,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 557,
+      "layer": "",
+      "name": "door1",
+      "persistentUuid": "3e0a735d-1f23-465d-aa4f-54c1902049f7",
+      "width": 432,
+      "x": 27861,
+      "y": 66,
+      "zOrder": 173,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "ArrowKey",
+      "persistentUuid": "cd3e7d35-c0e6-41af-b8d6-091505d482f9",
+      "width": 0,
+      "x": 5342,
+      "y": 457,
+      "zOrder": 174,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "ArrowKey2",
+      "persistentUuid": "e1c591ea-b5d9-404d-acde-22bd7445ea8a",
+      "width": 0,
+      "x": 7795,
+      "y": 349,
+      "zOrder": 175,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "ArrowKey3",
+      "persistentUuid": "d1d6d9a6-5553-4259-a5da-3e46b8a17f4b",
+      "width": 0,
+      "x": 11988,
+      "y": 404,
+      "zOrder": 176,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "ArrowKey4",
+      "persistentUuid": "b0204604-5908-4a0f-8653-371ddbf7fa27",
+      "width": 0,
+      "x": 14938,
+      "y": 375,
+      "zOrder": 177,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "ArrowKey5",
+      "persistentUuid": "ab337ef5-c49b-416d-984c-86727d0a39a4",
+      "width": 0,
+      "x": 16845,
+      "y": 286,
+      "zOrder": 178,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "ArrowKey6",
+      "persistentUuid": "bad1a658-416b-4db0-987a-672709d0c55b",
+      "width": 0,
+      "x": 19704,
+      "y": 322,
+      "zOrder": 179,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "ArrowKey7",
+      "persistentUuid": "0187ca03-6e98-43d9-a99f-58c4b718405e",
+      "width": 0,
+      "x": 23262,
+      "y": 502,
+      "zOrder": 180,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "ArrowKey8",
+      "persistentUuid": "8ad2cd3e-d26c-4906-ba3f-f56dd7c43e33",
+      "width": 0,
+      "x": 25775,
+      "y": 323,
+      "zOrder": 181,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -34033,6 +34787,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -39241,11 +39996,12 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "let-p6.png",
+                  "image": "let-p",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -44157,6 +44913,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -48693,6 +49450,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -52493,6 +53251,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -55685,6 +56444,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -64165,6 +64925,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -69421,6 +70182,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -70825,6 +71587,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -72549,6 +73312,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -74337,6 +75101,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -85000,6 +85765,150 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "1ffbb5f2b2d23a664af21f864c2864bae3ca3520446ee70998a1ff26b976aa4f",
+      "name": "SummerTilePlatformRight4",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Summer Tile Platform Right.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 47
+                      },
+                      {
+                        "x": 0,
+                        "y": 47
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "012e9af3e3a426ea6b1ab68bb3eeb31c7c857400a2ea76805f3efd2e54609323",
+      "name": "SummerTilePlatformLeft4",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Summer Tile Platform Left.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 47
+                      },
+                      {
+                        "x": 0,
+                        "y": 47
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -85313,6 +86222,9 @@
             "objectName": "SummerTilePlatformRight3"
           },
           {
+            "objectName": "SummerTilePlatformRight4"
+          },
+          {
             "objectName": "SummerTilePlatformLeft"
           },
           {
@@ -85320,6 +86232,9 @@
           },
           {
             "objectName": "SummerTilePlatformLeft3"
+          },
+          {
+            "objectName": "SummerTilePlatformLeft4"
           }
         ]
       },
@@ -86810,7 +87725,7 @@
           },
           "parameters": [
             "",
-            "c.mp3",
+            "k.mp3",
             "no",
             "",
             ""
@@ -86858,7 +87773,7 @@
           },
           "parameters": [
             "",
-            "a.mp3",
+            "i.mp3",
             "no",
             "",
             ""
@@ -86906,7 +87821,7 @@
           },
           "parameters": [
             "",
-            "p.mp3",
+            "d.mp3",
             "no",
             "",
             ""
@@ -87028,8 +87943,18 @@
             "",
             "kid_2",
             "level4_word8.X()",
-            "level4_word8.Y() -70",
+            "level4_word8.Y() -160",
             ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "tree_block",
+            "Platform",
+            "no"
           ]
         }
       ]
@@ -87088,18 +88013,8 @@
             "",
             "wrong",
             "level4_word9.X() + 10",
-            "level4_word9.Y() -120",
+            "level4_word9.Y() -70",
             ""
-          ]
-        },
-        {
-          "type": {
-            "value": "ActivateBehavior"
-          },
-          "parameters": [
-            "LongRectangleWood2",
-            "Platform",
-            "no"
           ]
         }
       ]
@@ -87114,7 +88029,7 @@
           "parameters": [
             "turtle",
             ">",
-            "13450"
+            "10600"
           ]
         },
         {
@@ -87130,7 +88045,7 @@
             "value": "ActivateBehavior"
           },
           "parameters": [
-            "LongRectangleWood2",
+            "tree_block",
             "Platform",
             "yes"
           ]
@@ -87146,7 +88061,7 @@
           },
           "parameters": [
             "turtle",
-            "level2_letter10",
+            "level4_letter10",
             "",
             "",
             ""
@@ -87165,10 +88080,10 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "level2_letter10",
+            "level4_letter10",
             "Animation",
             "=",
-            "\"let-c\""
+            "\"let-l\""
           ]
         },
         {
@@ -87177,7 +88092,7 @@
           },
           "parameters": [
             "",
-            "c.mp3",
+            "l.mp3",
             "no",
             "",
             ""
@@ -87199,7 +88114,7 @@
           },
           "parameters": [
             "turtle",
-            "level2_letter11",
+            "level4_letter11",
             "",
             "",
             ""
@@ -87218,10 +88133,10 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "level2_letter11",
+            "level4_letter11",
             "Animation",
             "=",
-            "\"let-a\""
+            "\"let-i\""
           ]
         },
         {
@@ -87230,7 +88145,7 @@
           },
           "parameters": [
             "",
-            "a.mp3",
+            "i.mp3",
             "no",
             "",
             ""
@@ -87247,7 +88162,7 @@
           },
           "parameters": [
             "turtle",
-            "level2_letter12",
+            "level4_letter12",
             "",
             "",
             ""
@@ -87266,10 +88181,10 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "level2_letter12",
+            "level4_letter12",
             "Animation",
             "=",
-            "\"let-t\""
+            "\"let-p\""
           ]
         },
         {
@@ -87278,7 +88193,7 @@
           },
           "parameters": [
             "",
-            "t.mp3",
+            "p.mp3",
             "no",
             "",
             ""
@@ -87295,7 +88210,7 @@
           },
           "parameters": [
             "turtle",
-            "level2_word10",
+            "level4_word10",
             "",
             "",
             ""
@@ -87314,10 +88229,10 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "level2_word10",
+            "level4_word10",
             "Animation",
             "=",
-            "\"cat-2\""
+            "\"lip - Copy\""
           ]
         },
         {
@@ -87326,7 +88241,7 @@
           },
           "parameters": [
             "",
-            "cat2.mp3",
+            "lip2.mp3",
             "no",
             "",
             ""
@@ -87338,9 +88253,9 @@
           },
           "parameters": [
             "",
-            "cat_2",
-            "level2_word10.X()",
-            "level2_word10.Y() -150",
+            "lip_1",
+            "level4_word10.X()",
+            "level4_word10.Y() -150",
             ""
           ]
         },
@@ -87349,9 +88264,129 @@
             "value": "ActivateBehavior"
           },
           "parameters": [
-            "LongRectangleWood2",
+            "tree_block",
             "Platform",
             "no"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "level4_word11",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "level4_word11",
+            "Animation",
+            "=",
+            "\"fin - Copy\""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "wrong.wav",
+            "no",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Create"
+          },
+          "parameters": [
+            "",
+            "wrong",
+            "level4_word11.X()",
+            "level4_word11.Y() -70",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "level4_word12",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "level4_word12",
+            "Animation",
+            "=",
+            "\"kid - Copy\""
+          ]
+        },
+        {
+          "type": {
+            "value": "Create"
+          },
+          "parameters": [
+            "",
+            "wrong",
+            "level4_word12.X()",
+            "level4_word12.Y() -70",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "wrong.wav",
+            "no",
+            "",
+            ""
           ]
         }
       ]
@@ -87366,7 +88401,7 @@
           "parameters": [
             "turtle",
             ">",
-            "16550"
+            "13720"
           ]
         },
         {
@@ -87382,129 +88417,9 @@
             "value": "ActivateBehavior"
           },
           "parameters": [
-            "LongRectangleWood2",
+            "tree_block",
             "Platform",
             "yes"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "turtle",
-            "level2_word11",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "BuiltinCommonInstructions::Once"
-          },
-          "parameters": []
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-          },
-          "parameters": [
-            "level2_word11",
-            "Animation",
-            "=",
-            "\"fat-2\""
-          ]
-        },
-        {
-          "type": {
-            "value": "PlayMusic"
-          },
-          "parameters": [
-            "",
-            "wrong.wav",
-            "no",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "Create"
-          },
-          "parameters": [
-            "",
-            "wrong",
-            "level2_word11.X()",
-            "level2_word11.Y() -70",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "turtle",
-            "level2_word12",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "BuiltinCommonInstructions::Once"
-          },
-          "parameters": []
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-          },
-          "parameters": [
-            "level2_word12",
-            "Animation",
-            "=",
-            "\"cap2\""
-          ]
-        },
-        {
-          "type": {
-            "value": "Create"
-          },
-          "parameters": [
-            "",
-            "wrong",
-            "level2_word12.X()",
-            "level2_word12.Y() -70",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "PlayMusic"
-          },
-          "parameters": [
-            "",
-            "wrong.wav",
-            "no",
-            "",
-            ""
           ]
         }
       ]
@@ -87523,7 +88438,7 @@
           },
           "parameters": [
             "turtle",
-            "level2_letter13",
+            "level4_letter13",
             "",
             "",
             ""
@@ -87542,10 +88457,10 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "level2_letter13",
+            "level4_letter13",
             "Animation",
             "=",
-            "\"let-f\""
+            "\"let-p\""
           ]
         },
         {
@@ -87554,7 +88469,7 @@
           },
           "parameters": [
             "",
-            "f.mp3",
+            "p.mp3",
             "no",
             "",
             ""
@@ -87571,7 +88486,7 @@
           },
           "parameters": [
             "turtle",
-            "level2_letter14",
+            "level4_letter14",
             "",
             "",
             ""
@@ -87590,10 +88505,10 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "level2_letter14",
+            "level4_letter14",
             "Animation",
             "=",
-            "\"let-a\""
+            "\"let-i\""
           ]
         },
         {
@@ -87602,7 +88517,7 @@
           },
           "parameters": [
             "",
-            "a.mp3",
+            "i.mp3",
             "no",
             "",
             ""
@@ -87619,7 +88534,7 @@
           },
           "parameters": [
             "turtle",
-            "level2_letter15",
+            "level4_letter15",
             "",
             "",
             ""
@@ -87638,10 +88553,10 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "level2_letter15",
+            "level4_letter15",
             "Animation",
             "=",
-            "\"let-t\""
+            "\"let-g\""
           ]
         },
         {
@@ -87650,7 +88565,7 @@
           },
           "parameters": [
             "",
-            "t.mp3",
+            "g.mp3",
             "no",
             "",
             ""
@@ -87667,7 +88582,7 @@
           },
           "parameters": [
             "turtle",
-            "level2_word13",
+            "level4_word13",
             "",
             "",
             ""
@@ -87686,10 +88601,10 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "level2_word13",
+            "level4_word13",
             "Animation",
             "=",
-            "\"mat-2\""
+            "\"bin - Copy\""
           ]
         },
         {
@@ -87711,8 +88626,8 @@
           "parameters": [
             "",
             "wrong",
-            "level2_word13.X()",
-            "level2_word13.Y() -70",
+            "level4_word13.X()",
+            "level4_word13.Y() -70",
             ""
           ]
         }
@@ -87727,7 +88642,7 @@
           },
           "parameters": [
             "turtle",
-            "level2_word14",
+            "level4_word14",
             "",
             "",
             ""
@@ -87746,10 +88661,10 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "level2_word14",
+            "level4_word14",
             "Animation",
             "=",
-            "\"fat-2\""
+            "\"kid - Copy\""
           ]
         },
         {
@@ -87770,9 +88685,57 @@
           },
           "parameters": [
             "",
-            "fat_3",
-            "level2_word14.X()",
-            "level2_word14.Y() -150",
+            "wrong",
+            "level4_word14.X()",
+            "level4_word14.Y() -70",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "level4_word15",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "level4_word15",
+            "Animation",
+            "=",
+            "\"pig - Copy\""
+          ]
+        },
+        {
+          "type": {
+            "value": "Create"
+          },
+          "parameters": [
+            "",
+            "pig_1",
+            "level4_word15.X()",
+            "level4_word15.Y() -150",
             ""
           ]
         },
@@ -87781,9 +88744,21 @@
             "value": "ActivateBehavior"
           },
           "parameters": [
-            "LongRectangleWood2",
+            "tree_block",
             "Platform",
             "no"
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "pig2.mp3",
+            "no",
+            "",
+            ""
           ]
         }
       ]
@@ -87798,7 +88773,7 @@
           "parameters": [
             "turtle",
             ">",
-            "20320"
+            "16320"
           ]
         },
         {
@@ -87814,439 +88789,7 @@
             "value": "ActivateBehavior"
           },
           "parameters": [
-            "LongRectangleWood2",
-            "Platform",
-            "yes"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "turtle",
-            "level2_word15",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "BuiltinCommonInstructions::Once"
-          },
-          "parameters": []
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-          },
-          "parameters": [
-            "level2_word15",
-            "Animation",
-            "=",
-            "\"bat-2\""
-          ]
-        },
-        {
-          "type": {
-            "value": "Create"
-          },
-          "parameters": [
-            "",
-            "wrong",
-            "level2_word15.X()",
-            "level2_word15.Y() -70",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "PlayMusic"
-          },
-          "parameters": [
-            "",
-            "wrong.wav",
-            "no",
-            "",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": []
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "turtle",
-            "level2_letter16",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "BuiltinCommonInstructions::Once"
-          },
-          "parameters": []
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-          },
-          "parameters": [
-            "level2_letter16",
-            "Animation",
-            "=",
-            "\"let-m\""
-          ]
-        },
-        {
-          "type": {
-            "value": "PlayMusic"
-          },
-          "parameters": [
-            "",
-            "m.mp3",
-            "no",
-            "",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "turtle",
-            "level2_letter17",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "BuiltinCommonInstructions::Once"
-          },
-          "parameters": []
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-          },
-          "parameters": [
-            "level2_letter17",
-            "Animation",
-            "=",
-            "\"let-a\""
-          ]
-        },
-        {
-          "type": {
-            "value": "PlayMusic"
-          },
-          "parameters": [
-            "",
-            "a.mp3",
-            "no",
-            "",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "turtle",
-            "level2_letter18",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "BuiltinCommonInstructions::Once"
-          },
-          "parameters": []
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-          },
-          "parameters": [
-            "level2_letter18",
-            "Animation",
-            "=",
-            "\"let-t\""
-          ]
-        },
-        {
-          "type": {
-            "value": "PlayMusic"
-          },
-          "parameters": [
-            "",
-            "t.mp3",
-            "no",
-            "",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "turtle",
-            "level2_word16",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "BuiltinCommonInstructions::Once"
-          },
-          "parameters": []
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-          },
-          "parameters": [
-            "level2_word16",
-            "Animation",
-            "=",
-            "\"bat-2\""
-          ]
-        },
-        {
-          "type": {
-            "value": "PlayMusic"
-          },
-          "parameters": [
-            "",
-            "wrong.wav",
-            "no",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "Create"
-          },
-          "parameters": [
-            "",
-            "wrong",
-            "level2_word16.X()",
-            "level2_word16.Y() -70",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "turtle",
-            "level2_word17",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "BuiltinCommonInstructions::Once"
-          },
-          "parameters": []
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-          },
-          "parameters": [
-            "level2_word17",
-            "Animation",
-            "=",
-            "\"rat-2\""
-          ]
-        },
-        {
-          "type": {
-            "value": "PlayMusic"
-          },
-          "parameters": [
-            "",
-            "wrong.wav",
-            "no",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "Create"
-          },
-          "parameters": [
-            "",
-            "wrong",
-            "level2_word17.X()",
-            "level2_word17.Y() -70",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "turtle",
-            "level2_word18",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "BuiltinCommonInstructions::Once"
-          },
-          "parameters": []
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-          },
-          "parameters": [
-            "level2_word18",
-            "Animation",
-            "=",
-            "\"mat-2\""
-          ]
-        },
-        {
-          "type": {
-            "value": "Create"
-          },
-          "parameters": [
-            "",
-            "mat_3",
-            "level2_word18.X()",
-            "level2_word18.Y() -100",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "PlayMusic"
-          },
-          "parameters": [
-            "",
-            "mat2.mp3",
-            "no",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "ActivateBehavior"
-          },
-          "parameters": [
-            "LongRectangleWood2",
-            "Platform",
-            "no"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "PosX"
-          },
-          "parameters": [
-            "turtle",
-            ">",
-            "23950"
-          ]
-        },
-        {
-          "type": {
-            "value": "BuiltinCommonInstructions::Once"
-          },
-          "parameters": []
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "ActivateBehavior"
-          },
-          "parameters": [
-            "LongRectangleWood2",
+            "tree_block",
             "Platform",
             "yes"
           ]
@@ -88267,7 +88810,7 @@
           },
           "parameters": [
             "turtle",
-            "level2_letter19",
+            "level4_letter16",
             "",
             "",
             ""
@@ -88286,10 +88829,10 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "level2_letter19",
+            "level4_letter16",
             "Animation",
             "=",
-            "\"let-r\""
+            "\"let-p\""
           ]
         },
         {
@@ -88298,7 +88841,7 @@
           },
           "parameters": [
             "",
-            "r.mp3",
+            "p.mp3",
             "no",
             "",
             ""
@@ -88315,7 +88858,7 @@
           },
           "parameters": [
             "turtle",
-            "level2_letter20",
+            "level4_letter17",
             "",
             "",
             ""
@@ -88334,10 +88877,10 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "level2_letter20",
+            "level4_letter17",
             "Animation",
             "=",
-            "\"let-a\""
+            "\"let-i\""
           ]
         },
         {
@@ -88346,7 +88889,7 @@
           },
           "parameters": [
             "",
-            "a.mp3",
+            "i.mp3",
             "no",
             "",
             ""
@@ -88363,7 +88906,7 @@
           },
           "parameters": [
             "turtle",
-            "level2_letter21",
+            "level4_letter18",
             "",
             "",
             ""
@@ -88382,10 +88925,10 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "level2_letter21",
+            "level4_letter18",
             "Animation",
             "=",
-            "\"let-t\""
+            "\"let-n\""
           ]
         },
         {
@@ -88394,7 +88937,7 @@
           },
           "parameters": [
             "",
-            "t.mp3",
+            "n.mp3",
             "no",
             "",
             ""
@@ -88411,7 +88954,7 @@
           },
           "parameters": [
             "turtle",
-            "level2_word19",
+            "level4_word16",
             "",
             "",
             ""
@@ -88430,10 +88973,10 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "level2_word19",
+            "level4_word16",
             "Animation",
             "=",
-            "\"mat-2\""
+            "\"pin - Copy\""
           ]
         },
         {
@@ -88442,139 +88985,7 @@
           },
           "parameters": [
             "",
-            "wrong.wav",
-            "no",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "Create"
-          },
-          "parameters": [
-            "",
-            "wrong",
-            "level2_word19.X()",
-            "level2_word19.Y() -70",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "turtle",
-            "level2_word20",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "BuiltinCommonInstructions::Once"
-          },
-          "parameters": []
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-          },
-          "parameters": [
-            "level2_word20",
-            "Animation",
-            "=",
-            "\"fat-2\""
-          ]
-        },
-        {
-          "type": {
-            "value": "PlayMusic"
-          },
-          "parameters": [
-            "",
-            "wrong.wav",
-            "no",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "Create"
-          },
-          "parameters": [
-            "",
-            "wrong",
-            "level2_word20.X()",
-            "level2_word20.Y() -70",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "turtle",
-            "level2_word21",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "BuiltinCommonInstructions::Once"
-          },
-          "parameters": []
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-          },
-          "parameters": [
-            "level2_word21",
-            "Animation",
-            "=",
-            "\"rat-2\""
-          ]
-        },
-        {
-          "type": {
-            "value": "Create"
-          },
-          "parameters": [
-            "",
-            "rat_2",
-            "level2_word21.X()",
-            "level2_word21.Y() -120",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "PlayMusic"
-          },
-          "parameters": [
-            "",
-            "rat2.mp3",
+            "pin2.mp3",
             "no",
             "",
             ""
@@ -88585,17 +88996,141 @@
             "value": "ActivateBehavior"
           },
           "parameters": [
-            "LongRectangleWood2",
+            "tree_block",
             "Platform",
             "no"
           ]
         },
         {
           "type": {
-            "value": "Cache"
+            "value": "Create"
           },
           "parameters": [
-            "WoodHud4"
+            "",
+            "pin_1",
+            "level4_word16.X()",
+            "level4_word16.Y() -100",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "level4_word17",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "level4_word17",
+            "Animation",
+            "=",
+            "\"pig - Copy\""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "wrong.wav",
+            "no",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Create"
+          },
+          "parameters": [
+            "",
+            "wrong",
+            "level4_word17.X()",
+            "level4_word17.Y() -70",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "level4_word18",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "level4_word18",
+            "Animation",
+            "=",
+            "\"lip - Copy\""
+          ]
+        },
+        {
+          "type": {
+            "value": "Create"
+          },
+          "parameters": [
+            "",
+            "wrong",
+            "level4_word18.X()",
+            "level4_word18.Y() -70",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "wrong.wav",
+            "no",
+            "",
+            ""
           ]
         }
       ]
@@ -88610,7 +89145,7 @@
           "parameters": [
             "turtle",
             ">",
-            "28560"
+            "19320"
           ]
         },
         {
@@ -88626,468 +89161,384 @@
             "value": "ActivateBehavior"
           },
           "parameters": [
-            "LongRectangleWood2",
+            "tree_block",
             "Platform",
             "yes"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "level4_letter19",
+            "",
+            "",
+            ""
           ]
         },
         {
           "type": {
-            "value": "Montre"
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "WoodHud4",
+            "level4_letter19",
+            "Animation",
+            "=",
+            "\"let-s\""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "s.mp3",
+            "no",
+            "",
             ""
           ]
         }
       ]
     },
     {
-      "colorB": 228,
-      "colorG": 176,
-      "colorR": 74,
-      "creationTime": 0,
-      "name": "Grouped events",
-      "source": "",
-      "type": "BuiltinCommonInstructions::Group",
-      "events": [
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "turtle",
-                "door1",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Scene"
-              },
-              "parameters": [
-                "",
-                "\"Level 3\"",
-                ""
-              ]
-            }
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "level4_letter20",
+            "",
+            "",
+            ""
           ]
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "turtle",
-                "ArrowKey",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "MettreXY"
-              },
-              "parameters": [
-                "turtle",
-                "=",
-                "1700",
-                "=",
-                "400"
-              ]
-            },
-            {
-              "type": {
-                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
-              },
-              "parameters": [
-                "turtle",
-                "PlatformerObject",
-                "=",
-                "0"
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "LongRectangleWood2",
-                "Platform",
-                "no"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "turtle",
-                "ArrowKey2",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "MettreXY"
-              },
-              "parameters": [
-                "turtle",
-                "=",
-                "5200",
-                "=",
-                "400"
-              ]
-            },
-            {
-              "type": {
-                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
-              },
-              "parameters": [
-                "turtle",
-                "PlatformerObject",
-                "=",
-                "0"
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "LongRectangleWood2",
-                "Platform",
-                "no"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "turtle",
-                "ArrowKey3",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "MettreXY"
-              },
-              "parameters": [
-                "turtle",
-                "=",
-                "9400",
-                "=",
-                "400"
-              ]
-            },
-            {
-              "type": {
-                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
-              },
-              "parameters": [
-                "turtle",
-                "PlatformerObject",
-                "=",
-                "0"
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "LongRectangleWood2",
-                "Platform",
-                "no"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "turtle",
-                "ArrowKey4",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "MettreXY"
-              },
-              "parameters": [
-                "turtle",
-                "=",
-                "13400",
-                "=",
-                "400"
-              ]
-            },
-            {
-              "type": {
-                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
-              },
-              "parameters": [
-                "turtle",
-                "PlatformerObject",
-                "=",
-                "0"
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "LongRectangleWood2",
-                "Platform",
-                "no"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "turtle",
-                "ArrowKey5",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "MettreXY"
-              },
-              "parameters": [
-                "turtle",
-                "=",
-                "16870",
-                "=",
-                "400"
-              ]
-            },
-            {
-              "type": {
-                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
-              },
-              "parameters": [
-                "turtle",
-                "PlatformerObject",
-                "=",
-                "0"
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "LongRectangleWood2",
-                "Platform",
-                "no"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "turtle",
-                "ArrowKey6",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "MettreXY"
-              },
-              "parameters": [
-                "turtle",
-                "=",
-                "20480",
-                "=",
-                "400"
-              ]
-            },
-            {
-              "type": {
-                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
-              },
-              "parameters": [
-                "turtle",
-                "PlatformerObject",
-                "=",
-                "0"
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "LongRectangleWood2",
-                "Platform",
-                "no"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "turtle",
-                "ArrowKey7",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "MettreXY"
-              },
-              "parameters": [
-                "turtle",
-                "=",
-                "24800",
-                "=",
-                "400"
-              ]
-            },
-            {
-              "type": {
-                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
-              },
-              "parameters": [
-                "turtle",
-                "PlatformerObject",
-                "=",
-                "0"
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "LongRectangleWood2",
-                "Platform",
-                "no"
-              ]
-            }
-          ]
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
         }
       ],
-      "parameters": []
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "level4_letter20",
+            "Animation",
+            "=",
+            "\"let-i\""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "i.mp3",
+            "no",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "level4_letter21",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "level4_letter21",
+            "Animation",
+            "=",
+            "\"let-x\""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "x.mp3",
+            "no",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "level4_word19",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "level4_word19",
+            "Animation",
+            "=",
+            "\"fin - Copy\""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "wrong.wav",
+            "no",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Create"
+          },
+          "parameters": [
+            "",
+            "wrong",
+            "level4_word19.X()",
+            "level4_word19.Y() -70",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "level4_word20",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "level4_word20",
+            "Animation",
+            "=",
+            "\"six - Copy\""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "six2.mp3",
+            "no",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Create"
+          },
+          "parameters": [
+            "",
+            "six_1",
+            "level4_word20.X()",
+            "level4_word20.Y() -120",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "level4_word21",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "level4_word21",
+            "Animation",
+            "=",
+            "\"pig - Copy\""
+          ]
+        },
+        {
+          "type": {
+            "value": "Create"
+          },
+          "parameters": [
+            "",
+            "wrong",
+            "level4_word21.X()",
+            "level4_word21.Y() -70",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "wrong.wav",
+            "no",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "tree_block",
+            "Platform",
+            "no"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PosX"
+          },
+          "parameters": [
+            "turtle",
+            ">",
+            "22000"
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "tree_block",
+            "Platform",
+            "yes"
+          ]
+        }
+      ]
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
@@ -89178,375 +89629,1430 @@
       "actions": []
     },
     {
-      "colorB": 228,
-      "colorG": 176,
-      "colorR": 74,
-      "creationTime": 0,
-      "name": "elevate",
-      "source": "",
-      "type": "BuiltinCommonInstructions::Group",
-      "events": [
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
-              },
-              "parameters": [
-                "SummerTilePlatformRight2",
-                "Tween",
-                "\"elevate\"",
-                "244",
-                "\"linear\"",
-                "1.2",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
-              },
-              "parameters": [
-                "SummerTilePlatformLeft2",
-                "Tween",
-                "\"elevate\"",
-                "244",
-                "\"linear\"",
-                "1.2",
-                ""
-              ]
-            }
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "level4_letter22",
+            "",
+            "",
+            ""
           ]
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "Tween::HasFinished"
-              },
-              "parameters": [
-                "SummerTilePlatformRight2",
-                "Tween",
-                "\"elevate\""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
-              },
-              "parameters": [
-                "SummerTilePlatformRight2",
-                "Tween",
-                "\"elevate2\"",
-                "530",
-                "\"linear\"",
-                "1.2",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
-              },
-              "parameters": [
-                "SummerTilePlatformLeft2",
-                "Tween",
-                "\"elevate2\"",
-                "530",
-                "\"linear\"",
-                "1.2",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::RemoveTween"
-              },
-              "parameters": [
-                "SummerTilePlatformRight2",
-                "Tween",
-                "\"elevate\""
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::RemoveTween"
-              },
-              "parameters": [
-                "SummerTilePlatformLeft2",
-                "Tween",
-                "\"elevate\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "Tween::HasFinished"
-              },
-              "parameters": [
-                "SummerTilePlatformRight2",
-                "Tween",
-                "\"elevate2\""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
-              },
-              "parameters": [
-                "SummerTilePlatformLeft2",
-                "Tween",
-                "\"elevate\"",
-                "244",
-                "\"linear\"",
-                "1.2",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
-              },
-              "parameters": [
-                "SummerTilePlatformRight2",
-                "Tween",
-                "\"elevate\"",
-                "244",
-                "\"linear\"",
-                "1.2",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::RemoveTween"
-              },
-              "parameters": [
-                "SummerTilePlatformRight2",
-                "Tween",
-                "\"elevate2\""
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::RemoveTween"
-              },
-              "parameters": [
-                "SummerTilePlatformLeft2",
-                "Tween",
-                "\"elevate2\""
-              ]
-            }
-          ]
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
         }
       ],
-      "parameters": []
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "level4_letter22",
+            "Animation",
+            "=",
+            "\"let-w\""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "w.mp3",
+            "no",
+            "",
+            ""
+          ]
+        }
+      ]
     },
     {
-      "colorB": 228,
-      "colorG": 176,
-      "colorR": 74,
-      "creationTime": 0,
-      "name": "elevate",
-      "source": "",
-      "type": "BuiltinCommonInstructions::Group",
-      "events": [
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
-              },
-              "parameters": [
-                "SummerTilePlatformRight3",
-                "Tween",
-                "\"elevate\"",
-                "437",
-                "\"linear\"",
-                "1.2",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
-              },
-              "parameters": [
-                "SummerTilePlatformLeft3",
-                "Tween",
-                "\"elevate\"",
-                "437",
-                "\"linear\"",
-                "1.2",
-                ""
-              ]
-            }
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "level4_letter23",
+            "",
+            "",
+            ""
           ]
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "Tween::HasFinished"
-              },
-              "parameters": [
-                "SummerTilePlatformRight3",
-                "Tween",
-                "\"elevate\""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
-              },
-              "parameters": [
-                "SummerTilePlatformRight3",
-                "Tween",
-                "\"elevate2\"",
-                "202",
-                "\"linear\"",
-                "1.2",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
-              },
-              "parameters": [
-                "SummerTilePlatformLeft3",
-                "Tween",
-                "\"elevate2\"",
-                "202",
-                "\"linear\"",
-                "1.2",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::RemoveTween"
-              },
-              "parameters": [
-                "SummerTilePlatformRight3",
-                "Tween",
-                "\"elevate\""
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::RemoveTween"
-              },
-              "parameters": [
-                "SummerTilePlatformLeft3",
-                "Tween",
-                "\"elevate\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "Tween::HasFinished"
-              },
-              "parameters": [
-                "SummerTilePlatformRight3",
-                "Tween",
-                "\"elevate2\""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
-              },
-              "parameters": [
-                "SummerTilePlatformRight3",
-                "Tween",
-                "\"elevate\"",
-                "437",
-                "\"linear\"",
-                "1.2",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
-              },
-              "parameters": [
-                "SummerTilePlatformLeft3",
-                "Tween",
-                "\"elevate\"",
-                "437",
-                "\"linear\"",
-                "1.2",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::RemoveTween"
-              },
-              "parameters": [
-                "SummerTilePlatformRight3",
-                "Tween",
-                "\"elevate2\""
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::RemoveTween"
-              },
-              "parameters": [
-                "SummerTilePlatformLeft3",
-                "Tween",
-                "\"elevate2\""
-              ]
-            }
-          ]
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
         }
       ],
-      "parameters": []
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "level4_letter23",
+            "Animation",
+            "=",
+            "\"let-i\""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "i.mp3",
+            "no",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "level4_letter24",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "level4_letter24",
+            "Animation",
+            "=",
+            "\"let-g\""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "g.mp3",
+            "no",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "level4_word22",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "level4_word22",
+            "Animation",
+            "=",
+            "\"wig - Copy\""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "wig2.mp3",
+            "no",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Create"
+          },
+          "parameters": [
+            "",
+            "wig_1",
+            "level4_word22.X()",
+            "level4_word22.Y() -130",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "level4_word23",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "level4_word23",
+            "Animation",
+            "=",
+            "\"lip - Copy\""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "wrong.wav",
+            "no",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Create"
+          },
+          "parameters": [
+            "",
+            "wrong",
+            "level4_word23.X()",
+            "level4_word23.Y() -70",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "level4_word24",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "level4_word24",
+            "Animation",
+            "=",
+            "\"pig - Copy\""
+          ]
+        },
+        {
+          "type": {
+            "value": "Create"
+          },
+          "parameters": [
+            "",
+            "wrong",
+            "level4_word24.X()",
+            "level4_word24.Y() -70",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "wrong.wav",
+            "no",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "tree_block",
+            "Platform",
+            "no"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PosX"
+          },
+          "parameters": [
+            "turtle",
+            ">",
+            "25150"
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "tree_block",
+            "Platform",
+            "yes"
+          ]
+        }
+      ]
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [],
       "actions": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Grouped events",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "door1",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Level 5\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "ArrowKey",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "turtle",
+                "=",
+                "1566",
+                "=",
+                "400"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "ArrowKey2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "turtle",
+                "=",
+                "4499",
+                "=",
+                "400"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "ArrowKey3",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "turtle",
+                "=",
+                "7439",
+                "=",
+                "400"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "ArrowKey4",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "turtle",
+                "=",
+                "10600",
+                "=",
+                "400"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "ArrowKey5",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "turtle",
+                "=",
+                "13750",
+                "=",
+                "400"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "ArrowKey6",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "turtle",
+                "=",
+                "16350",
+                "=",
+                "400"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "ArrowKey7",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "turtle",
+                "=",
+                "19350",
+                "=",
+                "400"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "ArrowKey8",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "turtle",
+                "=",
+                "22000",
+                "=",
+                "400"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "elevate",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "SummerTilePlatformRight2",
+                "Tween",
+                "\"elevate\"",
+                "244",
+                "\"linear\"",
+                "1.2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "SummerTilePlatformLeft2",
+                "Tween",
+                "\"elevate\"",
+                "244",
+                "\"linear\"",
+                "1.2",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "SummerTilePlatformRight2",
+                "Tween",
+                "\"elevate\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "SummerTilePlatformRight2",
+                "Tween",
+                "\"elevate2\"",
+                "530",
+                "\"linear\"",
+                "1.2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "SummerTilePlatformLeft2",
+                "Tween",
+                "\"elevate2\"",
+                "530",
+                "\"linear\"",
+                "1.2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "SummerTilePlatformRight2",
+                "Tween",
+                "\"elevate\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "SummerTilePlatformLeft2",
+                "Tween",
+                "\"elevate\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "SummerTilePlatformRight2",
+                "Tween",
+                "\"elevate2\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "SummerTilePlatformLeft2",
+                "Tween",
+                "\"elevate\"",
+                "244",
+                "\"linear\"",
+                "1.2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "SummerTilePlatformRight2",
+                "Tween",
+                "\"elevate\"",
+                "244",
+                "\"linear\"",
+                "1.2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "SummerTilePlatformRight2",
+                "Tween",
+                "\"elevate2\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "SummerTilePlatformLeft2",
+                "Tween",
+                "\"elevate2\""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "elevate",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "SummerTilePlatformRight3",
+                "Tween",
+                "\"elevate\"",
+                "437",
+                "\"linear\"",
+                "1.2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "SummerTilePlatformLeft3",
+                "Tween",
+                "\"elevate\"",
+                "437",
+                "\"linear\"",
+                "1.2",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "SummerTilePlatformRight3",
+                "Tween",
+                "\"elevate\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "SummerTilePlatformRight3",
+                "Tween",
+                "\"elevate2\"",
+                "202",
+                "\"linear\"",
+                "1.2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "SummerTilePlatformLeft3",
+                "Tween",
+                "\"elevate2\"",
+                "202",
+                "\"linear\"",
+                "1.2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "SummerTilePlatformRight3",
+                "Tween",
+                "\"elevate\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "SummerTilePlatformLeft3",
+                "Tween",
+                "\"elevate\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "SummerTilePlatformRight3",
+                "Tween",
+                "\"elevate2\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "SummerTilePlatformRight3",
+                "Tween",
+                "\"elevate\"",
+                "437",
+                "\"linear\"",
+                "1.2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "SummerTilePlatformLeft3",
+                "Tween",
+                "\"elevate\"",
+                "437",
+                "\"linear\"",
+                "1.2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "SummerTilePlatformRight3",
+                "Tween",
+                "\"elevate2\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "SummerTilePlatformLeft3",
+                "Tween",
+                "\"elevate2\""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "elevate",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "SummerTilePlatformRight4",
+                "Tween",
+                "\"elevate\"",
+                "20832",
+                "\"linear\"",
+                "2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "SummerTilePlatformLeft4",
+                "Tween",
+                "\"elevate\"",
+                "20772",
+                "\"linear\"",
+                "2",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "SummerTilePlatformRight4",
+                "Tween",
+                "\"elevate\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "SummerTilePlatformRight4",
+                "Tween",
+                "\"elevate2\"",
+                "20289",
+                "\"linear\"",
+                "2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "SummerTilePlatformLeft4",
+                "Tween",
+                "\"elevate2\"",
+                "20229",
+                "\"linear\"",
+                "2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "SummerTilePlatformRight4",
+                "Tween",
+                "\"elevate\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "SummerTilePlatformLeft4",
+                "Tween",
+                "\"elevate\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "SummerTilePlatformRight4",
+                "Tween",
+                "\"elevate2\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "SummerTilePlatformRight4",
+                "Tween",
+                "\"elevate\"",
+                "20832",
+                "\"linear\"",
+                "2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "SummerTilePlatformLeft4",
+                "Tween",
+                "\"elevate\"",
+                "20772",
+                "\"linear\"",
+                "2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "SummerTilePlatformRight4",
+                "Tween",
+                "\"elevate2\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "SummerTilePlatformLeft4",
+                "Tween",
+                "\"elevate2\""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
     }
   ],
   "layers": [
