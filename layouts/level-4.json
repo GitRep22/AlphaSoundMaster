@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.49508400737489405,
+    "zoomFactor": 0.7370816317994109,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -361,8 +361,8 @@
       "name": "level4_word4",
       "persistentUuid": "797ecbee-b203-4f5d-aec3-1c7ac677b699",
       "width": 125,
-      "x": 6455,
-      "y": 155,
+      "x": 6409,
+      "y": 343,
       "zOrder": 16,
       "numberProperties": [],
       "stringProperties": [],
@@ -377,8 +377,8 @@
       "name": "level4_word5",
       "persistentUuid": "e016ff76-c91e-47df-b72f-e1bd209286a2",
       "width": 125,
-      "x": 6802,
-      "y": 155,
+      "x": 6756,
+      "y": 343,
       "zOrder": 17,
       "numberProperties": [],
       "stringProperties": [],
@@ -393,8 +393,8 @@
       "name": "level4_word6",
       "persistentUuid": "024d7984-de38-4acf-88f0-da45869e8b70",
       "width": 125,
-      "x": 7158,
-      "y": 155,
+      "x": 7112,
+      "y": 343,
       "zOrder": 18,
       "numberProperties": [],
       "stringProperties": [],
@@ -972,54 +972,6 @@
       "x": 24787,
       "y": 250,
       "zOrder": 60,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 200,
-      "layer": "",
-      "name": "fin_2",
-      "persistentUuid": "e72dddde-2943-41cd-8875-fd879e8039b7",
-      "width": 196,
-      "x": 6417,
-      "y": -43,
-      "zOrder": 65,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 171,
-      "layer": "",
-      "name": "bin_2",
-      "persistentUuid": "2b605bd6-119d-451d-a3b0-defe328789ba",
-      "width": 171,
-      "x": 6779,
-      "y": -20,
-      "zOrder": 66,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 175,
-      "layer": "",
-      "name": "kid_2",
-      "persistentUuid": "523da94e-534d-49d3-aafc-cd529ad234f6",
-      "width": 143,
-      "x": 7149,
-      "y": -18,
-      "zOrder": 67,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2088,6 +2040,69 @@
           "value": 0
         }
       ],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 71,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "cf23ee1d-89ef-4438-bdb6-fd56b7bed2de",
+      "width": 118,
+      "x": 6414,
+      "y": 352,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 71,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "9c377d16-8d1d-43ee-9e47-b6097dd9226a",
+      "width": 118,
+      "x": 6762,
+      "y": 350,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 71,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "3b73d61e-59cb-4445-bf6f-fa52a7fc3f0f",
+      "width": 118,
+      "x": 7121,
+      "y": 354,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Mushroom",
+      "persistentUuid": "653e5f83-1dad-4b81-a681-f4533084b304",
+      "width": 0,
+      "x": 3974,
+      "y": 85,
+      "zOrder": 166,
+      "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
     }
@@ -83326,6 +83341,1314 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "3e4e0436cdaffb9fbe77bd1e0648a14a273dd42a9f381433af25bed276db4306",
+      "name": "Mushroom",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.0714,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Idle_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Idle_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Idle_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Idle_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Idle_5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Idle_6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Idle_7.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Idle_8.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Idle_9.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Idle_10.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Idle_11.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Idle_12.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Idle_13.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Idle_14.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Run",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.0625,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Run_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Run_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Run_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Run_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Run_5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Run_6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Run_7.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Run_8.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Run_9.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Run_10.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Run_11.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Run_12.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Run_13.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Run_14.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Run_15.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Run_16.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hit",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.2,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Hit_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Hit_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Hit_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Hit_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Mushroom_Hit_5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 12
+                      },
+                      {
+                        "x": 29,
+                        "y": 32
+                      },
+                      {
+                        "x": 3,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -83636,6 +84959,9 @@
             "objectName": "SummerTilePlatformLeft"
           }
         ]
+      },
+      {
+        "objectName": "Mushroom"
       }
     ]
   },
@@ -83653,12 +84979,13 @@
       "actions": [
         {
           "type": {
-            "value": "PlayMusic"
+            "value": "PlayMusicCanal"
           },
           "parameters": [
             "",
             "ngini-ija-18489.mp3",
-            "yes",
+            "4",
+            "30",
             "30",
             "1"
           ]
@@ -87401,8 +88728,86 @@
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": []
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "Mushroom",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "StopMusicCanal"
+          },
+          "parameters": [
+            "",
+            "4"
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "Mushroom",
+            "Animation",
+            "=",
+            "\"Hit\""
+          ]
+        },
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "1"
+          ]
+        },
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "Mushroom",
+            "Mushroom"
+          ]
+        },
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "1"
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusicCanal"
+          },
+          "parameters": [
+            "",
+            "super-mario-bros-nes-music-star-theme-cut-mp3.mp3",
+            "4",
+            "30",
+            "30",
+            "1"
+          ]
+        }
+      ]
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
