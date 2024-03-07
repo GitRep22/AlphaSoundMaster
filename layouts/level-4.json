@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.2550455473354357,
+    "zoomFactor": 0.29122588669111393,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -180,8 +180,8 @@
       "name": "level4_word",
       "persistentUuid": "affba7e9-606d-42f5-a45b-6d96848c0fbc",
       "width": 125,
-      "x": 3202,
-      "y": 155,
+      "x": 3095,
+      "y": 362,
       "zOrder": 9,
       "numberProperties": [],
       "stringProperties": [],
@@ -196,8 +196,8 @@
       "name": "level4_word2",
       "persistentUuid": "5ae8f64a-5575-4d50-b066-d03b75abf6c5",
       "width": 125,
-      "x": 3427,
-      "y": 155,
+      "x": 3320,
+      "y": 362,
       "zOrder": 10,
       "numberProperties": [],
       "stringProperties": [],
@@ -212,8 +212,8 @@
       "name": "level4_word3",
       "persistentUuid": "e43efc9a-c389-4e11-87dc-33b4e7781676",
       "width": 125,
-      "x": 3665,
-      "y": 155,
+      "x": 3558,
+      "y": 362,
       "zOrder": 11,
       "numberProperties": [],
       "stringProperties": [],
@@ -1084,54 +1084,6 @@
       "x": 25099,
       "y": 205,
       "zOrder": 61,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 180,
-      "layer": "",
-      "name": "fin_1",
-      "persistentUuid": "27fcf77f-a211-42c4-9bbf-a60e8f92e4fe",
-      "width": 177,
-      "x": 3172,
-      "y": -29,
-      "zOrder": 62,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 189,
-      "layer": "",
-      "name": "bin_1",
-      "persistentUuid": "b827ed7f-528f-48bd-ba97-88606248fe3a",
-      "width": 189,
-      "x": 3395,
-      "y": -34,
-      "zOrder": 63,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 175,
-      "layer": "",
-      "name": "kid_1",
-      "persistentUuid": "1a31a6ad-7d93-4822-8e1b-fd93123547eb",
-      "width": 144,
-      "x": 3655,
-      "y": -18,
-      "zOrder": 64,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2017,8 +1969,8 @@
       "name": "Sample_letter",
       "persistentUuid": "3a162ce6-4ecc-4fba-add6-26ae6af4dd2b",
       "width": 74,
-      "x": 4987,
-      "y": 347,
+      "x": 4981,
+      "y": 351,
       "zOrder": 165,
       "numberProperties": [],
       "stringProperties": [],
@@ -2033,7 +1985,7 @@
       "name": "Sample_letter",
       "persistentUuid": "8a97109a-9567-4132-91f8-b0b38725ea74",
       "width": 74,
-      "x": 5323,
+      "x": 5321,
       "y": 119,
       "zOrder": 165,
       "numberProperties": [],
@@ -2049,8 +2001,56 @@
       "name": "Sample_letter",
       "persistentUuid": "a6434fe8-30ec-432b-8097-2b29f23143c5",
       "width": 74,
-      "x": 5492,
-      "y": 225,
+      "x": 5496,
+      "y": 227,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "2dc5bed5-d703-4951-845a-570b97cd8f7c",
+      "width": 113,
+      "x": 3106,
+      "y": 371,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "534af383-41f9-4570-9cbf-6cffd5381dbc",
+      "width": 113,
+      "x": 3330,
+      "y": 369,
+      "zOrder": 165,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 73,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "4d78e454-90c6-42e1-8545-3450d483e4a1",
+      "width": 113,
+      "x": 3571,
+      "y": 371,
       "zOrder": 165,
       "numberProperties": [],
       "stringProperties": [],
@@ -2259,6 +2259,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -10485,7 +10486,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "bin - Copy",
+          "name": "bin",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -10494,7 +10495,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "bin - Copy2.png",
+                  "image": "bin2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -10533,16 +10534,17 @@
           ]
         },
         {
-          "name": "bin",
+          "name": "bin - Copy",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "bin2.png",
+                  "image": "bin - Copy2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -11510,11 +11512,12 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "kid - Copy2.png",
+                  "image": "kid - Copy",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -21444,6 +21447,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -84450,7 +84454,7 @@
           },
           "parameters": [
             "turtle",
-            "level2_word",
+            "level4_word",
             "",
             "",
             ""
@@ -84469,10 +84473,10 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "level2_word",
+            "level4_word",
             "Animation",
             "=",
-            "\"bat-2\""
+            "\"fin - Copy\""
           ]
         },
         {
@@ -84481,7 +84485,7 @@
           },
           "parameters": [
             "",
-            "bat2.mp3",
+            "wrong.wav",
             "no",
             "",
             ""
@@ -84493,9 +84497,69 @@
           },
           "parameters": [
             "",
-            "bat_1",
-            "level2_word.X() + 10",
-            "level2_word.Y() -100",
+            "wrong",
+            "level4_word.X() + 10",
+            "level4_word.Y() -70",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "level4_word2",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "level4_word2",
+            "Animation",
+            "=",
+            "\"bin - Copy\""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "bin2.mp3",
+            "no",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Create"
+          },
+          "parameters": [
+            "",
+            "bin_1",
+            "level4_word2.X()",
+            "level4_word2.Y() -120",
             ""
           ]
         },
@@ -84504,7 +84568,7 @@
             "value": "ActivateBehavior"
           },
           "parameters": [
-            "LongRectangleWood2",
+            "tree_block",
             "Platform",
             "no"
           ]
@@ -84520,7 +84584,7 @@
           },
           "parameters": [
             "turtle",
-            "level2_word2",
+            "level4_word3",
             "",
             "",
             ""
@@ -84539,10 +84603,10 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "level2_word2",
+            "level4_word3",
             "Animation",
             "=",
-            "\"cat-2\""
+            "\"kid - Copy\""
           ]
         },
         {
@@ -84564,68 +84628,8 @@
           "parameters": [
             "",
             "wrong",
-            "level2_word2.X()",
-            "level2_word2.Y() -70",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "turtle",
-            "level2_word3",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "BuiltinCommonInstructions::Once"
-          },
-          "parameters": []
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-          },
-          "parameters": [
-            "level2_word3",
-            "Animation",
-            "=",
-            "\"fat-2\""
-          ]
-        },
-        {
-          "type": {
-            "value": "PlayMusic"
-          },
-          "parameters": [
-            "",
-            "wrong.wav",
-            "no",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "Create"
-          },
-          "parameters": [
-            "",
-            "wrong",
-            "level2_word3.X()",
-            "level2_word3.Y() -70",
+            "level4_word3.X()",
+            "level4_word3.Y() -70",
             ""
           ]
         }
@@ -84657,7 +84661,7 @@
             "value": "ActivateBehavior"
           },
           "parameters": [
-            "LongRectangleWood2",
+            "tree_block",
             "Platform",
             "yes"
           ]
@@ -84678,7 +84682,7 @@
           },
           "parameters": [
             "turtle",
-            "level2_letter4",
+            "level4_letter4",
             "",
             "",
             ""
@@ -84726,7 +84730,7 @@
           },
           "parameters": [
             "turtle",
-            "level2_letter5",
+            "level4_letter5",
             "",
             "",
             ""
@@ -84774,7 +84778,7 @@
           },
           "parameters": [
             "turtle",
-            "level2_letter6",
+            "level4_letter6",
             "",
             "",
             ""
@@ -84822,7 +84826,7 @@
           },
           "parameters": [
             "turtle",
-            "level2_word4_",
+            "level4_word4",
             "",
             "",
             ""
@@ -84882,7 +84886,7 @@
           },
           "parameters": [
             "turtle",
-            "level2_word5",
+            "level4_word4",
             "",
             "",
             ""
@@ -84942,7 +84946,7 @@
           },
           "parameters": [
             "turtle",
-            "level2_word6",
+            "level4_word4",
             "",
             "",
             ""
