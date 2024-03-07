@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.7370816317994109,
+    "zoomFactor": 0.23867758270258105,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -409,8 +409,8 @@
       "name": "level4_letter7",
       "persistentUuid": "899b619f-52f1-4318-ad8b-4714cbb4d78b",
       "width": 160,
-      "x": 8559,
-      "y": 57,
+      "x": 8404,
+      "y": 6,
       "zOrder": 20,
       "numberProperties": [],
       "stringProperties": [],
@@ -424,9 +424,9 @@
       "layer": "",
       "name": "level4_letter8",
       "persistentUuid": "2f12efac-c9fd-43ff-aeb0-9d2fdb29d2bf",
-      "width": 125,
-      "x": 8781,
-      "y": 347,
+      "width": 160,
+      "x": 8745,
+      "y": -20,
       "zOrder": 21,
       "numberProperties": [],
       "stringProperties": [],
@@ -440,7 +440,7 @@
       "layer": "",
       "name": "level4_letter9",
       "persistentUuid": "69a11a43-907a-49fd-bfa0-0b0ba2f37700",
-      "width": 125,
+      "width": 160,
       "x": 9039,
       "y": 65,
       "zOrder": 22,
@@ -1369,8 +1369,8 @@
       "name": "turtle",
       "persistentUuid": "53528594-1b67-473d-91bd-7bd24ec386a2",
       "width": 230,
-      "x": 347,
-      "y": 138,
+      "x": 8315,
+      "y": 378,
       "zOrder": 46,
       "numberProperties": [],
       "stringProperties": [],
@@ -2068,8 +2068,8 @@
       "name": "Sample_letter",
       "persistentUuid": "9c377d16-8d1d-43ee-9e47-b6097dd9226a",
       "width": 118,
-      "x": 6762,
-      "y": 350,
+      "x": 6763,
+      "y": 353,
       "zOrder": 165,
       "numberProperties": [],
       "stringProperties": [],
@@ -2084,8 +2084,8 @@
       "name": "Sample_letter",
       "persistentUuid": "3b73d61e-59cb-4445-bf6f-fa52a7fc3f0f",
       "width": 118,
-      "x": 7121,
-      "y": 354,
+      "x": 7117,
+      "y": 353,
       "zOrder": 165,
       "numberProperties": [],
       "stringProperties": [],
@@ -2102,6 +2102,66 @@
       "x": 3974,
       "y": 85,
       "zOrder": 166,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformRight2",
+      "persistentUuid": "4936c22e-b8ac-4c45-a14c-5f2b4b57c693",
+      "width": 0,
+      "x": 8483,
+      "y": 244,
+      "zOrder": 167,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformLeft2",
+      "persistentUuid": "441842c9-e49b-4f93-89df-e365639c3c08",
+      "width": 0,
+      "x": 8420,
+      "y": 244,
+      "zOrder": 168,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformLeft3",
+      "persistentUuid": "46cc3a9f-dc15-4dc9-b818-a4a0c910cd49",
+      "width": 0,
+      "x": 8764,
+      "y": 437,
+      "zOrder": 169,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "SummerTilePlatformRight3",
+      "persistentUuid": "b62ebefb-8e72-4d91-8729-634dbaca5346",
+      "width": 0,
+      "x": 8828,
+      "y": 438,
+      "zOrder": 170,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -22442,6 +22502,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -23942,6 +24003,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -28622,6 +28684,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -84649,6 +84712,294 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "1ffbb5f2b2d23a664af21f864c2864bae3ca3520446ee70998a1ff26b976aa4f",
+      "name": "SummerTilePlatformRight2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Summer Tile Platform Right.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 47
+                      },
+                      {
+                        "x": 0,
+                        "y": 47
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "012e9af3e3a426ea6b1ab68bb3eeb31c7c857400a2ea76805f3efd2e54609323",
+      "name": "SummerTilePlatformLeft2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Summer Tile Platform Left.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 47
+                      },
+                      {
+                        "x": 0,
+                        "y": 47
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "1ffbb5f2b2d23a664af21f864c2864bae3ca3520446ee70998a1ff26b976aa4f",
+      "name": "SummerTilePlatformRight3",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Summer Tile Platform Right.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 47
+                      },
+                      {
+                        "x": 0,
+                        "y": 47
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "012e9af3e3a426ea6b1ab68bb3eeb31c7c857400a2ea76805f3efd2e54609323",
+      "name": "SummerTilePlatformLeft3",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Summer Tile Platform Left.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 47
+                      },
+                      {
+                        "x": 0,
+                        "y": 47
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -84956,7 +85307,19 @@
             "objectName": "SummerTilePlatformRight"
           },
           {
+            "objectName": "SummerTilePlatformRight2"
+          },
+          {
+            "objectName": "SummerTilePlatformRight3"
+          },
+          {
             "objectName": "SummerTilePlatformLeft"
+          },
+          {
+            "objectName": "SummerTilePlatformLeft2"
+          },
+          {
+            "objectName": "SummerTilePlatformLeft3"
           }
         ]
       },
@@ -84985,7 +85348,7 @@
             "",
             "ngini-ija-18489.mp3",
             "4",
-            "30",
+            "yes",
             "30",
             "1"
           ]
@@ -86210,7 +86573,7 @@
             "level4_word4",
             "Animation",
             "=",
-            "\"cap2\""
+            "\"fin - Copy\""
           ]
         },
         {
@@ -86233,7 +86596,7 @@
             "",
             "fin_1",
             "level4_word4.X()",
-            "level4_word4.Y() - 120",
+            "level4_word4.Y() - 130",
             ""
           ]
         }
@@ -86270,7 +86633,7 @@
             "level4_word5",
             "Animation",
             "=",
-            "\"bat-2\""
+            "\"bin - Copy\""
           ]
         },
         {
@@ -86330,7 +86693,7 @@
             "level4_word6",
             "Animation",
             "=",
-            "\"tap2\""
+            "\"kid - Copy\""
           ]
         },
         {
@@ -86362,7 +86725,7 @@
             "value": "ActivateBehavior"
           },
           "parameters": [
-            "tree_block2",
+            "tree_block",
             "Platform",
             "no"
           ]
@@ -86395,7 +86758,7 @@
             "value": "ActivateBehavior"
           },
           "parameters": [
-            "tree_block2",
+            "tree_block",
             "Platform",
             "yes"
           ]
@@ -86416,7 +86779,7 @@
           },
           "parameters": [
             "turtle",
-            "level2_letter7",
+            "level4_letter7",
             "",
             "",
             ""
@@ -86435,10 +86798,10 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "level2_letter7",
+            "level4_letter7",
             "Animation",
             "=",
-            "\"let-c\""
+            "\"let-k\""
           ]
         },
         {
@@ -86464,7 +86827,7 @@
           },
           "parameters": [
             "turtle",
-            "level2_letter8",
+            "level4_letter8",
             "",
             "",
             ""
@@ -86483,10 +86846,10 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "level2_letter8",
+            "level4_letter8",
             "Animation",
             "=",
-            "\"let-a\""
+            "\"let-i\""
           ]
         },
         {
@@ -86512,7 +86875,7 @@
           },
           "parameters": [
             "turtle",
-            "level2_letter9",
+            "level4_letter9",
             "",
             "",
             ""
@@ -86531,10 +86894,10 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "level2_letter9",
+            "level4_letter9",
             "Animation",
             "=",
-            "\"let-p\""
+            "\"let-d\""
           ]
         },
         {
@@ -86560,7 +86923,7 @@
           },
           "parameters": [
             "turtle",
-            "level2_word7",
+            "level4_word7",
             "",
             "",
             ""
@@ -86579,10 +86942,10 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "level2_word7",
+            "level4_word7",
             "Animation",
             "=",
-            "\"mat-2\""
+            "\"lip - Copy\""
           ]
         },
         {
@@ -86604,8 +86967,8 @@
           "parameters": [
             "",
             "wrong",
-            "level2_word7.X()",
-            "level2_word7.Y() -70",
+            "level4_word7.X()",
+            "level4_word7.Y() -70",
             ""
           ]
         }
@@ -86620,7 +86983,7 @@
           },
           "parameters": [
             "turtle",
-            "level2_word8",
+            "level4_word8",
             "",
             "",
             ""
@@ -86639,10 +87002,70 @@
             "value": "AnimatableCapability::AnimatableBehavior::SetName"
           },
           "parameters": [
-            "level2_word8",
+            "level4_word8",
             "Animation",
             "=",
-            "\"pat-2\""
+            "\"kid - Copy\""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "kid2.mp3",
+            "no",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Create"
+          },
+          "parameters": [
+            "",
+            "kid_2",
+            "level4_word8.X()",
+            "level4_word8.Y() -70",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "level4_word9",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "level4_word9",
+            "Animation",
+            "=",
+            "\"bin - Copy\""
           ]
         },
         {
@@ -86664,68 +87087,8 @@
           "parameters": [
             "",
             "wrong",
-            "level2_word8.X()",
-            "level2_word8.Y() -70",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "turtle",
-            "level2_word9",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "BuiltinCommonInstructions::Once"
-          },
-          "parameters": []
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-          },
-          "parameters": [
-            "level2_word9",
-            "Animation",
-            "=",
-            "\"cap2\""
-          ]
-        },
-        {
-          "type": {
-            "value": "PlayMusic"
-          },
-          "parameters": [
-            "",
-            "cap2.mp3",
-            "no",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "Create"
-          },
-          "parameters": [
-            "",
-            "cap_2",
-            "level2_word9.X() + 10",
-            "level2_word9.Y() -120",
+            "level4_word9.X() + 10",
+            "level4_word9.Y() -120",
             ""
           ]
         },
@@ -88802,12 +89165,383 @@
             "",
             "super-mario-bros-nes-music-star-theme-cut-mp3.mp3",
             "4",
-            "30",
+            "yes",
             "30",
             "1"
           ]
         }
       ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "elevate",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "SummerTilePlatformRight2",
+                "Tween",
+                "\"elevate\"",
+                "244",
+                "\"linear\"",
+                "1.2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "SummerTilePlatformLeft2",
+                "Tween",
+                "\"elevate\"",
+                "244",
+                "\"linear\"",
+                "1.2",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "SummerTilePlatformRight2",
+                "Tween",
+                "\"elevate\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "SummerTilePlatformRight2",
+                "Tween",
+                "\"elevate2\"",
+                "530",
+                "\"linear\"",
+                "1.2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "SummerTilePlatformLeft2",
+                "Tween",
+                "\"elevate2\"",
+                "530",
+                "\"linear\"",
+                "1.2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "SummerTilePlatformRight2",
+                "Tween",
+                "\"elevate\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "SummerTilePlatformLeft2",
+                "Tween",
+                "\"elevate\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "SummerTilePlatformRight2",
+                "Tween",
+                "\"elevate2\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "SummerTilePlatformLeft2",
+                "Tween",
+                "\"elevate\"",
+                "244",
+                "\"linear\"",
+                "1.2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "SummerTilePlatformRight2",
+                "Tween",
+                "\"elevate\"",
+                "244",
+                "\"linear\"",
+                "1.2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "SummerTilePlatformRight2",
+                "Tween",
+                "\"elevate2\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "SummerTilePlatformLeft2",
+                "Tween",
+                "\"elevate2\""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "elevate",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "SummerTilePlatformRight3",
+                "Tween",
+                "\"elevate\"",
+                "437",
+                "\"linear\"",
+                "1.2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "SummerTilePlatformLeft3",
+                "Tween",
+                "\"elevate\"",
+                "437",
+                "\"linear\"",
+                "1.2",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "SummerTilePlatformRight3",
+                "Tween",
+                "\"elevate\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "SummerTilePlatformRight3",
+                "Tween",
+                "\"elevate2\"",
+                "202",
+                "\"linear\"",
+                "1.2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "SummerTilePlatformLeft3",
+                "Tween",
+                "\"elevate2\"",
+                "202",
+                "\"linear\"",
+                "1.2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "SummerTilePlatformRight3",
+                "Tween",
+                "\"elevate\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "SummerTilePlatformLeft3",
+                "Tween",
+                "\"elevate\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "SummerTilePlatformRight3",
+                "Tween",
+                "\"elevate2\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "SummerTilePlatformRight3",
+                "Tween",
+                "\"elevate\"",
+                "437",
+                "\"linear\"",
+                "1.2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "SummerTilePlatformLeft3",
+                "Tween",
+                "\"elevate\"",
+                "437",
+                "\"linear\"",
+                "1.2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "SummerTilePlatformRight3",
+                "Tween",
+                "\"elevate2\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "SummerTilePlatformLeft3",
+                "Tween",
+                "\"elevate2\""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
