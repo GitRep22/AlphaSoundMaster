@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.33253870912507993,
+    "zoomFactor": 0.2308918338522505,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -3327,12 +3327,13 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 181,
       "layer": "",
       "name": "level3_letter",
       "persistentUuid": "9231fea5-4453-4735-a111-cc47c91bea1d",
-      "width": 0,
+      "width": 160,
       "x": 2786,
       "y": 527,
       "zOrder": 166,
@@ -3372,12 +3373,13 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 225,
       "layer": "",
       "name": "level3_letter4",
       "persistentUuid": "6c43e22b-cde6-4d1d-930b-509a711daa28",
-      "width": 0,
+      "width": 160,
       "x": 7023,
       "y": 528,
       "zOrder": 169,
@@ -3387,12 +3389,13 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 225,
       "layer": "",
       "name": "level3_letter5",
       "persistentUuid": "a8daacf7-a0bd-4d05-8770-961ff7f7bd5d",
-      "width": 0,
+      "width": 160,
       "x": 7491,
       "y": 527,
       "zOrder": 170,
@@ -3402,12 +3405,13 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 225,
       "layer": "",
       "name": "level3_letter6",
       "persistentUuid": "f7da18c3-eed3-4938-a816-c6fd7e83dfdd",
-      "width": 0,
+      "width": 160,
       "x": 7992,
       "y": 527,
       "zOrder": 171,
@@ -3465,12 +3469,13 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 225,
       "layer": "",
       "name": "level3_letter7",
       "persistentUuid": "169a6451-d9df-4823-bac2-cafe1e06cda0",
-      "width": 0,
+      "width": 160,
       "x": 12492,
       "y": 528,
       "zOrder": 175,
@@ -3480,12 +3485,13 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 225,
       "layer": "",
       "name": "level3_letter8",
       "persistentUuid": "a426a9de-8a1d-4ac0-b73c-03feb4269e1c",
-      "width": 0,
+      "width": 160,
       "x": 13059,
       "y": 322,
       "zOrder": 176,
@@ -3495,12 +3501,13 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 225,
       "layer": "",
       "name": "level3_letter9",
       "persistentUuid": "c9d48262-6bc6-4938-8628-5119f0da0b78",
-      "width": 0,
+      "width": 160,
       "x": 13449,
       "y": 223,
       "zOrder": 177,
@@ -3558,12 +3565,13 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 225,
       "layer": "",
       "name": "level3_letter10",
       "persistentUuid": "50d20843-a28b-4bd7-a391-7e3634bbf9bf",
-      "width": 0,
+      "width": 160,
       "x": 17421,
       "y": 526,
       "zOrder": 181,
@@ -3573,12 +3581,13 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 225,
       "layer": "",
       "name": "level3_letter11",
       "persistentUuid": "3ca8ba92-a6fd-4a4e-bd30-822640e09ad5",
-      "width": 0,
+      "width": 160,
       "x": 17910,
       "y": 423,
       "zOrder": 182,
@@ -3588,12 +3597,13 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 225,
       "layer": "",
       "name": "level3_letter12",
       "persistentUuid": "5b9d79dd-ec84-4e2e-bf13-64a40f200717",
-      "width": 0,
+      "width": 160,
       "x": 18321,
       "y": 312,
       "zOrder": 183,
@@ -3651,12 +3661,13 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 225,
       "layer": "",
       "name": "level3_letter13",
       "persistentUuid": "408cc10c-1247-47bd-9892-75ca15fceac4",
-      "width": 0,
+      "width": 160,
       "x": 21860,
       "y": 527,
       "zOrder": 187,
@@ -3666,12 +3677,13 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 225,
       "layer": "",
       "name": "level3_letter14",
       "persistentUuid": "fbfca769-7591-498c-afc6-deb1ccaba7d5",
-      "width": 0,
+      "width": 160,
       "x": 22217,
       "y": 527,
       "zOrder": 188,
@@ -3681,12 +3693,13 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 225,
       "layer": "",
       "name": "level3_letter15",
       "persistentUuid": "fe9abcdb-42fc-401a-832b-43b0d251ade4",
-      "width": 0,
+      "width": 160,
       "x": 22532,
       "y": 527,
       "zOrder": 189,
@@ -3744,12 +3757,13 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 225,
       "layer": "",
       "name": "level3_letter18",
       "persistentUuid": "c8debc58-c83e-4490-a7dc-89463dd8d648",
-      "width": 0,
+      "width": 160,
       "x": 28791,
       "y": 528,
       "zOrder": 193,
@@ -3759,12 +3773,13 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 225,
       "layer": "",
       "name": "level3_letter17",
       "persistentUuid": "468a36e9-6569-4155-8bee-f491ae02cbd8",
-      "width": 0,
+      "width": 160,
       "x": 28470,
       "y": 222,
       "zOrder": 194,
@@ -3774,12 +3789,13 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 225,
       "layer": "",
       "name": "level3_letter16",
       "persistentUuid": "8d7485b2-d043-4938-9a12-3a795e63b313",
-      "width": 0,
+      "width": 160,
       "x": 28170,
       "y": 528,
       "zOrder": 195,
@@ -3837,12 +3853,13 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 225,
       "layer": "",
       "name": "level3_letter19",
       "persistentUuid": "bc77619c-adb6-4e32-8ad8-86fb67f46422",
-      "width": 0,
+      "width": 160,
       "x": 32120,
       "y": 527,
       "zOrder": 199,
@@ -3852,12 +3869,13 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 225,
       "layer": "",
       "name": "level3_letter20",
       "persistentUuid": "59c3a5a0-eb85-4758-b152-a0e56fc70489",
-      "width": 0,
+      "width": 160,
       "x": 32591,
       "y": 528,
       "zOrder": 200,
@@ -3867,12 +3885,13 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 225,
       "layer": "",
       "name": "level3_letter21",
       "persistentUuid": "0e8eac77-7db5-47c7-ad59-a673136a8544",
-      "width": 0,
+      "width": 160,
       "x": 33019,
       "y": 527,
       "zOrder": 201,
@@ -3930,12 +3949,13 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 225,
       "layer": "",
       "name": "level3_word22",
       "persistentUuid": "f4a158e4-e931-45f1-8b97-3d4473feea7b",
-      "width": 0,
+      "width": 160,
       "x": 37690,
       "y": 241,
       "zOrder": 205,
@@ -3945,12 +3965,13 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 225,
       "layer": "",
       "name": "level3_word23",
       "persistentUuid": "988cf24d-ee90-406b-9138-7d56bb42e95a",
-      "width": 0,
+      "width": 160,
       "x": 38086,
       "y": 236,
       "zOrder": 206,
@@ -3960,12 +3981,13 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 225,
       "layer": "",
       "name": "level3_word24",
       "persistentUuid": "0e14d5d1-3d5a-40a1-a709-87f4e0db69fa",
-      "width": 0,
+      "width": 160,
       "x": 38480,
       "y": 236,
       "zOrder": 207,
@@ -4920,6 +4942,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -6847,7 +6870,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "bet-l3 - Copy",
+          "name": "bet-l",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -6856,7 +6879,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "bet-l3 - Copy.png",
+                  "image": "bet-l3.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -6895,16 +6918,17 @@
           ]
         },
         {
-          "name": "bet-l",
+          "name": "bet-Copy",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "bet-l3.png",
+                  "image": "bet-l3 - Copy.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -8352,6 +8376,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -11628,6 +11653,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -12787,11 +12813,12 @@
           ]
         },
         {
-          "name": "jet-l3 - Copy",
+          "name": "jet-Copy",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -13663,16 +13690,17 @@
           ]
         },
         {
-          "name": "met-l3 - Copy",
+          "name": "met - Copy",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "met-l3 - Copy.png",
+                  "image": "met - Copy",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -15276,6 +15304,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -22807,11 +22836,12 @@
           ]
         },
         {
-          "name": "met-l3 - Copy",
+          "name": "met - Copy",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -25392,6 +25422,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -33607,11 +33638,12 @@
           ]
         },
         {
-          "name": "net-l3 - Copy",
+          "name": "net-Copy",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -35364,6 +35396,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -37147,11 +37180,12 @@
           ]
         },
         {
-          "name": "set-l3 - Copy",
+          "name": "set-Copy",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -45384,6 +45418,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -52771,11 +52806,12 @@
           ]
         },
         {
-          "name": "pet-l3 - Copy",
+          "name": "pet-Copy",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -55452,6 +55488,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -63331,7 +63368,7 @@
           ]
         },
         {
-          "name": "met-l3 - Copy",
+          "name": "met-Copy",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -65520,6 +65557,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -67015,16 +67053,17 @@
           ]
         },
         {
-          "name": "vet-l3 - Copy",
+          "name": "vet-Copy",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "vet-l3 - Copy.png",
+                  "image": "vet-l3 - Copy",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -75492,6 +75531,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -76315,7 +76355,55 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "bet-l3 - Copy",
+          "name": "bet-l",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "bet-l3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 13
+                      },
+                      {
+                        "x": 292,
+                        "y": 13
+                      },
+                      {
+                        "x": 292,
+                        "y": 187
+                      },
+                      {
+                        "x": 9,
+                        "y": 187
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "bet-Copy",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -76469,54 +76557,6 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "met-l3.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 9,
-                        "y": 13
-                      },
-                      {
-                        "x": 292,
-                        "y": 13
-                      },
-                      {
-                        "x": 292,
-                        "y": 187
-                      },
-                      {
-                        "x": 9,
-                        "y": 187
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "bet-l",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "bet-l3.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -83611,11 +83651,12 @@
           ]
         },
         {
-          "name": "wet-l3 - Copy",
+          "name": "wet-Copy",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -83731,16 +83772,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "meet-up-semi-flat-rgb-color-illustration-female-friends-walking-together-and-chatting-isolated-cartoon-characters-on-white-background-vector",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "meet-up-semi-flat-rgb-color-illustration-female-friends-walking-together-and-chatting-isolated-cartoon-characters-on-white-background-vector.jpg",
+                  "image": "meet-up-semi-flat-rgb-color-illustration-female-friends-walking-together-and-chatting-isolated-cartoon-characters-on-white-background-vector",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -83760,16 +83802,16 @@
                         "y": 0
                       },
                       {
-                        "x": 1577,
+                        "x": 125,
                         "y": 0
                       },
                       {
-                        "x": 1577,
-                        "y": 1920
+                        "x": 125,
+                        "y": 152
                       },
                       {
                         "x": 0,
-                        "y": 1920
+                        "y": 152
                       }
                     ]
                   ]
@@ -83791,16 +83833,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "jet",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "jet.jpg",
+                  "image": "jet",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -83820,16 +83863,16 @@
                         "y": 0
                       },
                       {
-                        "x": 612,
+                        "x": 125,
                         "y": 0
                       },
                       {
-                        "x": 612,
-                        "y": 612
+                        "x": 125,
+                        "y": 125
                       },
                       {
                         "x": 0,
-                        "y": 612
+                        "y": 125
                       }
                     ]
                   ]
@@ -83851,16 +83894,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "bet",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "bet.png",
+                  "image": "bet",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -83880,16 +83924,16 @@
                         "y": 0
                       },
                       {
-                        "x": 920,
+                        "x": 125,
                         "y": 0
                       },
                       {
-                        "x": 920,
-                        "y": 780
+                        "x": 125,
+                        "y": 106
                       },
                       {
                         "x": 0,
-                        "y": 780
+                        "y": 106
                       }
                     ]
                   ]
@@ -84211,16 +84255,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "net",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "net.jpg",
+                  "image": "net",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -84240,16 +84285,16 @@
                         "y": 0
                       },
                       {
-                        "x": 612,
+                        "x": 125,
                         "y": 0
                       },
                       {
-                        "x": 612,
-                        "y": 612
+                        "x": 125,
+                        "y": 125
                       },
                       {
                         "x": 0,
-                        "y": 612
+                        "y": 125
                       }
                     ]
                   ]
@@ -84391,16 +84436,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "set",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "set.jpg",
+                  "image": "set",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -84420,16 +84466,16 @@
                         "y": 0
                       },
                       {
-                        "x": 424,
+                        "x": 125,
                         "y": 0
                       },
                       {
-                        "x": 424,
-                        "y": 360
+                        "x": 125,
+                        "y": 106
                       },
                       {
                         "x": 0,
-                        "y": 360
+                        "y": 106
                       }
                     ]
                   ]
@@ -84571,16 +84617,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "pet",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "pet.jpg",
+                  "image": "pet",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -84600,16 +84647,16 @@
                         "y": 0
                       },
                       {
-                        "x": 360,
+                        "x": 125,
                         "y": 0
                       },
                       {
-                        "x": 360,
-                        "y": 360
+                        "x": 125,
+                        "y": 125
                       },
                       {
                         "x": 0,
-                        "y": 360
+                        "y": 125
                       }
                     ]
                   ]
@@ -84811,16 +84858,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "vet",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "vet.jpg",
+                  "image": "vet",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -84840,16 +84888,16 @@
                         "y": 0
                       },
                       {
-                        "x": 356,
+                        "x": 125,
                         "y": 0
                       },
                       {
-                        "x": 356,
-                        "y": 360
+                        "x": 125,
+                        "y": 126
                       },
                       {
                         "x": 0,
-                        "y": 360
+                        "y": 126
                       }
                     ]
                   ]
@@ -84871,16 +84919,17 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "wet",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "wet.jpg",
+                  "image": "wet",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -84900,16 +84949,16 @@
                         "y": 0
                       },
                       {
-                        "x": 1920,
+                        "x": 125,
                         "y": 0
                       },
                       {
-                        "x": 1920,
-                        "y": 1920
+                        "x": 125,
+                        "y": 125
                       },
                       {
                         "x": 0,
-                        "y": 1920
+                        "y": 125
                       }
                     ]
                   ]
@@ -86257,7 +86306,7 @@
             "level3_letter2",
             "Animation",
             "=",
-            "\"let-a\""
+            "\"let-e\""
           ]
         },
         {
@@ -86353,7 +86402,7 @@
             "level3_word",
             "Animation",
             "=",
-            "\"bat-2\""
+            "\"bet-Copy\""
           ]
         },
         {
@@ -86374,9 +86423,9 @@
           },
           "parameters": [
             "",
-            "wrong",
+            "bet_1",
             "level3_word.X() + 10",
-            "level3_word.Y() -100",
+            "level3_word.Y() -130",
             ""
           ]
         },
@@ -86423,7 +86472,7 @@
             "level3_word2",
             "Animation",
             "=",
-            "\"cat-2\""
+            "\"jet-Copy\""
           ]
         },
         {
@@ -86483,7 +86532,7 @@
             "level3_word3",
             "Animation",
             "=",
-            "\"fat-2\""
+            "\"met - Copy\""
           ]
         },
         {
@@ -86581,7 +86630,7 @@
             "level3_letter4",
             "Animation",
             "=",
-            "\"let-t\""
+            "\"let-b\""
           ]
         },
         {
@@ -86629,7 +86678,7 @@
             "level3_letter5",
             "Animation",
             "=",
-            "\"let-a\""
+            "\"let-e\""
           ]
         },
         {
@@ -86677,7 +86726,7 @@
             "level3_letter6",
             "Animation",
             "=",
-            "\"let-p\""
+            "\"let-t\""
           ]
         },
         {
@@ -86725,7 +86774,7 @@
             "level3_word4",
             "Animation",
             "=",
-            "\"cap2\""
+            "\"bet-l3 - Copy\""
           ]
         },
         {
@@ -86746,9 +86795,9 @@
           },
           "parameters": [
             "",
-            "wrong",
+            "bet_1",
             "level3_word4.X()",
-            "level3_word4.Y() - 70",
+            "level3_word4.Y() - 130",
             ""
           ]
         }
@@ -86785,7 +86834,7 @@
             "level3_word5",
             "Animation",
             "=",
-            "\"bat-2\""
+            "\"jet-l3 - Copy\""
           ]
         },
         {
@@ -86845,7 +86894,7 @@
             "level3_word6",
             "Animation",
             "=",
-            "\"tap2\""
+            "\"met-l3 - Copy\""
           ]
         },
         {
@@ -86854,7 +86903,7 @@
           },
           "parameters": [
             "",
-            "tap2.mp3",
+            "wrong.wav",
             "no",
             "",
             ""
@@ -86866,9 +86915,9 @@
           },
           "parameters": [
             "",
-            "",
+            "wrong",
             "level3_word6.X() + 10",
-            "level3_word6.Y() -120",
+            "level3_word6.Y() -70",
             ""
           ]
         },
