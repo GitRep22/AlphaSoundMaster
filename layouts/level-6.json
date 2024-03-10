@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.3925161175488226,
+    "zoomFactor": 0.3325387091250795,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -34,8 +34,8 @@
       "name": "GrassAndTreeBackground",
       "persistentUuid": "019bc7b5-8a84-4e2d-b5c9-9ec390475a86",
       "width": 40000,
-      "x": -1000,
-      "y": -200,
+      "x": -941,
+      "y": -173,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -51,8 +51,8 @@
       "name": "CastleWall",
       "persistentUuid": "12c5c573-c560-4d29-a03a-0933b1739b93",
       "width": 40000,
-      "x": -1000,
-      "y": 562,
+      "x": -941,
+      "y": 589,
       "zOrder": 5,
       "numberProperties": [],
       "stringProperties": [],
@@ -68,8 +68,8 @@
       "name": "IndustrialPlatformCenter",
       "persistentUuid": "5ab95b18-6294-41f8-b4e7-9a5c1c3e9b19",
       "width": 40000,
-      "x": -1000,
-      "y": 595,
+      "x": -941,
+      "y": 622,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -84,8 +84,8 @@
       "name": "ExplosiveBarrel",
       "persistentUuid": "7beada85-b127-4682-a02d-6e956fb69c6f",
       "width": 99,
-      "x": 1542,
-      "y": 481,
+      "x": 1601,
+      "y": 508,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -100,8 +100,8 @@
       "name": "ExplosiveBarrel",
       "persistentUuid": "e90a6e73-bdb9-4a49-9a89-2920b91d4327",
       "width": 99,
-      "x": 1640,
-      "y": 479,
+      "x": 1699,
+      "y": 506,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -116,8 +116,8 @@
       "name": "ExplosiveBarrel",
       "persistentUuid": "9dcbb751-bfa1-432e-bd29-0bb3d0bf65ec",
       "width": 99,
-      "x": 1638,
-      "y": 380,
+      "x": 1697,
+      "y": 407,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -131,8 +131,8 @@
       "name": "L6_LTR",
       "persistentUuid": "3a9c43b2-6b88-4996-b977-c551929eaf3c",
       "width": 0,
-      "x": 2335,
-      "y": 513,
+      "x": 2394,
+      "y": 540,
       "zOrder": 6,
       "numberProperties": [],
       "stringProperties": [],
@@ -146,8 +146,8 @@
       "name": "L6_LTR2",
       "persistentUuid": "2790d4f6-4371-435d-8979-7feb85d50723",
       "width": 0,
-      "x": 2696,
-      "y": 513,
+      "x": 2755,
+      "y": 540,
       "zOrder": 7,
       "numberProperties": [],
       "stringProperties": [],
@@ -161,8 +161,8 @@
       "name": "L6_LTR3",
       "persistentUuid": "4f4fcd72-aeb7-4197-b747-77c5851bb711",
       "width": 0,
-      "x": 3095,
-      "y": 513,
+      "x": 3154,
+      "y": 540,
       "zOrder": 8,
       "numberProperties": [],
       "stringProperties": [],
@@ -177,8 +177,8 @@
       "name": "L6_WRD",
       "persistentUuid": "83b9a531-e5db-4d75-929b-a33fc89bc98e",
       "width": 125,
-      "x": 3900,
-      "y": 222,
+      "x": 3959,
+      "y": 249,
       "zOrder": 9,
       "numberProperties": [
         {
@@ -198,8 +198,8 @@
       "name": "L6_WRD2",
       "persistentUuid": "8dfe88cd-9285-407f-8b0d-8f5f56e23c3d",
       "width": 125,
-      "x": 4073,
-      "y": 222,
+      "x": 4132,
+      "y": 249,
       "zOrder": 10,
       "numberProperties": [],
       "stringProperties": [],
@@ -214,8 +214,8 @@
       "name": "L6_WRD3",
       "persistentUuid": "7a719fac-f767-4421-9466-6524e6225d29",
       "width": 125,
-      "x": 4252,
-      "y": 222,
+      "x": 4311,
+      "y": 249,
       "zOrder": 11,
       "numberProperties": [],
       "stringProperties": [],
@@ -229,8 +229,8 @@
       "name": "Tower",
       "persistentUuid": "65804944-eda7-4a74-a850-c4b3c2ebf7d4",
       "width": 0,
-      "x": 4619,
-      "y": 86,
+      "x": 4678,
+      "y": 113,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -245,8 +245,8 @@
       "name": "ExplosiveBarrel",
       "persistentUuid": "9c0e517e-6afd-4b46-b975-031193217dcb",
       "width": 99,
-      "x": 5092,
-      "y": 477,
+      "x": 5151,
+      "y": 504,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -261,8 +261,8 @@
       "name": "ExplosiveBarrel",
       "persistentUuid": "3a37ebe8-f7e1-4abe-a350-0dcd6676953d",
       "width": 99,
-      "x": 5190,
-      "y": 475,
+      "x": 5249,
+      "y": 502,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -277,8 +277,8 @@
       "name": "ExplosiveBarrel",
       "persistentUuid": "e753cf0d-42e1-42fb-a6ab-06cc29ffe2a9",
       "width": 99,
-      "x": 5188,
-      "y": 376,
+      "x": 5247,
+      "y": 403,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -293,8 +293,8 @@
       "name": "L6_LTR4",
       "persistentUuid": "73b3cfff-369e-44ef-a66f-e8a06c0584d3",
       "width": 125,
-      "x": 5975,
-      "y": 222,
+      "x": 6034,
+      "y": 249,
       "zOrder": 12,
       "numberProperties": [],
       "stringProperties": [],
@@ -309,8 +309,8 @@
       "name": "L6_LTR5",
       "persistentUuid": "de80097d-e1c9-49ec-8f9a-e2f00597c1ee",
       "width": 125,
-      "x": 6348,
-      "y": 222,
+      "x": 6407,
+      "y": 249,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -325,8 +325,8 @@
       "name": "L6_LTR6",
       "persistentUuid": "43c8a16a-15bb-4276-8ec2-1c626dcd1feb",
       "width": 125,
-      "x": 6716,
-      "y": 222,
+      "x": 6775,
+      "y": 249,
       "zOrder": 14,
       "numberProperties": [],
       "stringProperties": [],
@@ -341,8 +341,8 @@
       "name": "L6_WRD4",
       "persistentUuid": "ae81ec53-764d-4074-a90e-5f81b4c59646",
       "width": 125,
-      "x": 7357,
-      "y": 222,
+      "x": 7416,
+      "y": 249,
       "zOrder": 15,
       "numberProperties": [],
       "stringProperties": [],
@@ -357,8 +357,8 @@
       "name": "L6_WRD5",
       "persistentUuid": "952f1af1-5213-4e5a-bfe5-963b70946761",
       "width": 125,
-      "x": 7568,
-      "y": 222,
+      "x": 7627,
+      "y": 249,
       "zOrder": 16,
       "numberProperties": [],
       "stringProperties": [],
@@ -373,8 +373,8 @@
       "name": "L6_WRD6",
       "persistentUuid": "8407377f-4628-47f5-88bb-844f3776c4e0",
       "width": 125,
-      "x": 7768,
-      "y": 222,
+      "x": 7827,
+      "y": 249,
       "zOrder": 17,
       "numberProperties": [],
       "stringProperties": [],
@@ -388,8 +388,8 @@
       "name": "Tower2",
       "persistentUuid": "87870a9b-86c6-4483-aa5e-7e2015bf3a1c",
       "width": 0,
-      "x": 8032,
-      "y": 82,
+      "x": 8091,
+      "y": 109,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -404,8 +404,8 @@
       "name": "ExplosiveBarrel",
       "persistentUuid": "098c4ef5-1a8d-408e-8f7e-4baba137141f",
       "width": 99,
-      "x": 8631,
-      "y": 473,
+      "x": 8690,
+      "y": 500,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -420,8 +420,8 @@
       "name": "ExplosiveBarrel",
       "persistentUuid": "71e75fc7-330a-46ef-9add-a525cb7d2993",
       "width": 99,
-      "x": 8729,
-      "y": 471,
+      "x": 8788,
+      "y": 498,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -436,8 +436,8 @@
       "name": "ExplosiveBarrel",
       "persistentUuid": "6cc5ea32-baf4-4e99-8447-e287ee571ba5",
       "width": 99,
-      "x": 8727,
-      "y": 372,
+      "x": 8786,
+      "y": 399,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -452,8 +452,8 @@
       "name": "L6_LTR7",
       "persistentUuid": "6b6a31ed-9075-496b-b7c0-1996f5acddfb",
       "width": 125,
-      "x": 9596,
-      "y": 525,
+      "x": 9655,
+      "y": 552,
       "zOrder": 18,
       "numberProperties": [],
       "stringProperties": [],
@@ -468,8 +468,8 @@
       "name": "L6_LTR8",
       "persistentUuid": "78c36d75-cbc3-4e7a-92f7-08fde2246215",
       "width": 125,
-      "x": 9987,
-      "y": 525,
+      "x": 10046,
+      "y": 552,
       "zOrder": 19,
       "numberProperties": [],
       "stringProperties": [],
@@ -484,8 +484,8 @@
       "name": "L6_LTR9",
       "persistentUuid": "d04c0892-561f-4b6b-90aa-2178e19f0fb9",
       "width": 125,
-      "x": 10313,
-      "y": 525,
+      "x": 10372,
+      "y": 552,
       "zOrder": 20,
       "numberProperties": [],
       "stringProperties": [],
@@ -500,8 +500,8 @@
       "name": "L6_WRD7",
       "persistentUuid": "8078464e-9351-4ba8-8f3c-aea1945f55d1",
       "width": 125,
-      "x": 11083,
-      "y": 222,
+      "x": 11142,
+      "y": 249,
       "zOrder": 21,
       "numberProperties": [],
       "stringProperties": [],
@@ -516,8 +516,8 @@
       "name": "L6_WRD8",
       "persistentUuid": "2926e6e6-29ce-46d3-91c9-083e19b3380f",
       "width": 125,
-      "x": 11335,
-      "y": 222,
+      "x": 11394,
+      "y": 249,
       "zOrder": 22,
       "numberProperties": [],
       "stringProperties": [],
@@ -532,8 +532,8 @@
       "name": "L6_WRD9",
       "persistentUuid": "4c3905df-b809-4aca-a280-fa1348238424",
       "width": 125,
-      "x": 11610,
-      "y": 222,
+      "x": 11669,
+      "y": 249,
       "zOrder": 23,
       "numberProperties": [],
       "stringProperties": [],
@@ -547,8 +547,8 @@
       "name": "Tower3",
       "persistentUuid": "70e1f8d4-5161-45bb-a546-7dfc81964f4e",
       "width": 0,
-      "x": 11865,
-      "y": 84,
+      "x": 11924,
+      "y": 111,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -563,8 +563,8 @@
       "name": "L6_LTR10",
       "persistentUuid": "9bd87a15-303c-4ed4-975e-b48ed1eda2fb",
       "width": 125,
-      "x": 13082,
-      "y": 222,
+      "x": 13141,
+      "y": 249,
       "zOrder": 24,
       "numberProperties": [],
       "stringProperties": [],
@@ -579,8 +579,8 @@
       "name": "L6_LTR11",
       "persistentUuid": "ad46d69f-7a73-4f45-98db-e4d9517a79b2",
       "width": 125,
-      "x": 13606,
-      "y": 222,
+      "x": 13665,
+      "y": 249,
       "zOrder": 25,
       "numberProperties": [],
       "stringProperties": [],
@@ -595,8 +595,8 @@
       "name": "L6_LTR12",
       "persistentUuid": "52518346-df0f-430b-9afd-84dd5543ff55",
       "width": 125,
-      "x": 14128,
-      "y": 222,
+      "x": 14187,
+      "y": 249,
       "zOrder": 26,
       "numberProperties": [],
       "stringProperties": [],
@@ -611,8 +611,8 @@
       "name": "L6_WRD10",
       "persistentUuid": "cdb6eff9-5a3e-4846-879d-ba7b5ae65f5e",
       "width": 125,
-      "x": 15325,
-      "y": 222,
+      "x": 15384,
+      "y": 249,
       "zOrder": 27,
       "numberProperties": [],
       "stringProperties": [],
@@ -627,8 +627,8 @@
       "name": "L6_WRD11",
       "persistentUuid": "429666fa-29d9-49d9-bcf7-a50ac03752ee",
       "width": 125,
-      "x": 15525,
-      "y": 222,
+      "x": 15584,
+      "y": 249,
       "zOrder": 28,
       "numberProperties": [],
       "stringProperties": [],
@@ -643,8 +643,8 @@
       "name": "L6_WRD12",
       "persistentUuid": "39280cb1-d855-4c10-986d-2e03c2a64c3a",
       "width": 125,
-      "x": 15722,
-      "y": 222,
+      "x": 15781,
+      "y": 249,
       "zOrder": 29,
       "numberProperties": [],
       "stringProperties": [],
@@ -658,8 +658,8 @@
       "name": "Tower4",
       "persistentUuid": "7a77d963-198b-4265-991d-3733af12c797",
       "width": 0,
-      "x": 16046,
-      "y": 91,
+      "x": 16105,
+      "y": 118,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -674,8 +674,8 @@
       "name": "L6_LTR13",
       "persistentUuid": "a2095c26-2276-4c3a-80a0-eddf465f30a1",
       "width": 125,
-      "x": 17011,
-      "y": 525,
+      "x": 17070,
+      "y": 552,
       "zOrder": 30,
       "numberProperties": [],
       "stringProperties": [],
@@ -690,8 +690,8 @@
       "name": "L6_LTR14",
       "persistentUuid": "835ccd58-fd73-4b98-be8e-d3e75ca8f837",
       "width": 125,
-      "x": 17477,
-      "y": 222,
+      "x": 17536,
+      "y": 249,
       "zOrder": 31,
       "numberProperties": [],
       "stringProperties": [],
@@ -706,8 +706,8 @@
       "name": "L6_LTR15",
       "persistentUuid": "45795c2c-f7db-450d-8314-c33c45ed19d1",
       "width": 125,
-      "x": 17961,
-      "y": 525,
+      "x": 18020,
+      "y": 552,
       "zOrder": 32,
       "numberProperties": [],
       "stringProperties": [],
@@ -722,8 +722,8 @@
       "name": "L6_WRD13",
       "persistentUuid": "2a013902-9eeb-401b-8abb-6567467a7708",
       "width": 125,
-      "x": 19057,
-      "y": 222,
+      "x": 19116,
+      "y": 249,
       "zOrder": 33,
       "numberProperties": [],
       "stringProperties": [],
@@ -738,8 +738,8 @@
       "name": "L6_WRD14",
       "persistentUuid": "1e1ed9f1-4866-4786-ad8b-ab2b1dea65fe",
       "width": 125,
-      "x": 19218,
-      "y": 222,
+      "x": 19277,
+      "y": 249,
       "zOrder": 34,
       "numberProperties": [],
       "stringProperties": [],
@@ -754,8 +754,8 @@
       "name": "L6_WRD15",
       "persistentUuid": "357335cd-5ede-455c-85a0-f0d30bb07e6f",
       "width": 125,
-      "x": 19374,
-      "y": 222,
+      "x": 19433,
+      "y": 249,
       "zOrder": 35,
       "numberProperties": [],
       "stringProperties": [],
@@ -769,8 +769,8 @@
       "name": "Tower5",
       "persistentUuid": "12469722-8095-4b8e-ab91-48ee8477305f",
       "width": 0,
-      "x": 19878,
-      "y": 87,
+      "x": 19937,
+      "y": 114,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -785,8 +785,8 @@
       "name": "L6_LTR16",
       "persistentUuid": "f19299da-5fa2-417f-8eb4-c5f68856f37c",
       "width": 125,
-      "x": 21317,
-      "y": 222,
+      "x": 21376,
+      "y": 249,
       "zOrder": 36,
       "numberProperties": [],
       "stringProperties": [],
@@ -801,8 +801,8 @@
       "name": "L6_LTR17",
       "persistentUuid": "03232524-d417-42df-9e11-cfead9529735",
       "width": 125,
-      "x": 21779,
-      "y": 525,
+      "x": 21838,
+      "y": 552,
       "zOrder": 37,
       "numberProperties": [],
       "stringProperties": [],
@@ -817,8 +817,8 @@
       "name": "L6_LTR18",
       "persistentUuid": "a50ccead-9e2f-415e-9b0d-159f8c942ac3",
       "width": 125,
-      "x": 22123,
-      "y": 222,
+      "x": 22182,
+      "y": 249,
       "zOrder": 38,
       "numberProperties": [],
       "stringProperties": [],
@@ -833,8 +833,8 @@
       "name": "L6_WRD16",
       "persistentUuid": "1da39b4d-d231-4b0c-8184-c37d697a4f33",
       "width": 125,
-      "x": 23282,
-      "y": 222,
+      "x": 23341,
+      "y": 249,
       "zOrder": 39,
       "numberProperties": [],
       "stringProperties": [],
@@ -849,8 +849,8 @@
       "name": "L6_WRD17",
       "persistentUuid": "68c4af6d-65c7-48e8-9ea2-e7e980e7ce8e",
       "width": 125,
-      "x": 23491,
-      "y": 222,
+      "x": 23550,
+      "y": 249,
       "zOrder": 40,
       "numberProperties": [],
       "stringProperties": [],
@@ -865,8 +865,8 @@
       "name": "L6_WRD18",
       "persistentUuid": "84b96229-0862-433f-8995-c23fba3d47cb",
       "width": 125,
-      "x": 23683,
-      "y": 222,
+      "x": 23742,
+      "y": 249,
       "zOrder": 41,
       "numberProperties": [],
       "stringProperties": [],
@@ -880,8 +880,8 @@
       "name": "Tower6",
       "persistentUuid": "5008bd18-9874-4b58-bc95-c27da4c10443",
       "width": 0,
-      "x": 24111,
-      "y": 98,
+      "x": 24170,
+      "y": 125,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -896,8 +896,8 @@
       "name": "L6_LTR19",
       "persistentUuid": "264c2a79-42a8-428d-a3bf-3c7c71371e9f",
       "width": 125,
-      "x": 26267,
-      "y": 525,
+      "x": 26326,
+      "y": 552,
       "zOrder": 42,
       "numberProperties": [],
       "stringProperties": [],
@@ -912,8 +912,8 @@
       "name": "L6_LTR20",
       "persistentUuid": "a41c53c6-d969-43f4-86a0-b81642b3394f",
       "width": 125,
-      "x": 26794,
-      "y": 525,
+      "x": 26853,
+      "y": 552,
       "zOrder": 43,
       "numberProperties": [],
       "stringProperties": [],
@@ -928,8 +928,8 @@
       "name": "L6_LTR21",
       "persistentUuid": "5b90c170-671d-4f6c-9de0-787a9b042bfd",
       "width": 125,
-      "x": 27275,
-      "y": 525,
+      "x": 27334,
+      "y": 552,
       "zOrder": 44,
       "numberProperties": [],
       "stringProperties": [],
@@ -944,8 +944,8 @@
       "name": "L6_WRD19",
       "persistentUuid": "dff9f2b9-6494-4e5f-9790-6d9ad2cdfb25",
       "width": 125,
-      "x": 28020,
-      "y": 222,
+      "x": 28079,
+      "y": 249,
       "zOrder": 45,
       "numberProperties": [
         {
@@ -965,8 +965,8 @@
       "name": "L6_WRD20",
       "persistentUuid": "89884a99-ae6b-417d-8343-167559bfc83c",
       "width": 125,
-      "x": 28225,
-      "y": 222,
+      "x": 28284,
+      "y": 249,
       "zOrder": 46,
       "numberProperties": [],
       "stringProperties": [],
@@ -981,8 +981,8 @@
       "name": "L6_WRD21",
       "persistentUuid": "87bbfef7-a461-42c1-99ab-e85020e57481",
       "width": 125,
-      "x": 28465,
-      "y": 222,
+      "x": 28524,
+      "y": 249,
       "zOrder": 47,
       "numberProperties": [],
       "stringProperties": [],
@@ -996,8 +996,8 @@
       "name": "Tower7",
       "persistentUuid": "4dd0edbe-9cd2-4f6a-a765-06f6dd440a08",
       "width": 0,
-      "x": 28985,
-      "y": 95,
+      "x": 29044,
+      "y": 122,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -1012,8 +1012,8 @@
       "name": "L6_LTR22",
       "persistentUuid": "81c87e1b-4c3c-4c11-ac1c-b6161be5f2af",
       "width": 125,
-      "x": 30021,
-      "y": 222,
+      "x": 30080,
+      "y": 249,
       "zOrder": 48,
       "numberProperties": [],
       "stringProperties": [],
@@ -1028,8 +1028,8 @@
       "name": "L6_LTR23",
       "persistentUuid": "9941d634-9a7b-4866-b9d4-b0a3c86e2c7a",
       "width": 125,
-      "x": 30362,
-      "y": 222,
+      "x": 30421,
+      "y": 249,
       "zOrder": 49,
       "numberProperties": [
         {
@@ -1049,8 +1049,8 @@
       "name": "L6_LTR24",
       "persistentUuid": "3d344b4d-1784-4f3e-bd06-7ef895bf9cd6",
       "width": 125,
-      "x": 30726,
-      "y": 222,
+      "x": 30785,
+      "y": 249,
       "zOrder": 50,
       "numberProperties": [
         {
@@ -1070,8 +1070,8 @@
       "name": "L6_WRD22",
       "persistentUuid": "fa6af5e5-e6bc-47d4-9060-2d3927c1376e",
       "width": 125,
-      "x": 31559,
-      "y": 222,
+      "x": 31618,
+      "y": 249,
       "zOrder": 51,
       "numberProperties": [],
       "stringProperties": [],
@@ -1086,8 +1086,8 @@
       "name": "L6_WRD23",
       "persistentUuid": "0bf99832-8356-4287-96ed-e2fc23cc5adb",
       "width": 125,
-      "x": 31771,
-      "y": 222,
+      "x": 31830,
+      "y": 249,
       "zOrder": 52,
       "numberProperties": [],
       "stringProperties": [],
@@ -1102,8 +1102,8 @@
       "name": "L6_WRD24",
       "persistentUuid": "1309a371-a248-4a13-94ac-86f2fa994fbe",
       "width": 125,
-      "x": 31981,
-      "y": 222,
+      "x": 32040,
+      "y": 249,
       "zOrder": 53,
       "numberProperties": [],
       "stringProperties": [],
@@ -1117,9 +1117,120 @@
       "name": "Tower8",
       "persistentUuid": "419bb2e5-23db-46cc-9b3a-be3169808f6a",
       "width": 0,
-      "x": 32316,
-      "y": 93,
+      "x": 32375,
+      "y": 120,
       "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 32,
+      "height": 90,
+      "layer": "UI Layer",
+      "name": "MedievalButtonBrown_jump",
+      "persistentUuid": "164764fc-6140-426f-8f80-aa49af159959",
+      "width": 167,
+      "x": 969,
+      "y": 530,
+      "zOrder": 54,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 32,
+      "height": 85,
+      "layer": "UI Layer",
+      "name": "MedievalButtonBrown_left",
+      "persistentUuid": "a976c3ec-3e47-4a04-8684-69cd397a9518",
+      "width": 90,
+      "x": 68,
+      "y": 535,
+      "zOrder": 55,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 32,
+      "height": 60,
+      "layer": "UI Layer",
+      "name": "L1_back",
+      "persistentUuid": "8d9ed4e0-072c-4efe-b58f-215929e8cabc",
+      "width": 103,
+      "x": 1085,
+      "y": 12,
+      "zOrder": 56,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 32,
+      "height": 85,
+      "layer": "UI Layer",
+      "name": "MedievalButtonBrown_right",
+      "persistentUuid": "34d48469-ab17-4edd-abf3-1f370d77f6ea",
+      "width": 90,
+      "x": 268,
+      "y": 535,
+      "zOrder": 57,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 132,
+      "layer": "UI Layer",
+      "name": "DisplayCoin",
+      "persistentUuid": "07a2a73f-0d07-44f0-943e-2fa99652b7b8",
+      "width": 136,
+      "x": -15,
+      "y": 0,
+      "zOrder": 58,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "UI Layer",
+      "name": "Score",
+      "persistentUuid": "8029d5c2-84be-4a46-b190-9b636f107a84",
+      "width": 0,
+      "x": 96,
+      "y": 16,
+      "zOrder": 59,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 322,
+      "layer": "",
+      "name": "turtle",
+      "persistentUuid": "606a3529-00a5-4f31-9d87-4f27135087d3",
+      "width": 230,
+      "x": 359,
+      "y": 157,
+      "zOrder": 46,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -80909,7 +81020,3752 @@
       }
     ]
   },
-  "events": [],
+  "events": [
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "folded": true,
+      "name": "Essentials",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "ngini-ija-18489.mp3",
+                "4",
+                "yes",
+                "30",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TouchSimulateMouse"
+              },
+              "parameters": [
+                "",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject"
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                  },
+                  "parameters": [
+                    "turtle",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "turtle",
+                    "Animation",
+                    "=",
+                    "\"Idle\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                  },
+                  "parameters": [
+                    "turtle",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "turtle",
+                    "Animation",
+                    "=",
+                    "\"run\""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetCameraCenterX"
+              },
+              "parameters": [
+                "",
+                "=",
+                "lerp(CameraX(), turtle.X() +200, 0.75)",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::IsJumping"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject"
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "cartoon-jump-6462.mp3",
+                    "",
+                    "30",
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject"
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                  },
+                  "parameters": [
+                    "turtle",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "turtle",
+                    "Animation",
+                    "=",
+                    "\"Idle\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsJumping"
+                  },
+                  "parameters": [
+                    "turtle",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "turtle",
+                    "Animation",
+                    "=",
+                    "\"jump\""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "turtle",
+                "Flippable",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Right"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "turtle",
+                "Flippable",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "LongRectangleWood",
+                "Opacity",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Opacity",
+                "=",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "CoinGold",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "Score",
+                "+",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "Score",
+                "Text",
+                "=",
+                "ToString(Variable(Score))"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "mixkit-fairy-arcade-sparkle-866.wav",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "CoinGold",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "MedievalButtonBrown_right",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::SimulateRightKey"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "turtle",
+                "Flippable",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "MedievalButtonBrown_left",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::SimulateLeftKey"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "turtle",
+                "Flippable",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "MedievalButtonBrown_jump",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::SimulateJumpKey"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Flash::ToggleVisibility"
+              },
+              "parameters": [
+                "",
+                "Sample_letter",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Flash::ToggleVisibility"
+              },
+              "parameters": [
+                "",
+                "Sample_letter2",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "L1_back",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"MainMenu\"",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "Flash::ToggleVisibility"
+              },
+              "parameters": [
+                "",
+                "LongRectangleWood2",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "Distance"
+              },
+              "parameters": [
+                "turtle",
+                "fairy",
+                "200",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "fairy",
+                "Tween",
+                "\"follow1\"",
+                "turtle.X()+200",
+                "\"linear\"",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "fairy",
+                "Tween",
+                "\"follow2\"",
+                "turtle.CenterY()-200",
+                "\"linear\"",
+                "1",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "Distance"
+              },
+              "parameters": [
+                "turtle",
+                "ChiChiTheBird",
+                "200",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "ChiChiTheBird",
+                "Tween",
+                "\"follow1\"",
+                "turtle.X()+200",
+                "\"linear\"",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "ChiChiTheBird",
+                "Tween",
+                "\"follow2\"",
+                "turtle.CenterY()-200",
+                "\"linear\"",
+                "1",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "fairy",
+                "Flippable",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Right"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "fairy",
+                "Flippable",
+                "no"
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "folded": true,
+      "name": "Letters and words",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_letter",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_letter",
+                "Animation",
+                "=",
+                "\"let-b\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "b.mp3",
+                "no",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_letter2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_letter2",
+                "Animation",
+                "=",
+                "\"let-o\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "o.mp3",
+                "no",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_letter3",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_letter3",
+                "Animation",
+                "=",
+                "\"let-x\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "x.mp3",
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_word",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_word",
+                "Animation",
+                "=",
+                "\"log - Copy\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "wrong.wav",
+                "no",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "wrong",
+                "level5_word.X() + 10",
+                "level5_word.Y() -70",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_word2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_word2",
+                "Animation",
+                "=",
+                "\"fox - Copy\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "wrong.wav",
+                "no",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "wrong",
+                "level5_word2.X()",
+                "level5_word2.Y() -70",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_word3",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_word3",
+                "Animation",
+                "=",
+                "\"box - Copy\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "box2.mp3",
+                "no",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "box_1",
+                "level5_word3.X()",
+                "level5_word3.Y() -120",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "DeadTree",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PosX"
+              },
+              "parameters": [
+                "turtle",
+                ">",
+                "4590"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "DeadTree",
+                "Platform",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_letter4",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_letter4",
+                "Animation",
+                "=",
+                "\"let-f\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "f.mp3",
+                "no",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_letter5",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_letter5",
+                "Animation",
+                "=",
+                "\"let-o\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "o.mp3",
+                "no",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_letter6",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_letter6",
+                "Animation",
+                "=",
+                "\"let-x\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "x.mp3",
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_word4",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_word4",
+                "Animation",
+                "=",
+                "\"fox - Copy\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "fox2.mp3",
+                "no",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "fox_1",
+                "level5_word4.X()",
+                "level5_word4.Y() - 170",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "DeadTree",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_word5",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_word5",
+                "Animation",
+                "=",
+                "\"box - Copy\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "wrong.wav",
+                "no",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "wrong",
+                "level5_word5.X()",
+                "level5_word5.Y() -70",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_word6",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_word6",
+                "Animation",
+                "=",
+                "\"log - Copy\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "wrong.wav",
+                "no",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "wrong",
+                "level5_word6.X() + 10",
+                "level5_word6.Y() -70",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PosX"
+              },
+              "parameters": [
+                "turtle",
+                ">",
+                "7850"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "DeadTree",
+                "Platform",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_letter7",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_letter7",
+                "Animation",
+                "=",
+                "\"let-l\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "l.mp3",
+                "no",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_letter8",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_letter8",
+                "Animation",
+                "=",
+                "\"let-o\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "o.mp3",
+                "no",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_letter9",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_letter9",
+                "Animation",
+                "=",
+                "\"let-g\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "g.mp3",
+                "no",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_word7",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_word7",
+                "Animation",
+                "=",
+                "\"log - Copy\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "log2.mp3",
+                "no",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "log_1",
+                "level5_word7.X()",
+                "level5_word7.Y() -160",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "DeadTree",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_word8",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_word8",
+                "Animation",
+                "=",
+                "\"mom - Copy\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "wrong.wav",
+                "no",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "wrong",
+                "level5_word8.X()",
+                "level5_word8.Y() -70",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_word9",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_word9",
+                "Animation",
+                "=",
+                "\"mop - Copy\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "wrong.wav",
+                "no",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "wrong",
+                "level5_word9.X() + 10",
+                "level5_word9.Y() -70",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PosX"
+              },
+              "parameters": [
+                "turtle",
+                ">",
+                "11570"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "DeadTree",
+                "Platform",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_letter10",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_letter10",
+                "Animation",
+                "=",
+                "\"let-m\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "m.mp3",
+                "no",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_letter11",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_letter11",
+                "Animation",
+                "=",
+                "\"let-o\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "o.mp3",
+                "no",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_letter12",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_letter12",
+                "Animation",
+                "=",
+                "\"let-m\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "m.mp3",
+                "no",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_word10",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_word10",
+                "Animation",
+                "=",
+                "\"mop - Copy\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "wrong.wav",
+                "no",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "wrong",
+                "level5_word10.X()",
+                "level5_word10.Y() -70",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_word11",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_word11",
+                "Animation",
+                "=",
+                "\"mom - Copy\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "mom2.mp3",
+                "no",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "mom_1",
+                "level5_word11.X()",
+                "level5_word11.Y() -120",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "DeadTree",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_word12",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_word12",
+                "Animation",
+                "=",
+                "\"log - Copy\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "wrong",
+                "level5_word12.X()",
+                "level5_word12.Y() -70",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "wrong.wav",
+                "no",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PosX"
+              },
+              "parameters": [
+                "turtle",
+                ">",
+                "15190"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "DeadTree",
+                "Platform",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_letter13",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_letter13",
+                "Animation",
+                "=",
+                "\"let-m\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "m.mp3",
+                "no",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_letter14",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_letter14",
+                "Animation",
+                "=",
+                "\"let-o\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "o.mp3",
+                "no",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_letter15",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_letter15",
+                "Animation",
+                "=",
+                "\"let-p\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "p.mp3",
+                "no",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_word13",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_word13",
+                "Animation",
+                "=",
+                "\"pot - Copy\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "wrong.wav",
+                "no",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "wrong",
+                "level5_word13.X()",
+                "level5_word13.Y() -70",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_word14",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_word14",
+                "Animation",
+                "=",
+                "\"fox - Copy\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "wrong.wav",
+                "no",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "wrong",
+                "level5_word14.X()",
+                "level5_word14.Y() -70",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_word15",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_word15",
+                "Animation",
+                "=",
+                "\"mop - Copy\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "mop_1",
+                "level5_word15.X()",
+                "level5_word15.Y() -150",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "mop2.mp3",
+                "no",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "DeadTree",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PosX"
+              },
+              "parameters": [
+                "turtle",
+                ">",
+                "18470"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "DeadTree",
+                "Platform",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_letter16",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_letter16",
+                "Animation",
+                "=",
+                "\"let-p\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "p.mp3",
+                "no",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_letter17",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_letter17",
+                "Animation",
+                "=",
+                "\"let-o\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "o.mp3",
+                "no",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_letter18",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_letter18",
+                "Animation",
+                "=",
+                "\"let-t\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "t.mp3",
+                "no",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_word16",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_word16",
+                "Animation",
+                "=",
+                "\"pot - Copy\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "pot2.mp3",
+                "no",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "pot_1",
+                "level5_word16.X()",
+                "level5_word16.Y() -120",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "DeadTree",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_word17",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_word17",
+                "Animation",
+                "=",
+                "\"mop - Copy\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "wrong.wav",
+                "no",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "wrong",
+                "level5_word17.X()",
+                "level5_word17.Y() -70",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_word18",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_word18",
+                "Animation",
+                "=",
+                "\"fox - Copy\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "wrong",
+                "level5_word18.X()",
+                "level5_word18.Y() -70",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "wrong.wav",
+                "no",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PosX"
+              },
+              "parameters": [
+                "turtle",
+                ">",
+                "21750"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "DeadTree",
+                "Platform",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_letter19",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_letter19",
+                "Animation",
+                "=",
+                "\"let-t\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "t.mp3",
+                "no",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_letter20",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_letter20",
+                "Animation",
+                "=",
+                "\"let-o\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "o.mp3",
+                "no",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_letter21",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_letter21",
+                "Animation",
+                "=",
+                "\"let-m\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "m.mp3",
+                "no",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_word19",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_word19",
+                "Animation",
+                "=",
+                "\"fox - Copy\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "wrong.wav",
+                "no",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "wrong",
+                "level5_word19.X()",
+                "level5_word19.Y() -70",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_word20",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_word20",
+                "Animation",
+                "=",
+                "\"box - Copy\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "wrong.wav",
+                "no",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "wrong",
+                "level5_word20.X()",
+                "level5_word20.Y() -70",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_word21",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_word21",
+                "Animation",
+                "=",
+                "\"tom - Copy\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "tom_1",
+                "level5_word21.X()",
+                "level5_word21.Y() -130",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "tom2.mp3",
+                "no",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "DeadTree",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PosX"
+              },
+              "parameters": [
+                "turtle",
+                ">",
+                "24690"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "DeadTree",
+                "Platform",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_letter22",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_letter22",
+                "Animation",
+                "=",
+                "\"let-t\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "t.mp3",
+                "no",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_letter23",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_letter23",
+                "Animation",
+                "=",
+                "\"let-o\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "o.mp3",
+                "no",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_letter24",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_letter24",
+                "Animation",
+                "=",
+                "\"let-p\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "p.mp3",
+                "no",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_word22",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_word22",
+                "Animation",
+                "=",
+                "\"top - Copy\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "top2.mp3",
+                "no",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "top_1",
+                "level5_word22.X()",
+                "level5_word22.Y() - 130",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "DeadTree",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_word23",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_word23",
+                "Animation",
+                "=",
+                "\"mop - Copy\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "wrong.wav",
+                "no",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "wrong",
+                "level5_word23.X()",
+                "level5_word23.Y() - 70",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "level5_word24",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "level5_word24",
+                "Animation",
+                "=",
+                "\"tom - Copy\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "wrong",
+                "level5_word24.X()",
+                "level5_word24.Y() - 70",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "wrong.wav",
+                "no",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PosX"
+              },
+              "parameters": [
+                "turtle",
+                ">",
+                "27950"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "DeadTree",
+                "Platform",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
+    }
+  ],
   "layers": [
     {
       "ambientLightColorB": 200,
@@ -80937,6 +84793,39 @@
           "width": 0
         }
       ],
+      "effects": [
+        {
+          "effectType": "Scene3D::HemisphereLight",
+          "name": "3D Light",
+          "doubleParameters": {
+            "elevation": 45,
+            "intensity": 1,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "groundColor": "64;64;64",
+            "skyColor": "255;255;255",
+            "top": "Y-"
+          },
+          "booleanParameters": {}
+        }
+      ]
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 3,
+      "cameraType": "",
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "UI Layer",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [],
       "effects": [
         {
           "effectType": "Scene3D::HemisphereLight",
