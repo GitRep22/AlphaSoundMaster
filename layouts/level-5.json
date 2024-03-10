@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.5290357402156888,
+    "zoomFactor": 0.09122690912701846,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -33,8 +33,8 @@
       "locked": true,
       "name": "DesertBackground2",
       "persistentUuid": "8d1f48d9-720e-4bdc-8c51-8acfb1e64925",
-      "width": 31928,
-      "x": -407,
+      "width": 32301,
+      "x": -780,
       "y": -184,
       "zOrder": 1,
       "numberProperties": [],
@@ -50,8 +50,8 @@
       "locked": true,
       "name": "Sand",
       "persistentUuid": "7a80b0e1-e382-4c64-a740-011cfe33fbc9",
-      "width": 31923,
-      "x": -406,
+      "width": 32291,
+      "x": -774,
       "y": 608,
       "zOrder": 3,
       "numberProperties": [],
@@ -67,8 +67,8 @@
       "locked": true,
       "name": "DesertTilePlatformCenter",
       "persistentUuid": "9dd37216-f8e6-4e9d-84f2-2dda42713311",
-      "width": 31928,
-      "x": -411,
+      "width": 32292,
+      "x": -775,
       "y": 670,
       "zOrder": 4,
       "numberProperties": [],
@@ -600,8 +600,8 @@
       "name": "level5_letter16",
       "persistentUuid": "a9d83768-9280-4f14-80fa-4b5eff3dfcc1",
       "width": 160,
-      "x": 19195,
-      "y": 555,
+      "x": 19282,
+      "y": 458,
       "zOrder": 41,
       "numberProperties": [
         {
@@ -621,8 +621,8 @@
       "name": "level5_letter17",
       "persistentUuid": "3b4faee4-616e-495c-b675-7e883a706802",
       "width": 160,
-      "x": 19658,
-      "y": 555,
+      "x": 19491,
+      "y": 276,
       "zOrder": 42,
       "numberProperties": [
         {
@@ -642,8 +642,8 @@
       "name": "level5_letter18",
       "persistentUuid": "03b67301-fae8-4ca9-aabd-da2f94bba6cf",
       "width": 160,
-      "x": 20135,
-      "y": 555,
+      "x": 19714,
+      "y": 126,
       "zOrder": 43,
       "numberProperties": [],
       "stringProperties": [],
@@ -658,8 +658,8 @@
       "name": "level5_word16",
       "persistentUuid": "ea96af85-dd12-42ac-a6de-acd886949f15",
       "width": 125,
-      "x": 20940,
-      "y": 222,
+      "x": 20900,
+      "y": 314,
       "zOrder": 44,
       "numberProperties": [],
       "stringProperties": [],
@@ -674,8 +674,8 @@
       "name": "level5_word17",
       "persistentUuid": "da3b8571-7ea5-4783-9a2f-b1024d85ebd0",
       "width": 125,
-      "x": 21143,
-      "y": 222,
+      "x": 21132,
+      "y": 314,
       "zOrder": 45,
       "numberProperties": [],
       "stringProperties": [],
@@ -690,8 +690,8 @@
       "name": "level5_word18",
       "persistentUuid": "9b0e7392-e243-4bad-ab67-dd67ccb058c9",
       "width": 125,
-      "x": 21321,
-      "y": 222,
+      "x": 21330,
+      "y": 314,
       "zOrder": 46,
       "numberProperties": [],
       "stringProperties": [],
@@ -706,8 +706,8 @@
       "name": "level5_letter19",
       "persistentUuid": "567e2b0b-8741-44a4-87a5-1eb191bebb8c",
       "width": 160,
-      "x": 22506,
-      "y": 222,
+      "x": 22579,
+      "y": 326,
       "zOrder": 48,
       "numberProperties": [
         {
@@ -727,7 +727,7 @@
       "name": "level5_letter20",
       "persistentUuid": "386b49dc-ff59-43c5-93c6-7f01c49cf945",
       "width": 160,
-      "x": 22850,
+      "x": 22776,
       "y": 222,
       "zOrder": 49,
       "numberProperties": [],
@@ -743,8 +743,8 @@
       "name": "level5_letter21",
       "persistentUuid": "090ce781-5e8b-4294-9361-204d6ffcb45d",
       "width": 160,
-      "x": 23209,
-      "y": 222,
+      "x": 22980,
+      "y": 118,
       "zOrder": 50,
       "numberProperties": [],
       "stringProperties": [],
@@ -759,8 +759,8 @@
       "name": "level5_word19",
       "persistentUuid": "bcd05ac3-38b0-468a-bbda-0f2dd034bece",
       "width": 125,
-      "x": 23838,
-      "y": 222,
+      "x": 23829,
+      "y": 308,
       "zOrder": 51,
       "numberProperties": [],
       "stringProperties": [],
@@ -775,8 +775,8 @@
       "name": "level5_word20",
       "persistentUuid": "95bd6635-198a-4db9-a823-c658d8298ce4",
       "width": 125,
-      "x": 24042,
-      "y": 222,
+      "x": 24033,
+      "y": 308,
       "zOrder": 52,
       "numberProperties": [],
       "stringProperties": [],
@@ -791,8 +791,8 @@
       "name": "level5_word21",
       "persistentUuid": "d8511ac1-723b-48f2-b717-e7834b6d875c",
       "width": 125,
-      "x": 24267,
-      "y": 222,
+      "x": 24258,
+      "y": 308,
       "zOrder": 53,
       "numberProperties": [],
       "stringProperties": [],
@@ -807,8 +807,8 @@
       "name": "level5_letter22",
       "persistentUuid": "1a65f8a9-a34c-428b-b1c1-42154e7ca6e9",
       "width": 160,
-      "x": 25507,
-      "y": 555,
+      "x": 25223,
+      "y": 95,
       "zOrder": 55,
       "numberProperties": [],
       "stringProperties": [],
@@ -823,8 +823,8 @@
       "name": "level5_letter23",
       "persistentUuid": "7ce1bef0-3437-47be-ba5d-d8efbb7aeea0",
       "width": 160,
-      "x": 25930,
-      "y": 555,
+      "x": 25550,
+      "y": 336,
       "zOrder": 56,
       "numberProperties": [],
       "stringProperties": [],
@@ -839,8 +839,8 @@
       "name": "level5_letter24",
       "persistentUuid": "039e6698-d3b2-41a7-90a3-c80f7ca536d7",
       "width": 160,
-      "x": 26295,
-      "y": 555,
+      "x": 26076,
+      "y": 248,
       "zOrder": 57,
       "numberProperties": [],
       "stringProperties": [],
@@ -855,8 +855,8 @@
       "name": "level5_word22",
       "persistentUuid": "d5e593c0-4fb2-4840-bc88-ea37ae7c5e0f",
       "width": 125,
-      "x": 26913,
-      "y": 222,
+      "x": 26918,
+      "y": 320,
       "zOrder": 58,
       "numberProperties": [],
       "stringProperties": [],
@@ -871,8 +871,8 @@
       "name": "level5_word24",
       "persistentUuid": "43bd62f5-a6bb-4cef-971c-d36a0e274911",
       "width": 125,
-      "x": 27111,
-      "y": 222,
+      "x": 27434,
+      "y": 320,
       "zOrder": 59,
       "numberProperties": [],
       "stringProperties": [],
@@ -887,8 +887,8 @@
       "name": "level5_word23",
       "persistentUuid": "69946610-f721-4e2f-9b87-b5c6dfacebb0",
       "width": 125,
-      "x": 27294,
-      "y": 222,
+      "x": 27171,
+      "y": 320,
       "zOrder": 60,
       "numberProperties": [],
       "stringProperties": [],
@@ -999,8 +999,8 @@
       "name": "turtle",
       "persistentUuid": "a0ff5111-22fb-4106-860f-5e33063755c9",
       "width": 230,
-      "x": 15834,
-      "y": -28,
+      "x": 378,
+      "y": 156,
       "zOrder": 46,
       "numberProperties": [],
       "stringProperties": [],
@@ -1089,7 +1089,7 @@
       "name": "DeadTree",
       "persistentUuid": "3a219b81-572e-4d6e-be6d-88ccc950d901",
       "width": 0,
-      "x": 24570,
+      "x": 24524,
       "y": 151,
       "zOrder": 12,
       "numberProperties": [],
@@ -2492,6 +2492,1016 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 79,
+      "layer": "UI Layer",
+      "name": "Sample_letter",
+      "persistentUuid": "31e3585b-2349-4ef9-9a30-76f16c6d1b69",
+      "width": 79,
+      "x": 19323,
+      "y": 531,
+      "zOrder": 93,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 79,
+      "layer": "UI Layer",
+      "name": "Sample_letter",
+      "persistentUuid": "58b848de-9355-46b7-ad66-011a2166c0f3",
+      "width": 79,
+      "x": 19534,
+      "y": 348,
+      "zOrder": 93,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 79,
+      "layer": "UI Layer",
+      "name": "Sample_letter",
+      "persistentUuid": "a9ece297-8706-472a-aa4a-2e62fe9d527e",
+      "width": 79,
+      "x": 19756,
+      "y": 200,
+      "zOrder": 93,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 79,
+      "layer": "UI Layer",
+      "name": "Sample_letter",
+      "persistentUuid": "55da1916-1406-4180-8232-a0b0a58a531f",
+      "width": 124,
+      "x": 20900,
+      "y": 320,
+      "zOrder": 93,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 79,
+      "layer": "UI Layer",
+      "name": "Sample_letter",
+      "persistentUuid": "5f88e4ff-7ec2-48ee-ba8e-d93619d88931",
+      "width": 132,
+      "x": 21129,
+      "y": 321,
+      "zOrder": 93,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 79,
+      "layer": "UI Layer",
+      "name": "Sample_letter",
+      "persistentUuid": "7034ab77-06f0-400c-b3a4-b88a19a2b286",
+      "width": 132,
+      "x": 21330,
+      "y": 319,
+      "zOrder": 93,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "fff213a5-3f48-4b2c-9c2d-340c12c0b66f",
+      "width": 0,
+      "x": 22494,
+      "y": 502,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "213465d7-2abb-44cd-bf01-a45db2d5ad3b",
+      "width": 0,
+      "x": 22705,
+      "y": 504,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "e403fbb2-58e8-4d14-91b3-d2f9c5bc0a23",
+      "width": 0,
+      "x": 22805,
+      "y": 505,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "5039ac77-32ad-4788-a1c8-d66ddfd52f96",
+      "width": 0,
+      "x": 22906,
+      "y": 506,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "aaad03ca-046e-423a-8431-3df9c5d5a40f",
+      "width": 0,
+      "x": 22706,
+      "y": 401,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "8051ba62-5362-435b-8f22-74fed34a0189",
+      "width": 0,
+      "x": 22807,
+      "y": 402,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "53320425-4ec3-445c-8b81-25a65e3f7f76",
+      "width": 0,
+      "x": 22908,
+      "y": 401,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "eb03cdb8-f598-47fd-97e4-894ede7c0063",
+      "width": 0,
+      "x": 22706,
+      "y": 298,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "080b4768-08db-47b7-bc7c-2f4587c21356",
+      "width": 0,
+      "x": 22906,
+      "y": 299,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "d4bbe84c-9ee4-4a78-bb09-af857ebce5bb",
+      "width": 0,
+      "x": 22908,
+      "y": 194,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "d7b70923-ed23-4e54-a04a-ad8028af45ca",
+      "width": 0,
+      "x": 23010,
+      "y": 302,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "4d0083c9-3793-4d90-839b-8cdb596b09da",
+      "width": 0,
+      "x": 23012,
+      "y": 403,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "7a9fc08f-b6b5-421b-a8b0-b553f8383f0d",
+      "width": 0,
+      "x": 23009,
+      "y": 506,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "102231a5-b246-4cc8-bdba-70b79eaecfe9",
+      "width": 0,
+      "x": 23113,
+      "y": 192,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "834c691e-53f6-4772-adbe-4a35d481cd59",
+      "width": 0,
+      "x": 23112,
+      "y": 300,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "7b224951-d2d0-4c87-a5f3-7fd97d003676",
+      "width": 0,
+      "x": 23114,
+      "y": 404,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "11f87299-fcf6-456f-afce-efd881578d8d",
+      "width": 0,
+      "x": 23112,
+      "y": 504,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 79,
+      "layer": "UI Layer",
+      "name": "Sample_letter",
+      "persistentUuid": "23c34719-913a-472e-b529-c1e31591387a",
+      "width": 79,
+      "x": 22619,
+      "y": 396,
+      "zOrder": 93,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 79,
+      "layer": "UI Layer",
+      "name": "Sample_letter",
+      "persistentUuid": "54c48752-c8e8-485a-b898-00ec80768e04",
+      "width": 79,
+      "x": 22818,
+      "y": 295,
+      "zOrder": 93,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 79,
+      "layer": "UI Layer",
+      "name": "Sample_letter",
+      "persistentUuid": "827d94d7-f5ba-4856-b2ea-62c43768b441",
+      "width": 79,
+      "x": 23020,
+      "y": 187,
+      "zOrder": 93,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 79,
+      "layer": "UI Layer",
+      "name": "Sample_letter",
+      "persistentUuid": "f5817d63-9d4e-4f2a-8007-919e1eee02c7",
+      "width": 126,
+      "x": 23830,
+      "y": 310,
+      "zOrder": 93,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 79,
+      "layer": "UI Layer",
+      "name": "Sample_letter",
+      "persistentUuid": "050b5ce6-effa-404f-b609-6345d4683343",
+      "width": 124,
+      "x": 24037,
+      "y": 314,
+      "zOrder": 93,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 79,
+      "layer": "UI Layer",
+      "name": "Sample_letter",
+      "persistentUuid": "7dc0dd1a-9482-4fe6-91c3-4d97d751133c",
+      "width": 124,
+      "x": 24266,
+      "y": 313,
+      "zOrder": 93,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "be3f909e-a18c-48e4-ab20-ec0c17dfda37",
+      "width": 0,
+      "x": 22601,
+      "y": 502,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "2a66efee-e48e-4793-8837-705e0448aff8",
+      "width": 0,
+      "x": 25378,
+      "y": 498,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "85ff5c79-8cf9-4bda-803b-bc4df21cf517",
+      "width": 0,
+      "x": 25278,
+      "y": 498,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "c5cf43dd-6af8-472f-87d9-c70ff636a8c7",
+      "width": 0,
+      "x": 25377,
+      "y": 395,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "d5a6fa32-fdf1-44db-800b-907a080363fc",
+      "width": 0,
+      "x": 25481,
+      "y": 496,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "a2e01ccd-3e5d-4dac-b01a-eb3faf4cb42d",
+      "width": 0,
+      "x": 25481,
+      "y": 392,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "febb925f-743c-4ed9-9744-1d1c93d29b3c",
+      "width": 0,
+      "x": 25480,
+      "y": 289,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "bee8049b-f76a-467b-99bb-156ffd9efc0a",
+      "width": 0,
+      "x": 25583,
+      "y": 498,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "bd2644ea-7cf7-4c1b-88ad-2dc4d2df7331",
+      "width": 0,
+      "x": 25684,
+      "y": 500,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "e7e60303-d073-465f-941c-102882526ced",
+      "width": 0,
+      "x": 25683,
+      "y": 397,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "ffa6ac57-193e-4160-aa2f-8d8d38a691e6",
+      "width": 0,
+      "x": 25786,
+      "y": 501,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "a192e1d6-8806-4abc-8658-0e40c028867b",
+      "width": 0,
+      "x": 25787,
+      "y": 398,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "7cb5d283-5f8a-44c8-ba71-93759265e853",
+      "width": 0,
+      "x": 25891,
+      "y": 502,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "3979e984-7909-4641-82d9-798139798fcc",
+      "width": 0,
+      "x": 25890,
+      "y": 399,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "ef8c6109-cb77-4a44-a884-94ebca1ce402",
+      "width": 0,
+      "x": 25995,
+      "y": 503,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "59f7c776-1918-4d1a-8732-bac8eb15d939",
+      "width": 0,
+      "x": 25994,
+      "y": 400,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "530ed0b3-f0d4-4d75-a512-66ea664849b0",
+      "width": 0,
+      "x": 26099,
+      "y": 505,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "272e16fe-bc35-4348-817e-25929f473d34",
+      "width": 0,
+      "x": 26098,
+      "y": 402,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "82190699-c955-4b34-a091-53d6b1d6eb31",
+      "width": 0,
+      "x": 25999,
+      "y": 296,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "0946f717-0495-4d1c-8c47-73f2f53db290",
+      "width": 0,
+      "x": 25999,
+      "y": 190,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "WoodCrate",
+      "persistentUuid": "660249f9-0671-4c51-b7a0-cb2791c5eecc",
+      "width": 0,
+      "x": 25891,
+      "y": 294,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 79,
+      "layer": "UI Layer",
+      "name": "Sample_letter",
+      "persistentUuid": "e6a087e8-b7cf-48e6-aa7d-d76599fd8fb4",
+      "width": 79,
+      "x": 25264,
+      "y": 167,
+      "zOrder": 93,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 79,
+      "layer": "UI Layer",
+      "name": "Sample_letter",
+      "persistentUuid": "dc70eed3-c9bb-4a3f-bb66-0bde607945e7",
+      "width": 79,
+      "x": 25587,
+      "y": 409,
+      "zOrder": 93,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 79,
+      "layer": "UI Layer",
+      "name": "Sample_letter",
+      "persistentUuid": "73f50526-8e51-4de5-962d-c2d5f5e2e941",
+      "width": 79,
+      "x": 26119,
+      "y": 324,
+      "zOrder": 93,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 79,
+      "layer": "UI Layer",
+      "name": "Sample_letter",
+      "persistentUuid": "3c6f80b3-03db-4598-805d-864481ae323c",
+      "width": 131,
+      "x": 26916,
+      "y": 326,
+      "zOrder": 93,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 79,
+      "layer": "UI Layer",
+      "name": "Sample_letter",
+      "persistentUuid": "7dfb09a9-6ad3-41c9-b144-72b0c1f3de95",
+      "width": 131,
+      "x": 27431,
+      "y": 325,
+      "zOrder": 93,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 79,
+      "layer": "UI Layer",
+      "name": "Sample_letter",
+      "persistentUuid": "6757e58c-4e87-4f04-a93c-1a42afc35b31",
+      "width": 131,
+      "x": 27170,
+      "y": 322,
+      "zOrder": 93,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "ArrowKey",
+      "persistentUuid": "ebaa9376-9999-4d6b-a40b-61e648e2f00d",
+      "width": 0,
+      "x": 5138,
+      "y": 523,
+      "zOrder": 103,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "ArrowKey2",
+      "persistentUuid": "b9b87bcd-3c13-406b-82aa-e4ff71ed20ee",
+      "width": 0,
+      "x": 8052,
+      "y": 347,
+      "zOrder": 104,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "ArrowKey3",
+      "persistentUuid": "07517a9b-cc0e-493f-a1be-933d83599713",
+      "width": 0,
+      "x": 11831,
+      "y": 326,
+      "zOrder": 105,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "ArrowKey4",
+      "persistentUuid": "002e16d3-f677-4b3e-a8fa-b4c326abf5c2",
+      "width": 0,
+      "x": 16117,
+      "y": 56,
+      "zOrder": 106,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "ArrowKey5",
+      "persistentUuid": "3f18ae1d-fa3f-489a-8482-0d3bf88e4642",
+      "width": 0,
+      "x": 19795,
+      "y": 510,
+      "zOrder": 107,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "ArrowKey6",
+      "persistentUuid": "fca18f3a-4f97-4da2-ba6c-1d4ee461038f",
+      "width": 0,
+      "x": 21985,
+      "y": 333,
+      "zOrder": 108,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "ArrowKey7",
+      "persistentUuid": "9490e0e8-1c25-4c49-80f1-604ee28d5669",
+      "width": 0,
+      "x": 26208,
+      "y": 539,
+      "zOrder": 109,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "ArrowKey8",
+      "persistentUuid": "3eab69f5-c166-442f-a451-dfeb38ab4411",
+      "width": 0,
+      "x": 28853,
+      "y": 334,
+      "zOrder": 110,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 813,
+      "layer": "",
+      "name": "LongRectangleWood",
+      "persistentUuid": "120ac632-a509-4e8e-853c-51d63ed6c933",
+      "width": 70,
+      "x": -75,
+      "y": -178,
+      "zOrder": 111,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 492,
+      "layer": "",
+      "name": "LongRectangleWood",
+      "persistentUuid": "ee73e8c9-9965-47de-8ef9-31809a266023",
+      "width": 70,
+      "x": 30132,
+      "y": 133,
+      "zOrder": 112,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -2554,10 +3564,10 @@
       "effects": [],
       "behaviors": [
         {
-          "canBeGrabbed": true,
           "name": "Platform",
-          "platformType": "NormalPlatform",
           "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
           "yGrabOffset": 0
         }
       ],
@@ -82296,7 +83306,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "tom",
+                  "image": "tom2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -82316,16 +83326,16 @@
                         "y": 0
                       },
                       {
-                        "x": 646,
+                        "x": 125,
                         "y": 0
                       },
                       {
-                        "x": 646,
-                        "y": 576
+                        "x": 125,
+                        "y": 111
                       },
                       {
                         "x": 0,
-                        "y": 576
+                        "y": 111
                       }
                     ]
                   ]
@@ -84034,10 +85044,10 @@
       "effects": [],
       "behaviors": [
         {
-          "canBeGrabbed": true,
           "name": "Platform",
-          "platformType": "NormalPlatform",
           "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
           "yGrabOffset": 0
         }
       ],
@@ -84102,10 +85112,10 @@
       "effects": [],
       "behaviors": [
         {
-          "canBeGrabbed": true,
           "name": "Platform",
-          "platformType": "NormalPlatform",
           "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
           "yGrabOffset": 0
         }
       ],
@@ -84170,10 +85180,10 @@
       "effects": [],
       "behaviors": [
         {
-          "canBeGrabbed": true,
           "name": "Platform",
-          "platformType": "Jumpthru",
           "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "Jumpthru",
           "yGrabOffset": 0
         }
       ],
@@ -87017,7 +88027,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_letter19",
+                "level5_letter20",
                 "Animation",
                 "=",
                 "\"let-o\""
@@ -87245,7 +88255,7 @@
               },
               "parameters": [
                 "",
-                "wrong",
+                "tom_1",
                 "level5_word21.X()",
                 "level5_word21.Y() -130",
                 ""
@@ -87257,7 +88267,7 @@
               },
               "parameters": [
                 "",
-                "wrong.wav",
+                "tom2.mp3",
                 "no",
                 "",
                 ""
@@ -87353,7 +88363,7 @@
               },
               "parameters": [
                 "",
-                "w.mp3",
+                "t.mp3",
                 "no",
                 "",
                 ""
@@ -87401,7 +88411,7 @@
               },
               "parameters": [
                 "",
-                "i.mp3",
+                "o.mp3",
                 "no",
                 "",
                 ""
@@ -87449,7 +88459,7 @@
               },
               "parameters": [
                 "",
-                "g.mp3",
+                "p.mp3",
                 "no",
                 "",
                 ""
@@ -87558,7 +88568,7 @@
                 "level5_word23",
                 "Animation",
                 "=",
-                "\"tom - Copy\""
+                "\"mop - Copy\""
               ]
             },
             {
@@ -87618,7 +88628,7 @@
                 "level5_word24",
                 "Animation",
                 "=",
-                "\"mop - Copy\""
+                "\"tom - Copy\""
               ]
             },
             {
@@ -88765,6 +89775,511 @@
                 "DesertTilePlatformLeft2",
                 "Tween",
                 "\"elevate2\""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "arrowKeys and door",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "door1",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Level 6\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "ArrowKey",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "turtle",
+                "=",
+                "1780",
+                "=",
+                "400"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "ArrowKey2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "turtle",
+                "=",
+                "4807",
+                "=",
+                "300"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "ArrowKey3",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "turtle",
+                "=",
+                "8200",
+                "=",
+                "400"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "ArrowKey4",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "turtle",
+                "=",
+                "12100",
+                "=",
+                "400"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "ArrowKey5",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "turtle",
+                "=",
+                "16300",
+                "=",
+                "400"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "ArrowKey6",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "turtle",
+                "=",
+                "19100",
+                "=",
+                "400"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "ArrowKey7",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "turtle",
+                "=",
+                "22065",
+                "=",
+                "400"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "ArrowKey8",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "turtle",
+                "=",
+                "25100",
+                "=",
+                "400"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Platform",
+                "no"
               ]
             }
           ]
