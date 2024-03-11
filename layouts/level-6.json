@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.2912258866911134,
+    "zoomFactor": 0.24672586957406437,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -129,7 +129,7 @@
       "depth": 0,
       "height": 225,
       "layer": "",
-      "name": "Level6_Letter",
+      "name": "Level6_letter",
       "persistentUuid": "3a9c43b2-6b88-4996-b977-c551929eaf3c",
       "width": 160,
       "x": 2394,
@@ -145,7 +145,7 @@
       "depth": 0,
       "height": 225,
       "layer": "",
-      "name": "Level6_Letter2",
+      "name": "Level6_letter2",
       "persistentUuid": "2790d4f6-4371-435d-8979-7feb85d50723",
       "width": 160,
       "x": 2755,
@@ -161,7 +161,7 @@
       "depth": 0,
       "height": 225,
       "layer": "",
-      "name": "Level6_Letter3",
+      "name": "Level6_letter3",
       "persistentUuid": "4f4fcd72-aeb7-4197-b747-77c5851bb711",
       "width": 160,
       "x": 3154,
@@ -293,7 +293,7 @@
       "depth": 0,
       "height": 225,
       "layer": "",
-      "name": "Level6_Letter4",
+      "name": "Level6_letter4",
       "persistentUuid": "73b3cfff-369e-44ef-a66f-e8a06c0584d3",
       "width": 160,
       "x": 6034,
@@ -309,7 +309,7 @@
       "depth": 0,
       "height": 225,
       "layer": "",
-      "name": "Level6_Letter5",
+      "name": "Level6_letter5",
       "persistentUuid": "de80097d-e1c9-49ec-8f9a-e2f00597c1ee",
       "width": 160,
       "x": 6407,
@@ -325,7 +325,7 @@
       "depth": 0,
       "height": 225,
       "layer": "",
-      "name": "Level6_Letter6",
+      "name": "Level6_letter6",
       "persistentUuid": "43c8a16a-15bb-4276-8ec2-1c626dcd1feb",
       "width": 160,
       "x": 6775,
@@ -452,7 +452,7 @@
       "depth": 0,
       "height": 225,
       "layer": "",
-      "name": "Level6_Letter7",
+      "name": "Level6_letter7",
       "persistentUuid": "6b6a31ed-9075-496b-b7c0-1996f5acddfb",
       "width": 160,
       "x": 9655,
@@ -468,7 +468,7 @@
       "depth": 0,
       "height": 225,
       "layer": "",
-      "name": "Level6_Letter8",
+      "name": "Level6_letter8",
       "persistentUuid": "78c36d75-cbc3-4e7a-92f7-08fde2246215",
       "width": 160,
       "x": 10046,
@@ -484,7 +484,7 @@
       "depth": 0,
       "height": 225,
       "layer": "",
-      "name": "Level6_Letter9",
+      "name": "Level6_letter9",
       "persistentUuid": "d04c0892-561f-4b6b-90aa-2178e19f0fb9",
       "width": 160,
       "x": 10372,
@@ -563,7 +563,7 @@
       "depth": 0,
       "height": 225,
       "layer": "",
-      "name": "Level6_Letter10",
+      "name": "Level6_letter10",
       "persistentUuid": "9bd87a15-303c-4ed4-975e-b48ed1eda2fb",
       "width": 160,
       "x": 13141,
@@ -579,7 +579,7 @@
       "depth": 0,
       "height": 225,
       "layer": "",
-      "name": "Level6_Letter11",
+      "name": "Level6_letter11",
       "persistentUuid": "ad46d69f-7a73-4f45-98db-e4d9517a79b2",
       "width": 160,
       "x": 13665,
@@ -595,7 +595,7 @@
       "depth": 0,
       "height": 225,
       "layer": "",
-      "name": "Level6_Letter12",
+      "name": "Level6_letter12",
       "persistentUuid": "52518346-df0f-430b-9afd-84dd5543ff55",
       "width": 160,
       "x": 14187,
@@ -674,7 +674,7 @@
       "depth": 0,
       "height": 225,
       "layer": "",
-      "name": "Level6_Letter13",
+      "name": "Level6_letter13",
       "persistentUuid": "a2095c26-2276-4c3a-80a0-eddf465f30a1",
       "width": 160,
       "x": 17070,
@@ -690,7 +690,7 @@
       "depth": 0,
       "height": 225,
       "layer": "",
-      "name": "Level6_Letter14",
+      "name": "Level6_letter14",
       "persistentUuid": "835ccd58-fd73-4b98-be8e-d3e75ca8f837",
       "width": 160,
       "x": 17536,
@@ -706,7 +706,7 @@
       "depth": 0,
       "height": 225,
       "layer": "",
-      "name": "Level6_Letter15",
+      "name": "Level6_letter15",
       "persistentUuid": "45795c2c-f7db-450d-8314-c33c45ed19d1",
       "width": 160,
       "x": 18020,
@@ -785,7 +785,7 @@
       "depth": 0,
       "height": 225,
       "layer": "",
-      "name": "Level6_Letter16",
+      "name": "Level6_letter16",
       "persistentUuid": "f19299da-5fa2-417f-8eb4-c5f68856f37c",
       "width": 160,
       "x": 21376,
@@ -801,7 +801,7 @@
       "depth": 0,
       "height": 225,
       "layer": "",
-      "name": "Level6_Letter17",
+      "name": "Level6_letter17",
       "persistentUuid": "03232524-d417-42df-9e11-cfead9529735",
       "width": 160,
       "x": 21838,
@@ -817,7 +817,7 @@
       "depth": 0,
       "height": 225,
       "layer": "",
-      "name": "Level6_Letter18",
+      "name": "Level6_letter18",
       "persistentUuid": "a50ccead-9e2f-415e-9b0d-159f8c942ac3",
       "width": 160,
       "x": 22182,
@@ -896,7 +896,7 @@
       "depth": 0,
       "height": 225,
       "layer": "",
-      "name": "Level6_Letter19",
+      "name": "Level6_letter19",
       "persistentUuid": "264c2a79-42a8-428d-a3bf-3c7c71371e9f",
       "width": 160,
       "x": 26326,
@@ -912,7 +912,7 @@
       "depth": 0,
       "height": 225,
       "layer": "",
-      "name": "Level6_Letter20",
+      "name": "Level6_letter20",
       "persistentUuid": "a41c53c6-d969-43f4-86a0-b81642b3394f",
       "width": 160,
       "x": 26853,
@@ -928,7 +928,7 @@
       "depth": 0,
       "height": 225,
       "layer": "",
-      "name": "Level6_Letter21",
+      "name": "Level6_letter21",
       "persistentUuid": "5b90c170-671d-4f6c-9de0-787a9b042bfd",
       "width": 160,
       "x": 27334,
@@ -1012,7 +1012,7 @@
       "depth": 0,
       "height": 225,
       "layer": "",
-      "name": "Level6_Letter22",
+      "name": "Level6_letter22",
       "persistentUuid": "81c87e1b-4c3c-4c11-ac1c-b6161be5f2af",
       "width": 160,
       "x": 30080,
@@ -1028,7 +1028,7 @@
       "depth": 0,
       "height": 225,
       "layer": "",
-      "name": "Level6_Letter23",
+      "name": "Level6_letter23",
       "persistentUuid": "9941d634-9a7b-4866-b9d4-b0a3c86e2c7a",
       "width": 160,
       "x": 30421,
@@ -1412,7 +1412,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "Level6_Letter",
+      "name": "Level6_letter",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -3928,7 +3928,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "cup - Copy",
+          "name": "cup",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -3937,7 +3937,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cup - Copy.png",
+                  "image": "cup.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3976,7 +3976,7 @@
           ]
         },
         {
-          "name": "cup",
+          "name": "cup - Copy",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -3985,7 +3985,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "cup.png",
+                  "image": "cup - Copy.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4700,7 +4700,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "Level6_Letter2",
+      "name": "Level6_letter2",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -7208,7 +7208,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "Level6_Letter3",
+      "name": "Level6_letter3",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -12056,7 +12056,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "Level6_Letter4",
+      "name": "Level6_letter4",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -14564,7 +14564,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "Level6_Letter5",
+      "name": "Level6_letter5",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -17072,7 +17072,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "Level6_Letter6",
+      "name": "Level6_letter6",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -21988,7 +21988,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "Level6_Letter7",
+      "name": "Level6_letter7",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -24496,7 +24496,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "Level6_Letter8",
+      "name": "Level6_letter8",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -27004,7 +27004,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "Level6_Letter9",
+      "name": "Level6_letter9",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -31920,7 +31920,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "Level6_Letter10",
+      "name": "Level6_letter10",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -34428,7 +34428,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "Level6_Letter11",
+      "name": "Level6_letter11",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -36936,7 +36936,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "Level6_Letter12",
+      "name": "Level6_letter12",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -41852,7 +41852,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "Level6_Letter13",
+      "name": "Level6_letter13",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -45920,7 +45920,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "Level6_Letter14",
+      "name": "Level6_letter14",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -48428,7 +48428,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "Level6_Letter15",
+      "name": "Level6_letter15",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -51784,7 +51784,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "Level6_Letter16",
+      "name": "Level6_letter16",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -54292,7 +54292,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "Level6_Letter17",
+      "name": "Level6_letter17",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -56800,7 +56800,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "Level6_Letter18",
+      "name": "Level6_letter18",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -61716,7 +61716,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "Level6_Letter19",
+      "name": "Level6_letter19",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -65784,7 +65784,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "Level6_Letter20",
+      "name": "Level6_letter20",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -68292,7 +68292,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "Level6_Letter21",
+      "name": "Level6_letter21",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -71648,7 +71648,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "Level6_Letter22",
+      "name": "Level6_letter22",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -74156,7 +74156,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "Level6_Letter23",
+      "name": "Level6_letter23",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -81321,13 +81321,13 @@
         "folderName": "L6-CUP",
         "children": [
           {
-            "objectName": "Level6_Letter3"
+            "objectName": "Level6_letter3"
           },
           {
-            "objectName": "Level6_Letter2"
+            "objectName": "Level6_letter2"
           },
           {
-            "objectName": "Level6_Letter"
+            "objectName": "Level6_letter"
           },
           {
             "objectName": "Level6_Word"
@@ -81344,13 +81344,13 @@
         "folderName": "L6-GUM",
         "children": [
           {
-            "objectName": "Level6_Letter6"
+            "objectName": "Level6_letter6"
           },
           {
-            "objectName": "Level6_Letter5"
+            "objectName": "Level6_letter5"
           },
           {
-            "objectName": "Level6_Letter4"
+            "objectName": "Level6_letter4"
           },
           {
             "objectName": "Level6_Word6"
@@ -81367,13 +81367,13 @@
         "folderName": "L6-HUT",
         "children": [
           {
-            "objectName": "Level6_Letter9"
+            "objectName": "Level6_letter9"
           },
           {
-            "objectName": "Level6_Letter8"
+            "objectName": "Level6_letter8"
           },
           {
-            "objectName": "Level6_Letter7"
+            "objectName": "Level6_letter7"
           },
           {
             "objectName": "Level6_Word9"
@@ -81390,13 +81390,13 @@
         "folderName": "L6-MUD",
         "children": [
           {
-            "objectName": "Level6_Letter12"
+            "objectName": "Level6_letter12"
           },
           {
-            "objectName": "Level6_Letter11"
+            "objectName": "Level6_letter11"
           },
           {
-            "objectName": "Level6_Letter10"
+            "objectName": "Level6_letter10"
           },
           {
             "objectName": "Level6_Word12"
@@ -81413,13 +81413,13 @@
         "folderName": "L6-NUT",
         "children": [
           {
-            "objectName": "Level6_Letter15"
+            "objectName": "Level6_letter15"
           },
           {
-            "objectName": "Level6_Letter14"
+            "objectName": "Level6_letter14"
           },
           {
-            "objectName": "Level6_Letter13"
+            "objectName": "Level6_letter13"
           },
           {
             "objectName": "Level6_Word15"
@@ -81436,13 +81436,13 @@
         "folderName": "L6-PUP",
         "children": [
           {
-            "objectName": "Level6_Letter18"
+            "objectName": "Level6_letter18"
           },
           {
-            "objectName": "Level6_Letter17"
+            "objectName": "Level6_letter17"
           },
           {
-            "objectName": "Level6_Letter16"
+            "objectName": "Level6_letter16"
           },
           {
             "objectName": "Level6_Word18"
@@ -81459,13 +81459,13 @@
         "folderName": "L6-SUN",
         "children": [
           {
-            "objectName": "Level6_Letter21"
+            "objectName": "Level6_letter21"
           },
           {
-            "objectName": "Level6_Letter20"
+            "objectName": "Level6_letter20"
           },
           {
-            "objectName": "Level6_Letter19"
+            "objectName": "Level6_letter19"
           },
           {
             "objectName": "Level6_Word21"
@@ -81485,10 +81485,10 @@
             "objectName": "L6_LTR24"
           },
           {
-            "objectName": "Level6_Letter23"
+            "objectName": "Level6_letter23"
           },
           {
-            "objectName": "Level6_Letter22"
+            "objectName": "Level6_letter22"
           },
           {
             "objectName": "Level6_Word24"
@@ -82283,8 +82283,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
-      "name": "Letters and words",
+      "name": "letters and Words",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
       "events": [
@@ -82302,7 +82301,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_letter",
+                "Level6_letter",
                 "",
                 "",
                 ""
@@ -82321,7 +82320,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_letter",
+                "Level6_letter",
                 "Animation",
                 "=",
                 "\"let-b\""
@@ -82350,7 +82349,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_letter2",
+                "Level6_letter2",
                 "",
                 "",
                 ""
@@ -82369,7 +82368,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_letter2",
+                "Level6_letter2",
                 "Animation",
                 "=",
                 "\"let-o\""
@@ -82398,7 +82397,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_letter3",
+                "Level6_letter3",
                 "",
                 "",
                 ""
@@ -82417,7 +82416,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_letter3",
+                "Level6_letter3",
                 "Animation",
                 "=",
                 "\"let-x\""
@@ -82446,7 +82445,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_word",
+                "Level6_Word",
                 "",
                 "",
                 ""
@@ -82465,7 +82464,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_word",
+                "Level6_Word",
                 "Animation",
                 "=",
                 "\"log - Copy\""
@@ -82490,8 +82489,8 @@
               "parameters": [
                 "",
                 "wrong",
-                "level5_word.X() + 10",
-                "level5_word.Y() -70",
+                "Level6_Word.X() + 10",
+                "Level6_Word.Y() -70",
                 ""
               ]
             }
@@ -82506,7 +82505,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_word2",
+                "Level6_Word2",
                 "",
                 "",
                 ""
@@ -82525,7 +82524,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_word2",
+                "Level6_Word2",
                 "Animation",
                 "=",
                 "\"fox - Copy\""
@@ -82550,8 +82549,8 @@
               "parameters": [
                 "",
                 "wrong",
-                "level5_word2.X()",
-                "level5_word2.Y() -70",
+                "Level6_Word2.X()",
+                "Level6_Word2.Y() -70",
                 ""
               ]
             }
@@ -82566,7 +82565,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_word3",
+                "Level6_Word3",
                 "",
                 "",
                 ""
@@ -82585,7 +82584,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_word3",
+                "Level6_Word3",
                 "Animation",
                 "=",
                 "\"box - Copy\""
@@ -82610,8 +82609,8 @@
               "parameters": [
                 "",
                 "box_1",
-                "level5_word3.X()",
-                "level5_word3.Y() -120",
+                "Level6_Word3.X()",
+                "Level6_Word3.Y() -120",
                 ""
               ]
             },
@@ -82620,7 +82619,7 @@
                 "value": "ActivateBehavior"
               },
               "parameters": [
-                "DeadTree",
+                "Tower",
                 "Platform",
                 "no"
               ]
@@ -82653,7 +82652,7 @@
                 "value": "ActivateBehavior"
               },
               "parameters": [
-                "DeadTree",
+                "Tower",
                 "Platform",
                 "yes"
               ]
@@ -82674,7 +82673,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_letter4",
+                "Level6_letter4",
                 "",
                 "",
                 ""
@@ -82693,7 +82692,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_letter4",
+                "Level6_letter4",
                 "Animation",
                 "=",
                 "\"let-f\""
@@ -82722,7 +82721,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_letter5",
+                "Level6_letter5",
                 "",
                 "",
                 ""
@@ -82741,7 +82740,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_letter5",
+                "Level6_letter5",
                 "Animation",
                 "=",
                 "\"let-o\""
@@ -82770,7 +82769,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_letter6",
+                "Level6_letter6",
                 "",
                 "",
                 ""
@@ -82789,7 +82788,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_letter6",
+                "Level6_letter6",
                 "Animation",
                 "=",
                 "\"let-x\""
@@ -82818,7 +82817,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_word4",
+                "Level6_Word4",
                 "",
                 "",
                 ""
@@ -82837,7 +82836,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_word4",
+                "Level6_Word4",
                 "Animation",
                 "=",
                 "\"fox - Copy\""
@@ -82862,8 +82861,8 @@
               "parameters": [
                 "",
                 "fox_1",
-                "level5_word4.X()",
-                "level5_word4.Y() - 170",
+                "Level6_Word4.X()",
+                "Level6_Word4.Y() - 170",
                 ""
               ]
             },
@@ -82872,7 +82871,7 @@
                 "value": "ActivateBehavior"
               },
               "parameters": [
-                "DeadTree",
+                "Tower",
                 "Platform",
                 "no"
               ]
@@ -82888,7 +82887,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_word5",
+                "Level6_Word5",
                 "",
                 "",
                 ""
@@ -82907,7 +82906,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_word5",
+                "Level6_Word5",
                 "Animation",
                 "=",
                 "\"box - Copy\""
@@ -82932,8 +82931,8 @@
               "parameters": [
                 "",
                 "wrong",
-                "level5_word5.X()",
-                "level5_word5.Y() -70",
+                "Level6_Word5.X()",
+                "Level6_Word5.Y() -70",
                 ""
               ]
             }
@@ -82948,7 +82947,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_word6",
+                "Level6_Word6",
                 "",
                 "",
                 ""
@@ -82967,7 +82966,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_word6",
+                "Level6_Word6",
                 "Animation",
                 "=",
                 "\"log - Copy\""
@@ -82992,8 +82991,8 @@
               "parameters": [
                 "",
                 "wrong",
-                "level5_word6.X() + 10",
-                "level5_word6.Y() -70",
+                "Level6_Word6.X() + 10",
+                "Level6_Word6.Y() -70",
                 ""
               ]
             }
@@ -83025,7 +83024,7 @@
                 "value": "ActivateBehavior"
               },
               "parameters": [
-                "DeadTree",
+                "Tower",
                 "Platform",
                 "yes"
               ]
@@ -83046,7 +83045,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_letter7",
+                "Level6_letter7",
                 "",
                 "",
                 ""
@@ -83065,7 +83064,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_letter7",
+                "Level6_letter7",
                 "Animation",
                 "=",
                 "\"let-l\""
@@ -83094,7 +83093,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_letter8",
+                "Level6_letter8",
                 "",
                 "",
                 ""
@@ -83113,7 +83112,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_letter8",
+                "Level6_letter8",
                 "Animation",
                 "=",
                 "\"let-o\""
@@ -83142,7 +83141,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_letter9",
+                "Level6_letter9",
                 "",
                 "",
                 ""
@@ -83161,7 +83160,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_letter9",
+                "Level6_letter9",
                 "Animation",
                 "=",
                 "\"let-g\""
@@ -83190,7 +83189,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_word7",
+                "Level6_Word7",
                 "",
                 "",
                 ""
@@ -83209,7 +83208,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_word7",
+                "Level6_Word7",
                 "Animation",
                 "=",
                 "\"log - Copy\""
@@ -83234,8 +83233,8 @@
               "parameters": [
                 "",
                 "log_1",
-                "level5_word7.X()",
-                "level5_word7.Y() -160",
+                "Level6_Word7.X()",
+                "Level6_Word7.Y() -160",
                 ""
               ]
             },
@@ -83244,7 +83243,7 @@
                 "value": "ActivateBehavior"
               },
               "parameters": [
-                "DeadTree",
+                "Tower",
                 "Platform",
                 "no"
               ]
@@ -83260,7 +83259,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_word8",
+                "Level6_Word8",
                 "",
                 "",
                 ""
@@ -83279,7 +83278,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_word8",
+                "Level6_Word8",
                 "Animation",
                 "=",
                 "\"mom - Copy\""
@@ -83304,8 +83303,8 @@
               "parameters": [
                 "",
                 "wrong",
-                "level5_word8.X()",
-                "level5_word8.Y() -70",
+                "Level6_Word8.X()",
+                "Level6_Word8.Y() -70",
                 ""
               ]
             }
@@ -83320,7 +83319,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_word9",
+                "Level6_Word9",
                 "",
                 "",
                 ""
@@ -83339,7 +83338,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_word9",
+                "Level6_Word9",
                 "Animation",
                 "=",
                 "\"mop - Copy\""
@@ -83364,8 +83363,8 @@
               "parameters": [
                 "",
                 "wrong",
-                "level5_word9.X() + 10",
-                "level5_word9.Y() -70",
+                "Level6_Word9.X() + 10",
+                "Level6_Word9.Y() -70",
                 ""
               ]
             }
@@ -83397,7 +83396,7 @@
                 "value": "ActivateBehavior"
               },
               "parameters": [
-                "DeadTree",
+                "Tower",
                 "Platform",
                 "yes"
               ]
@@ -83413,7 +83412,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_letter10",
+                "Level6_letter10",
                 "",
                 "",
                 ""
@@ -83432,7 +83431,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_letter10",
+                "Level6_letter10",
                 "Animation",
                 "=",
                 "\"let-m\""
@@ -83466,7 +83465,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_letter11",
+                "Level6_letter11",
                 "",
                 "",
                 ""
@@ -83485,7 +83484,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_letter11",
+                "Level6_letter11",
                 "Animation",
                 "=",
                 "\"let-o\""
@@ -83514,7 +83513,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_letter12",
+                "Level6_letter12",
                 "",
                 "",
                 ""
@@ -83533,7 +83532,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_letter12",
+                "Level6_letter12",
                 "Animation",
                 "=",
                 "\"let-m\""
@@ -83562,7 +83561,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_word10",
+                "Level6_Word10",
                 "",
                 "",
                 ""
@@ -83581,7 +83580,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_word10",
+                "Level6_Word10",
                 "Animation",
                 "=",
                 "\"mop - Copy\""
@@ -83606,8 +83605,8 @@
               "parameters": [
                 "",
                 "wrong",
-                "level5_word10.X()",
-                "level5_word10.Y() -70",
+                "Level6_Word10.X()",
+                "Level6_Word10.Y() -70",
                 ""
               ]
             }
@@ -83622,7 +83621,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_word11",
+                "Level6_Word11",
                 "",
                 "",
                 ""
@@ -83641,7 +83640,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_word11",
+                "Level6_Word11",
                 "Animation",
                 "=",
                 "\"mom - Copy\""
@@ -83666,8 +83665,8 @@
               "parameters": [
                 "",
                 "mom_1",
-                "level5_word11.X()",
-                "level5_word11.Y() -120",
+                "Level6_Word11.X()",
+                "Level6_Word11.Y() -120",
                 ""
               ]
             },
@@ -83676,7 +83675,7 @@
                 "value": "ActivateBehavior"
               },
               "parameters": [
-                "DeadTree",
+                "Tower",
                 "Platform",
                 "no"
               ]
@@ -83692,7 +83691,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_word12",
+                "Level6_Word12",
                 "",
                 "",
                 ""
@@ -83711,7 +83710,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_word12",
+                "Level6_Word12",
                 "Animation",
                 "=",
                 "\"log - Copy\""
@@ -83724,8 +83723,8 @@
               "parameters": [
                 "",
                 "wrong",
-                "level5_word12.X()",
-                "level5_word12.Y() -70",
+                "Level6_Word12.X()",
+                "Level6_Word12.Y() -70",
                 ""
               ]
             },
@@ -83769,7 +83768,7 @@
                 "value": "ActivateBehavior"
               },
               "parameters": [
-                "DeadTree",
+                "Tower",
                 "Platform",
                 "yes"
               ]
@@ -83790,7 +83789,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_letter13",
+                "Level6_letter13",
                 "",
                 "",
                 ""
@@ -83809,7 +83808,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_letter13",
+                "Level6_letter13",
                 "Animation",
                 "=",
                 "\"let-m\""
@@ -83838,7 +83837,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_letter14",
+                "Level6_letter14",
                 "",
                 "",
                 ""
@@ -83857,7 +83856,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_letter14",
+                "Level6_letter14",
                 "Animation",
                 "=",
                 "\"let-o\""
@@ -83886,7 +83885,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_letter15",
+                "Level6_letter15",
                 "",
                 "",
                 ""
@@ -83905,7 +83904,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_letter15",
+                "Level6_letter15",
                 "Animation",
                 "=",
                 "\"let-p\""
@@ -83934,7 +83933,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_word13",
+                "Level6_Word13",
                 "",
                 "",
                 ""
@@ -83953,7 +83952,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_word13",
+                "Level6_Word13",
                 "Animation",
                 "=",
                 "\"pot - Copy\""
@@ -83978,8 +83977,8 @@
               "parameters": [
                 "",
                 "wrong",
-                "level5_word13.X()",
-                "level5_word13.Y() -70",
+                "Level6_Word13.X()",
+                "Level6_Word13.Y() -70",
                 ""
               ]
             }
@@ -83994,7 +83993,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_word14",
+                "Level6_Word14",
                 "",
                 "",
                 ""
@@ -84013,7 +84012,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_word14",
+                "Level6_Word14",
                 "Animation",
                 "=",
                 "\"fox - Copy\""
@@ -84038,8 +84037,8 @@
               "parameters": [
                 "",
                 "wrong",
-                "level5_word14.X()",
-                "level5_word14.Y() -70",
+                "Level6_Word14.X()",
+                "Level6_Word14.Y() -70",
                 ""
               ]
             }
@@ -84054,7 +84053,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_word15",
+                "Level6_Word15",
                 "",
                 "",
                 ""
@@ -84073,7 +84072,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_word15",
+                "Level6_Word15",
                 "Animation",
                 "=",
                 "\"mop - Copy\""
@@ -84086,8 +84085,8 @@
               "parameters": [
                 "",
                 "mop_1",
-                "level5_word15.X()",
-                "level5_word15.Y() -150",
+                "Level6_Word15.X()",
+                "Level6_Word15.Y() -150",
                 ""
               ]
             },
@@ -84108,7 +84107,7 @@
                 "value": "ActivateBehavior"
               },
               "parameters": [
-                "DeadTree",
+                "Tower",
                 "Platform",
                 "no"
               ]
@@ -84141,7 +84140,7 @@
                 "value": "ActivateBehavior"
               },
               "parameters": [
-                "DeadTree",
+                "Tower",
                 "Platform",
                 "yes"
               ]
@@ -84157,7 +84156,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_letter16",
+                "Level6_letter16",
                 "",
                 "",
                 ""
@@ -84176,7 +84175,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_letter16",
+                "Level6_letter16",
                 "Animation",
                 "=",
                 "\"let-p\""
@@ -84205,7 +84204,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_letter17",
+                "Level6_letter17",
                 "",
                 "",
                 ""
@@ -84224,7 +84223,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_letter17",
+                "Level6_letter17",
                 "Animation",
                 "=",
                 "\"let-o\""
@@ -84253,7 +84252,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_letter18",
+                "Level6_letter18",
                 "",
                 "",
                 ""
@@ -84272,7 +84271,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_letter18",
+                "Level6_letter18",
                 "Animation",
                 "=",
                 "\"let-t\""
@@ -84301,7 +84300,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_word16",
+                "Level6_Word16",
                 "",
                 "",
                 ""
@@ -84320,7 +84319,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_word16",
+                "Level6_Word16",
                 "Animation",
                 "=",
                 "\"pot - Copy\""
@@ -84345,8 +84344,8 @@
               "parameters": [
                 "",
                 "pot_1",
-                "level5_word16.X()",
-                "level5_word16.Y() -120",
+                "Level6_Word16.X()",
+                "Level6_Word16.Y() -120",
                 ""
               ]
             },
@@ -84355,7 +84354,7 @@
                 "value": "ActivateBehavior"
               },
               "parameters": [
-                "DeadTree",
+                "Tower",
                 "Platform",
                 "no"
               ]
@@ -84371,7 +84370,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_word17",
+                "Level6_Word17",
                 "",
                 "",
                 ""
@@ -84390,7 +84389,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_word17",
+                "Level6_Word17",
                 "Animation",
                 "=",
                 "\"mop - Copy\""
@@ -84415,8 +84414,8 @@
               "parameters": [
                 "",
                 "wrong",
-                "level5_word17.X()",
-                "level5_word17.Y() -70",
+                "Level6_Word17.X()",
+                "Level6_Word17.Y() -70",
                 ""
               ]
             }
@@ -84431,7 +84430,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_word18",
+                "Level6_Word18",
                 "",
                 "",
                 ""
@@ -84450,7 +84449,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_word18",
+                "Level6_Word18",
                 "Animation",
                 "=",
                 "\"fox - Copy\""
@@ -84463,8 +84462,8 @@
               "parameters": [
                 "",
                 "wrong",
-                "level5_word18.X()",
-                "level5_word18.Y() -70",
+                "Level6_Word18.X()",
+                "Level6_Word18.Y() -70",
                 ""
               ]
             },
@@ -84508,7 +84507,7 @@
                 "value": "ActivateBehavior"
               },
               "parameters": [
-                "DeadTree",
+                "Tower",
                 "Platform",
                 "yes"
               ]
@@ -84529,7 +84528,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_letter19",
+                "Level6_letter19",
                 "",
                 "",
                 ""
@@ -84548,7 +84547,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_letter19",
+                "Level6_letter19",
                 "Animation",
                 "=",
                 "\"let-t\""
@@ -84577,7 +84576,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_letter20",
+                "Level6_letter20",
                 "",
                 "",
                 ""
@@ -84596,7 +84595,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_letter20",
+                "Level6_letter20",
                 "Animation",
                 "=",
                 "\"let-o\""
@@ -84625,7 +84624,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_letter21",
+                "Level6_letter21",
                 "",
                 "",
                 ""
@@ -84644,7 +84643,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_letter21",
+                "Level6_letter21",
                 "Animation",
                 "=",
                 "\"let-m\""
@@ -84673,7 +84672,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_word19",
+                "Level6_Word19",
                 "",
                 "",
                 ""
@@ -84692,7 +84691,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_word19",
+                "Level6_Word19",
                 "Animation",
                 "=",
                 "\"fox - Copy\""
@@ -84717,8 +84716,8 @@
               "parameters": [
                 "",
                 "wrong",
-                "level5_word19.X()",
-                "level5_word19.Y() -70",
+                "Level6_Word19.X()",
+                "Level6_Word19.Y() -70",
                 ""
               ]
             }
@@ -84733,7 +84732,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_word20",
+                "Level6_Word20",
                 "",
                 "",
                 ""
@@ -84752,7 +84751,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_word20",
+                "Level6_Word20",
                 "Animation",
                 "=",
                 "\"box - Copy\""
@@ -84777,8 +84776,8 @@
               "parameters": [
                 "",
                 "wrong",
-                "level5_word20.X()",
-                "level5_word20.Y() -70",
+                "Level6_Word20.X()",
+                "Level6_Word20.Y() -70",
                 ""
               ]
             }
@@ -84793,7 +84792,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_word21",
+                "Level6_Word21",
                 "",
                 "",
                 ""
@@ -84812,7 +84811,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_word21",
+                "Level6_Word21",
                 "Animation",
                 "=",
                 "\"tom - Copy\""
@@ -84825,8 +84824,8 @@
               "parameters": [
                 "",
                 "tom_1",
-                "level5_word21.X()",
-                "level5_word21.Y() -130",
+                "Level6_Word21.X()",
+                "Level6_Word21.Y() -130",
                 ""
               ]
             },
@@ -84847,7 +84846,7 @@
                 "value": "ActivateBehavior"
               },
               "parameters": [
-                "DeadTree",
+                "Tower",
                 "Platform",
                 "no"
               ]
@@ -84880,7 +84879,7 @@
                 "value": "ActivateBehavior"
               },
               "parameters": [
-                "DeadTree",
+                "Tower",
                 "Platform",
                 "yes"
               ]
@@ -84901,7 +84900,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_letter22",
+                "Level6_letter22",
                 "",
                 "",
                 ""
@@ -84920,7 +84919,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_letter22",
+                "Level6_letter22",
                 "Animation",
                 "=",
                 "\"let-t\""
@@ -84949,7 +84948,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_letter23",
+                "Level6_letter23",
                 "",
                 "",
                 ""
@@ -84968,7 +84967,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_letter23",
+                "Level6_letter23",
                 "Animation",
                 "=",
                 "\"let-o\""
@@ -84997,7 +84996,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_letter24",
+                "Level6_letter24",
                 "",
                 "",
                 ""
@@ -85016,7 +85015,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_letter24",
+                "Level6_letter24",
                 "Animation",
                 "=",
                 "\"let-p\""
@@ -85045,7 +85044,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_word22",
+                "Level6_Word22",
                 "",
                 "",
                 ""
@@ -85064,7 +85063,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_word22",
+                "Level6_Word22",
                 "Animation",
                 "=",
                 "\"top - Copy\""
@@ -85089,8 +85088,8 @@
               "parameters": [
                 "",
                 "top_1",
-                "level5_word22.X()",
-                "level5_word22.Y() - 130",
+                "Level6_Word22.X()",
+                "Level6_Word22.Y() - 130",
                 ""
               ]
             },
@@ -85099,7 +85098,7 @@
                 "value": "ActivateBehavior"
               },
               "parameters": [
-                "DeadTree",
+                "Tower",
                 "Platform",
                 "no"
               ]
@@ -85115,7 +85114,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_word23",
+                "Level6_Word23",
                 "",
                 "",
                 ""
@@ -85134,7 +85133,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_word23",
+                "Level6_Word23",
                 "Animation",
                 "=",
                 "\"mop - Copy\""
@@ -85159,8 +85158,8 @@
               "parameters": [
                 "",
                 "wrong",
-                "level5_word23.X()",
-                "level5_word23.Y() - 70",
+                "Level6_Word23.X()",
+                "Level6_Word23.Y() - 70",
                 ""
               ]
             }
@@ -85175,7 +85174,7 @@
               },
               "parameters": [
                 "turtle",
-                "level5_word24",
+                "Level6_Word24",
                 "",
                 "",
                 ""
@@ -85194,7 +85193,7 @@
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
-                "level5_word24",
+                "Level6_Word24",
                 "Animation",
                 "=",
                 "\"tom - Copy\""
@@ -85207,8 +85206,8 @@
               "parameters": [
                 "",
                 "wrong",
-                "level5_word24.X()",
-                "level5_word24.Y() - 70",
+                "Level6_Word24.X()",
+                "Level6_Word24.Y() - 70",
                 ""
               ]
             },
@@ -85252,7 +85251,7 @@
                 "value": "ActivateBehavior"
               },
               "parameters": [
-                "DeadTree",
+                "Tower",
                 "Platform",
                 "yes"
               ]
