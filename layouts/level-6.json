@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.3325387091250795,
+    "zoomFactor": 0.3553434558817008,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -128,7 +128,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "L6_LTR",
+      "name": "Level6_Letter",
       "persistentUuid": "3a9c43b2-6b88-4996-b977-c551929eaf3c",
       "width": 0,
       "x": 2394,
@@ -143,7 +143,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "L6_LTR2",
+      "name": "Level6_Letter2",
       "persistentUuid": "2790d4f6-4371-435d-8979-7feb85d50723",
       "width": 0,
       "x": 2755,
@@ -158,7 +158,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "L6_LTR3",
+      "name": "Level6_Letter3",
       "persistentUuid": "4f4fcd72-aeb7-4197-b747-77c5851bb711",
       "width": 0,
       "x": 3154,
@@ -174,7 +174,7 @@
       "depth": 0,
       "height": 90,
       "layer": "",
-      "name": "L6_WRD",
+      "name": "Level6_Word",
       "persistentUuid": "83b9a531-e5db-4d75-929b-a33fc89bc98e",
       "width": 125,
       "x": 3959,
@@ -195,7 +195,7 @@
       "depth": 0,
       "height": 90,
       "layer": "",
-      "name": "L6_WRD2",
+      "name": "Level6_Word2",
       "persistentUuid": "8dfe88cd-9285-407f-8b0d-8f5f56e23c3d",
       "width": 125,
       "x": 4132,
@@ -211,7 +211,7 @@
       "depth": 0,
       "height": 90,
       "layer": "",
-      "name": "L6_WRD3",
+      "name": "Level6_Word3",
       "persistentUuid": "7a719fac-f767-4421-9466-6524e6225d29",
       "width": 125,
       "x": 4311,
@@ -290,7 +290,7 @@
       "depth": 0,
       "height": 150,
       "layer": "",
-      "name": "L6_LTR4",
+      "name": "Level6_Letter4",
       "persistentUuid": "73b3cfff-369e-44ef-a66f-e8a06c0584d3",
       "width": 125,
       "x": 6034,
@@ -306,7 +306,7 @@
       "depth": 0,
       "height": 150,
       "layer": "",
-      "name": "L6_LTR5",
+      "name": "Level6_Letter5",
       "persistentUuid": "de80097d-e1c9-49ec-8f9a-e2f00597c1ee",
       "width": 125,
       "x": 6407,
@@ -322,7 +322,7 @@
       "depth": 0,
       "height": 150,
       "layer": "",
-      "name": "L6_LTR6",
+      "name": "Level6_Letter6",
       "persistentUuid": "43c8a16a-15bb-4276-8ec2-1c626dcd1feb",
       "width": 125,
       "x": 6775,
@@ -338,7 +338,7 @@
       "depth": 0,
       "height": 90,
       "layer": "",
-      "name": "L6_WRD4",
+      "name": "Level6_Word4",
       "persistentUuid": "ae81ec53-764d-4074-a90e-5f81b4c59646",
       "width": 125,
       "x": 7416,
@@ -354,7 +354,7 @@
       "depth": 0,
       "height": 90,
       "layer": "",
-      "name": "L6_WRD5",
+      "name": "Level6_Word5",
       "persistentUuid": "952f1af1-5213-4e5a-bfe5-963b70946761",
       "width": 125,
       "x": 7627,
@@ -370,7 +370,7 @@
       "depth": 0,
       "height": 90,
       "layer": "",
-      "name": "L6_WRD6",
+      "name": "Level6_Word6",
       "persistentUuid": "8407377f-4628-47f5-88bb-844f3776c4e0",
       "width": 125,
       "x": 7827,
@@ -449,7 +449,7 @@
       "depth": 0,
       "height": 150,
       "layer": "",
-      "name": "L6_LTR7",
+      "name": "Level6_Letter7",
       "persistentUuid": "6b6a31ed-9075-496b-b7c0-1996f5acddfb",
       "width": 125,
       "x": 9655,
@@ -465,7 +465,7 @@
       "depth": 0,
       "height": 150,
       "layer": "",
-      "name": "L6_LTR8",
+      "name": "Level6_Letter8",
       "persistentUuid": "78c36d75-cbc3-4e7a-92f7-08fde2246215",
       "width": 125,
       "x": 10046,
@@ -481,7 +481,7 @@
       "depth": 0,
       "height": 150,
       "layer": "",
-      "name": "L6_LTR9",
+      "name": "Level6_Letter9",
       "persistentUuid": "d04c0892-561f-4b6b-90aa-2178e19f0fb9",
       "width": 125,
       "x": 10372,
@@ -497,7 +497,7 @@
       "depth": 0,
       "height": 90,
       "layer": "",
-      "name": "L6_WRD7",
+      "name": "Level6_Word7",
       "persistentUuid": "8078464e-9351-4ba8-8f3c-aea1945f55d1",
       "width": 125,
       "x": 11142,
@@ -513,7 +513,7 @@
       "depth": 0,
       "height": 90,
       "layer": "",
-      "name": "L6_WRD8",
+      "name": "Level6_Word8",
       "persistentUuid": "2926e6e6-29ce-46d3-91c9-083e19b3380f",
       "width": 125,
       "x": 11394,
@@ -529,7 +529,7 @@
       "depth": 0,
       "height": 90,
       "layer": "",
-      "name": "L6_WRD9",
+      "name": "Level6_Word9",
       "persistentUuid": "4c3905df-b809-4aca-a280-fa1348238424",
       "width": 125,
       "x": 11669,
@@ -560,7 +560,7 @@
       "depth": 0,
       "height": 150,
       "layer": "",
-      "name": "L6_LTR10",
+      "name": "Level6_Letter10",
       "persistentUuid": "9bd87a15-303c-4ed4-975e-b48ed1eda2fb",
       "width": 125,
       "x": 13141,
@@ -576,7 +576,7 @@
       "depth": 0,
       "height": 150,
       "layer": "",
-      "name": "L6_LTR11",
+      "name": "Level6_Letter11",
       "persistentUuid": "ad46d69f-7a73-4f45-98db-e4d9517a79b2",
       "width": 125,
       "x": 13665,
@@ -592,7 +592,7 @@
       "depth": 0,
       "height": 150,
       "layer": "",
-      "name": "L6_LTR12",
+      "name": "Level6_Letter12",
       "persistentUuid": "52518346-df0f-430b-9afd-84dd5543ff55",
       "width": 125,
       "x": 14187,
@@ -608,7 +608,7 @@
       "depth": 0,
       "height": 90,
       "layer": "",
-      "name": "L6_WRD10",
+      "name": "Level6_Word10",
       "persistentUuid": "cdb6eff9-5a3e-4846-879d-ba7b5ae65f5e",
       "width": 125,
       "x": 15384,
@@ -624,7 +624,7 @@
       "depth": 0,
       "height": 90,
       "layer": "",
-      "name": "L6_WRD11",
+      "name": "Level6_Word11",
       "persistentUuid": "429666fa-29d9-49d9-bcf7-a50ac03752ee",
       "width": 125,
       "x": 15584,
@@ -640,7 +640,7 @@
       "depth": 0,
       "height": 90,
       "layer": "",
-      "name": "L6_WRD12",
+      "name": "Level6_Word12",
       "persistentUuid": "39280cb1-d855-4c10-986d-2e03c2a64c3a",
       "width": 125,
       "x": 15781,
@@ -671,7 +671,7 @@
       "depth": 0,
       "height": 150,
       "layer": "",
-      "name": "L6_LTR13",
+      "name": "Level6_Letter13",
       "persistentUuid": "a2095c26-2276-4c3a-80a0-eddf465f30a1",
       "width": 125,
       "x": 17070,
@@ -687,7 +687,7 @@
       "depth": 0,
       "height": 150,
       "layer": "",
-      "name": "L6_LTR14",
+      "name": "Level6_Letter14",
       "persistentUuid": "835ccd58-fd73-4b98-be8e-d3e75ca8f837",
       "width": 125,
       "x": 17536,
@@ -703,7 +703,7 @@
       "depth": 0,
       "height": 150,
       "layer": "",
-      "name": "L6_LTR15",
+      "name": "Level6_Letter15",
       "persistentUuid": "45795c2c-f7db-450d-8314-c33c45ed19d1",
       "width": 125,
       "x": 18020,
@@ -719,7 +719,7 @@
       "depth": 0,
       "height": 90,
       "layer": "",
-      "name": "L6_WRD13",
+      "name": "Level6_Word13",
       "persistentUuid": "2a013902-9eeb-401b-8abb-6567467a7708",
       "width": 125,
       "x": 19116,
@@ -735,7 +735,7 @@
       "depth": 0,
       "height": 90,
       "layer": "",
-      "name": "L6_WRD14",
+      "name": "Level6_Word14",
       "persistentUuid": "1e1ed9f1-4866-4786-ad8b-ab2b1dea65fe",
       "width": 125,
       "x": 19277,
@@ -751,7 +751,7 @@
       "depth": 0,
       "height": 90,
       "layer": "",
-      "name": "L6_WRD15",
+      "name": "Level6_Word15",
       "persistentUuid": "357335cd-5ede-455c-85a0-f0d30bb07e6f",
       "width": 125,
       "x": 19433,
@@ -782,7 +782,7 @@
       "depth": 0,
       "height": 150,
       "layer": "",
-      "name": "L6_LTR16",
+      "name": "Level6_Letter16",
       "persistentUuid": "f19299da-5fa2-417f-8eb4-c5f68856f37c",
       "width": 125,
       "x": 21376,
@@ -798,7 +798,7 @@
       "depth": 0,
       "height": 150,
       "layer": "",
-      "name": "L6_LTR17",
+      "name": "Level6_Letter17",
       "persistentUuid": "03232524-d417-42df-9e11-cfead9529735",
       "width": 125,
       "x": 21838,
@@ -814,7 +814,7 @@
       "depth": 0,
       "height": 150,
       "layer": "",
-      "name": "L6_LTR18",
+      "name": "Level6_Letter18",
       "persistentUuid": "a50ccead-9e2f-415e-9b0d-159f8c942ac3",
       "width": 125,
       "x": 22182,
@@ -830,7 +830,7 @@
       "depth": 0,
       "height": 90,
       "layer": "",
-      "name": "L6_WRD16",
+      "name": "Level6_Word16",
       "persistentUuid": "1da39b4d-d231-4b0c-8184-c37d697a4f33",
       "width": 125,
       "x": 23341,
@@ -846,7 +846,7 @@
       "depth": 0,
       "height": 90,
       "layer": "",
-      "name": "L6_WRD17",
+      "name": "Level6_Word17",
       "persistentUuid": "68c4af6d-65c7-48e8-9ea2-e7e980e7ce8e",
       "width": 125,
       "x": 23550,
@@ -862,7 +862,7 @@
       "depth": 0,
       "height": 90,
       "layer": "",
-      "name": "L6_WRD18",
+      "name": "Level6_Word18",
       "persistentUuid": "84b96229-0862-433f-8995-c23fba3d47cb",
       "width": 125,
       "x": 23742,
@@ -893,7 +893,7 @@
       "depth": 0,
       "height": 150,
       "layer": "",
-      "name": "L6_LTR19",
+      "name": "Level6_Letter19",
       "persistentUuid": "264c2a79-42a8-428d-a3bf-3c7c71371e9f",
       "width": 125,
       "x": 26326,
@@ -909,7 +909,7 @@
       "depth": 0,
       "height": 150,
       "layer": "",
-      "name": "L6_LTR20",
+      "name": "Level6_Letter20",
       "persistentUuid": "a41c53c6-d969-43f4-86a0-b81642b3394f",
       "width": 125,
       "x": 26853,
@@ -925,7 +925,7 @@
       "depth": 0,
       "height": 150,
       "layer": "",
-      "name": "L6_LTR21",
+      "name": "Level6_Letter21",
       "persistentUuid": "5b90c170-671d-4f6c-9de0-787a9b042bfd",
       "width": 125,
       "x": 27334,
@@ -941,7 +941,7 @@
       "depth": 0,
       "height": 90,
       "layer": "",
-      "name": "L6_WRD19",
+      "name": "Level6_Word19",
       "persistentUuid": "dff9f2b9-6494-4e5f-9790-6d9ad2cdfb25",
       "width": 125,
       "x": 28079,
@@ -962,7 +962,7 @@
       "depth": 0,
       "height": 90,
       "layer": "",
-      "name": "L6_WRD20",
+      "name": "Level6_Word20",
       "persistentUuid": "89884a99-ae6b-417d-8343-167559bfc83c",
       "width": 125,
       "x": 28284,
@@ -978,7 +978,7 @@
       "depth": 0,
       "height": 90,
       "layer": "",
-      "name": "L6_WRD21",
+      "name": "Level6_Word21",
       "persistentUuid": "87bbfef7-a461-42c1-99ab-e85020e57481",
       "width": 125,
       "x": 28524,
@@ -1009,7 +1009,7 @@
       "depth": 0,
       "height": 150,
       "layer": "",
-      "name": "L6_LTR22",
+      "name": "Level6_Letter22",
       "persistentUuid": "81c87e1b-4c3c-4c11-ac1c-b6161be5f2af",
       "width": 125,
       "x": 30080,
@@ -1025,7 +1025,7 @@
       "depth": 0,
       "height": 150,
       "layer": "",
-      "name": "L6_LTR23",
+      "name": "Level6_Letter23",
       "persistentUuid": "9941d634-9a7b-4866-b9d4-b0a3c86e2c7a",
       "width": 125,
       "x": 30421,
@@ -1067,7 +1067,7 @@
       "depth": 0,
       "height": 90,
       "layer": "",
-      "name": "L6_WRD22",
+      "name": "Level6_Word22",
       "persistentUuid": "fa6af5e5-e6bc-47d4-9060-2d3927c1376e",
       "width": 125,
       "x": 31618,
@@ -1083,7 +1083,7 @@
       "depth": 0,
       "height": 90,
       "layer": "",
-      "name": "L6_WRD23",
+      "name": "Level6_Word23",
       "persistentUuid": "0bf99832-8356-4287-96ed-e2fc23cc5adb",
       "width": 125,
       "x": 31830,
@@ -1099,7 +1099,7 @@
       "depth": 0,
       "height": 90,
       "layer": "",
-      "name": "L6_WRD24",
+      "name": "Level6_Word24",
       "persistentUuid": "1309a371-a248-4a13-94ac-86f2fa994fbe",
       "width": 125,
       "x": 32040,
@@ -1409,7 +1409,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_LTR",
+      "name": "Level6_Letter",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -3917,7 +3917,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_WRD",
+      "name": "Level6_Word",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -4697,7 +4697,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_LTR2",
+      "name": "Level6_Letter2",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -7205,7 +7205,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_LTR3",
+      "name": "Level6_Letter3",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -9713,7 +9713,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_WRD2",
+      "name": "Level6_Word2",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -10493,7 +10493,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_WRD3",
+      "name": "Level6_Word3",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -11273,7 +11273,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_WRD4",
+      "name": "Level6_Word4",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -12053,7 +12053,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_LTR4",
+      "name": "Level6_Letter4",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -14561,7 +14561,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_LTR5",
+      "name": "Level6_Letter5",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -17069,7 +17069,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_LTR6",
+      "name": "Level6_Letter6",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -19577,7 +19577,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_WRD5",
+      "name": "Level6_Word5",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -20357,7 +20357,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_WRD6",
+      "name": "Level6_Word6",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -21205,7 +21205,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_WRD7",
+      "name": "Level6_Word7",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -21985,7 +21985,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_LTR7",
+      "name": "Level6_Letter7",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -24493,7 +24493,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_LTR8",
+      "name": "Level6_Letter8",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -27001,7 +27001,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_LTR9",
+      "name": "Level6_Letter9",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -29509,7 +29509,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_WRD8",
+      "name": "Level6_Word8",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -30289,7 +30289,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_WRD9",
+      "name": "Level6_Word9",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -31137,7 +31137,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_WRD10",
+      "name": "Level6_Word10",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -31917,7 +31917,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_LTR10",
+      "name": "Level6_Letter10",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -34425,7 +34425,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_LTR11",
+      "name": "Level6_Letter11",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -36933,7 +36933,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_LTR12",
+      "name": "Level6_Letter12",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -39441,7 +39441,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_WRD11",
+      "name": "Level6_Word11",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -40221,7 +40221,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_WRD12",
+      "name": "Level6_Word12",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -41069,7 +41069,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_WRD13",
+      "name": "Level6_Word13",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -41849,7 +41849,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_LTR13",
+      "name": "Level6_Letter13",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -44357,7 +44357,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_WRD14",
+      "name": "Level6_Word14",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -45137,7 +45137,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_WRD15",
+      "name": "Level6_Word15",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -45917,7 +45917,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_LTR14",
+      "name": "Level6_Letter14",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -48425,7 +48425,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_LTR15",
+      "name": "Level6_Letter15",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -51001,7 +51001,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_WRD16",
+      "name": "Level6_Word16",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -51781,7 +51781,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_LTR16",
+      "name": "Level6_Letter16",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -54289,7 +54289,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_LTR17",
+      "name": "Level6_Letter17",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -56797,7 +56797,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_LTR18",
+      "name": "Level6_Letter18",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -59305,7 +59305,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_WRD17",
+      "name": "Level6_Word17",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -60085,7 +60085,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_WRD18",
+      "name": "Level6_Word18",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -60933,7 +60933,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_WRD19",
+      "name": "Level6_Word19",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -61713,7 +61713,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_LTR19",
+      "name": "Level6_Letter19",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -64221,7 +64221,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_WRD20",
+      "name": "Level6_Word20",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -65001,7 +65001,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_WRD21",
+      "name": "Level6_Word21",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -65781,7 +65781,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_LTR20",
+      "name": "Level6_Letter20",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -68289,7 +68289,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_LTR21",
+      "name": "Level6_Letter21",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -70865,7 +70865,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_WRD22",
+      "name": "Level6_Word22",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -71645,7 +71645,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_LTR22",
+      "name": "Level6_Letter22",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -74153,7 +74153,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_LTR23",
+      "name": "Level6_Letter23",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -79169,7 +79169,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_WRD23",
+      "name": "Level6_Word23",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -79949,7 +79949,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_WRD24",
+      "name": "Level6_Word24",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -80838,22 +80838,22 @@
         "folderName": "L6-CUP",
         "children": [
           {
-            "objectName": "L6_LTR3"
+            "objectName": "Level6_Letter3"
           },
           {
-            "objectName": "L6_LTR2"
+            "objectName": "Level6_Letter2"
           },
           {
-            "objectName": "L6_LTR"
+            "objectName": "Level6_Letter"
           },
           {
-            "objectName": "L6_WRD"
+            "objectName": "Level6_Word"
           },
           {
-            "objectName": "L6_WRD2"
+            "objectName": "Level6_Word2"
           },
           {
-            "objectName": "L6_WRD3"
+            "objectName": "Level6_Word3"
           }
         ]
       },
@@ -80861,22 +80861,22 @@
         "folderName": "L6-GUM",
         "children": [
           {
-            "objectName": "L6_LTR6"
+            "objectName": "Level6_Letter6"
           },
           {
-            "objectName": "L6_LTR5"
+            "objectName": "Level6_Letter5"
           },
           {
-            "objectName": "L6_LTR4"
+            "objectName": "Level6_Letter4"
           },
           {
-            "objectName": "L6_WRD6"
+            "objectName": "Level6_Word6"
           },
           {
-            "objectName": "L6_WRD5"
+            "objectName": "Level6_Word5"
           },
           {
-            "objectName": "L6_WRD4"
+            "objectName": "Level6_Word4"
           }
         ]
       },
@@ -80884,22 +80884,22 @@
         "folderName": "L6-HUT",
         "children": [
           {
-            "objectName": "L6_LTR9"
+            "objectName": "Level6_Letter9"
           },
           {
-            "objectName": "L6_LTR8"
+            "objectName": "Level6_Letter8"
           },
           {
-            "objectName": "L6_LTR7"
+            "objectName": "Level6_Letter7"
           },
           {
-            "objectName": "L6_WRD9"
+            "objectName": "Level6_Word9"
           },
           {
-            "objectName": "L6_WRD8"
+            "objectName": "Level6_Word8"
           },
           {
-            "objectName": "L6_WRD7"
+            "objectName": "Level6_Word7"
           }
         ]
       },
@@ -80907,22 +80907,22 @@
         "folderName": "L6-MUD",
         "children": [
           {
-            "objectName": "L6_LTR12"
+            "objectName": "Level6_Letter12"
           },
           {
-            "objectName": "L6_LTR11"
+            "objectName": "Level6_Letter11"
           },
           {
-            "objectName": "L6_LTR10"
+            "objectName": "Level6_Letter10"
           },
           {
-            "objectName": "L6_WRD12"
+            "objectName": "Level6_Word12"
           },
           {
-            "objectName": "L6_WRD11"
+            "objectName": "Level6_Word11"
           },
           {
-            "objectName": "L6_WRD10"
+            "objectName": "Level6_Word10"
           }
         ]
       },
@@ -80930,22 +80930,22 @@
         "folderName": "L6-NUT",
         "children": [
           {
-            "objectName": "L6_LTR15"
+            "objectName": "Level6_Letter15"
           },
           {
-            "objectName": "L6_LTR14"
+            "objectName": "Level6_Letter14"
           },
           {
-            "objectName": "L6_LTR13"
+            "objectName": "Level6_Letter13"
           },
           {
-            "objectName": "L6_WRD15"
+            "objectName": "Level6_Word15"
           },
           {
-            "objectName": "L6_WRD14"
+            "objectName": "Level6_Word14"
           },
           {
-            "objectName": "L6_WRD13"
+            "objectName": "Level6_Word13"
           }
         ]
       },
@@ -80953,22 +80953,22 @@
         "folderName": "L6-PUP",
         "children": [
           {
-            "objectName": "L6_LTR18"
+            "objectName": "Level6_Letter18"
           },
           {
-            "objectName": "L6_LTR17"
+            "objectName": "Level6_Letter17"
           },
           {
-            "objectName": "L6_LTR16"
+            "objectName": "Level6_Letter16"
           },
           {
-            "objectName": "L6_WRD18"
+            "objectName": "Level6_Word18"
           },
           {
-            "objectName": "L6_WRD17"
+            "objectName": "Level6_Word17"
           },
           {
-            "objectName": "L6_WRD16"
+            "objectName": "Level6_Word16"
           }
         ]
       },
@@ -80976,22 +80976,22 @@
         "folderName": "L6-SUN",
         "children": [
           {
-            "objectName": "L6_LTR21"
+            "objectName": "Level6_Letter21"
           },
           {
-            "objectName": "L6_LTR20"
+            "objectName": "Level6_Letter20"
           },
           {
-            "objectName": "L6_LTR19"
+            "objectName": "Level6_Letter19"
           },
           {
-            "objectName": "L6_WRD21"
+            "objectName": "Level6_Word21"
           },
           {
-            "objectName": "L6_WRD20"
+            "objectName": "Level6_Word20"
           },
           {
-            "objectName": "L6_WRD19"
+            "objectName": "Level6_Word19"
           }
         ]
       },
@@ -81002,19 +81002,19 @@
             "objectName": "L6_LTR24"
           },
           {
-            "objectName": "L6_LTR23"
+            "objectName": "Level6_Letter23"
           },
           {
-            "objectName": "L6_LTR22"
+            "objectName": "Level6_Letter22"
           },
           {
-            "objectName": "L6_WRD24"
+            "objectName": "Level6_Word24"
           },
           {
-            "objectName": "L6_WRD23"
+            "objectName": "Level6_Word23"
           },
           {
-            "objectName": "L6_WRD22"
+            "objectName": "Level6_Word22"
           }
         ]
       }
