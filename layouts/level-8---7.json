@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.5843784410740942,
+    "zoomFactor": 0.47893418845352564,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -76,11 +76,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR",
+      "name": "Level7_Letter",
       "persistentUuid": "e5afdefc-c8ca-4d46-9e69-b02d56a49cc9",
-      "width": 125,
+      "width": 160,
       "x": 2368,
       "y": 480,
       "zOrder": 4,
@@ -92,11 +92,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR2",
+      "name": "Level7_Letter2",
       "persistentUuid": "280f00ae-4f56-4aef-b296-ed6135fdc886",
-      "width": 125,
+      "width": 160,
       "x": 2952,
       "y": 480,
       "zOrder": 5,
@@ -108,11 +108,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR3",
+      "name": "Level7_Letter3",
       "persistentUuid": "23798285-a8a1-477e-a71e-29fdadd5a617",
-      "width": 125,
+      "width": 160,
       "x": 3535,
       "y": 480,
       "zOrder": 6,
@@ -124,11 +124,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR4",
+      "name": "Level7_Letter4",
       "persistentUuid": "09a111d1-76e6-4b36-862d-80d3139c843c",
-      "width": 125,
+      "width": 160,
       "x": 4134,
       "y": 480,
       "zOrder": 7,
@@ -187,11 +187,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR5",
+      "name": "Level7_Letter5",
       "persistentUuid": "9b6a7e8b-2968-4bc9-90d6-4a5a8a32b856",
-      "width": 125,
+      "width": 160,
       "x": 6937,
       "y": 77,
       "zOrder": 11,
@@ -203,11 +203,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR7",
+      "name": "Level7_Letter7",
       "persistentUuid": "253a06c2-3a09-4e40-a53d-2ca86d343984",
-      "width": 125,
+      "width": 160,
       "x": 7845,
       "y": 77,
       "zOrder": 13,
@@ -219,11 +219,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR8",
+      "name": "Level7_Letter8",
       "persistentUuid": "f7fc60ba-abbe-41f0-942b-b85846e28dad",
-      "width": 125,
+      "width": 160,
       "x": 8161,
       "y": 77,
       "zOrder": 14,
@@ -235,11 +235,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR6",
+      "name": "Level7_Letter6",
       "persistentUuid": "556a5a91-4257-4c68-953a-9029bed2224a",
-      "width": 125,
+      "width": 160,
       "x": 7348,
       "y": 77,
       "zOrder": 15,
@@ -298,11 +298,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR9",
+      "name": "Level7_Letter9",
       "persistentUuid": "4117a15f-cad5-4e4e-b6db-63d0716f619e",
-      "width": 125,
+      "width": 160,
       "x": 12067,
       "y": 480,
       "zOrder": 19,
@@ -314,11 +314,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR11",
+      "name": "Level7_Letter11",
       "persistentUuid": "514397cf-bf14-4728-ab82-67cc8d135540",
-      "width": 125,
+      "width": 160,
       "x": 13138,
       "y": 77,
       "zOrder": 21,
@@ -330,11 +330,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR12",
+      "name": "Level7_Letter12",
       "persistentUuid": "99054296-c1a6-458f-884f-5f9a3bcade75",
-      "width": 125,
+      "width": 160,
       "x": 13676,
       "y": 77,
       "zOrder": 22,
@@ -346,11 +346,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR10",
+      "name": "Level7_Letter10",
       "persistentUuid": "c2845c3e-0680-4f31-884c-a48fb5b0d8be",
-      "width": 125,
+      "width": 160,
       "x": 12674,
       "y": 480,
       "zOrder": 23,
@@ -409,11 +409,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR13",
+      "name": "Level7_Letter13",
       "persistentUuid": "395b679b-4895-4841-b308-af2f47059df2",
-      "width": 125,
+      "width": 160,
       "x": 17542,
       "y": 77,
       "zOrder": 27,
@@ -425,11 +425,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR14",
+      "name": "Level7_Letter14",
       "persistentUuid": "7b7b5099-7490-4897-862b-5a80b5b36860",
-      "width": 125,
+      "width": 160,
       "x": 18049,
       "y": 77,
       "zOrder": 28,
@@ -441,11 +441,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR15",
+      "name": "Level7_Letter15",
       "persistentUuid": "f2159956-2e51-4cdb-a7f2-55188af21232",
-      "width": 125,
+      "width": 160,
       "x": 18565,
       "y": 77,
       "zOrder": 29,
@@ -457,11 +457,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR16",
+      "name": "Level7_Letter16",
       "persistentUuid": "616ef690-6ae5-4c35-91b2-ea0263fe7ff9",
-      "width": 125,
+      "width": 160,
       "x": 19015,
       "y": 77,
       "zOrder": 30,
@@ -520,11 +520,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR17",
+      "name": "Level7_Letter17",
       "persistentUuid": "cd6bcc8a-7d4f-4577-b715-96819ea42da3",
-      "width": 125,
+      "width": 160,
       "x": 22558,
       "y": 77,
       "zOrder": 34,
@@ -536,11 +536,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR18",
+      "name": "Level7_Letter18",
       "persistentUuid": "03082e3a-e9c3-4e41-84ec-48fe7880534d",
-      "width": 125,
+      "width": 160,
       "x": 23028,
       "y": 480,
       "zOrder": 35,
@@ -557,11 +557,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR19",
+      "name": "Level7_Letter19",
       "persistentUuid": "1f7058d8-445b-4de8-bb49-0068a8bee803",
-      "width": 125,
+      "width": 160,
       "x": 23615,
       "y": 77,
       "zOrder": 36,
@@ -573,11 +573,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR20",
+      "name": "Level7_Letter20",
       "persistentUuid": "170b95c5-ddcf-42df-abf3-3b3b6ab3c30a",
-      "width": 125,
+      "width": 160,
       "x": 24150,
       "y": 480,
       "zOrder": 37,
@@ -636,11 +636,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR21",
+      "name": "Level7_Letter21",
       "persistentUuid": "c5d7b9a6-f611-4970-b60f-7b07b10919e9",
-      "width": 125,
+      "width": 160,
       "x": 27087,
       "y": 77,
       "zOrder": 41,
@@ -652,11 +652,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR22",
+      "name": "Level7_Letter22",
       "persistentUuid": "5ad80dee-cebf-476d-b0b8-30f06b08002d",
-      "width": 125,
+      "width": 160,
       "x": 27521,
       "y": 77,
       "zOrder": 42,
@@ -668,11 +668,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR23",
+      "name": "Level7_Letter23",
       "persistentUuid": "725bfd4a-c9d2-4092-a3d5-5001848847bd",
-      "width": 125,
+      "width": 160,
       "x": 27875,
       "y": 77,
       "zOrder": 43,
@@ -684,11 +684,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR24",
+      "name": "Level7_Letter24",
       "persistentUuid": "c50dec7b-1a2e-432f-b5ca-0a00797443b7",
-      "width": 125,
+      "width": 160,
       "x": 28217,
       "y": 77,
       "zOrder": 44,
@@ -747,11 +747,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR25",
+      "name": "Level7_Letter25",
       "persistentUuid": "95e80b19-264b-4fe3-92f8-82aa5d53f0e2",
-      "width": 125,
+      "width": 160,
       "x": 31321,
       "y": 480,
       "zOrder": 48,
@@ -763,11 +763,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR26",
+      "name": "Level7_Letter26",
       "persistentUuid": "a7613b63-8518-4669-aa0e-b367f31d24f5",
-      "width": 125,
+      "width": 160,
       "x": 31911,
       "y": 480,
       "zOrder": 49,
@@ -779,11 +779,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR27",
+      "name": "Level7_Letter27",
       "persistentUuid": "160fc9be-fd71-44f8-b2be-04212f23ac14",
-      "width": 125,
+      "width": 160,
       "x": 32377,
       "y": 480,
       "zOrder": 50,
@@ -795,11 +795,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR28",
+      "name": "Level7_Letter28",
       "persistentUuid": "7720920b-a6ae-43f0-9692-704c3adf9314",
-      "width": 125,
+      "width": 160,
       "x": 32774,
       "y": 480,
       "zOrder": 51,
@@ -858,11 +858,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR29",
+      "name": "Level7_Letter29",
       "persistentUuid": "9d09e36f-c031-473e-9c74-4b2780f9929e",
-      "width": 125,
+      "width": 160,
       "x": 35626,
       "y": 480,
       "zOrder": 55,
@@ -874,11 +874,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR30",
+      "name": "Level7_Letter30",
       "persistentUuid": "246ab539-3091-40f4-9507-316ee4006305",
-      "width": 125,
+      "width": 160,
       "x": 35987,
       "y": 480,
       "zOrder": 56,
@@ -890,11 +890,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR31",
+      "name": "Level7_Letter31",
       "persistentUuid": "10a5d6ab-54da-4c1f-90e6-df48070270e8",
-      "width": 125,
+      "width": 160,
       "x": 36360,
       "y": 480,
       "zOrder": 57,
@@ -906,11 +906,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 150,
+      "height": 225,
       "layer": "",
-      "name": "L8_LTR32",
+      "name": "Level7_Letter32",
       "persistentUuid": "3d6f54a9-1dba-4612-a8b6-6c8f03614fa3",
-      "width": 125,
+      "width": 160,
       "x": 36708,
       "y": 480,
       "zOrder": 58,
@@ -1049,7 +1049,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR",
+      "name": "Level7_Letter",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -4421,7 +4421,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR2",
+      "name": "Level7_Letter2",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -6929,7 +6929,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR3",
+      "name": "Level7_Letter3",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -10997,7 +10997,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR4",
+      "name": "Level7_Letter4",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -13505,7 +13505,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR5",
+      "name": "Level7_Letter5",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -16793,7 +16793,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR6",
+      "name": "Level7_Letter6",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -19301,7 +19301,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR7",
+      "name": "Level7_Letter7",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -21809,7 +21809,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR8",
+      "name": "Level7_Letter8",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -25165,7 +25165,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR9",
+      "name": "Level7_Letter9",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -28453,7 +28453,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR10",
+      "name": "Level7_Letter10",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -30961,7 +30961,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR11",
+      "name": "Level7_Letter11",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -33469,7 +33469,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR12",
+      "name": "Level7_Letter12",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -37605,7 +37605,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR13",
+      "name": "Level7_Letter13",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -40113,7 +40113,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR14",
+      "name": "Level7_Letter14",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -42621,7 +42621,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR15",
+      "name": "Level7_Letter15",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -45129,7 +45129,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR16",
+      "name": "Level7_Letter16",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -48485,7 +48485,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR17",
+      "name": "Level7_Letter17",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -51773,7 +51773,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR18",
+      "name": "Level7_Letter18",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -54281,7 +54281,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR19",
+      "name": "Level7_Letter19",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -56789,7 +56789,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR20",
+      "name": "Level7_Letter20",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -60145,7 +60145,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR21",
+      "name": "Level7_Letter21",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -63433,7 +63433,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR22",
+      "name": "Level7_Letter22",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -65941,7 +65941,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR23",
+      "name": "Level7_Letter23",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -68449,7 +68449,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR24",
+      "name": "Level7_Letter24",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -71805,7 +71805,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR25",
+      "name": "Level7_Letter25",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -75093,7 +75093,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR26",
+      "name": "Level7_Letter26",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -77601,7 +77601,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR27",
+      "name": "Level7_Letter27",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -80109,7 +80109,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR28",
+      "name": "Level7_Letter28",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -83465,7 +83465,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR29",
+      "name": "Level7_Letter29",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -86753,7 +86753,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR30",
+      "name": "Level7_Letter30",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -89261,7 +89261,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR31",
+      "name": "Level7_Letter31",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -91769,7 +91769,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L8_LTR32",
+      "name": "Level7_Letter32",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -94341,6 +94341,486 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "wave",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "wave.jpg",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 338,
+                        "y": 0
+                      },
+                      {
+                        "x": 338,
+                        "y": 338
+                      },
+                      {
+                        "x": 0,
+                        "y": 338
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "vase",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "vase.jpg",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 3333,
+                        "y": 0
+                      },
+                      {
+                        "x": 3333,
+                        "y": 3333
+                      },
+                      {
+                        "x": 0,
+                        "y": 3333
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "tape",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "tape.jpg",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 1920,
+                        "y": 0
+                      },
+                      {
+                        "x": 1920,
+                        "y": 1920
+                      },
+                      {
+                        "x": 0,
+                        "y": 1920
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "maze",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "maze.jpg",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 980,
+                        "y": 0
+                      },
+                      {
+                        "x": 980,
+                        "y": 980
+                      },
+                      {
+                        "x": 0,
+                        "y": 980
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "lake",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "lake.jpg",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 612,
+                        "y": 0
+                      },
+                      {
+                        "x": 612,
+                        "y": 413
+                      },
+                      {
+                        "x": 0,
+                        "y": 413
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "cane",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "cane.jpg",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 980,
+                        "y": 0
+                      },
+                      {
+                        "x": 980,
+                        "y": 980
+                      },
+                      {
+                        "x": 0,
+                        "y": 980
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "cake",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "cake.jpg",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 1920,
+                        "y": 0
+                      },
+                      {
+                        "x": 1920,
+                        "y": 1920
+                      },
+                      {
+                        "x": 0,
+                        "y": 1920
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "cage",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "cage.jpg",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 360,
+                        "y": 0
+                      },
+                      {
+                        "x": 360,
+                        "y": 360
+                      },
+                      {
+                        "x": 0,
+                        "y": 360
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -94389,16 +94869,16 @@
             "objectName": "L8_WRD2"
           },
           {
-            "objectName": "L8_LTR4"
+            "objectName": "Level7_Letter4"
           },
           {
-            "objectName": "L8_LTR3"
+            "objectName": "Level7_Letter3"
           },
           {
-            "objectName": "L8_LTR2"
+            "objectName": "Level7_Letter2"
           },
           {
-            "objectName": "L8_LTR"
+            "objectName": "Level7_Letter"
           }
         ]
       },
@@ -94406,16 +94886,16 @@
         "folderName": "L8-CAKE",
         "children": [
           {
-            "objectName": "L8_LTR8"
+            "objectName": "Level7_Letter8"
           },
           {
-            "objectName": "L8_LTR7"
+            "objectName": "Level7_Letter7"
           },
           {
-            "objectName": "L8_LTR6"
+            "objectName": "Level7_Letter6"
           },
           {
-            "objectName": "L8_LTR5"
+            "objectName": "Level7_Letter5"
           },
           {
             "objectName": "L8_WRD3"
@@ -94429,16 +94909,16 @@
         "folderName": "L8-CANE",
         "children": [
           {
-            "objectName": "L8_LTR12"
+            "objectName": "Level7_Letter12"
           },
           {
-            "objectName": "L8_LTR11"
+            "objectName": "Level7_Letter11"
           },
           {
-            "objectName": "L8_LTR10"
+            "objectName": "Level7_Letter10"
           },
           {
-            "objectName": "L8_LTR9"
+            "objectName": "Level7_Letter9"
           },
           {
             "objectName": "L8_WRD6"
@@ -94452,16 +94932,16 @@
         "folderName": "L8-LAKE",
         "children": [
           {
-            "objectName": "L8_LTR16"
+            "objectName": "Level7_Letter16"
           },
           {
-            "objectName": "L8_LTR15"
+            "objectName": "Level7_Letter15"
           },
           {
-            "objectName": "L8_LTR14"
+            "objectName": "Level7_Letter14"
           },
           {
-            "objectName": "L8_LTR13"
+            "objectName": "Level7_Letter13"
           },
           {
             "objectName": "L8_WRD8"
@@ -94475,16 +94955,16 @@
         "folderName": "L8-MAZE",
         "children": [
           {
-            "objectName": "L8_LTR20"
+            "objectName": "Level7_Letter20"
           },
           {
-            "objectName": "L8_LTR19"
+            "objectName": "Level7_Letter19"
           },
           {
-            "objectName": "L8_LTR18"
+            "objectName": "Level7_Letter18"
           },
           {
-            "objectName": "L8_LTR17"
+            "objectName": "Level7_Letter17"
           },
           {
             "objectName": "L8_WRD10"
@@ -94498,16 +94978,16 @@
         "folderName": "L8-TAPE",
         "children": [
           {
-            "objectName": "L8_LTR24"
+            "objectName": "Level7_Letter24"
           },
           {
-            "objectName": "L8_LTR23"
+            "objectName": "Level7_Letter23"
           },
           {
-            "objectName": "L8_LTR22"
+            "objectName": "Level7_Letter22"
           },
           {
-            "objectName": "L8_LTR21"
+            "objectName": "Level7_Letter21"
           },
           {
             "objectName": "L8_WRD12"
@@ -94521,16 +95001,16 @@
         "folderName": "L8-VASE",
         "children": [
           {
-            "objectName": "L8_LTR28"
+            "objectName": "Level7_Letter28"
           },
           {
-            "objectName": "L8_LTR27"
+            "objectName": "Level7_Letter27"
           },
           {
-            "objectName": "L8_LTR26"
+            "objectName": "Level7_Letter26"
           },
           {
-            "objectName": "L8_LTR25"
+            "objectName": "Level7_Letter25"
           },
           {
             "objectName": "L8_WRD14"
@@ -94544,16 +95024,16 @@
         "folderName": "L8-WAVE",
         "children": [
           {
-            "objectName": "L8_LTR32"
+            "objectName": "Level7_Letter32"
           },
           {
-            "objectName": "L8_LTR31"
+            "objectName": "Level7_Letter31"
           },
           {
-            "objectName": "L8_LTR30"
+            "objectName": "Level7_Letter30"
           },
           {
-            "objectName": "L8_LTR29"
+            "objectName": "Level7_Letter29"
           },
           {
             "objectName": "L8_WRD16"
@@ -94562,6 +95042,30 @@
             "objectName": "L8_WRD15"
           }
         ]
+      },
+      {
+        "objectName": "wave"
+      },
+      {
+        "objectName": "vase"
+      },
+      {
+        "objectName": "tape"
+      },
+      {
+        "objectName": "maze"
+      },
+      {
+        "objectName": "lake"
+      },
+      {
+        "objectName": "cane"
+      },
+      {
+        "objectName": "cake"
+      },
+      {
+        "objectName": "cage"
       }
     ]
   },
