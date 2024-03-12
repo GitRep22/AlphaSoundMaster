@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.24672586957406437,
+    "zoomFactor": 0.1770859527754404,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -181,7 +181,7 @@
       "persistentUuid": "83b9a531-e5db-4d75-929b-a33fc89bc98e",
       "width": 125,
       "x": 3959,
-      "y": 249,
+      "y": 252,
       "zOrder": 9,
       "numberProperties": [
         {
@@ -297,7 +297,7 @@
       "persistentUuid": "73b3cfff-369e-44ef-a66f-e8a06c0584d3",
       "width": 160,
       "x": 6034,
-      "y": 249,
+      "y": 253,
       "zOrder": 12,
       "numberProperties": [],
       "stringProperties": [],
@@ -379,21 +379,6 @@
       "x": 7827,
       "y": 249,
       "zOrder": 17,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Tower2",
-      "persistentUuid": "87870a9b-86c6-4483-aa5e-7e2015bf3a1c",
-      "width": 0,
-      "x": 8091,
-      "y": 109,
-      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -544,21 +529,6 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Tower3",
-      "persistentUuid": "70e1f8d4-5161-45bb-a546-7dfc81964f4e",
-      "width": 0,
-      "x": 11924,
-      "y": 111,
-      "zOrder": 2,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
       "customSize": true,
       "depth": 0,
       "height": 225,
@@ -655,21 +625,6 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Tower4",
-      "persistentUuid": "7a77d963-198b-4265-991d-3733af12c797",
-      "width": 0,
-      "x": 16105,
-      "y": 118,
-      "zOrder": 2,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
       "customSize": true,
       "depth": 0,
       "height": 225,
@@ -757,24 +712,9 @@
       "name": "Level6_Word15",
       "persistentUuid": "357335cd-5ede-455c-85a0-f0d30bb07e6f",
       "width": 125,
-      "x": 19433,
-      "y": 249,
+      "x": 19437,
+      "y": 253,
       "zOrder": 35,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Tower5",
-      "persistentUuid": "12469722-8095-4b8e-ab91-48ee8477305f",
-      "width": 0,
-      "x": 19937,
-      "y": 114,
-      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -877,21 +817,6 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Tower6",
-      "persistentUuid": "5008bd18-9874-4b58-bc95-c27da4c10443",
-      "width": 0,
-      "x": 24170,
-      "y": 125,
-      "zOrder": 2,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
       "customSize": true,
       "depth": 0,
       "height": 225,
@@ -987,21 +912,6 @@
       "x": 28524,
       "y": 249,
       "zOrder": 47,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Tower7",
-      "persistentUuid": "4dd0edbe-9cd2-4f6a-a765-06f6dd440a08",
-      "width": 0,
-      "x": 29044,
-      "y": 122,
-      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1114,21 +1024,6 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Tower8",
-      "persistentUuid": "419bb2e5-23db-46cc-9b3a-be3169808f6a",
-      "width": 0,
-      "x": 32375,
-      "y": 120,
-      "zOrder": 2,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
       "customSize": true,
       "depth": 32,
       "height": 90,
@@ -1234,6 +1129,111 @@
       "x": 359,
       "y": 157,
       "zOrder": 46,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Tower",
+      "persistentUuid": "841688b4-0043-45cb-ad13-8f3e774af8d4",
+      "width": 0,
+      "x": 8197,
+      "y": 122,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Tower",
+      "persistentUuid": "f03a84e5-f1b1-47c8-9805-b9f8f4e62135",
+      "width": 0,
+      "x": 11910,
+      "y": 108,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Tower",
+      "persistentUuid": "ee0546f7-e7d7-42b8-a152-e75f435d3051",
+      "width": 0,
+      "x": 16125,
+      "y": 119,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Tower",
+      "persistentUuid": "a5f200c6-300e-44ab-8542-6bd736a0b4f9",
+      "width": 0,
+      "x": 19948,
+      "y": 116,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Tower",
+      "persistentUuid": "775c8565-2c13-431e-a6f0-a0c4f455c129",
+      "width": 0,
+      "x": 24179,
+      "y": 116,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Tower",
+      "persistentUuid": "dcc9e63e-d389-4e52-aec1-c5541165de4f",
+      "width": 0,
+      "x": 29042,
+      "y": 110,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Tower",
+      "persistentUuid": "c2a63597-53df-42eb-b2f8-1fd709d782a0",
+      "width": 0,
+      "x": 32336,
+      "y": 116,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1357,7 +1357,15 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "canBeGrabbed": true,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ],
       "animations": [
         {
           "name": "",
@@ -2049,6 +2057,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -3981,6 +3990,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -6249,6 +6259,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -8517,6 +8528,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -9873,6 +9885,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -10749,6 +10762,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -12933,6 +12947,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -18285,11 +18300,12 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "let-m8.png",
+                  "image": "let-m2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -20709,6 +20725,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -22961,6 +22978,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -28601,6 +28619,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -31249,6 +31268,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -33181,11 +33201,12 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "let-m8.png",
+                  "image": "let-m3",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -37765,6 +37786,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -39457,6 +39479,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -41613,6 +41636,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -43209,6 +43233,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -44373,11 +44398,12 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "mud.png",
+                  "image": "mud",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -44421,6 +44447,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -45585,6 +45612,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -63361,6 +63389,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -64813,6 +64842,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -64909,6 +64939,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -65017,6 +65048,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -82323,7 +82355,7 @@
                 "Level6_letter",
                 "Animation",
                 "=",
-                "\"let-b\""
+                "\"let-c\""
               ]
             },
             {
@@ -82332,7 +82364,7 @@
               },
               "parameters": [
                 "",
-                "b.mp3",
+                "c.mp3",
                 "no",
                 "",
                 ""
@@ -82371,7 +82403,7 @@
                 "Level6_letter2",
                 "Animation",
                 "=",
-                "\"let-o\""
+                "\"let-u\""
               ]
             },
             {
@@ -82380,7 +82412,7 @@
               },
               "parameters": [
                 "",
-                "o.mp3",
+                "u.mp3",
                 "no",
                 "",
                 ""
@@ -82419,7 +82451,7 @@
                 "Level6_letter3",
                 "Animation",
                 "=",
-                "\"let-x\""
+                "\"let-p\""
               ]
             },
             {
@@ -82428,7 +82460,7 @@
               },
               "parameters": [
                 "",
-                "x.mp3",
+                "p.mp3",
                 "",
                 "",
                 ""
@@ -82467,7 +82499,7 @@
                 "Level6_Word",
                 "Animation",
                 "=",
-                "\"log - Copy\""
+                "\"cup - Copy\""
               ]
             },
             {
@@ -82476,7 +82508,7 @@
               },
               "parameters": [
                 "",
-                "wrong.wav",
+                "cup2.mp3",
                 "no",
                 "",
                 ""
@@ -82488,10 +82520,20 @@
               },
               "parameters": [
                 "",
-                "wrong",
+                "cup",
                 "Level6_Word.X() + 10",
-                "Level6_Word.Y() -70",
+                "Level6_Word.Y() -120",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "Tower",
+                "Platform",
+                "no"
               ]
             }
           ]
@@ -82596,7 +82638,7 @@
               },
               "parameters": [
                 "",
-                "box2.mp3",
+                "wrong.wav",
                 "no",
                 "",
                 ""
@@ -82608,20 +82650,10 @@
               },
               "parameters": [
                 "",
-                "box_1",
+                "wrong",
                 "Level6_Word3.X()",
-                "Level6_Word3.Y() -120",
+                "Level6_Word3.Y() -70",
                 ""
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "Tower",
-                "Platform",
-                "no"
               ]
             }
           ]
