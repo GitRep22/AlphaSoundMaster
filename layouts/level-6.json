@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.3797121001947977,
+    "zoomFactor": 0.2912258866911175,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -632,8 +632,8 @@
       "name": "Level6_letter13",
       "persistentUuid": "a2095c26-2276-4c3a-80a0-eddf465f30a1",
       "width": 160,
-      "x": 17070,
-      "y": 552,
+      "x": 16997,
+      "y": 34,
       "zOrder": 30,
       "numberProperties": [],
       "stringProperties": [],
@@ -648,8 +648,8 @@
       "name": "Level6_letter14",
       "persistentUuid": "835ccd58-fd73-4b98-be8e-d3e75ca8f837",
       "width": 160,
-      "x": 17536,
-      "y": 249,
+      "x": 17520,
+      "y": 35,
       "zOrder": 31,
       "numberProperties": [],
       "stringProperties": [],
@@ -664,8 +664,8 @@
       "name": "Level6_letter15",
       "persistentUuid": "45795c2c-f7db-450d-8314-c33c45ed19d1",
       "width": 160,
-      "x": 18020,
-      "y": 552,
+      "x": 17965,
+      "y": 34,
       "zOrder": 32,
       "numberProperties": [],
       "stringProperties": [],
@@ -728,8 +728,8 @@
       "name": "Level6_letter16",
       "persistentUuid": "f19299da-5fa2-417f-8eb4-c5f68856f37c",
       "width": 160,
-      "x": 21376,
-      "y": 249,
+      "x": 21270,
+      "y": 163,
       "zOrder": 36,
       "numberProperties": [],
       "stringProperties": [],
@@ -744,8 +744,8 @@
       "name": "Level6_letter17",
       "persistentUuid": "03232524-d417-42df-9e11-cfead9529735",
       "width": 160,
-      "x": 21838,
-      "y": 552,
+      "x": 21548,
+      "y": 163,
       "zOrder": 37,
       "numberProperties": [],
       "stringProperties": [],
@@ -760,8 +760,8 @@
       "name": "Level6_letter18",
       "persistentUuid": "a50ccead-9e2f-415e-9b0d-159f8c942ac3",
       "width": 160,
-      "x": 22182,
-      "y": 249,
+      "x": 21864,
+      "y": 163,
       "zOrder": 38,
       "numberProperties": [],
       "stringProperties": [],
@@ -824,8 +824,8 @@
       "name": "Level6_letter19",
       "persistentUuid": "264c2a79-42a8-428d-a3bf-3c7c71371e9f",
       "width": 160,
-      "x": 26326,
-      "y": 552,
+      "x": 25618,
+      "y": 176,
       "zOrder": 42,
       "numberProperties": [],
       "stringProperties": [],
@@ -840,8 +840,8 @@
       "name": "Level6_letter20",
       "persistentUuid": "a41c53c6-d969-43f4-86a0-b81642b3394f",
       "width": 160,
-      "x": 26853,
-      "y": 552,
+      "x": 26090,
+      "y": 170,
       "zOrder": 43,
       "numberProperties": [],
       "stringProperties": [],
@@ -856,8 +856,8 @@
       "name": "Level6_letter21",
       "persistentUuid": "5b90c170-671d-4f6c-9de0-787a9b042bfd",
       "width": 160,
-      "x": 27334,
-      "y": 552,
+      "x": 26505,
+      "y": 151,
       "zOrder": 44,
       "numberProperties": [],
       "stringProperties": [],
@@ -925,8 +925,8 @@
       "name": "Level6_letter22",
       "persistentUuid": "81c87e1b-4c3c-4c11-ac1c-b6161be5f2af",
       "width": 160,
-      "x": 30080,
-      "y": 249,
+      "x": 30356,
+      "y": 358,
       "zOrder": 48,
       "numberProperties": [],
       "stringProperties": [],
@@ -941,8 +941,8 @@
       "name": "Level6_letter23",
       "persistentUuid": "9941d634-9a7b-4866-b9d4-b0a3c86e2c7a",
       "width": 160,
-      "x": 30421,
-      "y": 249,
+      "x": 30635,
+      "y": 361,
       "zOrder": 49,
       "numberProperties": [
         {
@@ -962,8 +962,8 @@
       "name": "L6_LTR24",
       "persistentUuid": "3d344b4d-1784-4f3e-bd06-7ef895bf9cd6",
       "width": 160,
-      "x": 30785,
-      "y": 249,
+      "x": 30869,
+      "y": 365,
       "zOrder": 50,
       "numberProperties": [
         {
@@ -1126,8 +1126,8 @@
       "name": "turtle",
       "persistentUuid": "606a3529-00a5-4f31-9d87-4f27135087d3",
       "width": 230,
-      "x": 12607,
-      "y": 188,
+      "x": 29407,
+      "y": 56,
       "zOrder": 46,
       "numberProperties": [],
       "stringProperties": [],
@@ -1850,6 +1850,1346 @@
       "x": 15791,
       "y": 249,
       "zOrder": 60,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Platform4",
+      "persistentUuid": "72c0a3f3-e256-4e68-8c22-0fefdf569cfd",
+      "width": 0,
+      "x": 16660,
+      "y": 456,
+      "zOrder": 68,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 72,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "d2be1765-a1bc-4c2d-99d3-b64fd514ece6",
+      "width": 78,
+      "x": 17040,
+      "y": 110,
+      "zOrder": 69,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 72,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "5ef2018b-abb0-4512-b2d7-eacbe1d00243",
+      "width": 78,
+      "x": 17565,
+      "y": 107,
+      "zOrder": 69,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 72,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "1c780520-b61d-4ab8-987d-46eba7ca90e7",
+      "width": 78,
+      "x": 18009,
+      "y": 110,
+      "zOrder": 69,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 72,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "b2421c08-8915-4b78-93b0-92363285e8ac",
+      "width": 123,
+      "x": 19119,
+      "y": 258,
+      "zOrder": 69,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 72,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "fde65ef7-11af-4789-9348-29bd19ca62e9",
+      "width": 123,
+      "x": 19279,
+      "y": 256,
+      "zOrder": 69,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 72,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "f75b5b4e-1ae6-4f3f-ada4-5254e8b47c9d",
+      "width": 123,
+      "x": 19442,
+      "y": 261,
+      "zOrder": 69,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 111,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "a2524af3-27a6-402f-a8e5-2a21d77d8cb6",
+      "width": 107,
+      "x": 21187,
+      "y": 491,
+      "zOrder": 70,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 111,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "09c5caa8-1ab9-4d14-aa0c-dd06a9ba9f9d",
+      "width": 107,
+      "x": 21188,
+      "y": 377,
+      "zOrder": 70,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 111,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "7ffb523b-9995-4270-9a80-2f13a05becca",
+      "width": 107,
+      "x": 21187,
+      "y": 264,
+      "zOrder": 70,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 111,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "2a8dcb85-56fd-47e7-b75c-61cb9d9f6fcd",
+      "width": 107,
+      "x": 21431,
+      "y": 475,
+      "zOrder": 70,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 111,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "5731f551-bb31-4cce-9821-5217a7c9a7df",
+      "width": 107,
+      "x": 21760,
+      "y": 463,
+      "zOrder": 70,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 53,
+      "layer": "",
+      "name": "Platform5",
+      "persistentUuid": "742639e1-eb1e-4f84-add3-43c44e7f8b4b",
+      "width": 202,
+      "x": 20984,
+      "y": 521,
+      "zOrder": 71,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 72,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "93f14fac-9f4e-4a10-ad61-483f5e49acd1",
+      "width": 78,
+      "x": 21310,
+      "y": 244,
+      "zOrder": 69,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 72,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "c06efc13-e4dc-44ed-9973-f2e64ac10623",
+      "width": 78,
+      "x": 21587,
+      "y": 239,
+      "zOrder": 69,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 72,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "133b1adf-5288-4acf-b9a9-c7d475aa7af6",
+      "width": 78,
+      "x": 21906,
+      "y": 235,
+      "zOrder": 69,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 72,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "eb2d5122-9eb8-4420-9c72-5b6f25ec5b8c",
+      "width": 127,
+      "x": 23340,
+      "y": 257,
+      "zOrder": 69,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 72,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "311fc458-d9d3-42cc-b9b1-b91f0c6672f5",
+      "width": 127,
+      "x": 23552,
+      "y": 255,
+      "zOrder": 69,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 72,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "76619ef0-db8a-4307-82f3-e2149d1dc24a",
+      "width": 127,
+      "x": 23742,
+      "y": 252,
+      "zOrder": 69,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 84,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "6801b018-6491-4b77-bfd3-576319411e04",
+      "width": 81,
+      "x": 25028,
+      "y": 519,
+      "zOrder": 72,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 84,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "48df7308-b788-4f12-a34c-148585e2d505",
+      "width": 81,
+      "x": 25110,
+      "y": 519,
+      "zOrder": 72,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 84,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "2b52d644-72c8-4480-9644-d25c92d9db64",
+      "width": 81,
+      "x": 25110,
+      "y": 436,
+      "zOrder": 72,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 84,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "1b6890ba-f327-4b1a-a02e-a0cd475985a7",
+      "width": 81,
+      "x": 25190,
+      "y": 356,
+      "zOrder": 72,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 84,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "5c623d2c-ef66-4960-8f4f-6686c4d736b1",
+      "width": 81,
+      "x": 25190,
+      "y": 439,
+      "zOrder": 72,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 84,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "5dd4243f-fc0a-458d-9b41-8f846738f6d9",
+      "width": 81,
+      "x": 25190,
+      "y": 522,
+      "zOrder": 72,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Platform3",
+      "persistentUuid": "b3898b90-bd10-4a2a-a159-b3d232eae9ec",
+      "width": 0,
+      "x": 25585,
+      "y": 314,
+      "zOrder": 73,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 84,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "74c6d7c9-740e-45a0-a49f-d2c7c1d8fa74",
+      "width": 81,
+      "x": 25272,
+      "y": 524,
+      "zOrder": 72,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 84,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "2efc90f5-f00a-4ba8-9763-6a65409c0bb3",
+      "width": 81,
+      "x": 25356,
+      "y": 524,
+      "zOrder": 72,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 84,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "715f8219-9e75-4385-aec0-8b0655ed1a23",
+      "width": 81,
+      "x": 25272,
+      "y": 440,
+      "zOrder": 72,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Platform3",
+      "persistentUuid": "df72049d-a8a3-4447-a49b-69ee73bc8a27",
+      "width": 0,
+      "x": 26050,
+      "y": 305,
+      "zOrder": 73,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Platform3",
+      "persistentUuid": "560eefe9-5f0b-4af6-baad-ec7aee27860a",
+      "width": 0,
+      "x": 26464,
+      "y": 287,
+      "zOrder": 73,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 72,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "1b42e366-1dc2-4e13-a3b2-09c95566227b",
+      "width": 78,
+      "x": 25657,
+      "y": 250,
+      "zOrder": 69,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 72,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "a816c4a3-94db-4501-a88a-ee55707c3012",
+      "width": 78,
+      "x": 26131,
+      "y": 243,
+      "zOrder": 69,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 72,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "bb17be27-3140-4c7f-940d-369ad911f515",
+      "width": 78,
+      "x": 26544,
+      "y": 227,
+      "zOrder": 69,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 72,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "bdf4c85e-3e80-448d-9f83-96a9c7aa7f11",
+      "width": 125,
+      "x": 28081,
+      "y": 256,
+      "zOrder": 69,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 72,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "d009f415-cac9-41ee-b6b1-b4ca5addf0ed",
+      "width": 125,
+      "x": 28285,
+      "y": 256,
+      "zOrder": 69,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 72,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "35adb759-d20a-407f-9df7-066766d85a2e",
+      "width": 125,
+      "x": 28526,
+      "y": 256,
+      "zOrder": 69,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "1ee75f48-d427-4b42-a365-2b5af1116366",
+      "width": 88,
+      "x": 30017,
+      "y": 506,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "57d34dd0-6eed-4ed2-9379-1d916439c4a8",
+      "width": 88,
+      "x": 30106,
+      "y": 506,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "cb5173ae-9961-4042-b17b-af9a20214817",
+      "width": 88,
+      "x": 30193,
+      "y": 508,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "ccccb1ed-8b33-41b6-8aa7-a67788fb7d51",
+      "width": 88,
+      "x": 30282,
+      "y": 506,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "89f5c833-22a6-4946-8e23-902836a5c2c9",
+      "width": 88,
+      "x": 30371,
+      "y": 508,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "a465922d-31a1-47f5-a534-da2748a04831",
+      "width": 88,
+      "x": 30460,
+      "y": 509,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "0785ce7a-fab1-4493-a0f1-22063fbe21f4",
+      "width": 88,
+      "x": 30546,
+      "y": 509,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "574e1cac-09c3-4067-ace2-df81495bf258",
+      "width": 88,
+      "x": 30635,
+      "y": 511,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "1526f2fe-24d2-4146-b8c0-eaf8ec57bc2f",
+      "width": 88,
+      "x": 30017,
+      "y": 413,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "28beb275-16b4-478b-9e45-e74aec94ef28",
+      "width": 88,
+      "x": 30104,
+      "y": 413,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "8d97b4a5-876a-4bce-bea5-a30e01e7c84f",
+      "width": 88,
+      "x": 30103,
+      "y": 323,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "904b7630-15ff-46f1-b52a-4864b34aa0d8",
+      "width": 88,
+      "x": 30193,
+      "y": 418,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "dc62f62f-4414-4501-999e-83688d55c2e4",
+      "width": 88,
+      "x": 30192,
+      "y": 328,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "1ea5f5e7-8a59-4014-8b50-98383c82c130",
+      "width": 88,
+      "x": 30191,
+      "y": 238,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "e54284df-4457-409b-9b04-6a97ead36c87",
+      "width": 88,
+      "x": 30281,
+      "y": 413,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "a34a03f0-dada-440e-b767-ddc388c359c9",
+      "width": 88,
+      "x": 30289,
+      "y": 413,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "fffa78ce-33aa-42ef-a0d5-393f6eeeb999",
+      "width": 88,
+      "x": 30724,
+      "y": 511,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "e95910cc-347b-41be-b7db-d11d165646da",
+      "width": 88,
+      "x": 30813,
+      "y": 514,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "03b6c1d1-83cc-4906-ac52-021be62ab986",
+      "width": 88,
+      "x": 30898,
+      "y": 514,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "3e954b3b-60d8-4dfb-b8aa-c882ab1d5888",
+      "width": 88,
+      "x": 30985,
+      "y": 514,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "26537dcf-0169-422a-b6c1-7d40fdd51ddc",
+      "width": 88,
+      "x": 31157,
+      "y": 512,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "35648279-77f4-479b-b493-4f0f44207fdf",
+      "width": 88,
+      "x": 31071,
+      "y": 513,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "layer": "",
+      "name": "WallBrickFlat2",
+      "persistentUuid": "7c850a54-356c-4b3c-8fc7-0b21b67ca3fd",
+      "width": 90,
+      "x": 30371,
+      "y": 49,
+      "zOrder": 75,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 93,
+      "layer": "",
+      "name": "WallBrickFlat2",
+      "persistentUuid": "7d68109f-1684-42b5-b295-1c23422b6c89",
+      "width": 90,
+      "x": 30371,
+      "y": 236,
+      "zOrder": 75,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 93,
+      "layer": "",
+      "name": "WallBrickFlat3",
+      "persistentUuid": "51941bf9-5efb-4683-b56f-0412554e227f",
+      "width": 87,
+      "x": 31250,
+      "y": 141,
+      "zOrder": 76,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 72,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "fafe67f5-cb44-44d5-8553-3de9ee737b2e",
+      "width": 78,
+      "x": 30396,
+      "y": 432,
+      "zOrder": 69,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 72,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "2afacb04-621c-4242-9a3c-69cc69d16a4c",
+      "width": 78,
+      "x": 30677,
+      "y": 435,
+      "zOrder": 69,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 72,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "d5b32dca-60e6-4667-a7b4-739527d83f98",
+      "width": 126,
+      "x": 31618,
+      "y": 255,
+      "zOrder": 69,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 72,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "815514e9-a670-4e37-87cc-eae5a37cfdc4",
+      "width": 126,
+      "x": 31832,
+      "y": 256,
+      "zOrder": 69,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 72,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "0b4ff5d3-0a1d-4d55-89e8-7654fac125ba",
+      "width": 126,
+      "x": 32040,
+      "y": 257,
+      "zOrder": 69,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "cea1b80b-2f0e-4989-98a2-0a88a35db43e",
+      "width": 88,
+      "x": 30283,
+      "y": 324,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "6b761197-7c40-477b-bd83-8282ca084427",
+      "width": 88,
+      "x": 29929,
+      "y": 500,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "58fa3f63-c5e5-4203-a8b7-b2712516caf7",
+      "width": 88,
+      "x": 29929,
+      "y": 411,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "cecdbff7-e118-40d9-8c41-39babfa9d5eb",
+      "width": 88,
+      "x": 30012,
+      "y": 319,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "e47e0a38-0e54-4d95-9703-b49b572a30c9",
+      "width": 88,
+      "x": 30103,
+      "y": 232,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "4bac05b1-9b61-4954-86a2-cc831b4c9e63",
+      "width": 88,
+      "x": 30190,
+      "y": 146,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 91,
+      "layer": "",
+      "name": "WallBrickFlat",
+      "persistentUuid": "8774ee0d-e778-47e3-ba1f-9bf043b78c5a",
+      "width": 88,
+      "x": 29840,
+      "y": 501,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 225,
+      "layer": "",
+      "name": "Level6_letter24",
+      "persistentUuid": "6e76f54c-9aae-44b1-96c9-355a1ca17503",
+      "width": 160,
+      "x": 30880,
+      "y": 366,
+      "zOrder": 77,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 72,
+      "layer": "",
+      "name": "Sample_letter",
+      "persistentUuid": "897b861a-b077-4735-afed-89c83069dcbe",
+      "width": 78,
+      "x": 30920,
+      "y": 442,
+      "zOrder": 78,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 106,
+      "layer": "",
+      "name": "Cloud1",
+      "persistentUuid": "e78101fe-0779-41ee-8843-0560ecbb6b18",
+      "width": 214,
+      "x": 38713,
+      "y": 18,
+      "zOrder": 80,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 95,
+      "layer": "",
+      "name": "GreyPlayer",
+      "persistentUuid": "d3eaffa4-ad42-4ae5-ac59-aeb3e6e423ba",
+      "width": 120,
+      "x": -764,
+      "y": 56,
+      "zOrder": 81,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 56,
+      "layer": "",
+      "name": "Cloud2",
+      "persistentUuid": "5012d541-7a5f-46a3-b2f2-195e70d5c405",
+      "width": 89,
+      "x": 31480,
+      "y": 69,
+      "zOrder": 82,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 56,
+      "layer": "",
+      "name": "Cloud2",
+      "persistentUuid": "4f74b36c-0d51-4f2d-a7fc-1308a2e6de3b",
+      "width": 89,
+      "x": 31727,
+      "y": 65,
+      "zOrder": 82,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 71,
+      "layer": "",
+      "name": "Mushroom",
+      "persistentUuid": "f74b72a7-8913-478d-b0e8-41992d9cc89e",
+      "width": 58,
+      "x": 32380,
+      "y": 45,
+      "zOrder": 83,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 550,
+      "layer": "",
+      "name": "door1",
+      "persistentUuid": "6a67090f-f0a0-492f-900f-ef0dc35f1d81",
+      "width": 397,
+      "x": 34101,
+      "y": 51,
+      "zOrder": 84,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 594,
+      "layer": "",
+      "name": "LongRectangleWood",
+      "persistentUuid": "cbd68b62-d04e-450f-aabc-fa7d1256d208",
+      "width": 80,
+      "x": 34501,
+      "y": 3,
+      "zOrder": 85,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 594,
+      "layer": "",
+      "name": "LongRectangleWood",
+      "persistentUuid": "87cedc47-f5f9-4940-9b50-eb4f506dbe57",
+      "width": 80,
+      "x": -83,
+      "y": 28,
+      "zOrder": 85,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -65659,6 +66999,54 @@
       "behaviors": [],
       "animations": [
         {
+          "name": "sun",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "sun.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 13
+                      },
+                      {
+                        "x": 293,
+                        "y": 13
+                      },
+                      {
+                        "x": 293,
+                        "y": 187
+                      },
+                      {
+                        "x": 10,
+                        "y": 187
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "mud",
           "useMultipleDirections": false,
           "directions": [
@@ -66246,54 +67634,6 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "sun - Copy.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 10,
-                        "y": 13
-                      },
-                      {
-                        "x": 293,
-                        "y": 13
-                      },
-                      {
-                        "x": 293,
-                        "y": 187
-                      },
-                      {
-                        "x": 10,
-                        "y": 187
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "sun",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "sun.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -77312,7 +78652,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "L6_LTR24",
+      "name": "Level6_letter24",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -78141,6 +79481,7 @@
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -82019,6 +83360,1289 @@
           "yGrabOffset": 0
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "730fb3bc38d4d602234dc715aa67399c0afb5d8c20ea53fd7ebee81496c6f262",
+      "name": "Platform4",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Platform 3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 232,
+                        "y": 0
+                      },
+                      {
+                        "x": 232,
+                        "y": 98
+                      },
+                      {
+                        "x": 0,
+                        "y": 98
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "3cc817a8e0bf681542500da784bfe78049866b3db3379875d4af5091faba93e5",
+      "name": "WallBrickFlat",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "canBeGrabbed": true,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "Wall Brick Flat",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Wall Brick Flat.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "730fb3bc38d4d602234dc715aa67399c0afb5d8c20ea53fd7ebee81496c6f262",
+      "name": "Platform5",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Platform 3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 232,
+                        "y": 0
+                      },
+                      {
+                        "x": 232,
+                        "y": 98
+                      },
+                      {
+                        "x": 0,
+                        "y": 98
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "3cc817a8e0bf681542500da784bfe78049866b3db3379875d4af5091faba93e5",
+      "name": "WallBrickFlat2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "Wall Brick Flat",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Wall Brick Flat.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "3cc817a8e0bf681542500da784bfe78049866b3db3379875d4af5091faba93e5",
+      "name": "WallBrickFlat3",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "Wall Brick Flat",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Wall Brick Flat.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "e33941951a5104fa7e71d2913ab3de46ff86c7f6ca89062d9b5677fa33b61d89",
+      "name": "Cloud1",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "cloud 8",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "cloud 8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 500,
+                        "y": 0
+                      },
+                      {
+                        "x": 500,
+                        "y": 292
+                      },
+                      {
+                        "x": 0,
+                        "y": 292
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "cd19da4d434ae8fcc7f625a6fb4cb7f82f877ee8b2e1099917f8d4ebab17dfb0",
+      "name": "GreyPlayer",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "swim",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Grey player_swim_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 48
+                      },
+                      {
+                        "x": 10,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Grey player_swim_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 48
+                      },
+                      {
+                        "x": 10,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "stand",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Grey player_stand.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 48
+                      },
+                      {
+                        "x": 10,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "walk",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Grey player_walk_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 48
+                      },
+                      {
+                        "x": 10,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Grey player_walk_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 48
+                      },
+                      {
+                        "x": 10,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Grey player_walk_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 48
+                      },
+                      {
+                        "x": 10,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Grey player_walk_4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 48
+                      },
+                      {
+                        "x": 10,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Grey player_walk_5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 48
+                      },
+                      {
+                        "x": 10,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "duck",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Grey player_duck.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 48
+                      },
+                      {
+                        "x": 10,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "fall",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Grey player_fall.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 48
+                      },
+                      {
+                        "x": 10,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "hit",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Grey player_hit.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 48
+                      },
+                      {
+                        "x": 10,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "dead",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Grey player_dead.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 48
+                      },
+                      {
+                        "x": 10,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "roll",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Grey player_roll.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 48
+                      },
+                      {
+                        "x": 10,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "switch",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Grey player_switch_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 48
+                      },
+                      {
+                        "x": 10,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Grey player_switch_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 48
+                      },
+                      {
+                        "x": 10,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "up",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Grey player_up_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 48
+                      },
+                      {
+                        "x": 10,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Grey player_up_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 48
+                      },
+                      {
+                        "x": 10,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Grey player_up_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 7
+                      },
+                      {
+                        "x": 52,
+                        "y": 48
+                      },
+                      {
+                        "x": 10,
+                        "y": 48
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "e33941951a5104fa7e71d2913ab3de46ff86c7f6ca89062d9b5677fa33b61d89",
+      "name": "Cloud2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "canBeGrabbed": true,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "cloud 8",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "cloud 8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 500,
+                        "y": 0
+                      },
+                      {
+                        "x": 500,
+                        "y": 292
+                      },
+                      {
+                        "x": 0,
+                        "y": 292
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -82228,7 +84852,7 @@
         "folderName": "L6-TUB",
         "children": [
           {
-            "objectName": "L6_LTR24"
+            "objectName": "Level6_letter24"
           },
           {
             "objectName": "Level6_letter23"
@@ -82273,6 +84897,30 @@
       },
       {
         "objectName": "Platform3"
+      },
+      {
+        "objectName": "Platform4"
+      },
+      {
+        "objectName": "Platform5"
+      },
+      {
+        "objectName": "WallBrickFlat"
+      },
+      {
+        "objectName": "WallBrickFlat2"
+      },
+      {
+        "objectName": "WallBrickFlat3"
+      },
+      {
+        "objectName": "Cloud1"
+      },
+      {
+        "objectName": "Cloud2"
+      },
+      {
+        "objectName": "GreyPlayer"
       }
     ]
   },
@@ -84560,7 +87208,7 @@
                 "Level6_letter13",
                 "Animation",
                 "=",
-                "\"let-m\""
+                "\"let-n\""
               ]
             },
             {
@@ -84569,7 +87217,7 @@
               },
               "parameters": [
                 "",
-                "m.mp3",
+                "n.mp3",
                 "no",
                 "",
                 ""
@@ -84608,7 +87256,7 @@
                 "Level6_letter14",
                 "Animation",
                 "=",
-                "\"let-o\""
+                "\"let-u\""
               ]
             },
             {
@@ -84617,7 +87265,7 @@
               },
               "parameters": [
                 "",
-                "o.mp3",
+                "u.mp3",
                 "no",
                 "",
                 ""
@@ -84656,7 +87304,7 @@
                 "Level6_letter15",
                 "Animation",
                 "=",
-                "\"let-p\""
+                "\"let-t\""
               ]
             },
             {
@@ -84665,7 +87313,7 @@
               },
               "parameters": [
                 "",
-                "p.mp3",
+                "t.mp3",
                 "no",
                 "",
                 ""
@@ -84704,7 +87352,7 @@
                 "Level6_Word13",
                 "Animation",
                 "=",
-                "\"pot - Copy\""
+                "\"pup - Copy\""
               ]
             },
             {
@@ -84764,7 +87412,7 @@
                 "Level6_Word14",
                 "Animation",
                 "=",
-                "\"fox - Copy\""
+                "\"mud - Copy\""
               ]
             },
             {
@@ -84824,7 +87472,7 @@
                 "Level6_Word15",
                 "Animation",
                 "=",
-                "\"mop - Copy\""
+                "\"nut - Copy\""
               ]
             },
             {
@@ -84833,7 +87481,7 @@
               },
               "parameters": [
                 "",
-                "mop_1",
+                "nut",
                 "Level6_Word15.X()",
                 "Level6_Word15.Y() -150",
                 ""
@@ -84845,7 +87493,7 @@
               },
               "parameters": [
                 "",
-                "mop2.mp3",
+                "nut2.mp3",
                 "no",
                 "",
                 ""
@@ -84873,7 +87521,7 @@
               "parameters": [
                 "turtle",
                 ">",
-                "18470"
+                "19998"
               ]
             },
             {
@@ -84975,7 +87623,7 @@
                 "Level6_letter17",
                 "Animation",
                 "=",
-                "\"let-o\""
+                "\"let-u\""
               ]
             },
             {
@@ -84984,7 +87632,7 @@
               },
               "parameters": [
                 "",
-                "o.mp3",
+                "u.mp3",
                 "no",
                 "",
                 ""
@@ -85023,7 +87671,7 @@
                 "Level6_letter18",
                 "Animation",
                 "=",
-                "\"let-t\""
+                "\"let-p\""
               ]
             },
             {
@@ -85032,7 +87680,7 @@
               },
               "parameters": [
                 "",
-                "t.mp3",
+                "p.mp3",
                 "no",
                 "",
                 ""
@@ -85071,7 +87719,7 @@
                 "Level6_Word16",
                 "Animation",
                 "=",
-                "\"pot - Copy\""
+                "\"pup - Copy\""
               ]
             },
             {
@@ -85080,7 +87728,7 @@
               },
               "parameters": [
                 "",
-                "pot2.mp3",
+                "pup2.mp3",
                 "no",
                 "",
                 ""
@@ -85092,7 +87740,7 @@
               },
               "parameters": [
                 "",
-                "pot_1",
+                "pup",
                 "Level6_Word16.X()",
                 "Level6_Word16.Y() -120",
                 ""
@@ -85141,7 +87789,7 @@
                 "Level6_Word17",
                 "Animation",
                 "=",
-                "\"mop - Copy\""
+                "\"gum - Copy\""
               ]
             },
             {
@@ -85201,7 +87849,7 @@
                 "Level6_Word18",
                 "Animation",
                 "=",
-                "\"fox - Copy\""
+                "\"nut - Copy\""
               ]
             },
             {
@@ -85240,7 +87888,7 @@
               "parameters": [
                 "turtle",
                 ">",
-                "21750"
+                "24250"
               ]
             },
             {
@@ -85299,7 +87947,7 @@
                 "Level6_letter19",
                 "Animation",
                 "=",
-                "\"let-t\""
+                "\"let-s\""
               ]
             },
             {
@@ -85308,7 +87956,7 @@
               },
               "parameters": [
                 "",
-                "t.mp3",
+                "s.mp3",
                 "no",
                 "",
                 ""
@@ -85347,7 +87995,7 @@
                 "Level6_letter20",
                 "Animation",
                 "=",
-                "\"let-o\""
+                "\"let-u\""
               ]
             },
             {
@@ -85356,7 +88004,7 @@
               },
               "parameters": [
                 "",
-                "o.mp3",
+                "u.mp3",
                 "no",
                 "",
                 ""
@@ -85395,7 +88043,7 @@
                 "Level6_letter21",
                 "Animation",
                 "=",
-                "\"let-m\""
+                "\"let-n\""
               ]
             },
             {
@@ -85443,7 +88091,7 @@
                 "Level6_Word19",
                 "Animation",
                 "=",
-                "\"fox - Copy\""
+                "\"cup - Copy\""
               ]
             },
             {
@@ -85503,7 +88151,7 @@
                 "Level6_Word20",
                 "Animation",
                 "=",
-                "\"box - Copy\""
+                "\"nut - Copy\""
               ]
             },
             {
@@ -85563,7 +88211,7 @@
                 "Level6_Word21",
                 "Animation",
                 "=",
-                "\"tom - Copy\""
+                "\"sun - Copy\""
               ]
             },
             {
@@ -85572,7 +88220,7 @@
               },
               "parameters": [
                 "",
-                "tom_1",
+                "sun",
                 "Level6_Word21.X()",
                 "Level6_Word21.Y() -130",
                 ""
@@ -85584,7 +88232,7 @@
               },
               "parameters": [
                 "",
-                "tom2.mp3",
+                "sun2.mp3",
                 "no",
                 "",
                 ""
@@ -85612,7 +88260,7 @@
               "parameters": [
                 "turtle",
                 ">",
-                "24690"
+                "29100"
               ]
             },
             {
@@ -85719,7 +88367,7 @@
                 "Level6_letter23",
                 "Animation",
                 "=",
-                "\"let-o\""
+                "\"let-u\""
               ]
             },
             {
@@ -85728,7 +88376,7 @@
               },
               "parameters": [
                 "",
-                "o.mp3",
+                "u.mp3",
                 "no",
                 "",
                 ""
@@ -85767,7 +88415,7 @@
                 "Level6_letter24",
                 "Animation",
                 "=",
-                "\"let-p\""
+                "\"let-b\""
               ]
             },
             {
@@ -85776,7 +88424,7 @@
               },
               "parameters": [
                 "",
-                "p.mp3",
+                "b.mp3",
                 "no",
                 "",
                 ""
@@ -85815,7 +88463,7 @@
                 "Level6_Word22",
                 "Animation",
                 "=",
-                "\"top - Copy\""
+                "\"nut - Copy\""
               ]
             },
             {
@@ -85824,7 +88472,7 @@
               },
               "parameters": [
                 "",
-                "top2.mp3",
+                "wrong.wav",
                 "no",
                 "",
                 ""
@@ -85836,9 +88484,9 @@
               },
               "parameters": [
                 "",
-                "top_1",
+                "wrong",
                 "Level6_Word22.X()",
-                "Level6_Word22.Y() - 130",
+                "Level6_Word23.Y() - 70",
                 ""
               ]
             },
@@ -85885,7 +88533,7 @@
                 "Level6_Word23",
                 "Animation",
                 "=",
-                "\"mop - Copy\""
+                "\"tub - Copy\""
               ]
             },
             {
@@ -85894,7 +88542,7 @@
               },
               "parameters": [
                 "",
-                "wrong.wav",
+                "tub2.mp3",
                 "no",
                 "",
                 ""
@@ -85906,9 +88554,9 @@
               },
               "parameters": [
                 "",
-                "wrong",
+                "tub",
                 "Level6_Word23.X()",
-                "Level6_Word23.Y() - 70",
+                "Level6_Word22.Y() - 110",
                 ""
               ]
             }
@@ -85945,7 +88593,7 @@
                 "Level6_Word24",
                 "Animation",
                 "=",
-                "\"tom - Copy\""
+                "\"mud - Copy\""
               ]
             },
             {
@@ -85984,7 +88632,7 @@
               "parameters": [
                 "turtle",
                 ">",
-                "27950"
+                "32386"
               ]
             },
             {
@@ -86009,6 +88657,1383 @@
         }
       ],
       "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "elevate1",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "Platform4",
+                "Tween",
+                "\"elevate\"",
+                "18257",
+                "\"linear\"",
+                "5",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "Platform4",
+                "Tween",
+                "\"elevate\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "Platform4",
+                "Tween",
+                "\"elevate2\"",
+                "16660",
+                "\"linear\"",
+                "5",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "Platform4",
+                "Tween",
+                "\"elevate\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "Platform4",
+                "Tween",
+                "\"elevate2\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "Platform4",
+                "Tween",
+                "\"elevate\"",
+                "18257",
+                "\"linear\"",
+                "5",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "Platform4",
+                "Tween",
+                "\"elevate2\""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "elevate2",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "Platform5",
+                "Tween",
+                "\"elevate\"",
+                "265",
+                "\"linear\"",
+                "2.5",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "Platform5",
+                "Tween",
+                "\"elevate\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "Platform5",
+                "Tween",
+                "\"elevate2\"",
+                "521",
+                "\"linear\"",
+                "2.5",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "Platform5",
+                "Tween",
+                "\"elevate\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "Platform5",
+                "Tween",
+                "\"elevate2\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "Platform5",
+                "Tween",
+                "\"elevate2\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "Platform5",
+                "Tween",
+                "\"elevate\"",
+                "265",
+                "\"linear\"",
+                "2.5",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "elevate3",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "WallBrickFlat2",
+                "Tween",
+                "\"elevate\"",
+                "31250",
+                "\"linear\"",
+                "2.5",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "WallBrickFlat2",
+                "Tween",
+                "\"elevate\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "WallBrickFlat2",
+                "Tween",
+                "\"elevate2\"",
+                "30371",
+                "\"linear\"",
+                "2.5",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "WallBrickFlat2",
+                "Tween",
+                "\"elevate\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "WallBrickFlat2",
+                "Tween",
+                "\"elevate2\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "WallBrickFlat2",
+                "Tween",
+                "\"elevate\"",
+                "31250",
+                "\"linear\"",
+                "2.5",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "WallBrickFlat2",
+                "Tween",
+                "\"elevate2\""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "elevate3",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "WallBrickFlat3",
+                "Tween",
+                "\"elevate\"",
+                "30371",
+                "\"linear\"",
+                "2.5",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "WallBrickFlat3",
+                "Tween",
+                "\"elevate\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "WallBrickFlat3",
+                "Tween",
+                "\"elevate2\"",
+                "31250",
+                "\"linear\"",
+                "2.5",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "WallBrickFlat3",
+                "Tween",
+                "\"elevate\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "WallBrickFlat3",
+                "Tween",
+                "\"elevate2\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "WallBrickFlat3",
+                "Tween",
+                "\"elevate\"",
+                "30371",
+                "\"linear\"",
+                "2.5",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "WallBrickFlat3",
+                "Tween",
+                "\"elevate2\""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "easter eggs",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "Mushroom",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "StopMusicCanal"
+              },
+              "parameters": [
+                "",
+                "6"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Mushroom",
+                "Animation",
+                "=",
+                "\"Hit\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Mushroom",
+                "Mushroom"
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "FASTER2019-01-02_-_8_Bit_Menu_-_David_Renda_-_FesliyanStudios.com.mp3",
+                "4",
+                "yes",
+                "30",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "Cloud1",
+                "Tween",
+                "\"elevate\"",
+                "-769",
+                "\"linear\"",
+                "120 + 60 * Random(3)",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "Cloud1",
+                "Flippable",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "Cloud1",
+                "Tween",
+                "\"elevate\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "Cloud1",
+                "Tween",
+                "\"elevate2\"",
+                "38742",
+                "\"linear\"",
+                "120 + 60 * Random(3)",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "Cloud1",
+                "Tween",
+                "\"elevate\""
+              ]
+            },
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "Cloud1",
+                "Flippable",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "Cloud1",
+                "Tween",
+                "\"elevate2\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "Cloud1",
+                "Tween",
+                "\"elevate\"",
+                "-769",
+                "\"linear\"",
+                "120 + 60 * Random(3)",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "Cloud1",
+                "Tween",
+                "\"elevate2\""
+              ]
+            },
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "Cloud1",
+                "Flippable",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "GreyPlayer",
+                "Tween",
+                "\"elevate\"",
+                "38742",
+                "\"linear\"",
+                "120 + 60 * Random(3)",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "GreyPlayer",
+                "Flippable",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "GreyPlayer",
+                "Tween",
+                "\"elevate\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "GreyPlayer",
+                "Tween",
+                "\"elevate2\"",
+                "-769",
+                "\"linear\"",
+                "120 + 60 * Random(3)",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "GreyPlayer",
+                "Tween",
+                "\"elevate\""
+              ]
+            },
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "GreyPlayer",
+                "Flippable",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "GreyPlayer",
+                "Tween",
+                "\"elevate2\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "GreyPlayer",
+                "Tween",
+                "\"elevate\"",
+                "38742",
+                "\"linear\"",
+                "120 + 60 * Random(3)",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "GreyPlayer",
+                "Tween",
+                "\"elevate2\""
+              ]
+            },
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "GreyPlayer",
+                "Flippable",
+                "yes"
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "arrowKeys and door",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "door1",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Level 7\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "ArrowKey",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "turtle",
+                "=",
+                "1780",
+                "=",
+                "400"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "ArrowKey2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "turtle",
+                "=",
+                "4807",
+                "=",
+                "300"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "ArrowKey3",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "turtle",
+                "=",
+                "8200",
+                "=",
+                "400"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "ArrowKey4",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "turtle",
+                "=",
+                "12100",
+                "=",
+                "400"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "ArrowKey5",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "turtle",
+                "=",
+                "16300",
+                "=",
+                "400"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "ArrowKey6",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "turtle",
+                "=",
+                "19100",
+                "=",
+                "400"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "ArrowKey7",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "turtle",
+                "=",
+                "22065",
+                "=",
+                "400"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "turtle",
+                "ArrowKey8",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "turtle",
+                "=",
+                "25100",
+                "=",
+                "400"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+              },
+              "parameters": [
+                "turtle",
+                "PlatformerObject",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "LongRectangleWood2",
+                "Platform",
+                "no"
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
     }
   ],
   "layers": [
