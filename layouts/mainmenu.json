@@ -3446,7 +3446,35 @@
                     "value": "SourisSurObjet"
                   },
                   "parameters": [
-                    "Level_2",
+                    "L1_back",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Initial_Screen\"",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "Button_2",
                     "",
                     "",
                     ""
@@ -3465,24 +3493,7 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "MouseButtonReleased"
-              },
-              "parameters": [
-                "",
-                "Left"
-              ]
-            }
-          ],
-          "actions": [],
-          "events": [
+            },
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
@@ -3491,7 +3502,7 @@
                     "value": "SourisSurObjet"
                   },
                   "parameters": [
-                    "Level_3",
+                    "Button_3",
                     "",
                     "",
                     ""
@@ -3506,34 +3517,6 @@
                   "parameters": [
                     "",
                     "\"Level 3\"",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "SourisSurObjet"
-                  },
-                  "parameters": [
-                    "L1_back",
-                    "",
-                    "",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Scene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Initial_Screen\"",
                     ""
                   ]
                 }
