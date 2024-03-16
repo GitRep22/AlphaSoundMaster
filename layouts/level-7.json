@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.41943397827590695,
+    "zoomFactor": 0.3216911764705893,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -95165,7 +95165,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Essentials",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
