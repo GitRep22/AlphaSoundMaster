@@ -91656,6 +91656,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "letters and Words",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
