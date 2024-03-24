@@ -28,36 +28,6 @@
       "name": "Score",
       "type": "number",
       "value": 0
-    },
-    {
-      "folded": true,
-      "name": "pet1",
-      "type": "string",
-      "value": ""
-    },
-    {
-      "folded": true,
-      "name": "pet2",
-      "type": "string",
-      "value": ""
-    },
-    {
-      "folded": true,
-      "name": "pet3",
-      "type": "string",
-      "value": ""
-    },
-    {
-      "folded": true,
-      "name": "pet4",
-      "type": "string",
-      "value": ""
-    },
-    {
-      "folded": true,
-      "name": "pet5",
-      "type": "string",
-      "value": ""
     }
   ],
   "instances": [
@@ -134,6 +104,21 @@
       "x": 512,
       "y": 416,
       "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "High_Score",
+      "persistentUuid": "84d50d31-b951-418a-afb7-35fa0f1eb590",
+      "width": 0,
+      "x": 512,
+      "y": 360,
+      "zOrder": 7,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -845,327 +830,8 @@
             "",
             "\"Level 10\""
           ]
-        },
-        {
-          "type": {
-            "value": "LireFichierExp"
-          },
-          "parameters": [
-            "\"pet1\"",
-            "\"pet1\"",
-            "",
-            "pet1"
-          ]
-        },
-        {
-          "type": {
-            "value": "LireFichierExp"
-          },
-          "parameters": [
-            "\"pet2\"",
-            "\"pet2\"",
-            "",
-            "pet2"
-          ]
-        },
-        {
-          "type": {
-            "value": "LireFichierExp"
-          },
-          "parameters": [
-            "\"pet3\"",
-            "\"pet3\"",
-            "",
-            "pet3"
-          ]
-        },
-        {
-          "type": {
-            "value": "LireFichierExp"
-          },
-          "parameters": [
-            "\"pet4\"",
-            "\"pet4\"",
-            "",
-            "pet4"
-          ]
-        },
-        {
-          "type": {
-            "value": "LireFichierExp"
-          },
-          "parameters": [
-            "\"pet5\"",
-            "\"pet5\"",
-            "",
-            "pet5"
-          ]
         }
       ]
-    },
-    {
-      "colorB": 228,
-      "colorG": 176,
-      "colorR": 74,
-      "creationTime": 0,
-      "name": "settingPetStates",
-      "source": "",
-      "type": "BuiltinCommonInstructions::Group",
-      "events": [
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SceneVariableAsBoolean"
-              },
-              "parameters": [
-                "pet1",
-                "True"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetGlobalVariableAsBoolean"
-              },
-              "parameters": [
-                "pet1",
-                "True",
-                "",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SceneVariableAsBoolean"
-              },
-              "parameters": [
-                "pet2",
-                "True"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetGlobalVariableAsBoolean"
-              },
-              "parameters": [
-                "pet2",
-                "True"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SceneVariableAsBoolean"
-              },
-              "parameters": [
-                "pet3",
-                "True"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetGlobalVariableAsBoolean"
-              },
-              "parameters": [
-                "pet3",
-                "True"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SceneVariableAsBoolean"
-              },
-              "parameters": [
-                "pet4",
-                "True"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetGlobalVariableAsBoolean"
-              },
-              "parameters": [
-                "pet4",
-                "True"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SceneVariableAsBoolean"
-              },
-              "parameters": [
-                "pet5",
-                "True"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetGlobalVariableAsBoolean"
-              },
-              "parameters": [
-                "pet5",
-                "True"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SceneVariableAsBoolean"
-              },
-              "parameters": [
-                "pet1",
-                "False"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetGlobalVariableAsBoolean"
-              },
-              "parameters": [
-                "pet1",
-                "False"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SceneVariableAsBoolean"
-              },
-              "parameters": [
-                "pet2",
-                "False"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetGlobalVariableAsBoolean"
-              },
-              "parameters": [
-                "pet2",
-                "False"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SceneVariableAsBoolean"
-              },
-              "parameters": [
-                "pet3",
-                "False"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetGlobalVariableAsBoolean"
-              },
-              "parameters": [
-                "pet3",
-                "False"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SceneVariableAsBoolean"
-              },
-              "parameters": [
-                "pet4",
-                "False"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetGlobalVariableAsBoolean"
-              },
-              "parameters": [
-                "pet4",
-                "False"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SceneVariableAsBoolean"
-              },
-              "parameters": [
-                "pet5",
-                "False"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetGlobalVariableAsBoolean"
-              },
-              "parameters": [
-                "pet5",
-                "False"
-              ]
-            }
-          ]
-        }
-      ],
-      "parameters": []
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
@@ -1420,6 +1086,11 @@
           ]
         }
       ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
     }
   ],
   "layers": [

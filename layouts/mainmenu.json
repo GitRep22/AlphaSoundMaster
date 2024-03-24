@@ -3491,7 +3491,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Switch to level",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
