@@ -162,13 +162,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 28,
-      "height": 62,
+      "height": 60,
       "layer": "",
       "name": "L1_back",
       "persistentUuid": "ddedcac8-ceb6-42ed-b8cb-cf60b45bad76",
-      "width": 149,
-      "x": 1104,
-      "y": 38,
+      "width": 103,
+      "x": 1147,
+      "y": 13,
       "zOrder": 7,
       "numberProperties": [],
       "stringProperties": [],
@@ -2461,6 +2461,46 @@
   },
   "events": [
     {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "SetFullScreen"
+          },
+          "parameters": [
+            "",
+            "yes",
+            "yes"
+          ]
+        },
+        {
+          "type": {
+            "value": "TiledSpriteObject::XOffset"
+          },
+          "parameters": [
+            "BackgroundColoredGrass",
+            "+",
+            "100*TimeDelta()"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
+    },
+    {
       "colorB": 228,
       "colorG": 176,
       "colorR": 74,
@@ -2480,6 +2520,14 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "selectChichi"
+              ]
+            },
             {
               "type": {
                 "value": "Cache"
@@ -2603,6 +2651,18 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "remove the dummy condition to reset pet unlock"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -5188,11 +5248,6 @@
           ]
         }
       ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": []
     }
   ],
   "layers": [

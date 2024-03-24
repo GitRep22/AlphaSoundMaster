@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.5290357402156839,
+    "zoomFactor": 0.23089183385224898,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -65,13 +65,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 722,
+      "height": 928,
       "layer": "",
       "name": "BackgroundColoredGrass",
       "persistentUuid": "2c0daf6f-dfce-418e-89f9-80c4e909fdf5",
-      "width": 1280,
-      "x": 0,
-      "y": 0,
+      "width": 2976,
+      "x": -128,
+      "y": -64,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -726,7 +726,7 @@
           "parameters": [
             "",
             "yes",
-            ""
+            "yes"
           ]
         },
         {
@@ -899,6 +899,16 @@
             "\"pet5\"",
             "",
             "pet5"
+          ]
+        },
+        {
+          "type": {
+            "value": "TiledSpriteObject::XOffset"
+          },
+          "parameters": [
+            "BackgroundColoredGrass",
+            "+",
+            "100*TimeDelta()"
           ]
         }
       ]
@@ -1241,125 +1251,108 @@
       "conditions": [
         {
           "type": {
-            "value": "MouseButtonReleased"
+            "value": "SourisSurObjet"
           },
           "parameters": [
+            "Play_button",
             "",
-            "Left"
+            "",
+            ""
           ]
         }
       ],
-      "actions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"MainMenu\"",
+            ""
+          ]
+        }
+      ],
       "events": [
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
-                "value": "SourisSurObjet"
+                "value": "BuiltinCommonInstructions::Once"
               },
-              "parameters": [
-                "Play_button",
-                "",
-                "",
-                ""
-              ]
+              "parameters": []
             }
           ],
           "actions": [
             {
               "type": {
-                "value": "Scene"
+                "value": "PlayMusic"
               },
               "parameters": [
                 "",
-                "\"MainMenu\"",
-                ""
-              ]
-            }
-          ],
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "PlayMusic"
-                  },
-                  "parameters": [
-                    "",
-                    "751052bbd3de6938713ebbe8782cc3f6feba91f9e3caf27272335ac4e549c0cd_Complete_02.aac",
-                    "no",
-                    "30",
-                    "1"
-                  ]
-                }
+                "751052bbd3de6938713ebbe8782cc3f6feba91f9e3caf27272335ac4e549c0cd_Complete_02.aac",
+                "no",
+                "30",
+                "1"
               ]
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "SourisSurObjet"
+          },
+          "parameters": [
+            "Letter_button",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"Alphabet\"",
+            ""
+          ]
+        }
+      ],
+      "events": [
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
-                "value": "SourisSurObjet"
+                "value": "MouseButtonReleased"
               },
               "parameters": [
-                "Letter_button",
                 "",
-                "",
-                ""
+                "Left"
               ]
             }
           ],
           "actions": [
             {
               "type": {
-                "value": "Scene"
+                "value": "PlayMusic"
               },
               "parameters": [
                 "",
-                "\"Alphabet\"",
-                ""
-              ]
-            }
-          ],
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "MouseButtonReleased"
-                  },
-                  "parameters": [
-                    "",
-                    "Left"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "PlayMusic"
-                  },
-                  "parameters": [
-                    "",
-                    "751052bbd3de6938713ebbe8782cc3f6feba91f9e3caf27272335ac4e549c0cd_Complete_02.aac",
-                    "no",
-                    "30",
-                    "1"
-                  ]
-                }
+                "751052bbd3de6938713ebbe8782cc3f6feba91f9e3caf27272335ac4e549c0cd_Complete_02.aac",
+                "no",
+                "30",
+                "1"
               ]
             }
           ]
