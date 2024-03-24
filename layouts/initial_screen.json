@@ -883,10 +883,10 @@
             "value": "LireFichierExp"
           },
           "parameters": [
-            "\n\"High Score\"",
-            "\"1\"",
+            "\n\"coins\"",
+            "\"coins\"",
             "",
-            "Score"
+            "coins"
           ]
         },
         {
@@ -897,7 +897,7 @@
             "High_Score",
             "Text",
             "=",
-            "\"High Score: \" + ToString(Variable(Score))"
+            "\"Coins: \" + ToString(Variable(coins))"
           ]
         }
       ]

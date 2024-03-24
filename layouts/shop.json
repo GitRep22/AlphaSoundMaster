@@ -18,11 +18,48 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.7619362677197604,
+    "zoomFactor": 0.43357743047023817,
     "windowMask": false
   },
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "folded": true,
+      "name": "coins",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "folded": true,
+      "name": "pet1_unlock",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "folded": true,
+      "name": "pet2_unlock",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "folded": true,
+      "name": "pet3_unlock",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "folded": true,
+      "name": "pet4_unlock",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "folded": true,
+      "name": "pet5_unlock",
+      "type": "string",
+      "value": ""
+    }
+  ],
   "instances": [
     {
       "angle": 0,
@@ -312,42 +349,12 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "CoinGold",
-      "persistentUuid": "0f1c2caa-93d2-4607-94d8-58dc13663659",
-      "width": 0,
-      "x": 308,
-      "y": 460,
-      "zOrder": 18,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
       "name": "gold2",
       "persistentUuid": "50c4059f-b5cf-47fa-b3ab-6c70aae1a810",
       "width": 0,
       "x": 374,
       "y": 470,
       "zOrder": 20,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "CoinGold",
-      "persistentUuid": "4b68db7e-bd86-4cdc-9838-05924fa10146",
-      "width": 0,
-      "x": 526,
-      "y": 460,
-      "zOrder": 18,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -387,21 +394,6 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "CoinGold",
-      "persistentUuid": "e1046042-d85e-4213-9508-0eb214909fc2",
-      "width": 0,
-      "x": 777,
-      "y": 460,
-      "zOrder": 18,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
       "name": "gold5",
       "persistentUuid": "6e6ac39a-d7f7-4ba1-809a-f68688e9081c",
       "width": 0,
@@ -417,42 +409,12 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "CoinGold",
-      "persistentUuid": "4ee4c17d-892b-42ac-8214-3340b6303cf9",
-      "width": 0,
-      "x": 1003,
-      "y": 460,
-      "zOrder": 18,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
       "name": "DisplayCoin",
       "persistentUuid": "e571242b-a34f-49d3-b8b9-454d2ab915c6",
       "width": 0,
       "x": 17,
       "y": 31,
       "zOrder": 24,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "name": "Score",
-      "persistentUuid": "b325b917-0bfd-4ff6-b63f-ca05aed8efb0",
-      "width": 0,
-      "x": 85,
-      "y": 13,
-      "zOrder": 25,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -487,563 +449,84 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Coins",
+      "persistentUuid": "5a1f2e8d-b7ef-4440-89b8-0e3b7c62f608",
+      "width": 0,
+      "x": 85,
+      "y": 13,
+      "zOrder": 27,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "CoinGold2",
+      "persistentUuid": "0834b765-f0fb-43da-9046-09fedb086891",
+      "width": 0,
+      "x": 308,
+      "y": 460,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "CoinGold3",
+      "persistentUuid": "da55c482-6eaf-424e-9d6f-886987d317b2",
+      "width": 0,
+      "x": 526,
+      "y": 460,
+      "zOrder": 29,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "CoinGold4",
+      "persistentUuid": "417b6598-e91b-44ca-b4d2-95a114acace5",
+      "width": 0,
+      "x": 777,
+      "y": 460,
+      "zOrder": 30,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "CoinGold5",
+      "persistentUuid": "7bc8e7e9-7e0b-45e0-86b7-4b067bc900b4",
+      "width": 0,
+      "x": 1003,
+      "y": 460,
+      "zOrder": 31,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "blubird",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "44B",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": true,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "44B19",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 40,
-                        "y": 41
-                      },
-                      {
-                        "x": 259,
-                        "y": 41
-                      },
-                      {
-                        "x": 259,
-                        "y": 235
-                      },
-                      {
-                        "x": 40,
-                        "y": 235
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "44B20",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 40,
-                        "y": 41
-                      },
-                      {
-                        "x": 259,
-                        "y": 41
-                      },
-                      {
-                        "x": 259,
-                        "y": 235
-                      },
-                      {
-                        "x": 40,
-                        "y": 235
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "44B21",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 40,
-                        "y": 41
-                      },
-                      {
-                        "x": 259,
-                        "y": 41
-                      },
-                      {
-                        "x": 259,
-                        "y": 235
-                      },
-                      {
-                        "x": 40,
-                        "y": 235
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "44B22",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 40,
-                        "y": 41
-                      },
-                      {
-                        "x": 259,
-                        "y": 41
-                      },
-                      {
-                        "x": 259,
-                        "y": 235
-                      },
-                      {
-                        "x": 40,
-                        "y": 235
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "44B23",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 40,
-                        "y": 41
-                      },
-                      {
-                        "x": 259,
-                        "y": 41
-                      },
-                      {
-                        "x": 259,
-                        "y": 235
-                      },
-                      {
-                        "x": 40,
-                        "y": 235
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "44B24",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 40,
-                        "y": 41
-                      },
-                      {
-                        "x": 259,
-                        "y": 41
-                      },
-                      {
-                        "x": 259,
-                        "y": 235
-                      },
-                      {
-                        "x": 40,
-                        "y": 235
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "44B25",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 40,
-                        "y": 41
-                      },
-                      {
-                        "x": 259,
-                        "y": 41
-                      },
-                      {
-                        "x": 259,
-                        "y": 235
-                      },
-                      {
-                        "x": 40,
-                        "y": 235
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "44B26",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 40,
-                        "y": 41
-                      },
-                      {
-                        "x": 259,
-                        "y": 41
-                      },
-                      {
-                        "x": 259,
-                        "y": 235
-                      },
-                      {
-                        "x": 40,
-                        "y": 235
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "DRAGII",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "d9",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": true,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.18,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "d19",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 12,
-                        "y": 16
-                      },
-                      {
-                        "x": 113,
-                        "y": 16
-                      },
-                      {
-                        "x": 113,
-                        "y": 80
-                      },
-                      {
-                        "x": 12,
-                        "y": 80
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "d20",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 12,
-                        "y": 16
-                      },
-                      {
-                        "x": 113,
-                        "y": 16
-                      },
-                      {
-                        "x": 113,
-                        "y": 80
-                      },
-                      {
-                        "x": 12,
-                        "y": 80
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "d18",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 12,
-                        "y": 16
-                      },
-                      {
-                        "x": 113,
-                        "y": 16
-                      },
-                      {
-                        "x": 113,
-                        "y": 80
-                      },
-                      {
-                        "x": 12,
-                        "y": 80
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "d19",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 12,
-                        "y": 16
-                      },
-                      {
-                        "x": 113,
-                        "y": 16
-                      },
-                      {
-                        "x": 113,
-                        "y": 80
-                      },
-                      {
-                        "x": 12,
-                        "y": 80
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "d20",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 12,
-                        "y": 16
-                      },
-                      {
-                        "x": 113,
-                        "y": 16
-                      },
-                      {
-                        "x": 113,
-                        "y": 80
-                      },
-                      {
-                        "x": 12,
-                        "y": 80
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "d18",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 12,
-                        "y": 16
-                      },
-                      {
-                        "x": 113,
-                        "y": 16
-                      },
-                      {
-                        "x": 113,
-                        "y": 80
-                      },
-                      {
-                        "x": 12,
-                        "y": 80
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
     {
       "assetStoreId": "b44dba91245ff1ac84a7b450e078194f19321d135fd8a67cd19bc9cb3403fba5",
       "name": "Buy_ChiChi",
@@ -1915,12 +1398,6 @@
     "folderName": "__ROOT",
     "children": [
       {
-        "objectName": "blubird"
-      },
-      {
-        "objectName": "DRAGII"
-      },
-      {
         "objectName": "Buy_ChiChi"
       },
       {
@@ -1970,7 +1447,1402 @@
       }
     ]
   },
-  "events": [],
+  "events": [
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Pet1",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "LireFichierExp"
+              },
+              "parameters": [
+                "\"pet1_unlock\"",
+                "\"pet1_unlock\"",
+                "",
+                "pet1_unlock"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Buy_ChiChi",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SceneVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "pet1_unlock",
+                    "False"
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "VarScene"
+                      },
+                      "parameters": [
+                        "coins",
+                        ">",
+                        "50"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "LireFichierExp"
+                      },
+                      "parameters": [
+                        "\"coins\"",
+                        "\"coins\"",
+                        "",
+                        "coins"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ModVarScene"
+                      },
+                      "parameters": [
+                        "coins",
+                        "-",
+                        "50"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetSceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "pet1_unlock",
+                        "True"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "EcrireFichierExp"
+                      },
+                      "parameters": [
+                        "\"coins\"",
+                        "\"coins\"",
+                        "coins"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "EcrireFichierExp"
+                      },
+                      "parameters": [
+                        "\"pet1_unlock\"",
+                        "\"pet1_unlock\"",
+                        "pet1_unlock"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "LireFichierExp"
+                      },
+                      "parameters": [
+                        "\"coins\"",
+                        "\"coins\"",
+                        "",
+                        "coins"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "Coins",
+                        "Text",
+                        "=",
+                        "ToString(coins)"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "coins27-36030.mp3",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneVariableAsBoolean"
+              },
+              "parameters": [
+                "pet1_unlock",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::Activate"
+              },
+              "parameters": [
+                "Buy_ChiChi",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Flash::ToggleVisibility"
+              },
+              "parameters": [
+                "",
+                "Buy_ChiChi",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Flash::ToggleVisibility"
+              },
+              "parameters": [
+                "",
+                "CoinGold",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Flash::ToggleVisibility"
+              },
+              "parameters": [
+                "",
+                "gold1",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "LireFichierExp"
+              },
+              "parameters": [
+                "\"coins\"",
+                "\"coins\"",
+                "",
+                "coins"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "Coins",
+                "Text",
+                "=",
+                "ToString(Variable(coins))"
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Pet2",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "LireFichierExp"
+              },
+              "parameters": [
+                "\"pet2_unlock\"",
+                "\"pet2_unlock\"",
+                "",
+                "pet2_unlock"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Buy_Fairy",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SceneVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "pet2_unlock",
+                    "False"
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "VarScene"
+                      },
+                      "parameters": [
+                        "coins",
+                        ">",
+                        "150"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "LireFichierExp"
+                      },
+                      "parameters": [
+                        "\"coins\"",
+                        "\"coins\"",
+                        "",
+                        "coins"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ModVarScene"
+                      },
+                      "parameters": [
+                        "coins",
+                        "-",
+                        "150"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetSceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "pet2_unlock",
+                        "True"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "EcrireFichierExp"
+                      },
+                      "parameters": [
+                        "\"coins\"",
+                        "\"coins\"",
+                        "coins"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "EcrireFichierExp"
+                      },
+                      "parameters": [
+                        "\"pet2_unlock\"",
+                        "\"pet2_unlock\"",
+                        "pet2_unlock"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "LireFichierExp"
+                      },
+                      "parameters": [
+                        "\"coins\"",
+                        "\"coins\"",
+                        "",
+                        "coins"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "Coins",
+                        "Text",
+                        "=",
+                        "ToString(coins)"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "coins27-36030.mp3",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneVariableAsBoolean"
+              },
+              "parameters": [
+                "pet2_unlock",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::Activate"
+              },
+              "parameters": [
+                "Buy_Fairy",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Flash::ToggleVisibility"
+              },
+              "parameters": [
+                "",
+                "Buy_Fairy",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Flash::ToggleVisibility"
+              },
+              "parameters": [
+                "",
+                "CoinGold2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Flash::ToggleVisibility"
+              },
+              "parameters": [
+                "",
+                "gold2",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "LireFichierExp"
+              },
+              "parameters": [
+                "\"coins\"",
+                "\"coins\"",
+                "",
+                "coins"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "Coins",
+                "Text",
+                "=",
+                "ToString(Variable(coins))"
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Pet3",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "LireFichierExp"
+              },
+              "parameters": [
+                "\"pet3_unlock\"",
+                "\"pet3_unlock\"",
+                "",
+                "pet3_unlock"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Buy_Tucan",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SceneVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "pet3_unlock",
+                    "False"
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "VarScene"
+                      },
+                      "parameters": [
+                        "coins",
+                        ">",
+                        "250"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "LireFichierExp"
+                      },
+                      "parameters": [
+                        "\"coins\"",
+                        "\"coins\"",
+                        "",
+                        "coins"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ModVarScene"
+                      },
+                      "parameters": [
+                        "coins",
+                        "-",
+                        "250"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetSceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "pet3_unlock",
+                        "True"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "EcrireFichierExp"
+                      },
+                      "parameters": [
+                        "\"coins\"",
+                        "\"coins\"",
+                        "coins"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "EcrireFichierExp"
+                      },
+                      "parameters": [
+                        "\"pet3_unlock\"",
+                        "\"pet3_unlock\"",
+                        "pet3_unlock"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "LireFichierExp"
+                      },
+                      "parameters": [
+                        "\"coins\"",
+                        "\"coins\"",
+                        "",
+                        "coins"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "Coins",
+                        "Text",
+                        "=",
+                        "ToString(coins)"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "coins27-36030.mp3",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneVariableAsBoolean"
+              },
+              "parameters": [
+                "pet3_unlock",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::Activate"
+              },
+              "parameters": [
+                "Buy_Tucan",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Flash::ToggleVisibility"
+              },
+              "parameters": [
+                "",
+                "Buy_Tucan",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Flash::ToggleVisibility"
+              },
+              "parameters": [
+                "",
+                "CoinGold3",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Flash::ToggleVisibility"
+              },
+              "parameters": [
+                "",
+                "gold3",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "LireFichierExp"
+              },
+              "parameters": [
+                "\"coins\"",
+                "\"coins\"",
+                "",
+                "coins"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "Coins",
+                "Text",
+                "=",
+                "ToString(Variable(coins))"
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Pet4",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "LireFichierExp"
+              },
+              "parameters": [
+                "\"pet4_unlock\"",
+                "\"pet4_unlock\"",
+                "",
+                "pet4_unlock"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Buy_Bluu",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SceneVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "pet4_unlock",
+                    "False"
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "VarScene"
+                      },
+                      "parameters": [
+                        "coins",
+                        ">",
+                        "500"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "LireFichierExp"
+                      },
+                      "parameters": [
+                        "\"coins\"",
+                        "\"coins\"",
+                        "",
+                        "coins"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ModVarScene"
+                      },
+                      "parameters": [
+                        "coins",
+                        "-",
+                        "500"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetSceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "pet4_unlock",
+                        "True"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "EcrireFichierExp"
+                      },
+                      "parameters": [
+                        "\"coins\"",
+                        "\"coins\"",
+                        "coins"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "EcrireFichierExp"
+                      },
+                      "parameters": [
+                        "\"pet4_unlock\"",
+                        "\"pet4_unlock\"",
+                        "pet4_unlock"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "LireFichierExp"
+                      },
+                      "parameters": [
+                        "\"coins\"",
+                        "\"coins\"",
+                        "",
+                        "coins"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "Coins",
+                        "Text",
+                        "=",
+                        "ToString(coins)"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "coins27-36030.mp3",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneVariableAsBoolean"
+              },
+              "parameters": [
+                "pet4_unlock",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::Activate"
+              },
+              "parameters": [
+                "Buy_Bluu",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Flash::ToggleVisibility"
+              },
+              "parameters": [
+                "",
+                "Buy_Bluu",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Flash::ToggleVisibility"
+              },
+              "parameters": [
+                "",
+                "CoinGold4",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Flash::ToggleVisibility"
+              },
+              "parameters": [
+                "",
+                "gold4",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "LireFichierExp"
+              },
+              "parameters": [
+                "\"coins\"",
+                "\"coins\"",
+                "",
+                "coins"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "Coins",
+                "Text",
+                "=",
+                "ToString(Variable(coins))"
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Pet5",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "LireFichierExp"
+              },
+              "parameters": [
+                "\"pet5_unlock\"",
+                "\"pet5_unlock\"",
+                "",
+                "pet5_unlock"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Buy_Dragie",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SceneVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "pet5_unlock",
+                    "False"
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "VarScene"
+                      },
+                      "parameters": [
+                        "coins",
+                        ">",
+                        "1000"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "LireFichierExp"
+                      },
+                      "parameters": [
+                        "\"coins\"",
+                        "\"coins\"",
+                        "",
+                        "coins"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ModVarScene"
+                      },
+                      "parameters": [
+                        "coins",
+                        "-",
+                        "1000"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetSceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "pet5_unlock",
+                        "True"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "EcrireFichierExp"
+                      },
+                      "parameters": [
+                        "\"coins\"",
+                        "\"coins\"",
+                        "coins"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "EcrireFichierExp"
+                      },
+                      "parameters": [
+                        "\"pet5_unlock\"",
+                        "\"pet5_unlock\"",
+                        "pet5_unlock"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "LireFichierExp"
+                      },
+                      "parameters": [
+                        "\"coins\"",
+                        "\"coins\"",
+                        "",
+                        "coins"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "Coins",
+                        "Text",
+                        "=",
+                        "ToString(coins)"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "coins27-36030.mp3",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneVariableAsBoolean"
+              },
+              "parameters": [
+                "pet5_unlock",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::Activate"
+              },
+              "parameters": [
+                "Buy_Dragie",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Flash::ToggleVisibility"
+              },
+              "parameters": [
+                "",
+                "Buy_Dragie",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Flash::ToggleVisibility"
+              },
+              "parameters": [
+                "",
+                "CoinGold5",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Flash::ToggleVisibility"
+              },
+              "parameters": [
+                "",
+                "gold5",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "LireFichierExp"
+              },
+              "parameters": [
+                "\"coins\"",
+                "\"coins\"",
+                "",
+                "coins"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "Coins",
+                "Text",
+                "=",
+                "ToString(Variable(coins))"
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "turtle",
+            "DRAGII",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "SetSceneVariableAsBoolean"
+          },
+          "parameters": [
+            "pet1_unlock",
+            "False"
+          ]
+        },
+        {
+          "type": {
+            "value": "EcrireFichierExp"
+          },
+          "parameters": [
+            "\"pet1_unlock\"",
+            "\"pet1_unlock\"",
+            "pet1_unlock"
+          ]
+        },
+        {
+          "type": {
+            "value": "SetSceneVariableAsBoolean"
+          },
+          "parameters": [
+            "pet2_unlock",
+            "False"
+          ]
+        },
+        {
+          "type": {
+            "value": "EcrireFichierExp"
+          },
+          "parameters": [
+            "\"pet2_unlock\"",
+            "\"pet2_unlock\"",
+            "pet2_unlock"
+          ]
+        },
+        {
+          "type": {
+            "value": "SetSceneVariableAsBoolean"
+          },
+          "parameters": [
+            "pet3_unlock",
+            "False"
+          ]
+        },
+        {
+          "type": {
+            "value": "EcrireFichierExp"
+          },
+          "parameters": [
+            "\"pet3_unlock\"",
+            "\"pet3_unlock\"",
+            "pet3_unlock"
+          ]
+        },
+        {
+          "type": {
+            "value": "SetSceneVariableAsBoolean"
+          },
+          "parameters": [
+            "pet4_unlock",
+            "False"
+          ]
+        },
+        {
+          "type": {
+            "value": "EcrireFichierExp"
+          },
+          "parameters": [
+            "\"pet4_unlock\"",
+            "\"pet4_unlock\"",
+            "pet4_unlock"
+          ]
+        },
+        {
+          "type": {
+            "value": "SetSceneVariableAsBoolean"
+          },
+          "parameters": [
+            "pet5_unlock",
+            "False"
+          ]
+        },
+        {
+          "type": {
+            "value": "EcrireFichierExp"
+          },
+          "parameters": [
+            "\"pet5_unlock\"",
+            "\"pet5_unlock\"",
+            "pet5_unlock"
+          ]
+        }
+      ]
+    }
+  ],
   "layers": [
     {
       "ambientLightColorB": 200,

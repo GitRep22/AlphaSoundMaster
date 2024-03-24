@@ -4074,7 +4074,7 @@
           },
           "parameters": [
             "",
-            "A1.mp3",
+            "a.mp3",
             "",
             "",
             ""
@@ -4122,7 +4122,7 @@
           },
           "parameters": [
             "",
-            "T1.mp3",
+            "t.mp3",
             "no",
             "",
             ""
@@ -4170,7 +4170,7 @@
           },
           "parameters": [
             "",
-            "I1.mp3",
+            "i.mp3",
             "no",
             "",
             ""
@@ -4218,7 +4218,7 @@
           },
           "parameters": [
             "",
-            "F1.mp3",
+            "f.mp3",
             "no",
             "",
             ""
@@ -4266,7 +4266,7 @@
           },
           "parameters": [
             "",
-            "O1.mp3",
+            "o.mp3",
             "no",
             "",
             ""
@@ -4314,7 +4314,7 @@
           },
           "parameters": [
             "",
-            "N2.mp3",
+            "n.mp3",
             "no",
             "",
             ""
@@ -4362,7 +4362,7 @@
           },
           "parameters": [
             "",
-            "A2.mp3",
+            "a.mp3",
             "no",
             "",
             ""
@@ -4410,7 +4410,7 @@
           },
           "parameters": [
             "",
-            "S1.mp3",
+            "s.mp3",
             "no",
             "",
             ""
@@ -4458,7 +4458,7 @@
           },
           "parameters": [
             "",
-            "O2.mp3",
+            "o.mp3",
             "no",
             "",
             ""
@@ -4506,7 +4506,7 @@
           },
           "parameters": [
             "",
-            "F2.mp3",
+            "f.mp3",
             "no",
             "",
             ""
@@ -4554,7 +4554,7 @@
           },
           "parameters": [
             "",
-            "I2.mp3",
+            "i.mp3",
             "no",
             "",
             ""
@@ -4602,7 +4602,7 @@
           },
           "parameters": [
             "",
-            "S2.mp3",
+            "s.mp3",
             "no",
             "",
             ""
@@ -4650,7 +4650,7 @@
           },
           "parameters": [
             "",
-            "A3.mp3",
+            "a.mp3",
             "no",
             "",
             ""
@@ -4698,7 +4698,7 @@
           },
           "parameters": [
             "",
-            "N3.mp3",
+            "n.mp3",
             "no",
             "",
             ""
@@ -5326,7 +5326,7 @@
             "value": "VarGlobal"
           },
           "parameters": [
-            "High_Score",
+            "score",
             "<",
             "Variable(Score)"
           ]
@@ -5338,7 +5338,7 @@
             "value": "ModVarGlobal"
           },
           "parameters": [
-            "High_Score",
+            "score",
             "=",
             "Variable(Score)"
           ]
@@ -5350,7 +5350,7 @@
           "parameters": [
             "\"High Score\"",
             "\"1\"",
-            "GlobalVariable(High_Score)"
+            "GlobalVariable(score)"
           ]
         }
       ]
