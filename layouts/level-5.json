@@ -85769,42 +85769,11 @@
           "conditions": [
             {
               "type": {
-                "value": "MouseButtonReleased"
-              },
-              "parameters": [
-                "",
-                "Left"
-              ]
-            }
-          ],
-          "actions": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SourisSurObjet"
+                "value": "ButtonStates::ButtonFSM::IsPressed"
               },
               "parameters": [
                 "L1_back",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            },
-            {
-              "type": {
-                "inverted": true,
-                "value": "DepartScene"
-              },
-              "parameters": [
+                "ButtonFSM",
                 ""
               ]
             }

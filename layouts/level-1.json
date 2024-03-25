@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.26364576737709106,
+    "zoomFactor": 0.36732575450589755,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -790,11 +790,11 @@
     {
       "angle": 0,
       "customSize": false,
-      "height": 0,
+      "height": 111,
       "layer": "UI Layer",
       "name": "Score",
       "persistentUuid": "32da3e88-adff-46d5-8460-5ca6db8b5f5e",
-      "width": 0,
+      "width": 56,
       "x": 96,
       "y": 16,
       "zOrder": 104,
@@ -6522,27 +6522,11 @@
       "conditions": [
         {
           "type": {
-            "value": "SourisSurObjet"
+            "value": "ButtonStates::ButtonFSM::IsPressed"
           },
           "parameters": [
             "L1_back",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "BuiltinCommonInstructions::Once"
-          },
-          "parameters": []
-        },
-        {
-          "type": {
-            "inverted": true,
-            "value": "DepartScene"
-          },
-          "parameters": [
+            "ButtonFSM",
             ""
           ]
         }
@@ -7815,6 +7799,10 @@
     {
       "name": "Animation",
       "type": "AnimatableCapability::AnimatableBehavior"
+    },
+    {
+      "name": "ButtonFSM",
+      "type": "ButtonStates::ButtonFSM"
     },
     {
       "name": "Effect",

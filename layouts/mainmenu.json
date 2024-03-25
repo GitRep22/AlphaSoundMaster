@@ -3919,22 +3919,12 @@
           "conditions": [
             {
               "type": {
-                "value": "SourisSurObjet"
+                "value": "ButtonStates::ButtonFSM::IsPressed"
               },
               "parameters": [
-                "L1_back2",
-                "Left",
-                "",
+                "L1_back",
+                "ButtonFSM",
                 ""
-              ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonPressed"
-              },
-              "parameters": [
-                "",
-                "Left"
               ]
             },
             {
@@ -4049,6 +4039,10 @@
     {
       "name": "Animation",
       "type": "AnimatableCapability::AnimatableBehavior"
+    },
+    {
+      "name": "ButtonFSM",
+      "type": "ButtonStates::ButtonFSM"
     },
     {
       "name": "Effect",
