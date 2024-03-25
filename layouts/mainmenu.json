@@ -3500,37 +3500,29 @@
             },
             {
               "type": {
-                "value": "MouseButtonReleased"
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "DepartScene"
               },
               "parameters": [
-                "",
-                "Left"
+                ""
               ]
             }
           ],
-          "actions": [],
-          "events": [
+          "actions": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Scene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Level 1\"",
-                    ""
-                  ]
-                }
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Level 1\"",
+                ""
               ]
             }
           ]
@@ -3551,37 +3543,29 @@
             },
             {
               "type": {
-                "value": "MouseButtonReleased"
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "DepartScene"
               },
               "parameters": [
-                "",
-                "Left"
+                ""
               ]
             }
           ],
-          "actions": [],
-          "events": [
+          "actions": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Scene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Level 2\"",
-                    ""
-                  ]
-                }
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Level 2\"",
+                ""
               ]
             }
           ]
@@ -3602,37 +3586,29 @@
             },
             {
               "type": {
-                "value": "MouseButtonReleased"
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "DepartScene"
               },
               "parameters": [
-                "",
-                "Left"
+                ""
               ]
             }
           ],
-          "actions": [],
-          "events": [
+          "actions": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Scene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Level 3\"",
-                    ""
-                  ]
-                }
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Level 3\"",
+                ""
               ]
             }
           ]
@@ -3653,37 +3629,29 @@
             },
             {
               "type": {
-                "value": "MouseButtonReleased"
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "DepartScene"
               },
               "parameters": [
-                "",
-                "Left"
+                ""
               ]
             }
           ],
-          "actions": [],
-          "events": [
+          "actions": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Scene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Level 4\"",
-                    ""
-                  ]
-                }
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Level 4\"",
+                ""
               ]
             }
           ]
@@ -3704,37 +3672,29 @@
             },
             {
               "type": {
-                "value": "MouseButtonReleased"
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "DepartScene"
               },
               "parameters": [
-                "",
-                "Left"
+                ""
               ]
             }
           ],
-          "actions": [],
-          "events": [
+          "actions": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Scene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Level 5\"",
-                    ""
-                  ]
-                }
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Level 5\"",
+                ""
               ]
             }
           ]
@@ -3755,37 +3715,29 @@
             },
             {
               "type": {
-                "value": "MouseButtonReleased"
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "DepartScene"
               },
               "parameters": [
-                "",
-                "Left"
+                ""
               ]
             }
           ],
-          "actions": [],
-          "events": [
+          "actions": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Scene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Level 6\"",
-                    ""
-                  ]
-                }
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Level 6\"",
+                ""
               ]
             }
           ]
@@ -3806,37 +3758,29 @@
             },
             {
               "type": {
-                "value": "MouseButtonReleased"
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "DepartScene"
               },
               "parameters": [
-                "",
-                "Left"
+                ""
               ]
             }
           ],
-          "actions": [],
-          "events": [
+          "actions": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Scene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Level 7\"",
-                    ""
-                  ]
-                }
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Level 7\"",
+                ""
               ]
             }
           ]
@@ -3857,37 +3801,29 @@
             },
             {
               "type": {
-                "value": "MouseButtonReleased"
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "DepartScene"
               },
               "parameters": [
-                "",
-                "Left"
+                ""
               ]
             }
           ],
-          "actions": [],
-          "events": [
+          "actions": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Scene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Level 8\"",
-                    ""
-                  ]
-                }
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Level 8\"",
+                ""
               ]
             }
           ]
@@ -3908,37 +3844,29 @@
             },
             {
               "type": {
-                "value": "MouseButtonReleased"
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "DepartScene"
               },
               "parameters": [
-                "",
-                "Left"
+                ""
               ]
             }
           ],
-          "actions": [],
-          "events": [
+          "actions": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Scene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Level 9\"",
-                    ""
-                  ]
-                }
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Level 9\"",
+                ""
               ]
             }
           ]
@@ -3959,37 +3887,29 @@
             },
             {
               "type": {
-                "value": "MouseButtonReleased"
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "DepartScene"
               },
               "parameters": [
-                "",
-                "Left"
+                ""
               ]
             }
           ],
-          "actions": [],
-          "events": [
+          "actions": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Scene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Level 10\"",
-                    ""
-                  ]
-                }
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Level 10\"",
+                ""
               ]
             }
           ]
@@ -4010,37 +3930,29 @@
             },
             {
               "type": {
-                "value": "MouseButtonReleased"
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "DepartScene"
               },
               "parameters": [
-                "",
-                "Left"
+                ""
               ]
             }
           ],
-          "actions": [],
-          "events": [
+          "actions": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Scene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Initial_Screen\"",
-                    ""
-                  ]
-                }
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Initial_Screen\"",
+                ""
               ]
             }
           ]

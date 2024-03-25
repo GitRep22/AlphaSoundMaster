@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.23089183385224898,
+    "zoomFactor": 0.35534345588169897,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -65,13 +65,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 928,
+      "height": 1024,
       "layer": "",
       "name": "BackgroundColoredGrass",
       "persistentUuid": "2c0daf6f-dfce-418e-89f9-80c4e909fdf5",
-      "width": 2976,
+      "width": 3136,
       "x": -128,
-      "y": -64,
+      "y": -160,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -166,6 +166,36 @@
       "x": 32,
       "y": 32,
       "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Sample_letter5",
+      "persistentUuid": "898c184d-b71a-4399-a311-0aeec8b6e5cf",
+      "width": 0,
+      "x": 1152,
+      "y": 28,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Sample_letter6",
+      "persistentUuid": "32bc564f-7f74-48e3-9895-03d173d1ee9f",
+      "width": 0,
+      "x": 1152,
+      "y": 608,
+      "zOrder": 11,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1259,6 +1289,21 @@
             "",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
         }
       ],
       "actions": [
@@ -1312,6 +1357,21 @@
             "Letter_button",
             "",
             "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "DepartScene"
+          },
+          "parameters": [
             ""
           ]
         }
@@ -1370,6 +1430,21 @@
             "Shop",
             "",
             "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "DepartScene"
+          },
+          "parameters": [
             ""
           ]
         }

@@ -85661,6 +85661,21 @@
                 "",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
             }
           ],
           "actions": [

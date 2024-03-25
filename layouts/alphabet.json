@@ -480,8 +480,8 @@
       "name": "BlueBackground",
       "persistentUuid": "7d061f83-bd22-4b1d-a017-b80fa13ccc7f",
       "width": 2846,
-      "x": -111,
-      "y": -110,
+      "x": -105,
+      "y": -106,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -3019,6 +3019,21 @@
             "",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
         }
       ],
       "actions": [
@@ -3045,6 +3060,21 @@
             "NextButton",
             "",
             "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "DepartScene"
+          },
+          "parameters": [
             ""
           ]
         }
@@ -3081,6 +3111,15 @@
             "value": "BuiltinCommonInstructions::Once"
           },
           "parameters": []
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
         }
       ],
       "actions": [
@@ -3117,6 +3156,15 @@
             "value": "BuiltinCommonInstructions::Once"
           },
           "parameters": []
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
         }
       ],
       "actions": [
@@ -3153,6 +3201,15 @@
             "value": "BuiltinCommonInstructions::Once"
           },
           "parameters": []
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
         }
       ],
       "actions": [
@@ -3189,6 +3246,15 @@
             "value": "BuiltinCommonInstructions::Once"
           },
           "parameters": []
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
         }
       ],
       "actions": [
@@ -3225,6 +3291,15 @@
             "value": "BuiltinCommonInstructions::Once"
           },
           "parameters": []
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
         }
       ],
       "actions": [
@@ -3261,6 +3336,15 @@
             "value": "BuiltinCommonInstructions::Once"
           },
           "parameters": []
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
         }
       ],
       "actions": [
@@ -3297,6 +3381,15 @@
             "value": "BuiltinCommonInstructions::Once"
           },
           "parameters": []
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
         }
       ],
       "actions": [
@@ -3333,6 +3426,15 @@
             "value": "BuiltinCommonInstructions::Once"
           },
           "parameters": []
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
         }
       ],
       "actions": [
@@ -3369,6 +3471,15 @@
             "value": "BuiltinCommonInstructions::Once"
           },
           "parameters": []
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
         }
       ],
       "actions": [
@@ -3405,6 +3516,15 @@
             "value": "BuiltinCommonInstructions::Once"
           },
           "parameters": []
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
         }
       ],
       "actions": [
@@ -3441,6 +3561,15 @@
             "value": "BuiltinCommonInstructions::Once"
           },
           "parameters": []
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
         }
       ],
       "actions": [
@@ -3477,6 +3606,15 @@
             "value": "BuiltinCommonInstructions::Once"
           },
           "parameters": []
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
         }
       ],
       "actions": [
@@ -3513,6 +3651,15 @@
             "value": "BuiltinCommonInstructions::Once"
           },
           "parameters": []
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
         }
       ],
       "actions": [
@@ -3549,6 +3696,15 @@
             "value": "BuiltinCommonInstructions::Once"
           },
           "parameters": []
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
         }
       ],
       "actions": [
@@ -3585,6 +3741,15 @@
             "value": "BuiltinCommonInstructions::Once"
           },
           "parameters": []
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
         }
       ],
       "actions": [
@@ -3621,6 +3786,15 @@
             "value": "BuiltinCommonInstructions::Once"
           },
           "parameters": []
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
         }
       ],
       "actions": [
@@ -3657,6 +3831,15 @@
             "value": "BuiltinCommonInstructions::Once"
           },
           "parameters": []
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
         }
       ],
       "actions": [
@@ -3693,6 +3876,15 @@
             "value": "BuiltinCommonInstructions::Once"
           },
           "parameters": []
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
         }
       ],
       "actions": [
@@ -3721,6 +3913,15 @@
             "s",
             "",
             "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "DepartScene"
+          },
+          "parameters": [
             ""
           ]
         },
@@ -3765,6 +3966,15 @@
             "value": "BuiltinCommonInstructions::Once"
           },
           "parameters": []
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
         }
       ],
       "actions": [
@@ -3801,6 +4011,15 @@
             "value": "BuiltinCommonInstructions::Once"
           },
           "parameters": []
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
         }
       ],
       "actions": [
@@ -3837,6 +4056,15 @@
             "value": "BuiltinCommonInstructions::Once"
           },
           "parameters": []
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
         }
       ],
       "actions": [
@@ -3873,6 +4101,15 @@
             "value": "BuiltinCommonInstructions::Once"
           },
           "parameters": []
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
         }
       ],
       "actions": [
@@ -3909,6 +4146,15 @@
             "value": "BuiltinCommonInstructions::Once"
           },
           "parameters": []
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
         }
       ],
       "actions": [
@@ -3945,6 +4191,15 @@
             "value": "BuiltinCommonInstructions::Once"
           },
           "parameters": []
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
         }
       ],
       "actions": [
@@ -3981,6 +4236,15 @@
             "value": "BuiltinCommonInstructions::Once"
           },
           "parameters": []
+        },
+        {
+          "type": {
+            "inverted": true,
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
         }
       ],
       "actions": [
