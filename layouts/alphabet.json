@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.3216911764705891,
+    "zoomFactor": 0.4950840073748898,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -511,7 +511,18 @@
       "type": "PanelSpriteButton::PanelSpriteButton",
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 3,
+          "name": "Anchor",
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 3,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "useLegacyBottomAndRightAnchors": true
+        }
+      ],
       "content": {
         "LeftPadding": 16,
         "RightPadding": 16,
@@ -594,7 +605,18 @@
       "type": "PanelSpriteButton::PanelSpriteButton",
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 3,
+          "name": "Anchor",
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 3,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "useLegacyBottomAndRightAnchors": true
+        }
+      ],
       "content": {
         "LeftPadding": 16,
         "RightPadding": 16,
@@ -677,7 +699,18 @@
       "type": "PanelSpriteButton::PanelSpriteButton",
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 3,
+          "name": "Anchor",
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 3,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "useLegacyBottomAndRightAnchors": true
+        }
+      ],
       "content": {
         "LeftPadding": 16,
         "RightPadding": 16,
@@ -1507,7 +1540,18 @@
       "type": "PanelSpriteButton::PanelSpriteButton",
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 3,
+          "name": "Anchor",
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 3,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "useLegacyBottomAndRightAnchors": false
+        }
+      ],
       "content": {
         "LeftPadding": 16,
         "RightPadding": 16,
@@ -2686,7 +2730,18 @@
           "booleanParameters": {}
         }
       ],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 3,
+          "name": "Anchor",
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 3,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "useLegacyBottomAndRightAnchors": true
+        }
+      ],
       "string": "alphabets",
       "font": "44aceaa249d2ecb8bfe3eb7bedcb17aac44c0f5f13f9f58d85427a5afa7e92f0_CarterOne-Regular.ttf",
       "textAlignment": "left",
@@ -2734,7 +2789,18 @@
       "type": "PanelSpriteButton::PanelSpriteButton",
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 3,
+          "name": "Anchor",
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 2,
+          "topEdgeAnchor": 3,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "useLegacyBottomAndRightAnchors": true
+        }
+      ],
       "content": {
         "LeftPadding": 16,
         "RightPadding": 16,
