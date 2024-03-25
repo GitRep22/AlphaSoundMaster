@@ -3922,17 +3922,20 @@
                 "value": "SourisSurObjet"
               },
               "parameters": [
-                "L1_back",
-                "",
+                "L1_back2",
+                "Left",
                 "",
                 ""
               ]
             },
             {
               "type": {
-                "value": "BuiltinCommonInstructions::Once"
+                "value": "MouseButtonPressed"
               },
-              "parameters": []
+              "parameters": [
+                "",
+                "Left"
+              ]
             },
             {
               "type": {
@@ -3942,6 +3945,12 @@
               "parameters": [
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
