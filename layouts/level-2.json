@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.4335774304702533,
+    "zoomFactor": 0.3325387091250895,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -3051,22 +3051,6 @@
       "x": 25927,
       "y": 361,
       "zOrder": 147,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 78,
-      "layer": "",
-      "name": "fairy",
-      "persistentUuid": "0db062c9-debd-41a8-8780-77c815c6904c",
-      "width": 65,
-      "x": 1527,
-      "y": 259,
-      "zOrder": 162,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
