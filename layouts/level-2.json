@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.3325387091250895,
+    "zoomFactor": 0.09122690912702082,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -28,6 +28,42 @@
       "name": "coins",
       "type": "number",
       "value": 0
+    },
+    {
+      "folded": true,
+      "name": "pet1_unlock",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "pet2_unlock",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "pet3_unlock",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "pet4_unlock",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "pet5_unlock",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "level_3",
+      "type": "boolean",
+      "value": false
     }
   ],
   "instances": [
@@ -340,8 +376,8 @@
       "name": "turtle",
       "persistentUuid": "edeb43f5-99dd-47f2-9570-83fd7d2dd7cc",
       "width": 230,
-      "x": 388,
-      "y": 251,
+      "x": 30589,
+      "y": 377,
       "zOrder": 46,
       "numberProperties": [],
       "stringProperties": [],
@@ -76720,7 +76756,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "arrowkeys and door",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -77150,6 +77185,45 @@
           "actions": [
             {
               "type": {
+                "value": "SetSceneVariableAsBoolean"
+              },
+              "parameters": [
+                "level_3",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "EcrireFichierExp"
+              },
+              "parameters": [
+                "\"level_3\"",
+                "\"level_3\"",
+                "level_3"
+              ]
+            },
+            {
+              "type": {
+                "value": "LireFichierExp"
+              },
+              "parameters": [
+                "\"level_3\"",
+                "\"level_3\"",
+                "",
+                "level_3"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetGlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "level_3",
+                "True"
+              ]
+            },
+            {
+              "type": {
                 "value": "Scene"
               },
               "parameters": [
@@ -77534,6 +77608,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "coins and pets",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",

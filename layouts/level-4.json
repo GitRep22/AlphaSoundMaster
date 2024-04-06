@@ -28,6 +28,42 @@
       "name": "coins",
       "type": "number",
       "value": 0
+    },
+    {
+      "folded": true,
+      "name": "pet1_unlock",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "pet2_unlock",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "pet3_unlock",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "pet4_unlock",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "pet5_unlock",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "level_5",
+      "type": "boolean",
+      "value": false
     }
   ],
   "instances": [
@@ -86849,6 +86885,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Letters and words",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -89858,6 +89895,45 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "SetSceneVariableAsBoolean"
+              },
+              "parameters": [
+                "level_5",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "EcrireFichierExp"
+              },
+              "parameters": [
+                "\"level_5\"",
+                "\"level_5\"",
+                "level_5"
+              ]
+            },
+            {
+              "type": {
+                "value": "LireFichierExp"
+              },
+              "parameters": [
+                "\"level_5\"",
+                "\"level_5\"",
+                "",
+                "level_5"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetGlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "level_5",
+                "True"
+              ]
+            },
             {
               "type": {
                 "value": "Scene"

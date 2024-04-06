@@ -28,6 +28,42 @@
       "name": "coins",
       "type": "number",
       "value": 0
+    },
+    {
+      "folded": true,
+      "name": "pet1_unlock",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "pet2_unlock",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "pet3_unlock",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "pet4_unlock",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "pet5_unlock",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "level_6",
+      "type": "boolean",
+      "value": false
     }
   ],
   "instances": [
@@ -86646,6 +86682,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Essentials",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -90622,7 +90659,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "arrowKeys and door",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -90644,6 +90680,45 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "SetSceneVariableAsBoolean"
+              },
+              "parameters": [
+                "level_6",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "EcrireFichierExp"
+              },
+              "parameters": [
+                "\"level_6\"",
+                "\"level_6\"",
+                "level_6"
+              ]
+            },
+            {
+              "type": {
+                "value": "LireFichierExp"
+              },
+              "parameters": [
+                "\"level_6\"",
+                "\"level_6\"",
+                "",
+                "level_6"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetGlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "level_6",
+                "True"
+              ]
+            },
             {
               "type": {
                 "value": "Scene"
@@ -91128,6 +91203,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "coins and pets",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",

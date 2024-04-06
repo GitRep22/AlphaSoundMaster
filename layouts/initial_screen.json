@@ -58,6 +58,12 @@
       "name": "pet5",
       "type": "string",
       "value": ""
+    },
+    {
+      "folded": true,
+      "name": "level1",
+      "type": "string",
+      "value": ""
     }
   ],
   "instances": [
