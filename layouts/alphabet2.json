@@ -112,8 +112,8 @@
       "name": "TEXT_ALPHA",
       "persistentUuid": "dbd55d0b-876a-4795-94b0-37cf6d5f1a09",
       "width": 0,
-      "x": 348,
-      "y": 64,
+      "x": 199,
+      "y": 146,
       "zOrder": 28,
       "numberProperties": [],
       "stringProperties": [],
@@ -2406,10 +2406,10 @@
         }
       ],
       "behaviors": [],
-      "string": "vowels",
+      "string": "long vowel sounds",
       "font": "44aceaa249d2ecb8bfe3eb7bedcb17aac44c0f5f13f9f58d85427a5afa7e92f0_CarterOne-Regular.ttf",
       "textAlignment": "left",
-      "characterSize": 150,
+      "characterSize": 100,
       "color": {
         "b": 0,
         "g": 204,
@@ -2429,10 +2429,10 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "vowels",
+        "text": "long vowel sounds",
         "font": "44aceaa249d2ecb8bfe3eb7bedcb17aac44c0f5f13f9f58d85427a5afa7e92f0_CarterOne-Regular.ttf",
         "textAlignment": "left",
-        "characterSize": 150,
+        "characterSize": 100,
         "color": "255;204;0"
       }
     },
