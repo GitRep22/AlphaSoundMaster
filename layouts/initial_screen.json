@@ -1251,12 +1251,10 @@
       "conditions": [
         {
           "type": {
-            "value": "SourisSurObjet"
+            "value": "PanelSpriteButton::PanelSpriteButton::IsPressed"
           },
           "parameters": [
             "Play_button",
-            "",
-            "",
             ""
           ]
         },
@@ -1321,12 +1319,10 @@
       "conditions": [
         {
           "type": {
-            "value": "SourisSurObjet"
+            "value": "PanelSpriteButton::PanelSpriteButton::IsPressed"
           },
           "parameters": [
             "Letter_button",
-            "",
-            "",
             ""
           ]
         },
@@ -1394,12 +1390,10 @@
       "conditions": [
         {
           "type": {
-            "value": "SourisSurObjet"
+            "value": "PanelSpriteButton::PanelSpriteButton::IsPressed"
           },
           "parameters": [
             "Shop",
-            "",
-            "",
             ""
           ]
         },

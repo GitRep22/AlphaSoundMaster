@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.5117784035210181,
+    "zoomFactor": 0.2817259932079563,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -143,7 +143,7 @@
       "layer": "",
       "name": "BlueBackground",
       "persistentUuid": "7d061f83-bd22-4b1d-a017-b80fa13ccc7f",
-      "width": 1498,
+      "width": 2471,
       "x": -111,
       "y": -110,
       "zOrder": 1,
@@ -2640,12 +2640,35 @@
       "conditions": [
         {
           "type": {
-            "value": "SourisSurObjet"
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "SetFullScreen"
+          },
+          "parameters": [
+            "",
+            "yes",
+            "yes"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PanelSpriteButton::PanelSpriteButton::IsPressed"
           },
           "parameters": [
             "L1_back",
-            "",
-            "",
             ""
           ]
         }
@@ -2668,12 +2691,10 @@
       "conditions": [
         {
           "type": {
-            "value": "SourisSurObjet"
+            "value": "PanelSpriteButton::PanelSpriteButton::IsPressed"
           },
           "parameters": [
             "NextButton",
-            "",
-            "",
             ""
           ]
         }
@@ -2696,12 +2717,10 @@
       "conditions": [
         {
           "type": {
-            "value": "SourisSurObjet"
+            "value": "PanelSpriteButton::PanelSpriteButton::IsPressed"
           },
           "parameters": [
             "a",
-            "",
-            "",
             ""
           ]
         },
@@ -2840,12 +2859,10 @@
       "conditions": [
         {
           "type": {
-            "value": "SourisSurObjet"
+            "value": "PanelSpriteButton::PanelSpriteButton::IsPressed"
           },
           "parameters": [
             "e",
-            "",
-            "",
             ""
           ]
         },
@@ -2984,12 +3001,10 @@
       "conditions": [
         {
           "type": {
-            "value": "SourisSurObjet"
+            "value": "PanelSpriteButton::PanelSpriteButton::IsPressed"
           },
           "parameters": [
             "i",
-            "",
-            "",
             ""
           ]
         },
@@ -3200,12 +3215,10 @@
       "conditions": [
         {
           "type": {
-            "value": "SourisSurObjet"
+            "value": "PanelSpriteButton::PanelSpriteButton::IsPressed"
           },
           "parameters": [
             "o",
-            "",
-            "",
             ""
           ]
         },
@@ -3416,12 +3429,10 @@
       "conditions": [
         {
           "type": {
-            "value": "SourisSurObjet"
+            "value": "PanelSpriteButton::PanelSpriteButton::IsPressed"
           },
           "parameters": [
             "u",
-            "",
-            "",
             ""
           ]
         },
@@ -3626,11 +3637,6 @@
           ]
         }
       ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": []
     },
     {
       "type": "BuiltinCommonInstructions::Standard",

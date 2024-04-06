@@ -3456,6 +3456,20 @@
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
+        }
+      ],
+      "actions": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
       "conditions": [],
       "actions": []
     },
@@ -3489,20 +3503,12 @@
           "conditions": [
             {
               "type": {
-                "value": "SourisSurObjet"
+                "value": "PanelSpriteButton::PanelSpriteButton::IsPressed"
               },
               "parameters": [
                 "Button_1",
-                "",
-                "",
                 ""
               ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
             },
             {
               "type": {
@@ -3512,6 +3518,12 @@
               "parameters": [
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -3532,12 +3544,10 @@
           "conditions": [
             {
               "type": {
-                "value": "SourisSurObjet"
+                "value": "PanelSpriteButton::PanelSpriteButton::IsPressed"
               },
               "parameters": [
                 "Button_2",
-                "",
-                "",
                 ""
               ]
             },
@@ -3575,12 +3585,10 @@
           "conditions": [
             {
               "type": {
-                "value": "SourisSurObjet"
+                "value": "PanelSpriteButton::PanelSpriteButton::IsPressed"
               },
               "parameters": [
                 "Button_3",
-                "",
-                "",
                 ""
               ]
             },
@@ -3618,12 +3626,10 @@
           "conditions": [
             {
               "type": {
-                "value": "SourisSurObjet"
+                "value": "PanelSpriteButton::PanelSpriteButton::IsPressed"
               },
               "parameters": [
                 "Button_4",
-                "",
-                "",
                 ""
               ]
             },
@@ -3661,12 +3667,10 @@
           "conditions": [
             {
               "type": {
-                "value": "SourisSurObjet"
+                "value": "PanelSpriteButton::PanelSpriteButton::IsPressed"
               },
               "parameters": [
                 "Button_5",
-                "",
-                "",
                 ""
               ]
             },
@@ -3704,12 +3708,10 @@
           "conditions": [
             {
               "type": {
-                "value": "SourisSurObjet"
+                "value": "PanelSpriteButton::PanelSpriteButton::IsPressed"
               },
               "parameters": [
                 "Button_6",
-                "",
-                "",
                 ""
               ]
             },
@@ -3747,12 +3749,10 @@
           "conditions": [
             {
               "type": {
-                "value": "SourisSurObjet"
+                "value": "PanelSpriteButton::PanelSpriteButton::IsPressed"
               },
               "parameters": [
                 "Button_7",
-                "",
-                "",
                 ""
               ]
             },
@@ -3790,12 +3790,10 @@
           "conditions": [
             {
               "type": {
-                "value": "SourisSurObjet"
+                "value": "PanelSpriteButton::PanelSpriteButton::IsPressed"
               },
               "parameters": [
                 "Button_8",
-                "",
-                "",
                 ""
               ]
             },
@@ -3833,12 +3831,10 @@
           "conditions": [
             {
               "type": {
-                "value": "SourisSurObjet"
+                "value": "PanelSpriteButton::PanelSpriteButton::IsPressed"
               },
               "parameters": [
                 "Button_9",
-                "",
-                "",
                 ""
               ]
             },
@@ -3876,12 +3872,10 @@
           "conditions": [
             {
               "type": {
-                "value": "SourisSurObjet"
+                "value": "PanelSpriteButton::PanelSpriteButton::IsPressed"
               },
               "parameters": [
                 "Button_10",
-                "",
-                "",
                 ""
               ]
             },

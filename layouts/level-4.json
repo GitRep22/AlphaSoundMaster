@@ -86238,6 +86238,16 @@
           "actions": [
             {
               "type": {
+                "value": "SetFullScreen"
+              },
+              "parameters": [
+                "",
+                "yes",
+                "yes"
+              ]
+            },
+            {
+              "type": {
                 "value": "TouchSimulateMouse"
               },
               "parameters": [

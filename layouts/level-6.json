@@ -1112,12 +1112,12 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 0,
+      "depth": 1,
       "height": 111,
       "layer": "UI Layer",
       "name": "Score",
       "persistentUuid": "8029d5c2-84be-4a46-b190-9b636f107a84",
-      "width": 56,
+      "width": 239,
       "x": 96,
       "y": 16,
       "zOrder": 59,
@@ -86733,6 +86733,16 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "SetFullScreen"
+              },
+              "parameters": [
+                "",
+                "yes",
+                "yes"
+              ]
+            },
             {
               "type": {
                 "value": "TouchSimulateMouse"

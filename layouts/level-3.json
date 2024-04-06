@@ -88254,6 +88254,16 @@
       "actions": [
         {
           "type": {
+            "value": "SetFullScreen"
+          },
+          "parameters": [
+            "",
+            "yes",
+            "yes"
+          ]
+        },
+        {
+          "type": {
             "value": "PlayMusic"
           },
           "parameters": [
