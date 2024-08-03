@@ -3118,88 +3118,6 @@
           "width": 256
         }
       }
-    },
-    {
-      "assetStoreId": "72c8adcfb9187ebb5fcfbcd75bc18c74d6af5507e7c482cadcfad28f8011b387",
-      "name": "OrangeBubbleButton",
-      "type": "PanelSpriteButton::PanelSpriteButton",
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "content": {
-        "BottomPadding": 0,
-        "TopPadding": 0,
-        "LeftPadding": 10,
-        "RightPadding": 10,
-        "PressedLabelOffsetY": 2
-      },
-      "childrenContent": {
-        "Hovered": {
-          "bottomMargin": 35,
-          "height": 128,
-          "leftMargin": 56,
-          "rightMargin": 35,
-          "texture": "Orange Bubble Button_Hovered.png",
-          "tiled": false,
-          "topMargin": 35,
-          "width": 256
-        },
-        "Idle": {
-          "bottomMargin": 35,
-          "height": 128,
-          "leftMargin": 56,
-          "rightMargin": 35,
-          "texture": "Orange Bubble Button_Idle.png",
-          "tiled": false,
-          "topMargin": 35,
-          "width": 256
-        },
-        "Label": {
-          "bold": false,
-          "italic": false,
-          "smoothed": true,
-          "underlined": false,
-          "string": "More coins!",
-          "font": "Poppins-Medium.ttf",
-          "textAlignment": "center",
-          "characterSize": 20,
-          "color": {
-            "b": 0,
-            "g": 42,
-            "r": 117
-          },
-          "content": {
-            "bold": false,
-            "isOutlineEnabled": false,
-            "isShadowEnabled": false,
-            "italic": false,
-            "outlineColor": "255;255;255",
-            "outlineThickness": 2,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
-            "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
-            "smoothed": true,
-            "underlined": false,
-            "text": "More coins!",
-            "font": "Poppins-Medium.ttf",
-            "textAlignment": "center",
-            "characterSize": 20,
-            "color": "117;42;0"
-          }
-        },
-        "Pressed": {
-          "bottomMargin": 35,
-          "height": 128,
-          "leftMargin": 35,
-          "rightMargin": 35,
-          "texture": "Orange Bubble Button_Pressed.png",
-          "tiled": false,
-          "topMargin": 35,
-          "width": 256
-        }
-      }
     }
   ],
   "objectsFolderStructure": {
@@ -3291,9 +3209,6 @@
       },
       {
         "objectName": "NextButton"
-      },
-      {
-        "objectName": "OrangeBubbleButton"
       }
     ]
   },

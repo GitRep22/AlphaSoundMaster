@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.25504554733543744,
+    "zoomFactor": 0.7370816317994123,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -160,7 +160,7 @@
       "persistentUuid": "9edd1035-ab75-4f50-a41a-c9bdee6ac00c",
       "width": 160,
       "x": 2424,
-      "y": 123,
+      "y": 120,
       "zOrder": 7,
       "numberProperties": [],
       "stringProperties": [],
@@ -1486,6 +1486,22 @@
       "x": 4262,
       "y": 226,
       "zOrder": 93,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 71,
+      "layer": "",
+      "name": "BlueBird",
+      "persistentUuid": "10f4a21d-5ca2-4195-9731-8472e8a6cf77",
+      "width": 67,
+      "x": 31251,
+      "y": 50,
+      "zOrder": 94,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -4595,8 +4611,8 @@
       "name": "CoinGold",
       "persistentUuid": "54e96135-5c28-48a4-b6ea-b3ce6378dc64",
       "width": 135,
-      "x": 22498,
-      "y": 367,
+      "x": 22476,
+      "y": 376,
       "zOrder": 113,
       "numberProperties": [],
       "stringProperties": [],
@@ -4611,8 +4627,8 @@
       "name": "CoinGold",
       "persistentUuid": "eb4b98d1-68c6-4bbd-905c-fd5100f5126f",
       "width": 135,
-      "x": 22783,
-      "y": 173,
+      "x": 22684,
+      "y": 176,
       "zOrder": 113,
       "numberProperties": [],
       "stringProperties": [],
@@ -4627,8 +4643,8 @@
       "name": "CoinGold",
       "persistentUuid": "c7ebe787-f8a5-44f2-9103-2557c4b2cfc8",
       "width": 135,
-      "x": 22990,
-      "y": 73,
+      "x": 23093,
+      "y": 70,
       "zOrder": 113,
       "numberProperties": [],
       "stringProperties": [],
@@ -4997,198 +5013,6 @@
       "width": 135,
       "x": 29540,
       "y": 235,
-      "zOrder": 113,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 135,
-      "layer": "",
-      "name": "CoinGold",
-      "persistentUuid": "ceefebdc-b694-460f-805f-5a9c40f79c12",
-      "width": 135,
-      "x": 2200,
-      "y": 78,
-      "zOrder": 113,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 135,
-      "layer": "",
-      "name": "CoinGold",
-      "persistentUuid": "1e7d7239-b88b-4d8b-a24b-dec8a6896ad0",
-      "width": 135,
-      "x": 2443,
-      "y": 69,
-      "zOrder": 113,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 135,
-      "layer": "",
-      "name": "CoinGold",
-      "persistentUuid": "b24068ce-8490-4d3d-ab40-c3d999e445a1",
-      "width": 135,
-      "x": 2639,
-      "y": 72,
-      "zOrder": 113,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 135,
-      "layer": "",
-      "name": "CoinGold",
-      "persistentUuid": "9bcdf74b-eff7-40ac-9fa7-b8d463eb2101",
-      "width": 135,
-      "x": 5171,
-      "y": 199,
-      "zOrder": 113,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 135,
-      "layer": "",
-      "name": "CoinGold",
-      "persistentUuid": "b8ce8960-47a3-4abe-a15e-d064417b7140",
-      "width": 135,
-      "x": 5535,
-      "y": 221,
-      "zOrder": 113,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 135,
-      "layer": "",
-      "name": "CoinGold",
-      "persistentUuid": "7980d11a-797c-4d88-9ad3-f9c1db02b77c",
-      "width": 135,
-      "x": 5863,
-      "y": 308,
-      "zOrder": 113,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 135,
-      "layer": "",
-      "name": "CoinGold",
-      "persistentUuid": "17841d93-5f85-4b9f-a689-98290d9c4bc4",
-      "width": 135,
-      "x": 8888,
-      "y": 383,
-      "zOrder": 113,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 135,
-      "layer": "",
-      "name": "CoinGold",
-      "persistentUuid": "b92279fd-8f2d-4be6-bd23-fe36095abe32",
-      "width": 135,
-      "x": 9398,
-      "y": 389,
-      "zOrder": 113,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 135,
-      "layer": "",
-      "name": "CoinGold",
-      "persistentUuid": "5aa460b5-600e-4384-8e93-02d73d9748cc",
-      "width": 135,
-      "x": 12455,
-      "y": 296,
-      "zOrder": 113,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 135,
-      "layer": "",
-      "name": "CoinGold",
-      "persistentUuid": "d0f4a8b4-8036-40ff-8f9b-db8fe512ea24",
-      "width": 135,
-      "x": 12825,
-      "y": 203,
-      "zOrder": 113,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 135,
-      "layer": "",
-      "name": "CoinGold",
-      "persistentUuid": "a88f1d3d-8eeb-4c9e-bdac-e1b4b4f88965",
-      "width": 135,
-      "x": 13298,
-      "y": 115,
-      "zOrder": 113,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 135,
-      "layer": "",
-      "name": "CoinGold",
-      "persistentUuid": "267808e7-6e9b-4231-a450-dabc60d7d529",
-      "width": 135,
-      "x": 16462,
-      "y": -34,
       "zOrder": 113,
       "numberProperties": [],
       "stringProperties": [],
@@ -90500,6 +90324,158 @@
       "colorR": 74,
       "creationTime": 0,
       "folded": true,
+      "name": "easter eggs",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "BlueBird",
+                "Tween",
+                "\"elevate\"",
+                "-12",
+                "\"linear\"",
+                "120 + 60 * Random(3)",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "BlueBird",
+                "Flippable",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "BlueBird",
+                "Tween",
+                "\"elevate\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "BlueBird",
+                "Tween",
+                "\"elevate2\"",
+                "31251",
+                "\"linear\"",
+                "120 + 60 * Random(3)",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "BlueBird",
+                "Tween",
+                "\"elevate\""
+              ]
+            },
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "BlueBird",
+                "Flippable",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "BlueBird",
+                "Tween",
+                "\"elevate2\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "BlueBird",
+                "Tween",
+                "\"elevate\"",
+                "-12",
+                "\"linear\"",
+                "120 + 60 * Random(3)",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "BlueBird",
+                "Tween",
+                "\"elevate2\""
+              ]
+            },
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "BlueBird",
+                "Flippable",
+                "yes"
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "folded": true,
       "name": "elevate2",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -90683,7 +90659,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "arrowKeys and door",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -91228,6 +91203,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "coins and pets",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",

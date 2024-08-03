@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.6672773998329988,
+    "zoomFactor": 0.6244537826600003,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -672,22 +672,6 @@
       "x": 99,
       "y": 519,
       "zOrder": 43,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 48,
-      "height": 92,
-      "layer": "",
-      "name": "OrangeBubbleButton",
-      "persistentUuid": "d8bd7912-42de-49c0-9d3a-5d4264c3ecd2",
-      "width": 123,
-      "x": 1137,
-      "y": 88,
-      "zOrder": 44,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2389,159 +2373,6 @@
           "width": 150
         }
       }
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "c38dafef3b324b20cb46d73bda03ed7228f6e4600c9cfb1da8ed9269044d67a0",
-      "name": "Play",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": true,
-              "timeBetweenFrames": 0.025,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Play.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 113,
-                        "y": 0
-                      },
-                      {
-                        "x": 113,
-                        "y": 125
-                      },
-                      {
-                        "x": 0,
-                        "y": 125
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "assetStoreId": "72c8adcfb9187ebb5fcfbcd75bc18c74d6af5507e7c482cadcfad28f8011b387",
-      "name": "OrangeBubbleButton",
-      "type": "PanelSpriteButton::PanelSpriteButton",
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "bottomEdgeAnchor": 0,
-          "leftEdgeAnchor": 0,
-          "name": "Anchor",
-          "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 2,
-          "topEdgeAnchor": 1,
-          "type": "AnchorBehavior::AnchorBehavior",
-          "useLegacyBottomAndRightAnchors": false
-        }
-      ],
-      "content": {
-        "BottomPadding": 0,
-        "TopPadding": 0,
-        "LeftPadding": 10,
-        "RightPadding": 10,
-        "PressedLabelOffsetY": 2
-      },
-      "childrenContent": {
-        "Hovered": {
-          "bottomMargin": 35,
-          "height": 128,
-          "leftMargin": 56,
-          "rightMargin": 35,
-          "texture": "Orange Bubble Button_Hovered.png",
-          "tiled": false,
-          "topMargin": 35,
-          "width": 256
-        },
-        "Idle": {
-          "bottomMargin": 35,
-          "height": 128,
-          "leftMargin": 56,
-          "rightMargin": 35,
-          "texture": "Orange Bubble Button_Idle.png",
-          "tiled": false,
-          "topMargin": 35,
-          "width": 256
-        },
-        "Label": {
-          "bold": false,
-          "italic": false,
-          "smoothed": true,
-          "underlined": false,
-          "string": "Get 100 coins!",
-          "font": "Poppins-Medium.ttf",
-          "textAlignment": "center",
-          "characterSize": 20,
-          "color": {
-            "b": 0,
-            "g": 42,
-            "r": 117
-          },
-          "content": {
-            "bold": false,
-            "isOutlineEnabled": false,
-            "isShadowEnabled": false,
-            "italic": false,
-            "outlineColor": "255;255;255",
-            "outlineThickness": 2,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
-            "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
-            "smoothed": true,
-            "underlined": false,
-            "text": "Get 100 coins!",
-            "font": "Poppins-Medium.ttf",
-            "textAlignment": "center",
-            "characterSize": 20,
-            "color": "117;42;0"
-          }
-        },
-        "Pressed": {
-          "bottomMargin": 35,
-          "height": 128,
-          "leftMargin": 35,
-          "rightMargin": 35,
-          "texture": "Orange Bubble Button_Pressed.png",
-          "tiled": false,
-          "topMargin": 35,
-          "width": 256
-        }
-      }
     }
   ],
   "objectsFolderStructure": {
@@ -2624,12 +2455,6 @@
       },
       {
         "objectName": "gold5"
-      },
-      {
-        "objectName": "Play"
-      },
-      {
-        "objectName": "OrangeBubbleButton"
       }
     ]
   },
@@ -5421,95 +5246,6 @@
           ]
         }
       ]
-    },
-    {
-      "colorB": 228,
-      "colorG": 176,
-      "colorR": 74,
-      "creationTime": 0,
-      "name": "reward video",
-      "source": "",
-      "type": "BuiltinCommonInstructions::Group",
-      "events": [
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "OrangeBubbleButton",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "AdMob::RewardedVideoRewardReceived"
-              },
-              "parameters": [
-                "yes"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "AdMob::LoadRewardedVideo"
-              },
-              "parameters": [
-                "\"ca-app-pub-9622828203298191/6282360718\"",
-                "",
-                "yes"
-              ]
-            },
-            {
-              "type": {
-                "value": "LireFichierExp"
-              },
-              "parameters": [
-                "\"coins\"",
-                "\"coins\"",
-                "",
-                "coins"
-              ]
-            },
-            {
-              "type": {
-                "value": "ModVarScene"
-              },
-              "parameters": [
-                "coins",
-                "+",
-                "100"
-              ]
-            },
-            {
-              "type": {
-                "value": "ModVarGlobal"
-              },
-              "parameters": [
-                "score",
-                "+",
-                "100"
-              ]
-            },
-            {
-              "type": {
-                "value": "EcrireFichierExp"
-              },
-              "parameters": [
-                "\"coins\"",
-                "\"coins\"",
-                "coins"
-              ]
-            }
-          ]
-        }
-      ],
-      "parameters": []
     }
   ],
   "layers": [
